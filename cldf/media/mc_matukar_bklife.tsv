@@ -1,0 +1,1213 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+matukar	bklife	0001	#	#	#	#				
+matukar	bklife	0001	ngau	1SG.S	ln_pro.1	ln_pro	1		1005	new
+matukar	bklife	0001	yang	name	np:s	np		s	1001	new
+matukar	bklife	0001	-au	-1SG	-rn_pro.1:poss	-rn_pro	1	poss	1005	
+matukar	bklife	0001	main	TOP	rn	rn				
+matukar	bklife	0001	Bruce	Bruce	pn_np:pred	pn_np		pred		
+matukar	bklife	0001	do	CONJ	other	other				
+matukar	bklife	0001	Kaluk	Kaluk	rn_pn_np	rn_pn_np				
+matukar	bklife	0001	%	%	%	%				
+matukar	bklife	0002	#	#	#	#				
+matukar	bklife	0002	do	CONJ	other	other				
+matukar	bklife	0002	gauni	today	other	other				
+matukar	bklife	0002	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0002	stori	story	np:s	np		s	1002	new
+matukar	bklife	0002	aru	two	rn	rn				
+matukar	bklife	0002	aru-e	aru-DEFID	rn	rn				
+matukar	bklife	0002	gam	already	other	other				
+matukar	bklife	0002	ti-e	finish-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0002	%	%	%	%				
+matukar	bklife	0003	#	#	#	#				
+matukar	bklife	0003	tahaik	one	np:s	np		s	1003	bridging
+matukar	bklife	0003	ti-e	finish-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0003	%	%	%	%				
+matukar	bklife	0003	#	#	#	#				
+matukar	bklife	0003	gauni	today	other	other				
+matukar	bklife	0003	tahaik	one	np:p	np		p	1004	bridging
+matukar	bklife	0003	nga-	1SG.S-	-pro.1:a	-pro	1	a	1005	
+matukar	bklife	0003	stori-bawai	story-IRR:I:DESID	v:pred	v		pred		
+matukar	bklife	0003	%	%	%	%				
+matukar	bklife	0004	#	#	#	#				
+matukar	bklife	0004	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0004	life	life_[English]	ln	ln				
+matukar	bklife	0004	stori	story	np:s	np		s	1004	
+matukar	bklife	0004	nga-	1SG.S-	-ln_pro.1:poss	-ln_pro	1	poss	1005	
+matukar	bklife	0004	palum-ma-n	come-APS-3.SG	np:pred	np		pred		
+matukar	bklife	0004	main	TOP	rn	rn				
+matukar	bklife	0004	%	%	%	%				
+matukar	bklife	0004	#	#	#	#				
+matukar	bklife	0004	gaumomani	today	other	other				
+matukar	bklife	0004	mani	here	other:l	other		l	1040	new
+matukar	bklife	0004	ZERO	ZERO	0.1:s	0	1	s	1005	
+matukar	bklife	0004	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0004	mado-nggo	stay-R:I:IMPV	v:pred	v		pred		
+matukar	bklife	0004	%	%	%	%				
+matukar	bklife	0005	#	#	#	#				
+matukar	bklife	0005	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0005	tama-u	father-1SG	np.h:appos	np	h	appos	1006	new
+matukar	bklife	0005	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0005	tama-u	father-1SG	np.h:s	np	h	s	1006	
+matukar	bklife	0005	mainangan	TOP-FOC	rn	rn				
+matukar	bklife	0005	mo	there	other:pred	other		pred		
+matukar	bklife	0006	Aitape	Aitape_(village)	pn_np:dt_l	pn_np		dt_l	1007	unused
+matukar	bklife	0007	Ali	Ali_(village)	ln	ln				
+matukar	bklife	0007	ailan	island_[TokPisin]	pn_np:dt_l	pn_np		dt_l	1008	bridging
+matukar	bklife	0007	%	%	%	%				
+matukar	bklife	0008	#	#	#	#				
+matukar	bklife	0008	main	PROX	ln	ln				
+matukar	bklife	0008	ngau	1SG.S	ln_pro.1	ln_pro	1		1005	
+matukar	bklife	0008	mam	dad	np.h:s	np	h	s	1006	
+matukar	bklife	0008	manig	like.this	other	other				
+matukar	bklife	0008	palum-an	come-FOC	v:pred	v		pred		
+matukar	bklife	0008	%	%	%	%				
+matukar	bklife	0009	#	#	#	#				
+matukar	bklife	0009	ZERO	ZERO	0.h:s	0	h	s	1006	
+matukar	bklife	0009	palum-e	come-SEQ:D	v:pred	v		pred		
+matukar	bklife	0009	%	%	%	%				
+matukar	bklife	0009	#	#	#	#				
+matukar	bklife	0009	ZERO	ZERO	0.h:s	0	h	s	1006	
+matukar	bklife	0009	y-	3SG.S-	-pro_h_s	-pro_h_s			1006	
+matukar	bklife	0009	au-we	go-SEQ:D	v:pred	v		pred		
+matukar	bklife	0009	mo	there	other:l	other		l		
+matukar	bklife	0009	Kimbe	Kimbe_(village)	pn_np:l	pn_np		l	1009	unused
+matukar	bklife	0009	%	%	%	%				
+matukar	bklife	0009	#	#	#	#				
+matukar	bklife	0009	urat	work	np:p	np		p	1010	new
+matukar	bklife	0009	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0009	nage-nge	work-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0009	%	%	%	%				
+matukar	bklife	0010	#	#	#	#				
+matukar	bklife	0010	urat	work	np:p	np		p	1010	
+matukar	bklife	0010	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0010	nage-nge	work-SEQ:D	v:pred	v		pred		
+matukar	bklife	0010	%	%	%	%				
+matukar	bklife	0010	#	#	#	#				
+matukar	bklife	0010	ZERO	ZERO	0.h:s	0	h	s	1006	
+matukar	bklife	0010	tor-do	go.around-R:D	v:pred	v		pred		
+matukar	bklife	0010	%	%	%	%				
+matukar	bklife	0010	#	#	#	#				
+matukar	bklife	0010	nal	day	other	other				
+matukar	bklife	0010	ager	war	np:dt_s	np		dt_s	1011	new
+matukar	bklife	0010	tibu-d	white.man-3PL	rn	rn				
+matukar	bklife	0010	ha-di	POSS-3PL	ln	ln				
+matukar	bklife	0010	ager	war	np:s	np		s	1011	
+matukar	bklife	0010	saipid-do	develop-R:D	v:pred	v		pred		
+matukar	bklife	0010	%	%	%	%				
+matukar	bklife	0010	#	#	#	#				
+matukar	bklife	0010	i	3SG.S	pro.h:s	pro	h	s	1006	
+matukar	bklife	0010	sol-e	run-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0010	%	%	%	%				
+matukar	bklife	0011	#	#	#	#				
+matukar	bklife	0011	i	3SG.S	pro.h:s	pro	h	s	1006	
+matukar	bklife	0011	sole	run-SEQ:D	v:pred	v		pred		
+matukar	bklife	0011	%	%	%	%				
+matukar	bklife	0011	#	#	#	#				
+matukar	bklife	0011	wag	canoe	np:p	np		p	1012	new
+matukar	bklife	0011	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0011	suwenge	carve.out-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0011	%	%	%	%				
+matukar	bklife	0012	#	#	#	#				
+matukar	bklife	0012	wag	canoe	np:p	np		p	1012	
+matukar	bklife	0012	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0012	suwi-nge	carve.out-SEQ:D	v:pred	v		pred		
+matukar	bklife	0012	%	%	%	%				
+matukar	bklife	0012	#	#	#	#				
+matukar	bklife	0012	milok	something-NOM.UNPOSS	np:p	np		p	1012	
+matukar	bklife	0012	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0012	rai-nge	pull-SEQ:D	v:pred	v		pred		
+matukar	bklife	0012	%	%	%	%				
+matukar	bklife	0012	#	#	#	#				
+matukar	bklife	0012	ZERO	ZERO	0.h:s	0	h	s	1006	
+matukar	bklife	0012	palum-e	come-SEQ:D	v:pred	v		pred		
+matukar	bklife	0012	palum	come	rv	rv				
+matukar	bklife	0012	palum	come	rv	rv				
+matukar	bklife	0012	%	%	%	%				
+matukar	bklife	0012	#	#	#	#				
+matukar	bklife	0012	mani-ya	here-FOC	other	other				
+matukar	bklife	0012	i	3SG.A	pro.h:a	pro	h	a	1006	
+matukar	bklife	0012	ZERO	ZERO	0:p	0		p	1012	
+matukar	bklife	0012	rai	pull	v:pred	v		pred		
+matukar	bklife	0012	dah-e	ascend-R:I:PFV	rv	rv				
+matukar	bklife	0012	%	%	%	%				
+matukar	bklife	0013	#	#	#	#				
+matukar	bklife	0013	do	CONJ	other	other				
+matukar	bklife	0013	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0013	nen	mom	np.h:p	np	h	p	1013	new
+matukar	bklife	0013	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0013	kitni-nge	steal-SEQ:D	v:pred	v		pred		
+matukar	bklife	0013	%	%	%	%				
+matukar	bklife	0013	#	#	#	#				
+matukar	bklife	0013	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0013	ZERO	ZERO	0.h:p	0	h	p	1013	
+matukar	bklife	0013	ngale-nge	took-SEQ:D	v:pred	v		pred		
+matukar	bklife	0013	%	%	%	%				
+matukar	bklife	0013	#	#	#	#				
+matukar	bklife	0013	ida	with	other	other				
+matukar	bklife	0013	ZERO	ZERO	0.h:s	0	h	s	1014	bridging
+matukar	bklife	0013	diy-	3PL.S-	-pro_h_s	-pro_h_s			1014	
+matukar	bklife	0013	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0013	%	%	%	%				
+matukar	bklife	0014	#	#	#	#				
+matukar	bklife	0014	ZERO	ZERO	0.h:s	0	h	s	1014	
+matukar	bklife	0014	diy-	3PL.S-	-pro_h_s	-pro_h_s			1014	
+matukar	bklife	0014	yau	go	v:pred	v		pred		
+matukar	bklife	0014	%	%	%	%				
+matukar	bklife	0014	#	#	#	#				
+matukar	bklife	0014	ZERO	ZERO	0.h:s	0	h	s	1014	
+matukar	bklife	0014	diy-	3PL.S-	-pro_h_s	-pro_h_s			1014	
+matukar	bklife	0014	au	go	v:pred	v		pred		
+matukar	bklife	0014	Murik-i	Murik-LOC	pn_np:g	pn_np		g	1015	unused
+matukar	bklife	0014	%	%	%	%				
+matukar	bklife	0014	#	#	#	#				
+matukar	bklife	0014	ZERO	ZERO	0.h:s	0	h	s	1014	
+matukar	bklife	0014	di-	3PL.S-	-pro_h_s	-pro_h_s			1014	
+matukar	bklife	0014	mado-nge	live-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0014	Somare	Somare	ln_pn_np.h	ln_pn_np	h		1016	unused
+matukar	bklife	0014	ha-n	POSS-3SG	ln	ln				
+matukar	bklife	0014	malal-te	village-LOC	np:g	np		g	1015	
+matukar	bklife	0014	Murik-i	Murik-LOC	pn_np:dt_g	pn_np		dt_g	1015	
+matukar	bklife	0014	%	%	%	%				
+matukar	bklife	0015	#	#	#	#				
+matukar	bklife	0015	mana	there	other:l	other		l	1015	
+matukar	bklife	0015	ZERO	ZERO	0.h:s	0	h	s	1014	
+matukar	bklife	0015	di-	3PL.S-	-pro_h_s	-pro_h_s			1014	
+matukar	bklife	0015	mado-nge	live-SEQ:D	v:pred	v		pred		
+matukar	bklife	0015	%	%	%	%				
+matukar	bklife	0016	#	#	#	#				
+matukar	bklife	0016	ZERO	ZERO	0.h:s	0	h	s	1014	
+matukar	bklife	0016	di-	3PL.S-	-pro_h_s	-pro_h_s			1014	
+matukar	bklife	0016	mado-nge	live-SEQ:D	v:pred	v		pred		
+matukar	bklife	0016	%	%	%	%				
+matukar	bklife	0017	#	#	#	#				
+matukar	bklife	0017	kalam	moon	np:other	np		other		
+matukar	bklife	0017	kasik	INTSF	other	other				
+matukar	bklife	0017	ZERO	ZERO	0.h:s	0	h	s	1014	
+matukar	bklife	0017	di-	3PL.S-	-pro_h_s	-pro_h_s			1014	
+matukar	bklife	0017	mado-ndo	live-R:D	v:pred	v		pred		
+matukar	bklife	0017	%	%	%	%				
+matukar	bklife	0017	#	#	#	#				
+matukar	bklife	0017	gam	already	other	other				
+matukar	bklife	0017	nen	mom	np.h:a	np	h	a	1013	
+matukar	bklife	0017	ZERO	ZERO	0.h:p	0	h	p	1005	
+matukar	bklife	0017	nage	give.birth	v:pred	v		pred		
+matukar	bklife	0017	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0017	-we	-R:I:PFV	-rv	-rv				
+matukar	bklife	0017	%	%	%	%				
+matukar	bklife	0018	#	#	#	#				
+matukar	bklife	0018	ZERO	ZERO	0.h:a	0	h	a	1013	
+matukar	bklife	0018	ZERO	ZERO	0.h:p	0	h	p	1005	
+matukar	bklife	0018	nage	give.birth	v:pred	v		pred		
+matukar	bklife	0018	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0018	%	%	%	%				
+matukar	bklife	0018	#	#	#	#				
+matukar	bklife	0018	wai	like	other	other				
+matukar	bklife	0018	bul-do	try-R:D	other	other				
+matukar	bklife	0018	gam	already	other	other				
+matukar	bklife	0018	ager	war	np:s	np		s	1011	
+matukar	bklife	0018	gam	already	other	other				
+matukar	bklife	0018	saipid-e	develop-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0018	%	%	%	%				
+matukar	bklife	0019	#	#	#	#				
+matukar	bklife	0019	do	CONJ	other	other				
+matukar	bklife	0019	mam	dad	ln_np.h	ln_np	h		1006	
+matukar	bklife	0019	tamat	man	np.h:p	np	h	p	1017	new
+matukar	bklife	0019	yamate-k-ama-n	care.for-NOM-APS-3SG	rn	rn				
+matukar	bklife	0019	main	TOP	rn	rn				
+matukar	bklife	0019	mam	dad	np.h:a	np	h	a	1006	
+matukar	bklife	0019	pai-nge	cross-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0019	%	%	%	%				
+matukar	bklife	0020	#	#	#ds	#ds				
+matukar	bklife	0020	ngau	1SG.S	pro.1:s	pro	1	s	1006	
+matukar	bklife	0020	ng-	1SG.S-	-pro_1_s	-pro_1_s			1006	
+matukar	bklife	0020	a-ba	go-IRR:I	v:pred	v		pred		
+matukar	bklife	0020	malal-te	village-LOC	np:g	np		g	1007	
+matukar	bklife	0020	%	%	%	%				
+matukar	bklife	0020	#	#	#ds	#ds				
+matukar	bklife	0020	ngau	1SG.S	pro.1:s	pro	1	s	1006	
+matukar	bklife	0020	malal-te	village-LOC	np:g	np		g	1007	
+matukar	bklife	0020	ng-	1SG.S-	-pro_1_s	-pro_1_s			1006	
+matukar	bklife	0020	a-p	go-IRR:D	v:pred	v		pred		
+matukar	bklife	0020	%	%	%	%				
+matukar	bklife	0021	#	#	#ds	#ds				
+matukar	bklife	0021	ngau	1SG.S	pro.1:s	pro	1	s	1006	
+matukar	bklife	0021	mam	dad	np.h:p	np	h	p	1018	new
+matukar	bklife	0021	ngai-	1SG.S-	-pro_1_a	-pro_1_a			1006	
+matukar	bklife	0021	te-mba	see-IRR:I	v:pred	v		pred		
+matukar	bklife	0021	%	%	%	%				
+matukar	bklife	0022	#	#	#ds	#ds				
+matukar	bklife	0022	bul-dop	do-IRR:D	other	other				
+matukar	bklife	0022	ager	war	np:s	np		s	1011	
+matukar	bklife	0022	saipid-ap	develop-IRR:D	v:pred	v		pred		
+matukar	bklife	0022	%	%	%	%				
+matukar	bklife	0022	#	#	#ds	#ds				
+matukar	bklife	0022	ZERO	ZERO	0.h:a	0	h	a	1019	new
+matukar	bklife	0022	ZERO	ZERO	0.h:p	0	h	p	1018	
+matukar	bklife	0022	di-	3PL.A-	pro.h:a	pro	h	a	1019	
+matukar	bklife	0022	hun	hit	v:pred	v		pred		
+matukar	bklife	0022	-i	-3SG.P	-pro_h_p	-pro_h_p			1018	
+matukar	bklife	0022	mat-ap	die-IRR:D	rv	rv				
+matukar	bklife	0022	wai	like	other	other				
+matukar	bklife	0022	%	%	%	%				
+matukar	bklife	0023	#	#	#	#				
+matukar	bklife	0023	do	CONJ	other	other				
+matukar	bklife	0023	nen	mom	np.h:obl	np	h	obl	1013	
+matukar	bklife	0023	ida	with	adp	adp				
+matukar	bklife	0023	ZERO	ZERO	0.h:s	0	h	s	1014	
+matukar	bklife	0023	diy-	3PL.S-	-pro_h_s	-pro_h_s			1014	
+matukar	bklife	0023	a-do	go-R:D	v:pred	v		pred		
+matukar	bklife	0023	%	%	%	%				
+matukar	bklife	0023	#	#	#	#				
+matukar	bklife	0023	tamat	man	np.h:s	np	h	s	1017	
+matukar	bklife	0023	mam	dad	rn	rn				
+matukar	bklife	0023	yamate-k-ama-n	care.for-NOM-APS-3SG	rn	rn				
+matukar	bklife	0023	main	TOP	rn	rn				
+matukar	bklife	0023	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0023	%	%	%	%				
+matukar	bklife	0024	#	#	#ds	#ds				
+matukar	bklife	0024	yauwa	spouse	np.h:s	np	h	s	1013	
+matukar	bklife	0024	-m	-2SG	-rn_pro.2:poss	-rn_pro	2	poss	1006	
+matukar	bklife	0024	awatun-e	pregnant-SEQ:D	v:pred	v		pred		
+matukar	bklife	0024	%	%	%	%				
+matukar	bklife	0024	#	#	#ds	#ds				
+matukar	bklife	0024	#	#	#ds_ac	#ds_ac				
+matukar	bklife	0024	yau	spouse	np.h:a	np	h	a	1013	
+matukar	bklife	0024	aim	boy	np.h:p	np	h	p	1020	bridging
+matukar	bklife	0024	nage-tap	give.birth-COND	v:pred	v		pred		
+matukar	bklife	0024	%	%	%	%				
+matukar	bklife	0024	yang	name	np:p	np		p	1021	bridging
+matukar	bklife	0024	-au	-1SG	-rn_pro.1:poss	-rn_pro	1	poss	1017	
+matukar	bklife	0024	ZERO	ZERO	0.2:a	0	2	a	1006	
+matukar	bklife	0024	tuli-p	say-IRR:D	v:pred	v		pred		
+matukar	bklife	0024	Kainor	Kainor	pn_np:dt_p	pn_np		dt_p	1021	
+matukar	bklife	0024	%	%	%	%				
+matukar	bklife	0025	#	#	#ds	#ds				
+matukar	bklife	0025	yang	name	np:p	np		p	1021	
+matukar	bklife	0025	-au	-1SG	-rn_pro.1:poss	-rn_pro	1	poss	1017	
+matukar	bklife	0025	ZERO	ZERO	0.2:a	0	2	a	1006	
+matukar	bklife	0025	tuli-p	say-IRR:D	v:pred	v		pred		
+matukar	bklife	0025	%	%	%	%				
+matukar	bklife	0026	#	#	#ds	#ds				
+matukar	bklife	0026	#	#	#ds_ac	#ds_ac				
+matukar	bklife	0026	pain	woman	np.h:p	np	h	p	1022	bridging
+matukar	bklife	0026	ZERO	ZERO	0.h:a	0	h	a	1013	
+matukar	bklife	0026	nage-tap	give.birth-COND	v:pred	v		pred		
+matukar	bklife	0026	%	%	%	%				
+matukar	bklife	0026	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1017	
+matukar	bklife	0026	pain	woman	ln_np.h	ln_np	h		1051	new
+matukar	bklife	0026	yang-an	name-3SG	np:p	np		p	1023	new
+matukar	bklife	0026	ZERO	ZERO	0.2:a	0	2	a	1006	
+matukar	bklife	0026	tuli	say	v:pred	v		pred		
+matukar	bklife	0026	%	%	%	%				
+matukar	bklife	0027	#	#	#	#				
+matukar	bklife	0027	do	CONJ	other	other				
+matukar	bklife	0027	ZERO	ZERO	0.h:s	0	h	s	1014	
+matukar	bklife	0027	diy-	3PL.S-	-pro_h_s	-pro_h_s			1014	
+matukar	bklife	0027	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	bklife	0027	%	%	%	%				
+matukar	bklife	0027	#	#	#	#				
+matukar	bklife	0027	mo	there	other:l	other		l	1007	
+matukar	bklife	0027	ZERO	ZERO	0.h:s	0	h	s	1014	
+matukar	bklife	0027	di-	3PL.S-	-pro_h_s	-pro_h_s			1014	
+matukar	bklife	0027	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	bklife	0027	%	%	%	%				
+matukar	bklife	0027	#	#	#	#				
+matukar	bklife	0027	Ali-a	Ali-LOC	pn_np:l	pn_np		l	1008	
+matukar	bklife	0027	ZERO	ZERO	0.h:s	0	h	s	1014	
+matukar	bklife	0027	di-	3PL.S-	-pro_h_s	-pro_h_s			1014	
+matukar	bklife	0027	mado-ndo	live-LOC	v:pred	v		pred		
+matukar	bklife	0027	%	%	%	%				
+matukar	bklife	0027	#	#	#	#				
+matukar	bklife	0027	ager	war	np:s	np		s	1011	
+matukar	bklife	0027	dabok-amok	big-INTSF	rn	rn				
+matukar	bklife	0027	saipid-e	develop-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0027	%	%	%	%				
+matukar	bklife	0028	#	#	#	#				
+matukar	bklife	0028	ager	war	np:s	np		s	1011	
+matukar	bklife	0028	saipide	develop-SEQ:D	v:pred	v		pred		
+matukar	bklife	0028	%	%	%	%				
+matukar	bklife	0028	#	#	#	#				
+matukar	bklife	0028	mam	dad	np.h:a	np	h	a	1006	
+matukar	bklife	0028	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0028	nage	give.birth	v:pred	v		pred		
+matukar	bklife	0028	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0028	-we	-:I:PFV	-rv	-rv				
+matukar	bklife	0028	%	%	%	%				
+matukar	bklife	0028	#	#	#	#				
+matukar	bklife	0028	e	DISFLUENCY	other	other				
+matukar	bklife	0028	nen	mom	np.h:a	np	h	a	1013	
+matukar	bklife	0028	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0028	nage	give.birth	v:pred	v		pred		
+matukar	bklife	0028	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0028	-we	-R:I:PFV	-rv	-rv				
+matukar	bklife	0028	%	%	%	%				
+matukar	bklife	0029	#	#	#	#				
+matukar	bklife	0029	nen	mom	np.h:a	np	h	a	1013	
+matukar	bklife	0029	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0029	nage	give.birth	v:pred	v		pred		
+matukar	bklife	0029	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0029	-we	-R:I:PFV	-rv	-rv				
+matukar	bklife	0029	%	%	%	%				
+matukar	bklife	0029	#	#	#	#				
+matukar	bklife	0029	do	CONJ	other	other				
+matukar	bklife	0029	ager	war	np:s	np		s	1011	
+matukar	bklife	0029	saipid-e	develop-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0029	sesikati	near	other	other				
+matukar	bklife	0029	%	%	%	%				
+matukar	bklife	0029	#	#	#	#				
+matukar	bklife	0029	milok	something-NOM.UNPOSS	np:appos	np		appos		
+matukar	bklife	0029	ai	tree	np:predex	np		predex	1024	new
+matukar	bklife	0029	dabok	big	rn	rn				
+matukar	bklife	0029	main	TOP	rn	rn				
+matukar	bklife	0029	%	%	%	%				
+matukar	bklife	0030	#	#	#	#				
+matukar	bklife	0030	do	CONJ	other	other				
+matukar	bklife	0030	ZERO	ZERO	0:s	0		s	1024	
+matukar	bklife	0030	tapaas-e	fall-SEQ:D	v:pred	v		pred		
+matukar	bklife	0030	%	%	%	%				
+matukar	bklife	0030	#	#	#	#				
+matukar	bklife	0030	ZERO	ZERO	0:s	0		s	1024	
+matukar	bklife	0030	y-	3SG.S-	-pro_s	-pro_s			1024	
+matukar	bklife	0030	en-do	lie-R:D	v:pred	v		pred		
+matukar	bklife	0030	%	%	%	%				
+matukar	bklife	0030	#	#	#	#				
+matukar	bklife	0030	ya	hole	np:p	np		p	1025	new
+matukar	bklife	0030	ZERO	ZERO	0.h:a	0	h	a	1014	
+matukar	bklife	0030	di-	3PL.A-	-pro_h_a	-pro_h_a			1014	
+matukar	bklife	0030	sare-nge	dig-SEQ:D	v:pred	v		pred		
+matukar	bklife	0030	ilo-n-lo	inside-3SG-LOC	np:l	np		l	1026	bridging
+matukar	bklife	0030	%	%	%	%				
+matukar	bklife	0030	#	#	#	#				
+matukar	bklife	0030	do	CONJ	other	other				
+matukar	bklife	0030	ZERO	ZERO	0.h:a	0	h	a	1014	
+matukar	bklife	0030	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0030	di-	3PL.A-	-pro_h_a	-pro_h_a			1014	
+matukar	bklife	0030	ngale	take	v:pred	v		pred		
+matukar	bklife	0030	%	%	%	%				
+matukar	bklife	0030	#	#	#	#				
+matukar	bklife	0030	ZERO	ZERO	0.h:s	0	h	s	1014	
+matukar	bklife	0030	diy-	3PL.S-	-pro_h_a	-pro_h_a			1014	
+matukar	bklife	0030	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	bklife	0030	%	%	%	%				
+matukar	bklife	0030	#	#	#	#				
+matukar	bklife	0030	ZERO	ZERO	0.1:s	0	1	s	1005	
+matukar	bklife	0030	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0030	mumuy-e	hide-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0030	%	%	%	%				
+matukar	bklife	0031	#	#	#	#				
+matukar	bklife	0031	do	CONJ	other	other				
+matukar	bklife	0031	ZERO	ZERO	0.1:s	0	1	s	1005	
+matukar	bklife	0031	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0031	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0031	%	%	%	%				
+matukar	bklife	0032	#	#	#	#				
+matukar	bklife	0032	ZERO	ZERO	0.h:a	0	h	a	1014	
+matukar	bklife	0032	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0032	di-	3PL.A-	-pro_h_a	-pro_h_a			1014	
+matukar	bklife	0032	mayanga	hige	v:pred	v		pred		
+matukar	bklife	0032	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0032	-we	-R:I:PFV	-rv	-rv				
+matukar	bklife	0032	%	%	%	%				
+matukar	bklife	0033	#	#	#	#				
+matukar	bklife	0033	ZERO	ZERO	0.h:a	0	h	a	1014	
+matukar	bklife	0033	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0033	di-	3PL.A-	-pro_h_a	-pro_h_a			1014	
+matukar	bklife	0033	mayanga	hide	v:pred	v		pred		
+matukar	bklife	0033	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0033	-we	-SEQ:D	-rv	-rv				
+matukar	bklife	0033	mani	here	other:l	other		l	1026	
+matukar	bklife	0033	%	%	%	%				
+matukar	bklife	0033	#	#	#	#				
+matukar	bklife	0033	ilo-n-lo	inside-3SG-LOC	np:l	np		l	1026	
+matukar	bklife	0033	ZERO	ZERO	0.1:s	0	1	s	1005	
+matukar	bklife	0033	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0033	in-e	sleep-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0033	%	%	%	%				
+matukar	bklife	0034	#	#	#	#				
+matukar	bklife	0034	do	CONJ	other	other				
+matukar	bklife	0034	nal	day	np:other	np		other		
+matukar	bklife	0034	aru	two	rn	rn				
+matukar	bklife	0034	mana	there	other:l	other		l	1026	
+matukar	bklife	0034	ZERO	ZERO	0.1:s	0	1	s	1005	
+matukar	bklife	0034	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0034	mado-nge	live-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0034	ubou	week	np:other	np		other		
+matukar	bklife	0034	aru	two	rn	rn				
+matukar	bklife	0034	%	%	%	%				
+matukar	bklife	0035	#	#	#	#				
+matukar	bklife	0035	ti-do	finish-R:D	other	other				
+matukar	bklife	0035	ZERO	ZERO	0.h:a	0	h	a	1014	
+matukar	bklife	0035	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0035	di-	3PL.A-	-pro_h_a	-pro_h_a			1014	
+matukar	bklife	0035	ngale	take	v:pred	v		pred		
+matukar	bklife	0035	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0035	-we	-SEQ:D	-rv	-rv				
+matukar	bklife	0035	%	%	%	%				
+matukar	bklife	0035	#	#	#	#				
+matukar	bklife	0035	wag-ado	canoe-on.top	np:g	np		g	1027	new
+matukar	bklife	0035	ZERO	ZERO	0.h:a	0	h	a	1014	
+matukar	bklife	0035	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0035	di-	3PL.A-	-pro_h_a	-pro_h_a			1014	
+matukar	bklife	0035	nage-ndo	put-R:D	v:pred	v		pred		
+matukar	bklife	0035	%	%	%	%				
+matukar	bklife	0035	#	#	#	#				
+matukar	bklife	0035	ZERO	ZERO	0.h:a	0	h	a	1014	
+matukar	bklife	0035	ZERO	ZERO	0:p	0		p	1028	new
+matukar	bklife	0035	di-	3PL.S-	-pro_h_s	-pro_h_s			1014	
+matukar	bklife	0035	peni-nge	fill-SEQ:D	v:pred	v		pred		
+matukar	bklife	0035	%	%	%	%				
+matukar	bklife	0035	#	#	#	#				
+matukar	bklife	0035	milo-k	something-NOM.UNPOSS	ln_np	ln_np				
+matukar	bklife	0035	nud	island	np:g	np		g	1008	
+matukar	bklife	0035	dabok-ate	big-LOC	rn	rn				
+matukar	bklife	0035	ZERO	ZERO	0.1:s	0	1	s	1029	bridging
+matukar	bklife	0035	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0035	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0035	%	%	%	%				
+matukar	bklife	0036	#	#	#	#				
+matukar	bklife	0036	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0036	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0036	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	bklife	0036	garang	jungle	np:l	np		l	1030	new
+matukar	bklife	0036	%	%	%	%				
+matukar	bklife	0036	#	#	#	#				
+matukar	bklife	0036	kasik	INTSF	other	other				
+matukar	bklife	0036	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0036	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0036	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	bklife	0036	%	%	%	%				
+matukar	bklife	0036	#	#	#	#				
+matukar	bklife	0036	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0036	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0036	mumuy-e	hide-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0036	%	%	%	%				
+matukar	bklife	0037	#	#	#	#				
+matukar	bklife	0037	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0037	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0037	mumuy-e	hide-SEQ:D	v:pred	v		pred		
+matukar	bklife	0037	%	%	%	%				
+matukar	bklife	0037	#	#	#	#				
+matukar	bklife	0037	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0037	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0037	mado-ndo	sit-R:D	v:pred	v		pred		
+matukar	bklife	0037	%	%	%	%				
+matukar	bklife	0037	#	#	#	#				
+matukar	bklife	0037	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0037	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0037	mado-ndo	sit-R:D	v:pred	v		pred		
+matukar	bklife	0037	%	%	%	%				
+matukar	bklife	0037	#	#	#	#				
+matukar	bklife	0037	ager	war	np:s	np		s	1011	
+matukar	bklife	0037	ti-e	finish-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0037	%	%	%	%				
+matukar	bklife	0038	#	#	#	#				
+matukar	bklife	0038	ngau	1SG.S	np.h:dt_s	np	h	dt_s	1005	
+matukar	bklife	0038	gam	already	other	other				
+matukar	bklife	0038	mata-u	eye-1SG	np:s	np		s	1031	bridging
+matukar	bklife	0038	mainangan	TOP-FOC	rn	rn				
+matukar	bklife	0038	pasalan	strong	np:pred	np		pred		
+matukar	bklife	0038	%	%	%	%				
+matukar	bklife	0038	#	#	#	#				
+matukar	bklife	0038	abang	area	np:p	np		p	1032	new
+matukar	bklife	0038	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0038	ngai-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0038	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0038	%	%	%	%				
+matukar	bklife	0039	#	#	#	#				
+matukar	bklife	0039	do	and	other	other				
+matukar	bklife	0039	ager	war	np:s	np		s	1011	
+matukar	bklife	0039	ti-e	finish-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0039	%	%	%	%				
+matukar	bklife	0040	#	#	#	#				
+matukar	bklife	0040	ager	war	np:s	np		s	1011	
+matukar	bklife	0040	ti-e	finish-SEQ:D	v:pred	v		pred		
+matukar	bklife	0040	%	%	%	%				
+matukar	bklife	0041	#	#	#nc	#nc				
+matukar	bklife	0041	tag	what	nc	nc				
+matukar	bklife	0041	tag	what	nc	nc				
+matukar	bklife	0041	nga-	1SG.A-	nc	nc				
+matukar	bklife	0041	bal-aba	say-I:IRR	nc	nc				
+matukar	bklife	0041	%	%	%	%				
+matukar	bklife	0042	#	#	#	#				
+matukar	bklife	0042	polis	police_[TokPisin]	ln	ln				
+matukar	bklife	0042	man	man_[TokPisin]	np.h:s	np	h	s	1033	new
+matukar	bklife	0042	di-	3PL.S-	-pro_h_s	-pro_h_s				
+matukar	bklife	0042	dipalume	come-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0042	%	%	%	%				
+matukar	bklife	0043	#	#	#	#				
+matukar	bklife	0043	ZERO	ZERO	0.h:s	0	h	s	1033	
+matukar	bklife	0043	di-	3PL.S-	-pro_h_s	-pro_h_s			1033	
+matukar	bklife	0043	tuli-ng	say-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0043	%	%	%	%				
+matukar	bklife	0044	#	#	#	#				
+matukar	bklife	0044	ZERO	ZERO	0.h:s	0	h	s	1033	
+matukar	bklife	0044	di-	3PL.S-	-pro_h_s	-pro_h_s			1033	
+matukar	bklife	0044	tuli-ng	say-SEQ:D	v:pred	v		pred		
+matukar	bklife	0044	%	%	%	%				
+matukar	bklife	0044	#	#	#ds	#ds				
+matukar	bklife	0044	ager	war	np:s	np		s	1011	
+matukar	bklife	0044	gam	already	other	other				
+matukar	bklife	0044	ti-e	finish-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0044	%	%	%	%				
+matukar	bklife	0045	#	#	#ds	#ds				
+matukar	bklife	0045	hudungan	every	pro.h:voc	pro	h	voc	1034	new
+matukar	bklife	0045	#	#	#ds_rc	#ds_rc				
+matukar	bklife	0045	garang	jungle	np:l	np		l	1030	
+matukar	bklife	0045	garang	jungle	rn	rn				
+matukar	bklife	0045	ZERO	ZERO	0.2:s	0	2	s	1034	
+matukar	bklife	0045	a-	2PL.S-	-pro_2_s	-pro_2_s			1034	
+matukar	bklife	0045	in-ama-n	sleep-APS-3SG	np:other	np		other		
+matukar	bklife	0045	%	%	%	%				
+matukar	bklife	0045	malal-te	village-LOC	np:g	np		g	1035	new
+matukar	bklife	0045	ZERO	ZERO	0.2:s	0	2	s	1034	
+matukar	bklife	0045	a-	2PL.S-	-pro_2_s	-pro_2_s			1034	
+matukar	bklife	0045	a-ba	go-I:IRR	v:pred	v		pred		
+matukar	bklife	0045	%	%	%	%				
+matukar	bklife	0045	#	#	#ds	#ds				
+matukar	bklife	0045	ha-mim	POSS-2PL	ln_pro.2:poss	ln_pro	2	poss	1034	
+matukar	bklife	0045	malal-te	village-LOC	np:g	np		g	1035	
+matukar	bklife	0045	ZERO	ZERO	0.2:s	0	2	s	1034	
+matukar	bklife	0045	a-	2PL.S-	-pro_2_s	-pro_2_s			1034	
+matukar	bklife	0045	a-ba	go-I:IRR	v:pred	v		pred		
+matukar	bklife	0045	%	%	%	%				
+matukar	bklife	0046	#	#	#	#				
+matukar	bklife	0046	do	CONJ	other	other				
+matukar	bklife	0046	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0046	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0046	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0046	%	%	%	%				
+matukar	bklife	0047	#	#	#	#				
+matukar	bklife	0047	nen	mom	np.h:a	np	h	a	1013	
+matukar	bklife	0047	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0047	ngale	take	v:pred	v		pred		
+matukar	bklife	0047	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0047	-we	-SEQ:D	-rv	-rv				
+matukar	bklife	0047	%	%	%	%				
+matukar	bklife	0048	#	#	#	#				
+matukar	bklife	0048	ailan-te	island_[TokPisin]-LOC	np:g	np		g	1008	
+matukar	bklife	0048	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0048	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0048	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0048	%	%	%	%				
+matukar	bklife	0049	#	#	#	#				
+matukar	bklife	0049	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0049	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0049	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	bklife	0049	%	%	%	%				
+matukar	bklife	0049	#	#	#	#				
+matukar	bklife	0049	mana	there	other:l	other		l	1008	
+matukar	bklife	0049	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0049	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0049	mado-nge	sit-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0049	%	%	%	%				
+matukar	bklife	0050	#	#	#	#				
+matukar	bklife	0050	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0050	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0050	mado-nge	stay-SEQ:D	v:pred	v		pred		
+matukar	bklife	0050	%	%	%	%				
+matukar	bklife	0050	#	#	#	#				
+matukar	bklife	0050	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0050	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0050	mado-nge	sit-SEQ:D	v:pred	v		pred		
+matukar	bklife	0050	ti-do	finish-R:D	aux	aux				
+matukar	bklife	0050	%	%	%	%				
+matukar	bklife	0050	#	#	#	#				
+matukar	bklife	0050	mam	dad	np.h:a	np	h	a	1006	
+matukar	bklife	0050	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0050	ngale	take	v:pred	v		pred		
+matukar	bklife	0050	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0050	-we	-SEQ:D	-rv	-rv				
+matukar	bklife	0050	%	%	%	%				
+matukar	bklife	0051	#	#	#	#				
+matukar	bklife	0051	Rabaul-a	Rabaul-LOC	pn_np:g	pn_np		g	1036	unused
+matukar	bklife	0051	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0051	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0051	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0051	%	%	%	%				
+matukar	bklife	0052	#	#	#	#				
+matukar	bklife	0052	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0052	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0052	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	bklife	0052	%	%	%	%				
+matukar	bklife	0052	#	#	#	#				
+matukar	bklife	0052	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0052	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0052	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0052	%	%	%	%				
+matukar	bklife	0052	#	#	#	#				
+matukar	bklife	0052	nga-ha-u	1SG.S-POSS-1SG	nc	nc				
+matukar	bklife	0052	lu	cross.gender.sibling	nc	nc				
+matukar	bklife	0052	nen	mom	ln_np.h:poss	ln_np	h	poss	1013	
+matukar	bklife	0052	ha-n	POSS-3SG	ln	ln				
+matukar	bklife	0052	lu-n	cross.gender.sibling-3SG	np.h:predex	np	h	predex	1037	new
+matukar	bklife	0052	%	%	%	%				
+matukar	bklife	0053	#	#	#neg	#neg				
+matukar	bklife	0053	mam	dad	np.h:a	np	h	a	1006	
+matukar	bklife	0053	nen	mom	np.h:p	np	h	p	1013	
+matukar	bklife	0053	ti	NEG	lv	lv				
+matukar	bklife	0053	dad	buy	v:pred	v		pred		
+matukar	bklife	0053	-ni	-3SG.P	-pro_h_p	-pro_h_p			1013	
+matukar	bklife	0053	-nge	-R:I:PFV	-rv	-rv				
+matukar	bklife	0053	%	%	%	%				
+matukar	bklife	0054	#	#	#	#				
+matukar	bklife	0054	do	CONJ	other	other				
+matukar	bklife	0054	nen	mom	ln_np.h:poss	ln_np	h	poss	1013	
+matukar	bklife	0054	ha-n	POSS-3SG	ln	ln				
+matukar	bklife	0054	lu-n	cross.gender.sibling-3SG	np.h:s	np	h	s	1037	
+matukar	bklife	0054	main-angan	TOP-FOC	rn	rn				
+matukar	bklife	0054	y-	3SG.S-	-pro_h_s	-pro_h_s			1037	
+matukar	bklife	0054	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	bklife	0054	%	%	%	%				
+matukar	bklife	0055	#	#	#	#				
+matukar	bklife	0055	mam	dad	np.h:a	np	h	a	1006	
+matukar	bklife	0055	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0055	ngale	take	v:pred	v		pred		
+matukar	bklife	0055	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0055	-we	-R:I:PFV	-rv	-rv				
+matukar	bklife	0055	Rabaul-a	Rabaul-LOC	pn_np:g	pn_np		g	1036	
+matukar	bklife	0055	%	%	%	%				
+matukar	bklife	0056	#	#	#	#				
+matukar	bklife	0056	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0056	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0056	ngale	take	v:pred	v		pred		
+matukar	bklife	0056	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0056	-we	-SEQ:D	-rv	-rv				
+matukar	bklife	0056	%	%	%	%				
+matukar	bklife	0056	#	#	#	#				
+matukar	bklife	0056	ida	with	other	other				
+matukar	bklife	0056	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0056	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0056	palum-e	come-SEQ:D	v:pred	v		pred		
+matukar	bklife	0056	%	%	%	%				
+matukar	bklife	0056	#	#	#	#				
+matukar	bklife	0056	mani	here	other:l	other		l	1036	
+matukar	bklife	0056	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0056	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0056	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0056	%	%	%	%				
+matukar	bklife	0057	#	#	#	#				
+matukar	bklife	0057	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0057	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0057	mado-ndo	live-R:D	v:pred	v		pred		
+matukar	bklife	0057	%	%	%	%				
+matukar	bklife	0057	#	#	#	#				
+matukar	bklife	0057	ZERO	ZERO	0.1:s	0	1	s	1029	
+matukar	bklife	0057	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1029	
+matukar	bklife	0057	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	bklife	0057	%	%	%	%				
+matukar	bklife	0057	#	#	#	#				
+matukar	bklife	0057	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0057	tamat	man	np.h:s	np	h	s	1006	
+matukar	bklife	0057	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0057	ngale	take	v:pred	v		pred		
+matukar	bklife	0057	-yau	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0057	-we	-SEQ:D	-rv	-rv				
+matukar	bklife	0057	%	%	%	%				
+matukar	bklife	0057	#	#	#	#				
+matukar	bklife	0057	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0057	ZERO	ZERO	0.1:p	0	1	p	1005	
+matukar	bklife	0057	yamat	care.for	v:pred	v		pred		
+matukar	bklife	0057	-au	-1SG.P	-pro_1_p	-pro_1_p			1005	
+matukar	bklife	0057	-we	-SEQ:D	-rv	-rv				
+matukar	bklife	0057	%	%	%	%				
+matukar	bklife	0057	#	#	#	#				
+matukar	bklife	0057	main	PROX	ln	ln				
+matukar	bklife	0057	tamat	man	np.h:p	np	h	p	1038	new
+matukar	bklife	0057	ta	one	rn	rn				
+matukar	bklife	0057	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0057	hun	hit	v:pred	v		pred		
+matukar	bklife	0057	-i	-3SG.P	-pro_h_p	-pro_h_p			1038	
+matukar	bklife	0057	mat-e	die-R:I:PFV	rv	rv				
+matukar	bklife	0057	%	%	%	%				
+matukar	bklife	0058	#	#	#	#				
+matukar	bklife	0058	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0058	ZERO	ZERO	0.h:p	0	h	p	1038	
+matukar	bklife	0058	hun	hit	v:pred	v		pred		
+matukar	bklife	0058	-i	-3SG.P	-pro_h_p	-pro_h_p			1038	
+matukar	bklife	0058	mat-e	die-SEQ:D	rv	rv				
+matukar	bklife	0058	%	%	%	%				
+matukar	bklife	0058	#	#	#	#				
+matukar	bklife	0058	i	3SG.S	pro.h:s	pro	h	s	1006	
+matukar	bklife	0058	y-	3SG.S-	-pro_h_s	-pro_h_s			1006	
+matukar	bklife	0058	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0058	%	%	%	%				
+matukar	bklife	0059	#	#	#	#				
+matukar	bklife	0059	ar	jail	ln	ln				
+matukar	bklife	0059	ilo-n-lo	inside-3SG-LOC	np:g	np		g	1039	new
+matukar	bklife	0059	ZERO	ZERO	0.h:s	0	h	s	1006	
+matukar	bklife	0059	y-	3SG.S-	-pro_h_s	-pro_h_s			1006	
+matukar	bklife	0059	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	bklife	0059	%	%	%	%				
+matukar	bklife	0059	#	#	#	#				
+matukar	bklife	0059	ZERO	ZERO	0.h:s	0	h	s	1006	
+matukar	bklife	0059	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0059	%	%	%	%				
+matukar	bklife	0060	#	#	#	#				
+matukar	bklife	0060	ar	jail	ln	ln				
+matukar	bklife	0060	ilo-n-lo	inside-3SG-LOC	np:l	np		l	1039	
+matukar	bklife	0060	ZERO	ZERO	0.h:s	0	h	s	1006	
+matukar	bklife	0060	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	bklife	0060	%	%	%	%				
+matukar	bklife	0060	#	#	#	#				
+matukar	bklife	0060	ngau	1SG.S	pro.1:s	pro	1	s	1005	
+matukar	bklife	0060	mani	here	other:l	other		l	1040	
+matukar	bklife	0060	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0060	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0060	%	%	%	%				
+matukar	bklife	0061	#	#	#	#				
+matukar	bklife	0061	do	CONJ	other	other				
+matukar	bklife	0061	alo	later	other	other				
+matukar	bklife	0061	ha-n	POSS-3SG	ln	ln				
+matukar	bklife	0061	bras	year	np:s	np		s	1041	new
+matukar	bklife	0061	tiy-al-e	finish-TERM-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0061	%	%	%	%				
+matukar	bklife	0062	#	#	#	#				
+matukar	bklife	0062	ZERO	ZERO	0.h:s	0	h	s	1006	
+matukar	bklife	0062	palum-e	come-SEQ:D	v:pred	v		pred		
+matukar	bklife	0062	malalte	village-LOC	np:g	np		g	1040	
+matukar	bklife	0062	%	%	%	%				
+matukar	bklife	0062	#	#	#	#				
+matukar	bklife	0062	i	3SG.S	pro.h:s	pro	h	s	1006	
+matukar	bklife	0062	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0062	#	#	#ds	#ds				
+matukar	bklife	0062	milo	something	np:p	np		p	1042	new
+matukar	bklife	0062	hudungan	every	rn	rn				
+matukar	bklife	0062	gam	already	other	other				
+matukar	bklife	0062	ZERO	ZERO	0.2:a	0	2	a	1005	
+matukar	bklife	0062	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0062	%	%	%	%				
+matukar	bklife	0063	#	#	#ds	#ds				
+matukar	bklife	0063	malal	village	np:p	np		p	1040	
+matukar	bklife	0063	tan	dirt	rn_np	rn_np			1043	bridging
+matukar	bklife	0063	hudungan	every	rn	rn				
+matukar	bklife	0063	ZERO	ZERO	0.2:a	0	2	a	1005	
+matukar	bklife	0063	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0063	%	%	%	%				
+matukar	bklife	0064	#	#	#ds	#ds				
+matukar	bklife	0064	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1006	
+matukar	bklife	0064	malal	village	np:p	np		p	1040	
+matukar	bklife	0064	ZERO	ZERO	0.2:a	0	2	a	1005	
+matukar	bklife	0064	yamate-mba	care.for-IRR:I	v:pred	v		pred		
+matukar	bklife	0064	%	%	%	%				
+matukar	bklife	0065	#	#	#ds	#ds				
+matukar	bklife	0065	ngau	1SG.S	pro.1:s	pro	1	s	1006	
+matukar	bklife	0065	nga-	1SG.S-	-pro_1_s	-pro_1_s			1006	
+matukar	bklife	0065	a-go	go-R:I:IMPV	v:pred	v		pred		
+matukar	bklife	0065	%	%	%	%				
+matukar	bklife	0065	%	%	%	%				
+matukar	bklife	0066	#	#	#	#				
+matukar	bklife	0066	do	CONJ	other	other				
+matukar	bklife	0066	tamat	man	np.h:p	np	h	p	1044	new
+matukar	bklife	0066	ta	other	rn	rn				
+matukar	bklife	0066	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0066	hun	hit	v:pred	v		pred		
+matukar	bklife	0066	-i	-3SG.P	-pro_h_p	-pro_h_p				
+matukar	bklife	0066	mat-e	die-R:I:PFV	rv	rv				
+matukar	bklife	0066	%	%	%	%				
+matukar	bklife	0067	#	#	#	#				
+matukar	bklife	0067	moya	there	other:l	other		l		
+matukar	bklife	0067	tamat	man	np.h:p	np	h	p	1044	
+matukar	bklife	0067	ta	one	rn	rn				
+matukar	bklife	0067	ZERO	ZERO	0.h:a	0	h	a	1006	
+matukar	bklife	0067	hun	hit	v:pred	v		pred		
+matukar	bklife	0067	-i	-3SG.P	-pro_h_p	-pro_h_p			1044	
+matukar	bklife	0067	mat-e	die-SEQ:D	rv	rv				
+matukar	bklife	0067	%	%	%	%				
+matukar	bklife	0067	#	#	#	#				
+matukar	bklife	0067	ZERO	ZERO	0.h:a	0	h	a	1045	new
+matukar	bklife	0067	ZERO	ZERO	0.h:p	0	h	p	1006	
+matukar	bklife	0067	di-	3PL.A-	-pro_h_a	-pro_h_a			1045	
+matukar	bklife	0067	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	bklife	0067	%	%	%	%				
+matukar	bklife	0067	#	#	#	#				
+matukar	bklife	0067	Mosbi-a	Moresby-LOC	pn_np:g	pn_np		g	1046	unused
+matukar	bklife	0067	ZERO	ZERO	0.h:s	0	h	s	1047	bridging
+matukar	bklife	0067	diy-	3PL.S-	-pro_h_s	-pro_h_s			1047	
+matukar	bklife	0067	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0067	%	%	%	%				
+matukar	bklife	0068	#	#	#	#				
+matukar	bklife	0068	ngam	1PL.EXCL.S-	nc	nc				
+matukar	bklife	0068	malal	village	ln	ln				
+matukar	bklife	0068	malal	village	np:g	np		g	1046	
+matukar	bklife	0068	dabok-a	big-LOC	rn	rn				
+matukar	bklife	0068	ZERO	ZERO	0.h:s	0	h	s	1006	
+matukar	bklife	0068	y-	3SG.S-	-pro_h_s	-pro_h_s			1006	
+matukar	bklife	0068	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	bklife	0068	%	%	%	%				
+matukar	bklife	0068	#	#	#	#				
+matukar	bklife	0068	mana	there	other:l	other		l	1046	
+matukar	bklife	0068	ZERO	ZERO	0.h:s	0	h	s	1006	
+matukar	bklife	0068	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0068	%	%	%	%				
+matukar	bklife	0069	#	#	#	#				
+matukar	bklife	0069	tan	dirt	ln	ln				
+matukar	bklife	0069	ilo-n-lo	inside-3SG-LOC	np:g	np		g	1048	new
+matukar	bklife	0069	ZERO	ZERO	0.h:a	0	h	a	1045	
+matukar	bklife	0069	ZERO	ZERO	0.h:p	0	h	p	1044	
+matukar	bklife	0069	di-	3PL.A-	-pro_h_a	-pro_h_a			1045	
+matukar	bklife	0069	nage	put	v:pred	v		pred		
+matukar	bklife	0069	y-a-we	3SG.S-go-SEQ:D	aux	aux				
+matukar	bklife	0069	%	%	%	%				
+matukar	bklife	0069	#	#	#	#				
+matukar	bklife	0069	ZERO	ZERO	0.h:s	0	h	s	1044	
+matukar	bklife	0069	y-	3SG.S-	-pro_h_s	-pro_h_s			1044	
+matukar	bklife	0069	en-e	stay-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0069	%	%	%	%				
+matukar	bklife	0070	#	#	#	#				
+matukar	bklife	0070	ZERO	ZERO	0.h:s	0	h	s	1044	
+matukar	bklife	0070	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0070	%	%	%	%				
+matukar	bklife	0071	#	#	#	#				
+matukar	bklife	0071	num	hand	np:p	np		p	1049	bridging
+matukar	bklife	0071	-an	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	1006	
+matukar	bklife	0071	ZERO	ZERO	0.h:a	0	h	a	1045	
+matukar	bklife	0071	di-	3PL.A-	-pro_h_a	-pro_h_a			1045	
+matukar	bklife	0071	haii-nge	close_(with_sting)-SEQ:D	v:pred	v		pred		
+matukar	bklife	0071	%	%	%	%				
+matukar	bklife	0071	#	#	#	#				
+matukar	bklife	0071	ZERO	ZERO	0.h:a	0	h	a	1045	
+matukar	bklife	0071	ZERO	ZERO	0.h:p	0	h	p	1006	
+matukar	bklife	0071	di-	3PL.A-	-pro_h_a	-pro_h_a			1045	
+matukar	bklife	0071	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	bklife	0071	diy-a-we	go-R:I:PFV	rv	rv				
+matukar	bklife	0071	mana	there	other:l	other		l		
+matukar	bklife	0072	ar	jail	ln	ln				
+matukar	bklife	0072	ilonlo	inside	np:dt_g	np		dt_g	1039	
+matukar	bklife	0072	%	%	%	%				
+matukar	bklife	0073	#	#	#	#				
+matukar	bklife	0073	do	CONJ	other	other				
+matukar	bklife	0073	ZERO	ZERO	0.h:s	0	h	s	1006	
+matukar	bklife	0073	mado-nge	stay-SEQ:D	v:pred	v		pred		
+matukar	bklife	0073	%	%	%	%				
+matukar	bklife	0074	#	#	#	#				
+matukar	bklife	0074	ti-do	finish-R:D	other	other				
+matukar	bklife	0074	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	1006	
+matukar	bklife	0074	bras	year	np:s	np		s	1050	bridging
+matukar	bklife	0074	ti-do	finish-R:D	v:pred	v		pred		
+matukar	bklife	0074	%	%	%	%				
+matukar	bklife	0074	#	#	#	#				
+matukar	bklife	0074	i	3SG.S	pro.h:s	pro	h	s	1006	
+matukar	bklife	0074	mul-e	return-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0074	%	%	%	%				
+matukar	bklife	0075	#	#	#	#				
+matukar	bklife	0075	I	3SG.S	pro.h:s	pro	h	s	1006	
+matukar	bklife	0075	mul-e	return-SEQ:D	v:pred	v		pred		
+matukar	bklife	0075	%	%	%	%				
+matukar	bklife	0075	#	#	#	#				
+matukar	bklife	0075	mani	here	other:l	other		l	1040	
+matukar	bklife	0075	ZERO	ZERO	0.h:s	0	h	s	1006	
+matukar	bklife	0075	mado-nge	live-SEQ:D	v:pred	v		pred		
+matukar	bklife	0075	%	%	%	%				
+matukar	bklife	0075	#	#	#	#				
+matukar	bklife	0075	i	3SG.S	0.h:s	0	h	s	1006	
+matukar	bklife	0075	mat-e	die-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0075	%	%	%	%				
+matukar	bklife	0076	#	#	#	#				
+matukar	bklife	0076	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0076	mam	dad	np.h:dt_s	np	h	dt_s	1006	
+matukar	bklife	0076	main	TOP	rn	rn				
+matukar	bklife	0076	i	3SG.S	pro.h:s	pro	h	s	1006	
+matukar	bklife	0076	mat-e	die-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0076	%	%	%	%				
+matukar	bklife	0077	#	#	#	#				
+matukar	bklife	0077	do	CONJ	other	other				
+matukar	bklife	0077	gauni	today	other	other				
+matukar	bklife	0077	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	1006	
+matukar	bklife	0077	tan	dirt	np:p	np		p	1043	
+matukar	bklife	0077	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0077	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0077	yamate-nge	care.for-SEQ:D	v:pred	v		pred		
+matukar	bklife	0077	%	%	%	%				
+matukar	bklife	0077	#	#	#	#				
+matukar	bklife	0077	ZERO	ZERO	0.1:s	0	1	s	1005	
+matukar	bklife	0077	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0077	mado-nge	live-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0077	%	%	%	%				
+matukar	bklife	0078	#	#	#	#				
+matukar	bklife	0078	ZERO	ZERO	0.1:s	0	1	s	1005	
+matukar	bklife	0078	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0078	mado-nge	mado-nge	v:pred	v		pred		
+matukar	bklife	0078	%	%	%	%				
+matukar	bklife	0078	#	#	#	#				
+matukar	bklife	0078	ngau	1SG.A-	pro.1:a	pro	1	a	1005	
+matukar	bklife	0078	pain	woman	np.h:p	np	h	p		
+matukar	bklife	0078	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0078	ngale-nge	marry-SEQ:D	v:pred	v		pred		
+matukar	bklife	0078	%	%	%	%				
+matukar	bklife	0079	#	#	#	#				
+matukar	bklife	0079	ida	with	other	other				
+matukar	bklife	0079	ZERO	ZERO	0.1:s	0	1	s	1052	bridging
+matukar	bklife	0079	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1052	
+matukar	bklife	0079	mado-nge	live-SEQ:D	v:pred	v		pred		
+matukar	bklife	0079	%	%	%	%				
+matukar	bklife	0080	#	#	#	#				
+matukar	bklife	0080	nga-ha-u	1SG.S-POSS-1SG	nc	nc				
+matukar	bklife	0080	aim	children	nc	nc				
+matukar	bklife	0080	aipainim	children	nc_np.h	nc_np	h		1053	new
+matukar	bklife	0080	ngau	1SG.S	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0080	aim	son	np.h:s	np	h	s		
+matukar	bklife	0080	tenpela	ten_[TokPisin]	other:pred	other		pred		
+matukar	bklife	0080	%	%	%	%				
+matukar	bklife	0081	#	#	#	#				
+matukar	bklife	0081	tamat	man	np.h:s	np	h	s	1053	
+matukar	bklife	0081	uya-uya	big.redup-big	np:pred	np		pred		
+matukar	bklife	0081	%	%	%	%				
+matukar	bklife	0082	#	#	#	#				
+matukar	bklife	0082	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0082	aim	children	np.h:s	np	h	s	1053	
+matukar	bklife	0082	num-au	hand-1SG	other:pred	other		pred		
+matukar	bklife	0082	aru	two	rn	rn				
+matukar	bklife	0082	%	%	%	%				
+matukar	bklife	0083	#	#	#	#				
+matukar	bklife	0083	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0083	num-au	hand-1SG	ln	ln				
+matukar	bklife	0083	kukun	finger	ln	ln				
+matukar	bklife	0083	aru	two	ln	ln				
+matukar	bklife	0083	main-angan	TOP-FOC	ln	ln				
+matukar	bklife	0083	ngau	1SG.S	ln_pro.1	ln_pro	1		1005	
+matukar	bklife	0083	aim	children	np.h:s	np	h	s	1053	
+matukar	bklife	0083	di-	3PL.S-	-pro_h_s	-pro_h_s			1053	
+matukar	bklife	0083	saipid-e	ascend-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0083	%	%	%	%				
+matukar	bklife	0084	#	#	#	#				
+matukar	bklife	0084	gaumomani	today	other	other				
+matukar	bklife	0084	mani	here	other:l	other		l	1040	
+matukar	bklife	0084	ZERO	ZERO	0.1:s	0	1	s	1054	bridging
+matukar	bklife	0084	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1054	
+matukar	bklife	0084	mado-nge	live-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0084	%	%	%	%				
+matukar	bklife	0085	#	#	#	#				
+matukar	bklife	0085	mani	here	other:l	other		l	1040	
+matukar	bklife	0085	ZERO	ZERO	0.1:s	0	1	s	1054	
+matukar	bklife	0085	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1054	
+matukar	bklife	0085	mado-nge	live-SEQ:D	v:pred	v		pred		
+matukar	bklife	0085	%	%	%	%				
+matukar	bklife	0086	#	#	#	#				
+matukar	bklife	0086	mani	here	other:l	other		l	1040	
+matukar	bklife	0086	ZERO	ZERO	0.1:s	0	1	s	1054	
+matukar	bklife	0086	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			1054	
+matukar	bklife	0086	mado-ndo	live-R:D	v:pred	v		pred		
+matukar	bklife	0086	%	%	%	%				
+matukar	bklife	0086	#	#	#	#				
+matukar	bklife	0086	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0086	pain	woman	np.h:dt_s	np	h	dt_s	1051	
+matukar	bklife	0086	i	3SG.S	pro.h:s	pro	h	s	1051	
+matukar	bklife	0086	mat-e	die-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0086	%	%	%	%				
+matukar	bklife	0087	#	#	#	#				
+matukar	bklife	0087	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0087	pain	woman	np.h:dt_s	np	h	dt_s	1051	
+matukar	bklife	0087	yar	year_[TokPisin]	np:other	np		other	1055	new
+matukar	bklife	0087	mainte	TOP-LOC	rn	rn				
+matukar	bklife	0087	i	3SG.S	pro.h:s	pro	h	s	1051	
+matukar	bklife	0087	mat-e	die-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0088	2000	2000	other	other				
+matukar	bklife	0089	baras	year	other	other			1055	
+matukar	bklife	0089	%	%	%	%				
+matukar	bklife	0090	#	#	#	#				
+matukar	bklife	0090	num-au	hand-1SG	np:predex	np		predex		
+matukar	bklife	0090	kukun	finger	rn	rn				
+matukar	bklife	0090	main-angan	TOP-FOC	rn	rn				
+matukar	bklife	0090	tahaik	one	rn	rn				
+matukar	bklife	0090	do	CONJ	rn	rn				
+matukar	bklife	0090	gudun	hand	rn	rn				
+matukar	bklife	0090	numa-u	hand-1SG	rn	rn				
+matukar	bklife	0090	gudun	hand	rn	rn				
+matukar	bklife	0090	tahaik	one	rn	rn				
+matukar	bklife	0090	do	CONJ	rn	rn				
+matukar	bklife	0090	aru	two	rn	rn				
+matukar	bklife	0090	kalam	moon	rn	rn				
+matukar	bklife	0090	%	%	%	%				
+matukar	bklife	0091	#	#	#	#				
+matukar	bklife	0091	gauni	today	other	other				
+matukar	bklife	0091	ZERO	ZERO	0.1:s	0	1	s	1005	
+matukar	bklife	0091	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0091	mado	sit	v:pred	v		pred		
+matukar	bklife	0091	%	%	%	%				
+matukar	bklife	0092	#	#	#	#				
+matukar	bklife	0092	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0092	pain	woman	np.h:s	np	h	s	1051	
+matukar	bklife	0092	mat-e	die-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0092	%	%	%	%				
+matukar	bklife	0093	#	#	#	#				
+matukar	bklife	0093	ngau	1SG.S	pro.1:s	pro	1	s	1005	
+matukar	bklife	0093	hibe-u	self-1SG	other	other				
+matukar	bklife	0093	tahaik-ami	one-only	other	other				
+matukar	bklife	0093	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0093	mado-nggo	stay-R:I:IMPV	v:pred	v		pred		
+matukar	bklife	0093	%	%	%	%				
+matukar	bklife	0094	#	#	#	#				
+matukar	bklife	0094	gauni	today	other	other				
+matukar	bklife	0094	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0094	aipain	children	np.h:s	np	h	s	1057	bridging
+matukar	bklife	0094	ZERO	ZERO	0.h:p	0	h	p	1005	
+matukar	bklife	0094	di-	3PL.S-	-pro_h_a	-pro_h_a			1057	
+matukar	bklife	0094	yamat	care.for	v:pred	v		pred		
+matukar	bklife	0094	-au	-1SG.P	-pro_h_p	-pro_h_p			1005	
+matukar	bklife	0094	-dop	-IRR:D	-rv	-rv				
+matukar	bklife	0094	%	%	%	%				
+matukar	bklife	0094	#	#	#	#				
+matukar	bklife	0094	ZERO	ZERO	0.1:s	0	1	s	1005	
+matukar	bklife	0094	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0094	mado-nge	live-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0094	%	%	%	%				
+matukar	bklife	0095	#	#	#	#				
+matukar	bklife	0095	do	CONJ	other	other				
+matukar	bklife	0095	ngau	1SG.S	pro.1:s	pro	1	s	1005	
+matukar	bklife	0095	aim	boy	np.h:other	np	h	other		
+matukar	bklife	0095	haun-lo	young-LOC	rn	rn				
+matukar	bklife	0095	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0095	tor-e	go.around-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0095	%	%	%	%				
+matukar	bklife	0096	#	#	#	#				
+matukar	bklife	0096	wag	canoe	np:p	np		p	1058	new
+matukar	bklife	0096	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0096	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0096	suwi-ma	carve.out-D:HAB	v:pred	v		pred		
+matukar	bklife	0096	%	%	%	%				
+matukar	bklife	0097	#	#	#	#				
+matukar	bklife	0097	ai	tree	np:p	np		p	1059	new
+matukar	bklife	0097	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0097	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0097	tare-nge	cut-SEQ:D	v:pred	v		pred		
+matukar	bklife	0097	%	%	%	%				
+matukar	bklife	0097	#	#	#	#				
+matukar	bklife	0097	do-pe	CONJ-COND	other	other				
+matukar	bklife	0097	wag	canoe	np:p	np		p	1058	
+matukar	bklife	0097	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0097	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0097	suwi-ma	carve.out	v:pred	v		pred		
+matukar	bklife	0097	%	%	%	%				
+matukar	bklife	0098	#	#	#	#				
+matukar	bklife	0098	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0098	ZERO	ZERO	0:p	0		p	1058	
+matukar	bklife	0098	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0098	feni	paddle	v:pred	v		pred		
+matukar	bklife	0098	%	%	%	%				
+matukar	bklife	0098	#	#	#	#				
+matukar	bklife	0098	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0098	ZERO	ZERO	0:p	0		p	1058	
+matukar	bklife	0098	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0098	feni	paddle	v:pred	v		pred		
+matukar	bklife	0098	%	%	%	%				
+matukar	bklife	0098	#	#	#	#				
+matukar	bklife	0098	ZERO	ZERO	0.1:s	0	1	s	1005	
+matukar	bklife	0098	ng-	1SG.S-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0098	a-ba	go-I:IRR	v:pred	v		pred		
+matukar	bklife	0098	wasing	fish	nc	nc				
+matukar	bklife	0098	maya-lo	far-LOC	np:g	np		g		
+matukar	bklife	0098	%	%	%	%				
+matukar	bklife	0098	#	#	#	#				
+matukar	bklife	0098	wasing	fish	np:p	np		p	1060	bridging
+matukar	bklife	0098	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0098	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0098	rai	pull	v:pred	v		pred		
+matukar	bklife	0098	%	%	%	%				
+matukar	bklife	0098	#	#	#	#				
+matukar	bklife	0098	wasing	fish	np:p	np		p	1060	
+matukar	bklife	0098	uya-uya	big-big	rn	rn				
+matukar	bklife	0098	kasik	INTSF	rn	rn				
+matukar	bklife	0098	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0098	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0098	wane-gokai	catch_(fish)-R:I:IMPV	v:pred	v		pred		
+matukar	bklife	0098	%	%	%	%				
+matukar	bklife	0099	#	#	#	#				
+matukar	bklife	0099	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0099	ZERO	ZERO	0:p	0		p	1060	
+matukar	bklife	0099	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0099	wane-nge	fish-SEQ:D	v:pred	v		pred		
+matukar	bklife	0099	%	%	%	%				
+matukar	bklife	0099	#	#	#	#				
+matukar	bklife	0099	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0099	ZERO	ZERO	0:p	0		p	1060	
+matukar	bklife	0099	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0099	ngale	take	v:pred	v		pred		
+matukar	bklife	0099	nga-palum-e	1SG.S-come-SEQ:D	rv	rv				
+matukar	bklife	0099	%	%	%	%				
+matukar	bklife	0099	#	#	#neg	#neg				
+matukar	bklife	0099	dal	road	np:predex	np		predex		
+matukar	bklife	0099	ti	NEG	other	other				
+matukar	bklife	0099	%	%	%	%				
+matukar	bklife	0099	#	#	#neg	#neg				
+matukar	bklife	0099	wagamami	before	other	other				
+matukar	bklife	0099	dal	road	np:p	np		p		
+matukar	bklife	0099	ZERO	ZERO	0.h:a	0	h	a	1061	bridging
+matukar	bklife	0099	ti-	NEG-	-lv	-lv				
+matukar	bklife	0099	di-	3PL.A-	-pro_h_a	-pro_h_a			1061	
+matukar	bklife	0099	uri-nge	follow-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0099	%	%	%	%				
+matukar	bklife	0100	#	#	#	#				
+matukar	bklife	0100	wagamu	before	other	other				
+matukar	bklife	0100	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0100	ZERO	ZERO	0:p	0		p	1060	
+matukar	bklife	0100	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0100	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	bklife	0100	nga-so-nge	1SG.S-come-SEQ:D	rv	rv				
+matukar	bklife	0100	%	%	%	%				
+matukar	bklife	0100	#	#	#	#				
+matukar	bklife	0100	ZERO	ZERO	0.1:a	0	1	a	1005	
+matukar	bklife	0100	ZERO	ZERO	0:p	0		p	1060	
+matukar	bklife	0100	nga-	1SG.A-	-pro_1_a	-pro_1_a			1005	
+matukar	bklife	0100	wai-nge	sell-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0100	%	%	%	%				
+matukar	bklife	0101	#	#	#	#				
+matukar	bklife	0101	Matugar	Matugar	pn_np:l	pn_np		l	1062	unused
+matukar	bklife	0101	lo	LOC	rn	rn				
+matukar	bklife	0101	Yoidig	Yoidig_(village)	pn_np:l	pn_np		l	1063	unused
+matukar	bklife	0101	Wasab	Wasab_(village)	pn_np:l	pn_np		l	1064	unused
+matukar	bklife	0101	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0101	wasing	fish	np:p	np		p	1060	
+matukar	bklife	0101	ZERO	ZERO	0.h:a	0	h	a	1065	bridging
+matukar	bklife	0101	di-	3PL.A-	-pro_h_a	-pro_h_a			1065	
+matukar	bklife	0101	ani-nge	eat-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0101	%	%	%	%				
+matukar	bklife	0102	#	#	#	#				
+matukar	bklife	0102	gauni	today	other	other				
+matukar	bklife	0102	dal-te	road-LOC	np:l	np		l	1066	new
+matukar	bklife	0102	ZERO	ZERO	0.h:a	0	h	a	1067	new
+matukar	bklife	0102	ZERO	ZERO	np:p	np		p	1060	
+matukar	bklife	0102	di-	3PL.A-	-pro_h_a	-pro_h_a			1067	
+matukar	bklife	0102	diri-nggo	put.in-R:I:IMPV	v:pred	v		pred		
+matukar	bklife	0102	wagamu	before	other	other				
+matukar	bklife	0102	ti	NEG	other	other				
+matukar	bklife	0102	%	%	%	%				
+matukar	bklife	0103	#	#	#	#				
+matukar	bklife	0103	wasing	fish	np:p	np		p	1060	
+matukar	bklife	0103	ZERO	ZERO	0.h:a	0	h	a	1067	
+matukar	bklife	0103	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			1067	
+matukar	bklife	0103	wane-nge	catch_(fish)-SEQ:D	v:pred	v		pred		
+matukar	bklife	0103	%	%	%	%				
+matukar	bklife	0103	#	#	#	#				
+matukar	bklife	0103	ZERO	ZERO	0.1:a	0	1	a	1067	
+matukar	bklife	0103	ZERO	ZERO	0:p	0		p	1060	
+matukar	bklife	0103	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			1067	
+matukar	bklife	0103	ani-nge	eat-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0103	%	%	%	%				
+matukar	bklife	0104	#	#	#	#				
+matukar	bklife	0104	main	PROX	ln	ln				
+matukar	bklife	0104	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0104	stori	story	np:s	np		s	1004	
+matukar	bklife	0104	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0104	mani-ya	here-FOC	other	other				
+matukar	bklife	0104	%	%	%	%				
+matukar	bklife	0105	#	#	#	#				
+matukar	bklife	0105	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	1005	
+matukar	bklife	0105	neraurau	story	np:s	np		s	1004	
+matukar	bklife	0105	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0105	mani-ya	here-FOC	other	other				
+matukar	bklife	0105	%	%	%	%				
+matukar	bklife	0106	#	#	#	#				
+matukar	bklife	0106	nga-ha-u	1SG.S-POSS-1SG	other:s	other		s	1004	
+matukar	bklife	0106	palum-e	come-SEQ:D	v:pred	v		pred		
+matukar	bklife	0106	mani	here	other:l	other		l	1040	
+matukar	bklife	0106	%	%	%	%				
+matukar	bklife	0106	#	#	#	#				
+matukar	bklife	0106	wagam	traditional.story	np:s	np		s	1004	
+matukar	bklife	0106	ti-e	finish-R:I:PFV	v:pred	v		pred		
+matukar	bklife	0106	%	%	%	%				
+matukar	bklife	0107	#	#	#	#				
+matukar	bklife	0107	mani	here	other:l	other		l	1040	
+matukar	bklife	0107	ZERO	ZERO	0.1:s	0	1	s	1005	
+matukar	bklife	0107	nga-	1SG.S-	-pro_1_s	-pro_1_s			1005	
+matukar	bklife	0107	mado-nggo	stay-R:I:IMPV	v:pred	v		pred		
+matukar	bklife	0107	%	%	%	%				

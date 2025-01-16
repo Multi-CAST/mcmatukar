@@ -1,0 +1,1557 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+matukar	mariu	0001	#	#	#	#				
+matukar	mariu	0001	ari	OK	other	other				
+matukar	mariu	0001	gauni	today	other	other				
+matukar	mariu	0001	gauni	today	other	other				
+matukar	mariu	0001	ngau	1SG.S	ln_pro.1:dt	ln_pro	1	dt	5002	new
+matukar	mariu	0001	stori	story	np:s	np		s	5001	new
+matukar	mariu	0001	main-angan	TOP-FOC	rn	rn				
+matukar	mariu	0001	mariu	betel.nut	np:pred	np		pred		
+matukar	mariu	0001	ha-n	POSS-3SG	rn	rn				
+matukar	mariu	0001	%	%	%	%				
+matukar	mariu	0002	#	#	#	#				
+matukar	mariu	0002	mariu	betul.nut	ln	ln				
+matukar	mariu	0002	han	POSS-3SG	ln	ln				
+matukar	mariu	0002	neuraurau	story	np:p	np		p	5001	
+matukar	mariu	0002	ZERO	ZERO	0.1:a	0	1	a	5002	
+matukar	mariu	0002	nga-	1SG.A-	-pro_1_a	-pro_1_a			5002	
+matukar	mariu	0002	pasim-bai	tell-IRR:I:DESID	v:pred	v		pred		
+matukar	mariu	0002	niu	cocunut	np:dt_p	np		dt_p	5003	new
+matukar	mariu	0002	main	TOP	rn	rn				
+matukar	mariu	0003	niu	coconut	rn_np	rn_np			5003	
+matukar	mariu	0003	do	and	rn	rn				
+matukar	mariu	0003	mariu	betel.nut	rn_np	rn_np			5004	bridging
+matukar	mariu	0003	%	%	%	%				
+matukar	mariu	0004	#	#	#neg	#neg				
+matukar	mariu	0004	wagamami	before	other	other				
+matukar	mariu	0004	nga-ha-mam	1SG-POSS-1PL.EXCL	ln_pro.1:poss	ln_pro	1	poss	5073	bridging
+matukar	mariu	0004	ses	grandparent	np.h:other	np	h	other	5005	new
+matukar	mariu	0004	bagena	grandparent	np:other	np		other		
+matukar	mariu	0004	mariu	betel.nut	np:predex	np		predex		
+matukar	mariu	0004	ti	NEG	rn	rn				
+matukar	mariu	0004	%	%	%	%				
+matukar	mariu	0005	#	#	#neg	#neg				
+matukar	mariu	0005	mariu	betel.nut	np:predex	np		predex		
+matukar	mariu	0005	main	TOP	rn	rn				
+matukar	mariu	0005	ti	NEG	rn	rn				
+matukar	mariu	0005	%	%	%	%				
+matukar	mariu	0006	#	#	#neg	#neg				
+matukar	mariu	0006	ful	mustard.stick	np:predex	np		predex		
+matukar	mariu	0006	main	TOP	rn	rn				
+matukar	mariu	0006	ti	NEG	rn	rn				
+matukar	mariu	0006	%	%	%	%				
+matukar	mariu	0006	#	#	#neg	#neg				
+matukar	mariu	0006	kas	smoke	np:predex	np		predex		
+matukar	mariu	0006	main	TOP	rn	rn				
+matukar	mariu	0006	ti	NEG	rn	rn				
+matukar	mariu	0006	%	%	%	%				
+matukar	mariu	0007	#	#	#neg	#neg				
+matukar	mariu	0007	kau	lime.powder	np:predex	np		predex		
+matukar	mariu	0007	milo	something	rn	rn				
+matukar	mariu	0007	hudungan	every	rn	rn				
+matukar	mariu	0007	ti	NEG	rn	rn				
+matukar	mariu	0007	%	%	%	%				
+matukar	mariu	0008	#	#	#	#				
+matukar	mariu	0008	nga-ha-mam	1SG.S-POSS-1PL.EXCL	ln_pro.1:poss	ln_pro	1	poss	5073	
+matukar	mariu	0008	ses-ad	grandparent-PL	np.h:s	np	h	s	5005	
+matukar	mariu	0008	wagamami	before	other	other				
+matukar	mariu	0008	di-	3PL.S-	-pro_h_s	-pro_h_s			5005	
+matukar	mariu	0008	mado-kai	live-DISJ:D	v:pred	v		pred		
+matukar	mariu	0008	wagam-anen	before-3SG.POSS	other	other				
+matukar	mariu	0008	%	%	%	%				
+matukar	mariu	0009	#	#	#	#				
+matukar	mariu	0009	do	and	other	other				
+matukar	mariu	0009	tamat	man	ln_np.h:dt	ln_np	h	dt	5006	new
+matukar	mariu	0009	ta	one	ln	ln				
+matukar	mariu	0009	tamat	man	ln_np.h	ln_np	h		5006	
+matukar	mariu	0009	dino	old	ln	ln				
+matukar	mariu	0009	ta	one	ln	ln				
+matukar	mariu	0009	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	5006	
+matukar	mariu	0009	pain	woman	np.h:a	np	h	a	5007	new
+matukar	mariu	0009	aipain	daughter	np.h:p	np	h	p	5008	new
+matukar	mariu	0009	tahaik	one	rn	rn				
+matukar	mariu	0009	nage-nge	give.birth-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0010	aipain	girl	np.h:dt_p	np	h	dt_p	5008	
+matukar	mariu	0010	tahaik-amok	one-INTSF	rn	rn				
+matukar	mariu	0010	tahaik	one	rn	rn				
+matukar	mariu	0010	%	%	%	%				
+matukar	mariu	0011	#	#	#	#				
+matukar	mariu	0011	ZERO	ZERO	0.1:a	0	1	a	5002	
+matukar	mariu	0011	ZERO	ZERO	0.h:p	0	h	p	5006	
+matukar	mariu	0011	ngai-	1SG.A-	-pro_1_a	-pro_1_a			5002	
+matukar	mariu	0011	te-nge	see-SEQ:D	v:pred	v		pred		
+matukar	mariu	0011	mado-ndo	stay-R:D	aux	aux				
+matukar	mariu	0011	%	%	%	%				
+matukar	mariu	0011	#	#	#	#				
+matukar	mariu	0011	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0011	ZERO	ZERO	0.h:p	0	h	p	5008	
+matukar	mariu	0011	yamate-nge	care.for-SEQ:D	v:pred	v		pred		
+matukar	mariu	0011	%	%	%	%				
+matukar	mariu	0011	#	#	#neg	#neg				
+matukar	mariu	0011	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0011	ZERO	ZERO	0.h:p	0	h	p	5008	
+matukar	mariu	0011	ti-pai-nggokai	NEG-cross-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	mariu	0011	%	%	%	%				
+matukar	mariu	0011	#	#	#neg	#neg				
+matukar	mariu	0011	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0011	ZERO	ZERO	0.h:p	0	h	p	5008	
+matukar	mariu	0011	ti-hun-nggoka	NEG-hit-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	mariu	0011	-i	-3SG.P	-pro_h_p	-pro_h_p			5008	
+matukar	mariu	0011	%	%	%	%				
+matukar	mariu	0012	#	#	#	#				
+matukar	mariu	0012	matangtani	tight	ln	ln				
+matukar	mariu	0012	alo-ma-n	care-APS-3SG	np:p	np		p	5009	new
+matukar	mariu	0012	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0012	ya-	3SG.A-	-pro_h_a	-pro_h_a			5006	
+matukar	mariu	0012	bi-nge	hold-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0012	%	%	%	%				
+matukar	mariu	0013	#	#	#	#				
+matukar	mariu	0013	do	and	other	other				
+matukar	mariu	0013	nal	day	np:other	np		other		
+matukar	mariu	0013	ta	one	rn	rn				
+matukar	mariu	0013	tama-n	father-3SG	np.h:s	np	h	s	5006	
+matukar	mariu	0013	ya-	3SG.S-	-pro_h_s	-pro_h_s			5006	
+matukar	mariu	0013	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	mariu	0013	%	%	%	%				
+matukar	mariu	0014	#	#	#	#				
+matukar	mariu	0014	lul	beach	np:p	np		p	5010	new
+matukar	mariu	0014	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0014	uri-nge	follow-SEQ:D	v:pred	v		pred		
+matukar	mariu	0014	%	%	%	%				
+matukar	mariu	0014	#	#	#	#				
+matukar	mariu	0014	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0014	ya-	3SG.S-	-pro_h_s	-pro_h_s			5006	
+matukar	mariu	0014	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	mariu	0014	abi-wai	garden-in.regard.to	np:l	np		l	5011	new
+matukar	mariu	0014	%	%	%	%				
+matukar	mariu	0015	#	#	#	#				
+matukar	mariu	0015	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0015	ya-	3SG.S-	-pro_h_s	-pro_h_s			5006	
+matukar	mariu	0015	a-do	go-R:D	v:pred	v		pred		
+matukar	mariu	0015	%	%	%	%				
+matukar	mariu	0015	#	#	#	#				
+matukar	mariu	0015	mariu	betel.nut	np:s	np		s	5074	bridging
+matukar	mariu	0015	main	TOP	rn	rn				
+matukar	mariu	0015	buli	turn	v:pred	v		pred		
+matukar	mariu	0015	dah-e	ascend-R:I:PFV	rv	rv				
+matukar	mariu	0015	marayong-alo	beach-LOC_in	np:g	np		g	5010	
+matukar	mariu	0015	%	%	%	%				
+matukar	mariu	0016	#	#	#	#				
+matukar	mariu	0016	ZERO	ZERO	0:s	0		s	5074	
+matukar	mariu	0016	buli	turn	v:pred	v		pred		
+matukar	mariu	0016	dah-e	ascend-SEQ:D	rv	rv				
+matukar	mariu	0016	%	%	%	%				
+matukar	mariu	0016	#	#	#	#				
+matukar	mariu	0016	i	3SG.A	pro.h:a	pro	h	a	5006	
+matukar	mariu	0016	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0016	mariu	betel.nut	np:p	np		p	5074	
+matukar	mariu	0016	maine	here	other:l	other		l		
+matukar	mariu	0016	%	%	%	%				
+matukar	mariu	0017	#	#	#	#				
+matukar	mariu	0017	i	3SG.A	pro.h:a	pro	h	a	5006	
+matukar	mariu	0017	ZERO	ZERO	0:p	0		p	5074	
+matukar	mariu	0017	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0017	%	%	%	%				
+matukar	mariu	0017	#	#	#	#				
+matukar	mariu	0017	o	VOC	other	other				
+matukar	mariu	0017	ZERO	ZERO	0:s	0		s	5074	
+matukar	mariu	0017	garotina-n	beautiful-3SG	np:pred	np		pred		
+matukar	mariu	0017	%	%	%	%				
+matukar	mariu	0018	#	#	#	#				
+matukar	mariu	0018	mariu	betel.nut	np:s	np		s	5074	
+matukar	mariu	0018	main	TOP	rn	rn				
+matukar	mariu	0018	garotina-n	beautiful-3SG	np:pred	np		pred		
+matukar	mariu	0018	%	%	%	%				
+matukar	mariu	0018	#	#	#	#				
+matukar	mariu	0018	i	3SG.A	pro.h:a	pro	h	a	5006	
+matukar	mariu	0018	ZERO	ZERO	0:p	0		p	5074	
+matukar	mariu	0018	te-nge	see-SEQ:D	v:pred	v		pred		
+matukar	mariu	0018	%	%	%	%				
+matukar	mariu	0018	#	#	#ds	#ds				
+matukar	mariu	0018	ai	tree	ln	ln				
+matukar	mariu	0018	patu-n	egg-3SG	np:pred	np		pred		
+matukar	mariu	0018	%	%	%	%				
+matukar	mariu	0018	#	#	#	#				
+matukar	mariu	0018	i	3SG.S	pro.h:s_ds	pro	h	s_ds	5006	
+matukar	mariu	0018	bal-e	say-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0018	%	%	%	%				
+matukar	mariu	0019	#	#	#ds.neg	#ds.neg				
+matukar	mariu	0019	mariu	betel.nut	np:predex	np		predex		
+matukar	mariu	0019	ti	NEG	rn	rn				
+matukar	mariu	0019	%	%	%	%				
+matukar	mariu	0019	#	#	#ds	#ds				
+matukar	mariu	0019	ai	tree	ln	ln				
+matukar	mariu	0019	patu-n	egg-3SG	np:predex	np		predex		
+matukar	mariu	0019	%	%	%	%				
+matukar	mariu	0020	#	#	#ds	#ds				
+matukar	mariu	0020	ZERO	ZERO	0.1:a	0	1	a	5006	
+matukar	mariu	0020	ZERO	ZERO	0:p	0		p	5074	
+matukar	mariu	0020	ngai-	1SG.A-	-pro_1_a	-pro_1_a			5006	
+matukar	mariu	0020	te-nge	see-SEQ:D	v:pred	v		pred		
+matukar	mariu	0020	%	%	%	%				
+matukar	mariu	0020	#	#	#ds	#ds				
+matukar	mariu	0020	matau	eye-1SG	np:s	np		s	5013	new
+matukar	mariu	0020	si-nge	descend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0020	%	%	%	%				
+matukar	mariu	0020	#	#	#ds	#ds				
+matukar	mariu	0020	ZERO	ZERO	0.1:a	0	1	a	5006	
+matukar	mariu	0020	ZERO	ZERO	0:p	0		p	5074	
+matukar	mariu	0020	nga-	1SG.A-	-pro_1_a	-pro_1_a			5006	
+matukar	mariu	0020	ngale-ap	take-IRR:D	v:pred	v		pred		
+matukar	mariu	0020	%	%	%	%				
+matukar	mariu	0020	#	#	#ds	#ds				
+matukar	mariu	0020	ZERO	ZERO	0.1:a	0	1	a	5006	
+matukar	mariu	0020	ZERO	ZERO	0:p	0		p	5074	
+matukar	mariu	0020	nga-	1SG.A-	-pro_1_a	-pro_1_a			5006	
+matukar	mariu	0020	pai-mba	plannt-IRR:I	v:pred	v		pred		
+matukar	mariu	0020	%	%	%	%				
+matukar	mariu	0021	#	#	#	#				
+matukar	mariu	0021	do	and	other	other				
+matukar	mariu	0021	i	3SG.A	pro.h:a	pro	h	a	5006	
+matukar	mariu	0021	ZERO	ZERO	0:p	0		p	5074	
+matukar	mariu	0021	ngale-nge	take-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0021	%	%	%	%				
+matukar	mariu	0022	#	#	#	#				
+matukar	mariu	0022	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0022	ZERO	ZERO	0:p	0		p	5074	
+matukar	mariu	0022	ngale-yau-we	take-DIR_away_from_speaker-SEQ:D	v:pred	v		pred		
+matukar	mariu	0022	%	%	%	%				
+matukar	mariu	0023	#	#	#	#				
+matukar	mariu	0023	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	5006	
+matukar	mariu	0023	ab-ate	house-LOC	np:l	np		l	5014	new
+matukar	mariu	0023	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0023	ZERO	ZERO	0:p	0		p	5074	
+matukar	mariu	0023	nage-nge	SEQ:D	v:pred	v		pred		
+matukar	mariu	0023	%	%	%	%				
+matukar	mariu	0023	#	#	#	#				
+matukar	mariu	0023	ZERO	ZERO	0:s	0		s	5074	
+matukar	mariu	0023	ya-	3SG.S-	-pro:s	-pro		s	5074	
+matukar	mariu	0023	en-e	lie-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0023	%	%	%	%				
+matukar	mariu	0024	#	#	#	#				
+matukar	mariu	0024	do	and	other	other				
+matukar	mariu	0024	natu-n	small-3SG	ln	ln				
+matukar	mariu	0024	pain	woman	np.h:g	np	h	g	5008	
+matukar	mariu	0024	wai	like	adp	adp				
+matukar	mariu	0024	ZERO	ZERO	0.h:s_ds	0	h	s_ds	5006	
+matukar	mariu	0024	pai-nge	cross-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0024	%	%	%	%				
+matukar	mariu	0025	#	#	#ds	#ds				
+matukar	mariu	0025	ZERO	ZERO	0.2:s	0	2	s	5008	
+matukar	mariu	0025	ti-dop	finish-IRR:D	v:pred	v		pred		
+matukar	mariu	0025	%	%	%	%				
+matukar	mariu	0025	#	#	#ds	#ds				
+matukar	mariu	0025	abi-te	garden-LOC	np:g	np		g	5011	
+matukar	mariu	0025	ZERO	ZERO	0.1:s	0	1	s	5015	bridging
+matukar	mariu	0025	ta-	1PL.INCL.S-	-pro_1_s	-pro_1_s			5015	
+matukar	mariu	0025	a	go	v:pred	v		pred		
+matukar	mariu	0025	%	%	%	%				
+matukar	mariu	0026	#	#	#	#				
+matukar	mariu	0026	do	and	other	other				
+matukar	mariu	0026	natu-n	small-3SG	ln	ln				
+matukar	mariu	0026	pain	woman	np.h:s_ds	np	h	s_ds	5008	
+matukar	mariu	0026	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0026	%	%	%	%				
+matukar	mariu	0026	#	#	#ds	#ds				
+matukar	mariu	0026	ong	2SG.S	pro.2:s	pro	2	s	5006	
+matukar	mariu	0026	hibe-m	self-2SG	rn	rn				
+matukar	mariu	0026	w-	2SG.S-	-pro_2_s	-pro_2_s			5006	
+matukar	mariu	0026	a	go	v:pred	v		pred		
+matukar	mariu	0026	%	%	%	%				
+matukar	mariu	0027	#	#	#ds	#ds				
+matukar	mariu	0027	ngau	1SG.A	pro.1:a	pro	1	a	5008	
+matukar	mariu	0027	ab	house	ln	ln				
+matukar	mariu	0027	ilo-n	inside-3SG	np:p	np		p	5016	bridging
+matukar	mariu	0027	main	TOP	rn	rn				
+matukar	mariu	0027	nga-	1SG.A-	-pro_1_a	-pro_1_a			5008	
+matukar	mariu	0027	matangan	straighten	v:pred	v		pred		
+matukar	mariu	0027	-i	-3SG.P	-pro_p	-pro_p			5016	
+matukar	mariu	0027	-mba	-I:IRR	-rv	-rv				
+matukar	mariu	0027	%	%	%	%				
+matukar	mariu	0028	#	#	#	#				
+matukar	mariu	0028	do	and	other	other				
+matukar	mariu	0028	ilo-n	inside-3SG	np:p	np		p	5016	
+matukar	mariu	0028	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0028	matangan	straighten	v:pred	v		pred		
+matukar	mariu	0028	-i	-3SG.P	-pro_p	-pro_p			5016	
+matukar	mariu	0028	-nge	-SEQ:D	-rv	-rv				
+matukar	mariu	0028	ya-a-do	3SG.S-go-R:D	aux	aux				
+matukar	mariu	0028	%	%	%	%				
+matukar	mariu	0028	#	#	#	#				
+matukar	mariu	0028	ai	tree	ln	ln				
+matukar	mariu	0028	patu-n	egg-3SG	np:p	np		p	5074	
+matukar	mariu	0028	main	TOP	rn	rn				
+matukar	mariu	0028	i	3SG.A	pro.h:a	pro	h	a	5008	
+matukar	mariu	0028	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0028	%	%	%	%				
+matukar	mariu	0029	#	#	#	#				
+matukar	mariu	0029	ai	tree	ln	ln				
+matukar	mariu	0029	patu-n	egg-3SG	np:p	np		p	5074	
+matukar	mariu	0029	main	TOP	rn	rn				
+matukar	mariu	0029	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0029	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0029	%	%	%	%				
+matukar	mariu	0029	#	#	#	#				
+matukar	mariu	0029	garotina-n	beautiful-3SG	np:other	np		other		
+matukar	mariu	0029	i	3SG.S	pro.h:s	pro	h	s	5008	
+matukar	mariu	0029	bal-e	say-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0029	%	%	%	%				
+matukar	mariu	0030	#	#	#	#				
+matukar	mariu	0030	do	and	other	other				
+matukar	mariu	0030	sulunga-n	bark-3SG	np:p	np		p	5017	bridging
+matukar	mariu	0030	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0030	gule-nge	break.open-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0030	%	%	%	%				
+matukar	mariu	0031	#	#	#	#				
+matukar	mariu	0031	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0031	ZERO	ZERO	0:p	0		p	5017	
+matukar	mariu	0031	gulenge	break.open-SEQ:D	v:pred	v		pred		
+matukar	mariu	0031	%	%	%	%				
+matukar	mariu	0031	#	#	#	#				
+matukar	mariu	0031	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0031	ZERO	ZERO	0:p	0		p	5074	
+matukar	mariu	0031	y-	3SG.A-	-pro_h_a	-pro_h_a			5008	
+matukar	mariu	0031	arate-nge	bite-SEQ:D	v:pred	v		pred		
+matukar	mariu	0031	%	%	%	%				
+matukar	mariu	0031	#	#	#	#				
+matukar	mariu	0031	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0031	ZERO	ZERO	0:p	0		p	5074	
+matukar	mariu	0031	y-	3SG.A-	-pro_h_a	-pro_h_a			5008	
+matukar	mariu	0031	ani-nge	eat-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0031	%	%	%	%				
+matukar	mariu	0031	#	#	#	#				
+matukar	mariu	0031	o	VOC	other	other				
+matukar	mariu	0031	balbal	fat	np:predex	np		predex	5018	new
+matukar	mariu	0031	kasik	intensifier	other	other				
+matukar	mariu	0031	%	%	%	%				
+matukar	mariu	0032	#	#	#	#				
+matukar	mariu	0032	balbal	fat	np:other	np		other		
+matukar	mariu	0032	kasik	intensifier	rn	rn				
+matukar	mariu	0032	i	3SG.S	pro.h:s	pro	h	s	5008	
+matukar	mariu	0032	bal-e	say-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0032	%	%	%	%				
+matukar	mariu	0033	#	#	#	#				
+matukar	mariu	0033	do	and	other	other				
+matukar	mariu	0033	taman	father	np.h:s	np	h	s	5006	
+matukar	mariu	0033	ya-	3SG.S-	-pro_h_s	-pro_h_s			5006	
+matukar	mariu	0033	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	mariu	0033	abi-te	garden-LOC	np:g	np		g	5011	
+matukar	mariu	0033	%	%	%	%				
+matukar	mariu	0033	#	#	#	#				
+matukar	mariu	0033	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0033	tor-e	walk-SEQ:D	v:pred	v		pred		
+matukar	mariu	0033	%	%	%	%				
+matukar	mariu	0033	#	#	#	#				
+matukar	mariu	0033	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0033	palume	come-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0033	%	%	%	%				
+matukar	mariu	0034	#	#	#	#				
+matukar	mariu	0034	mariu	betel.nut	np:obl	np		obl	5004	
+matukar	mariu	0034	main	TOP	rn	rn				
+matukar	mariu	0034	wai	like	adp	adp				
+matukar	mariu	0034	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0034	ilo-n	thought-3SG	lv	lv				
+matukar	mariu	0034	-n	-3SG.S	-pro_h_s	-pro_h_s			5006	
+matukar	mariu	0034	gire-nge	think-SEQ:D	v:pred	v		pred		
+matukar	mariu	0034	%	%	%	%				
+matukar	mariu	0034	#	#	#	#				
+matukar	mariu	0034	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0034	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0034	%	%	%	%				
+matukar	mariu	0034	#	#	#	#				
+matukar	mariu	0034	ai	tree	nc	nc				
+matukar	mariu	0034	patun	egg-3SG	nc	nc				
+matukar	mariu	0034	main	TOP	nc	nc				
+matukar	mariu	0034	%	%	%	%				
+matukar	mariu	0035	#	#	#	#				
+matukar	mariu	0035	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0035	palum-e	come-SEQ:D	v:pred	v		pred		
+matukar	mariu	0035	ha-n	POSS-3SG	ln	ln				
+matukar	mariu	0035	ab-ate	house-LOC	np:g	np		g	5014	
+matukar	mariu	0035	%	%	%	%				
+matukar	mariu	0035	#	#	#	#				
+matukar	mariu	0035	mariu	betel.nut	np:s	np		s		
+matukar	mariu	0035	ai	tree	rn	rn				
+matukar	mariu	0035	sulunga-n	bark-3SG	rn_np	rn_np			5017	
+matukar	mariu	0035	mariu	betel.nut	rn	rn				
+matukar	mariu	0035	nek-ama-n	hull-APS-3SG	rn_np	rn_np			5017	
+matukar	mariu	0035	tet-te	ladder-LOC	np:l	np		l	5019	new
+matukar	mariu	0035	y-	3SG.S-	-pro_s	-pro_s			5017	
+matukar	mariu	0035	en-do	lie-R:D	v:pred	v		pred		
+matukar	mariu	0035	%	%	%	%				
+matukar	mariu	0035	#	#	#	#				
+matukar	mariu	0035	i	3SG.A	pro.h:a	pro	h	a	5006	
+matukar	mariu	0035	ZERO	ZERO	0:p	0		p	5017	
+matukar	mariu	0035	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0035	%	%	%	%				
+matukar	mariu	0036	#	#	#	#				
+matukar	mariu	0036	do	and	other	other				
+matukar	mariu	0036	natu-n	small-3SG	ln	ln				
+matukar	mariu	0036	pain	woman	np.h:p	np	h	p	5008	
+matukar	mariu	0036	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0036	sumen	ask	v:pred	v		pred		
+matukar	mariu	0036	-i	-3SG.P	-pro_h_p	-pro_h_p			5008	
+matukar	mariu	0036	-nge	-R:I:PFV	-rv	-rv				
+matukar	mariu	0036	%	%	%	%				
+matukar	mariu	0036	#	#	#ds	#ds				
+matukar	mariu	0036	hai	who	other:a	other		a		
+matukar	mariu	0036	ai	tree	ln	ln				
+matukar	mariu	0036	patun	egg-3SG	np:dt_p	np		dt_p	5074	
+matukar	mariu	0036	main	TOP	rn	rn				
+matukar	mariu	0036	sulunga-n	bark-3SG	np:p	np		p	5017	
+matukar	mariu	0036	gule-nge	break.open-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0036	%	%	%	%				
+matukar	mariu	0037	#	#	#	#				
+matukar	mariu	0037	natu-n	small-3SG	ln	ln				
+matukar	mariu	0037	pain	woman	np.h:s	np	h	s	5008	
+matukar	mariu	0037	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0037	hibe-u	self-1SG	np:other	np		other		
+matukar	mariu	0037	%	%	%	%				
+matukar	mariu	0038	#	#	#ds	#ds				
+matukar	mariu	0038	hibe-u	self-1SG	np.h:a	np	h	a	5008	
+matukar	mariu	0038	ai	tree	ln	ln				
+matukar	mariu	0038	patu-n	egg-3SG	np:p	np		p	5074	
+matukar	mariu	0038	main	TOP	rn	rn				
+matukar	mariu	0038	nga-	1SG.A-	-pro_h_a	-pro_h_a			5008	
+matukar	mariu	0038	ngale-nge	take-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0038	%	%	%	%				
+matukar	mariu	0039	#	#	#ds	#ds				
+matukar	mariu	0039	do	and	other	other				
+matukar	mariu	0039	tagwai	where	other:pred	other		pred		
+matukar	mariu	0039	%	%	%	%				
+matukar	mariu	0040	#	#	#ds	#ds				
+matukar	mariu	0040	ZERO	ZERO	0.1:a	0	1	a	5008	
+matukar	mariu	0040	ZERO	ZERO	0:p	0		p	5074	
+matukar	mariu	0040	nga-	1SG.A-	-pro_1_a	-pro_1_a			5008	
+matukar	mariu	0040	ni-nge	eat-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0040	%	%	%	%				
+matukar	mariu	0041	#	#	#ds	#ds				
+matukar	mariu	0041	hai	who	other:a	other		a		
+matukar	mariu	0041	ZERO	ZERO	0.2:p	0	2	p	5008	
+matukar	mariu	0041	dud	send	v:pred	v		pred		
+matukar	mariu	0041	-o	-2SG.P	-pro_2_p	-pro_2_p			5008	
+matukar	mariu	0041	-nge	-SEQ:D	-rv	-rv				
+matukar	mariu	0041	%	%	%	%				
+matukar	mariu	0041	#	#	#ds	#ds				
+matukar	mariu	0041	ZERO	ZERO	0.2:a	0	2	a	5008	
+matukar	mariu	0041	ZERO	ZERO	0:p	0		p	5074	
+matukar	mariu	0041	waninge	eat-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0041	%	%	%	%				
+matukar	mariu	0041	#	#	#	#				
+matukar	mariu	0041	do	and	other	other				
+matukar	mariu	0041	i	3SG.A	pro.h:a	pro	h	a	5006	
+matukar	mariu	0041	ZERO	ZERO	0.h:p	0	h	p	5008	
+matukar	mariu	0041	pai-nge	cross-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0041	%	%	%	%				
+matukar	mariu	0042	#	#	#	#				
+matukar	mariu	0042	gamuk	talk	np:p	np		p	5020	new
+matukar	mariu	0042	pasalan	strong	rn	rn				
+matukar	mariu	0042	ZERO	ZERO	0.1:a	0	1	a	5006	
+matukar	mariu	0042	ZERO	ZERO	0.h:g	0	h	g	5008	
+matukar	mariu	0042	nga-	1SG.A-	-pro_1_a	-pro_1_a			5006	
+matukar	mariu	0042	pan	give	v:pred	v		pred		
+matukar	mariu	0042	-i	-3SG.R	-pro_h_g	-pro_h_g			5008	
+matukar	mariu	0042	-nge	-R:I:PFV	-rv	-rv				
+matukar	mariu	0042	%	%	%	%				
+matukar	mariu	0043	#	#	#	#				
+matukar	mariu	0043	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0043	ZERO	ZERO	0.h:p	0	h	p	5008	
+matukar	mariu	0043	pai-nge	cross-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0043	%	%	%	%				
+matukar	mariu	0044	#	#	#	#				
+matukar	mariu	0044	do	and	other	other				
+matukar	mariu	0044	natu-n	small-3SG	ln	ln				
+matukar	mariu	0044	pain	woman	np.h:p	np	h	p	5008	
+matukar	mariu	0044	main	TOP	rn	rn				
+matukar	mariu	0044	urod	shame	np:a	np		a	5021	new
+matukar	mariu	0044	hun	hit	v:pred	v		pred		
+matukar	mariu	0044	-i	-3SG.P	-pro_h_p	-pro_h_p			5008	
+matukar	mariu	0044	-nge	-R:I:PFV	-rv	-rv				
+matukar	mariu	0044	%	%	%	%				
+matukar	mariu	0045	#	#	#	#				
+matukar	mariu	0045	do	and	other	other				
+matukar	mariu	0045	natu-n	small-3SG	ln	ln				
+matukar	mariu	0045	pain	woman	np.h:s	np	h	s	5008	
+matukar	mariu	0045	tam-e	cry-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0045	%	%	%	%				
+matukar	mariu	0046	#	#	#	#				
+matukar	mariu	0046	do	and	other	other				
+matukar	mariu	0046	tama-n	father-3SG	np.h:s	np	h	s	5006	
+matukar	mariu	0046	pide	descend-SEQ:D	v:pred	v		pred		
+matukar	mariu	0046	%	%	%	%				
+matukar	mariu	0046	#	#	#	#				
+matukar	mariu	0046	abi-te	garden-LOC	np:g	np		g	5011	
+matukar	mariu	0046	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0046	ya-	3SG.S-	-pro_h_s	-pro_h_s			5006	
+matukar	mariu	0046	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0046	%	%	%	%				
+matukar	mariu	0047	#	#	#	#				
+matukar	mariu	0047	tama-n	father-3SG	np.h:s	np	h	s	5006	
+matukar	mariu	0047	pid-e	descend-SEQ:D	v:pred	v		pred		
+matukar	mariu	0047	%	%	%	%				
+matukar	mariu	0047	#	#	#	#				
+matukar	mariu	0047	abi-te	garden-LOC	np:g	np		g	5011	
+matukar	mariu	0047	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0047	ya-	3SG.S-	-pro_h_s	-pro_h_s			5006	
+matukar	mariu	0047	a-do	go-R:D	v:pred	v		pred		
+matukar	mariu	0047	%	%	%	%				
+matukar	mariu	0047	#	#	#	#				
+matukar	mariu	0047	natu-n	small-3SG	ln	ln				
+matukar	mariu	0047	pain	woman	np.h:s	np	h	s	5008	
+matukar	mariu	0047	mais-e	rise-SEQ:D	v:pred	v		pred		
+matukar	mariu	0047	%	%	%	%				
+matukar	mariu	0047	#	#	#	#				
+matukar	mariu	0047	i	3SG.S	pro.h:s	pro	h	s	5008	
+matukar	mariu	0047	pid-e	descend-SEQ:D	v:pred	v		pred		
+matukar	mariu	0047	%	%	%	%				
+matukar	mariu	0048	#	#	#	#				
+matukar	mariu	0048	fud	banana	np:dt_p	np		dt_p	5022	new
+matukar	mariu	0048	fud	banana	rn	rn				
+matukar	mariu	0048	main-angan	TOP-FOC	rn	rn				
+matukar	mariu	0048	fud	banana	np:dt_p	np		dt_p	5022	
+matukar	mariu	0048	main	TOP	rn	rn				
+matukar	mariu	0048	raun	leaf	np:p	np		p	5023	bridging
+matukar	mariu	0048	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0048	tariuti-nge	cut-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0048	%	%	%	%				
+matukar	mariu	0049	#	#	#	#				
+matukar	mariu	0049	raun	leaf	np:s	np		s	5023	
+matukar	mariu	0049	matiu-ma-di	dry-APS-3PL	np:pred	np		pred		
+matukar	mariu	0049	%	%	%	%				
+matukar	mariu	0050	#	#	#	#				
+matukar	mariu	0050	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0050	ZERO	ZERO	0:p	0		p	5023	
+matukar	mariu	0050	tariuti-nge	cut-SEQ:D	v:pred	v		pred		
+matukar	mariu	0050	%	%	%	%				
+matukar	mariu	0050	#	#	#	#				
+matukar	mariu	0050	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0050	ZERO	ZERO	0:p	0		p	5023	
+matukar	mariu	0050	ngale-yau	take-DIR_away	v:pred	v		pred		
+matukar	mariu	0050	%	%	%	%				
+matukar	mariu	0050	#	#	#	#				
+matukar	mariu	0050	garma-n	head-3SG	np:p	np		p	5024	new
+matukar	mariu	0050	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0050	ya-	3SG.A-	-pro_h_a	-pro_h_a			5008	
+matukar	mariu	0050	abi-nge	hold-SEQ:D	v:pred	v		pred		
+matukar	mariu	0050	%	%	%	%				
+matukar	mariu	0051	#	#	#	#				
+matukar	mariu	0051	ZERO	ZERO	0.h:s	0	h	s	5008	
+matukar	mariu	0051	das-e	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0051	ab	house	ln	ln				
+matukar	mariu	0051	ilo-n-lo	inside-3SG-LOC	np:g	np		g	5016	
+matukar	mariu	0051	%	%	%	%				
+matukar	mariu	0051	#	#	#	#				
+matukar	mariu	0051	daig	plate	np:predex	np		predex	5025	new
+matukar	mariu	0051	dabok	big	rn	rn				
+matukar	mariu	0051	%	%	%	%				
+matukar	mariu	0052	#	#	#	#				
+matukar	mariu	0052	fud	banana	np:dt_p	np		dt_p	5022	
+matukar	mariu	0052	korarai-ma-n	dry-APS-3SG	rn	rn				
+matukar	mariu	0052	raun	leaf	np:p	np		p	5023	
+matukar	mariu	0052	korarai-ma-n	dry-APS-3SG	rn	rn				
+matukar	mariu	0052	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0052	ngale-nge	take-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0052	%	%	%	%				
+matukar	mariu	0053	#	#	#	#				
+matukar	mariu	0053	do	and	other	other				
+matukar	mariu	0053	garma-n	head-3SG	np:p	np		p	5024	
+matukar	mariu	0053	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0053	ya-	3SG.A-	-pro_h_a	-pro_h_a			5008	
+matukar	mariu	0053	bi-nge	hold-SEQ:D	v:pred	v		pred		
+matukar	mariu	0053	%	%	%	%				
+matukar	mariu	0053	#	#	#	#				
+matukar	mariu	0053	i	3SG.S	pro.h:s	pro	h	s	5008	
+matukar	mariu	0053	dahe	ascend	v:pred	v		pred		
+matukar	mariu	0053	%	%	%	%				
+matukar	mariu	0053	#	#	#	#				
+matukar	mariu	0053	daig	plate	np:p	np		p	5025	
+matukar	mariu	0053	dabok	big	rn	rn				
+matukar	mariu	0053	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0053	ngale-nge	take-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0053	%	%	%	%				
+matukar	mariu	0054	#	#	#	#				
+matukar	mariu	0054	ZERO	ZERO	0.h:s	0	h	s	5008	
+matukar	mariu	0054	pid-e	descend-SEQ:D	v:pred	v		pred		
+matukar	mariu	0054	%	%	%	%				
+matukar	mariu	0054	#	#	#	#				
+matukar	mariu	0054	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0054	ZERO	ZERO	0:p	0		p	5025	
+matukar	mariu	0054	ngale	take	v:pred	v		pred		
+matukar	mariu	0054	pid-e	descend-R:I:PFV	rv	rv				
+matukar	mariu	0054	ab	house	ln	ln				
+matukar	mariu	0054	bung-ala	meet_[TokPisin]-LOC	np:g	np		g	5026	bridging
+matukar	mariu	0054	%	%	%	%				
+matukar	mariu	0055	#	#	#	#				
+matukar	mariu	0055	do	and	other	other				
+matukar	mariu	0055	nub	water	np:p	np		p	5027	new
+matukar	mariu	0055	i	3SG.A	pro.h:a	pro	h	a	5008	
+matukar	mariu	0055	pid-e	descend.R:I:PFV	v:pred	v		pred		
+matukar	mariu	0055	%	%	%	%				
+matukar	mariu	0056	#	#	#	#				
+matukar	mariu	0056	nub	water	np:p	np		p	5027	
+matukar	mariu	0056	i	3SG.A	pro.h:a	pro	h	a	5008	
+matukar	mariu	0056	pid-e	descend-SEQ:D	v:pred	v		pred		
+matukar	mariu	0056	%	%	%	%				
+matukar	mariu	0056	#	#	#	#				
+matukar	mariu	0056	daig	plate	np:dt	np		dt	5025	
+matukar	mariu	0056	main	TOP	rn	rn				
+matukar	mariu	0056	awa-n	mouth-3SG	np:s	np		s	5028	bridging
+matukar	mariu	0056	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0056	%	%	%	%				
+matukar	mariu	0057	#	#	#	#				
+matukar	mariu	0057	ZERO	ZERO	0:s	0		s	5025	
+matukar	mariu	0057	ya-	3SG.S-	-pro_s	-pro_s			5025	
+matukar	mariu	0057	en-do	stay-R:D	v:pred	v		pred		
+matukar	mariu	0057	%	%	%	%				
+matukar	mariu	0057	#	#	#	#				
+matukar	mariu	0057	fud	banana	ln	ln				
+matukar	mariu	0057	rau-n	leaf-3SG	np:p	np		p	5023	
+matukar	mariu	0057	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0057	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	mariu	0057	%	%	%	%				
+matukar	mariu	0057	#	#	#	#				
+matukar	mariu	0057	hibe-n	self-3SG	np.h:s	np	h	s	5008	
+matukar	mariu	0057	tine-n	skin-3SG	np:p	np		p	5029	new
+matukar	mariu	0057	haii-haii-nge	close_(with_string_like_object)-haii.REDUP-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0057	%	%	%	%				
+matukar	mariu	0058	#	#	#	#				
+matukar	mariu	0058	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0058	ZERO	ZERO	0:p	0		p	5029	
+matukar	mariu	0058	haii-nge	close_(with_string_like_object)-SEQ:D	v:pred	v		pred		
+matukar	mariu	0058	%	%	%	%				
+matukar	mariu	0058	#	#	#	#				
+matukar	mariu	0058	ZERO	ZERO	0.h:s	0	h	s	5008	
+matukar	mariu	0058	dah-e	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0058	mani	here	other:l	other		l		
+matukar	mariu	0059	bura-n-te	throat-3SG-LOC	np:l	np		l	5030	new
+matukar	mariu	0059	%	%	%	%				
+matukar	mariu	0060	#	#	#	#				
+matukar	mariu	0060	do	and	other	other				
+matukar	mariu	0060	yau	fire	np:p	np		p	5031	new
+matukar	mariu	0060	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0060	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	mariu	0060	%	%	%	%				
+matukar	mariu	0060	#	#	#	#				
+matukar	mariu	0060	hibe-n	self-3SG	np.h:a	np	h	a	5008	
+matukar	mariu	0060	tenin	skin-3SG	np:p	np		p	5029	
+matukar	mariu	0060	mamari-nge	smoke-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0060	%	%	%	%				
+matukar	mariu	0061	#	#	#	#				
+matukar	mariu	0061	yau	fire	np:p	np		p	5031	
+matukar	mariu	0061	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0061	ya-	3SG.A-	-pro_h_a	-pro_h_a			5008	
+matukar	mariu	0061	uni-nge	blow-SEQ:D	v:pred	v		pred		
+matukar	mariu	0061	ti-do	finish-R:D	aux	aux				
+matukar	mariu	0061	%	%	%	%				
+matukar	mariu	0061	#	#	#	#				
+matukar	mariu	0061	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0061	ZERO	ZERO	0:p	0		p	5031	
+matukar	mariu	0061	nani-nge	light-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0061	%	%	%	%				
+matukar	mariu	0062	#	#	#	#				
+matukar	mariu	0062	do	and	other	other				
+matukar	mariu	0062	garma-n	head-3SG	np:p	np		p	5032	new
+matukar	mariu	0062	main	TOP	rn	rn				
+matukar	mariu	0062	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0062	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	mariu	0062	%	%	%	%				
+matukar	mariu	0062	#	#	#	#				
+matukar	mariu	0062	daig	plate	ln_np	ln_np			5025	
+matukar	mariu	0062	nub-ma-n-da	water-APS-3SG-COM	ln	ln				
+matukar	mariu	0062	ilo-n-lo	inside-3SG-LOC	np:g	np		g	5033	bridging
+matukar	mariu	0062	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0062	ZERO	ZERO	0:p	0		p	5032	
+matukar	mariu	0062	nage-yau-we	put-DIR_away_from_speaker-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0062	%	%	%	%				
+matukar	mariu	0063	#	#	#	#				
+matukar	mariu	0063	do	and	other	other				
+matukar	mariu	0063	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0063	ZERO	ZERO	0:p	0		p	5031	
+matukar	mariu	0063	nani-nge	cook-SEQ:D	v:pred	v		pred		
+matukar	mariu	0063	%	%	%	%				
+matukar	mariu	0063	#	#	#	#				
+matukar	mariu	0063	i	3SG.S	pro:s	pro		s	5031	
+matukar	mariu	0063	so	come	v:pred	v		pred		
+matukar	mariu	0063	%	%	%	%				
+matukar	mariu	0063	#	#	#	#				
+matukar	mariu	0063	i	3SG.S	pro:s	pro		s	5031	
+matukar	mariu	0063	so	come	v:pred	v		pred		
+matukar	mariu	0063	ha-n	POSS-3SG	ln	ln				
+matukar	mariu	0063	toma-n-te	end-3SG-LOC	np:g	np		g	5034	new
+matukar	mariu	0063	%	%	%	%				
+matukar	mariu	0064	#	#	#	#				
+matukar	mariu	0064	toma-n	end-3SG	np:s	np		s	5034	
+matukar	mariu	0064	maine	here	other:pred	other		pred		
+matukar	mariu	0064	%	%	%	%				
+matukar	mariu	0065	#	#	#	#				
+matukar	mariu	0065	do	and	other	other				
+matukar	mariu	0065	garma-n	head-3SG	np:s	np		s	5032	
+matukar	mariu	0065	main	TOP	rn	rn				
+matukar	mariu	0065	daig	plate	ln_np	ln_np			5025	
+matukar	mariu	0065	ilo-n-lo	inside-3SG-LOC	np:g	np		g	5033	
+matukar	mariu	0065	tapas	fall	v:pred	v		pred		
+matukar	mariu	0065	pid-e	descend-R:I:PFV	rv	rv				
+matukar	mariu	0065	%	%	%	%				
+matukar	mariu	0066	#	#	#	#				
+matukar	mariu	0066	do	and	other	other				
+matukar	mariu	0066	yau	fire	ln	ln				
+matukar	mariu	0066	kas	smoke	np:dt_s	np		dt_s	5035	bridging
+matukar	mariu	0066	tai	DUB	other	other				
+matukar	mariu	0066	main-angan	PROX-FOC	dem_pro:s	dem_pro		s	5035	
+matukar	mariu	0066	y-	3SG.S-	-pro_s	-pro_s			5035	
+matukar	mariu	0066	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	mariu	0066	%	%	%	%				
+matukar	mariu	0066	#	#	#	#				
+matukar	mariu	0066	mo	there	other	other				
+matukar	mariu	0066	abi-te	garden-LOC	np:g	np		g	5011	
+matukar	mariu	0066	ZERO	ZERO	0:s	0		s	5035	
+matukar	mariu	0066	pid-e	descend-SEQ:D	v:pred	v		pred		
+matukar	mariu	0066	%	%	%	%				
+matukar	mariu	0066	#	#	#	#				
+matukar	mariu	0066	tama-n	father-3SG	np.h:p	np	h	p	5006	
+matukar	mariu	0067	ZERO	ZERO	0:s	0		s	5035	
+matukar	mariu	0067	tabubi-nge	cover.up-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0067	%	%	%	%				
+matukar	mariu	0068	#	#	#	#				
+matukar	mariu	0068	do	and	other	other				
+matukar	mariu	0068	tama-n	father-3SG	np.h:s	np	h	s	5006	
+matukar	mariu	0068	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0068	%	%	%	%				
+matukar	mariu	0068	#	#	#ds	#ds				
+matukar	mariu	0068	ngau	1SG.S	ln_pro.1:dt	ln_pro	1	dt	5006	
+matukar	mariu	0068	ab	house	np:p	np		p	5014	
+matukar	mariu	0068	yau	fire	np:a	np		a	5031	
+matukar	mariu	0068	nani-nge	cook-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0068	tai	DUB	other	other				
+matukar	mariu	0068	%	%	%	%				
+matukar	mariu	0069	#	#	#	#				
+matukar	mariu	0069	do	and	other	other				
+matukar	mariu	0069	i	3SG.S	pro.h:s	pro	h	s	5006	
+matukar	mariu	0069	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0069	%	%	%	%				
+matukar	mariu	0070	#	#	#	#				
+matukar	mariu	0070	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0070	palum-ala	come-DIR_away_from_speaker	v:pred	v		pred		
+matukar	mariu	0070	%	%	%	%				
+matukar	mariu	0070	#	#	#	#				
+matukar	mariu	0070	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	5006	
+matukar	mariu	0070	ab	house	np:s	np		s	5014	
+matukar	mariu	0070	tur-do	stand-R:D	v:pred	v		pred		
+matukar	mariu	0070	%	%	%	%				
+matukar	mariu	0070	#	#	#	#				
+matukar	mariu	0070	i	3SG.A	pro.h:s	pro	h	s	5006	
+matukar	mariu	0070	ZERO	ZERO	0:p	0		p	5014	
+matukar	mariu	0070	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0070	%	%	%	%				
+matukar	mariu	0071	#	#	#	#				
+matukar	mariu	0071	do	and	other	other				
+matukar	mariu	0071	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0071	ilo-n	thought-3SG	ln	ln				
+matukar	mariu	0071	gire	think	np:pred_l	np		pred_l		
+matukar	mariu	0071	lo	in	adp	adp				
+matukar	mariu	0071	ti	NEG	rn	rn				
+matukar	mariu	0071	%	%	%	%				
+matukar	mariu	0071	#	#	#	#				
+matukar	mariu	0071	natu-n	small-3SG	ln	ln				
+matukar	mariu	0071	pain	woman	np.h:p	np	h	p	5008	
+matukar	mariu	0071	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0071	ya-	3SG.A-	-pro_h_a	-pro_h_a			5006	
+matukar	mariu	0071	gi-nge	call.out-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0071	%	%	%	%				
+matukar	mariu	0072	#	#	#	#				
+matukar	mariu	0072	natu-n	small-3SG	ln	ln				
+matukar	mariu	0072	pain	woman	np.h:p	np	h	p	5008	
+matukar	mariu	0072	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0072	ya-	3SG.A-	-pro_h_a	-pro_h_a			5006	
+matukar	mariu	0072	gi-ngkai	call.out-DISJ:D	v:pred	v		pred		
+matukar	mariu	0072	%	%	%	%				
+matukar	mariu	0072	#	#	#neg	#neg				
+matukar	mariu	0072	ZERO	ZERO	0.h:s	0	h	s	5008	
+matukar	mariu	0072	ti	NEG	np:predex	np		predex		
+matukar	mariu	0072	%	%	%	%				
+matukar	mariu	0073	#	#	#neg	#neg				
+matukar	mariu	0073	awa-n	mouth-3SG	np:p	np		p	5036	bridging
+matukar	mariu	0073	ti	NEG	lv	lv				
+matukar	mariu	0073	ZERO	ZERO	0.h:a	0	h	a	5008	
+matukar	mariu	0073	ya-	3SG.A-	-pro_h_a	-pro_h_a			5008	
+matukar	mariu	0073	bi-nge	hold-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0073	%	%	%	%				
+matukar	mariu	0074	#	#	#	#				
+matukar	mariu	0074	do	and	other	other				
+matukar	mariu	0074	ab	house	ln	ln				
+matukar	mariu	0074	bung-alo	meet_[TokPisin]-LOC	np:g	np		g	5026	
+matukar	mariu	0074	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0074	ya-	3SG.S-	-pro_h_a	-pro_h_a			5006	
+matukar	mariu	0074	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	mariu	0074	%	%	%	%				
+matukar	mariu	0074	#	#	#	#				
+matukar	mariu	0074	garma-n	head-3SG	np:p	np		p	5032	
+matukar	mariu	0074	main	TOP	rn	rn				
+matukar	mariu	0074	i	3SG.A	pro.h:a	pro	h	a	5006	
+matukar	mariu	0074	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0074	daig	plate	ln_np	ln_np			5025	
+matukar	mariu	0074	ilo-n-lo	inside-3SG-LOC	np:l	np		l	5033	
+matukar	mariu	0074	%	%	%	%				
+matukar	mariu	0075	#	#	#	#				
+matukar	mariu	0075	do	and	other	other				
+matukar	mariu	0075	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0075	ZERO	ZERO	0:p	0		p	5032	
+matukar	mariu	0075	ya-	3SG.A-	-pro_h_a	-pro_h_a			5006	
+matukar	mariu	0075	abi-nge	hold-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0075	%	%	%	%				
+matukar	mariu	0075	#	#	#	#				
+matukar	mariu	0075	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0075	tam-e	cry-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0075	%	%	%	%				
+matukar	mariu	0076	#	#	#	#				
+matukar	mariu	0076	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0076	tam-e	cry-SEQ:D	v:pred	v		pred		
+matukar	mariu	0076	%	%	%	%				
+matukar	mariu	0077	#	#	#	#				
+matukar	mariu	0077	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0077	tam-e	cry-SEQ:D	v:pred	v		pred		
+matukar	mariu	0077	ti-do	finish-R:D	aux	aux				
+matukar	mariu	0077	%	%	%	%				
+matukar	mariu	0077	#	#	#	#				
+matukar	mariu	0077	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0077	ZERO	ZERO	0:p	0		p	5032	
+matukar	mariu	0077	ngale	take	v:pred	v		pred		
+matukar	mariu	0077	y-a-we	3SG.S-go-SEQ:D	rv	rv				
+matukar	mariu	0077	%	%	%	%				
+matukar	mariu	0078	#	#	#	#				
+matukar	mariu	0078	ab-ate	house-LOC	np:l	np		l	5014	
+matukar	mariu	0078	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0078	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	mariu	0078	%	%	%	%				
+matukar	mariu	0078	#	#	#	#				
+matukar	mariu	0078	tidom	night	np:s	np		s		
+matukar	mariu	0078	si-nge	descend-SEQ:D	v:pred	v		pred		
+matukar	mariu	0078	%	%	%	%				
+matukar	mariu	0079	#	#	#	#				
+matukar	mariu	0079	natu-n	small-3SG	ln	ln				
+matukar	mariu	0079	pain	woman	np.h:s	np	h	s	5008	
+matukar	mariu	0079	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0079	%	%	%	%				
+matukar	mariu	0080	#	#	#ds	#ds				
+matukar	mariu	0080	ngau	1SG.S	ln_pro.1:dt	ln_pro	1	dt	5008	
+matukar	mariu	0080	garma-u	head-1SG	np:p	np		p	5032	
+matukar	mariu	0080	main	TOP	rn	rn				
+matukar	mariu	0080	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0080	ngale	take	v:pred	v		pred		
+matukar	mariu	0080	w-a-p	2SG.S-go-IRR:D	rv	rv				
+matukar	mariu	0080	%	%	%	%				
+matukar	mariu	0080	#	#	#ds.neg	#ds.neg				
+matukar	mariu	0080	asau	far	other	other				
+matukar	mariu	0080	ib	NEG.IMP.1	lv	lv				
+matukar	mariu	0080	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0080	ZERO	ZERO	0:p	0		p	5032	
+matukar	mariu	0080	pai-mai	plant-NEG.IMP.2	v:pred	v		pred		
+matukar	mariu	0080	%	%	%	%				
+matukar	mariu	0081	#	#	#ds	#ds				
+matukar	mariu	0081	ab	house	ln	ln				
+matukar	mariu	0081	garange-n-a	beside-3SG-LOC	np:l	np		l	5038	bridging
+matukar	mariu	0081	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0081	ZERO	ZERO	0:p	0		p	5032	
+matukar	mariu	0081	pai	plant	v:pred	v		pred		
+matukar	mariu	0081	%	%	%	%				
+matukar	mariu	0082	#	#	#ds	#ds				
+matukar	mariu	0082	alopage	later	other	other				
+matukar	mariu	0082	ZERO	ZERO	0.1:a	0	1	a	5008	
+matukar	mariu	0082	ZERO	ZERO	0.2:p	0	2	p	5006	
+matukar	mariu	0082	nga-	1SG.S-	-pro_1_a	-pro_1_a				
+matukar	mariu	0082	gamuk	talk	v:pred	v		pred		
+matukar	mariu	0082	pan	give	rv	rv				
+matukar	mariu	0082	-o	-2SG.P	-pro_2_p	-pro_2_p			5006	
+matukar	mariu	0082	-mba	-IRR:I	-rv	-rv				
+matukar	mariu	0082	%	%	%	%				
+matukar	mariu	0083	#	#	#	#				
+matukar	mariu	0083	do	and	other	other				
+matukar	mariu	0083	i	3SG.A	pro.h:a	pro	h	a	5006	
+matukar	mariu	0083	ZERO	ZERO	0:p	0		p	5032	
+matukar	mariu	0083	pai-nge	plant-SEQ:D	v:pred	v		pred		
+matukar	mariu	0083	%	%	%	%				
+matukar	mariu	0083	#	#	#	#				
+matukar	mariu	0083	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0083	ZERO	ZERO	0:p	0		p	5032	
+matukar	mariu	0083	yamate-nge	care.for-SEQ:D	v:pred	v		pred		
+matukar	mariu	0083	%	%	%	%				
+matukar	mariu	0083	#	#	#	#				
+matukar	mariu	0083	ar	fence	np:p	np		p	5039	new
+matukar	mariu	0083	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0083	haii-nge	close_(with_string_like_object)-SEQ:D	v:pred	v		pred		
+matukar	mariu	0083	%	%	%	%				
+matukar	mariu	0084	#	#	#	#				
+matukar	mariu	0084	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0084	ZERO	ZERO	0:p	0		p	5032	
+matukar	mariu	0084	yamate-nge	care.for-SEQ:D	v:pred	v		pred		
+matukar	mariu	0084	%	%	%	%				
+matukar	mariu	0084	#	#	#	#				
+matukar	mariu	0084	ZERO	ZERO	0.h:s	0	h	s	5006	
+matukar	mariu	0084	y-	3SG.S-	-pro_h_s	-pro_h_s			5006	
+matukar	mariu	0084	en-e	stay-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0084	%	%	%	%				
+matukar	mariu	0085	#	#	#	#				
+matukar	mariu	0085	i	3SG.S	pro.h:s	pro	h	s	5006	
+matukar	mariu	0085	y-	3SG.S-	-pro_h_s	-pro_h_s			5006	
+matukar	mariu	0085	en-do	stay-R:D	v:pred	v		pred		
+matukar	mariu	0085	%	%	%	%				
+matukar	mariu	0085	#	#	#	#				
+matukar	mariu	0085	niu	coconut	ln	ln				
+matukar	mariu	0085	main	TOP	ln	ln				
+matukar	mariu	0085	balun	shoot	np:s	np		s	5040	new
+matukar	mariu	0085	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0085	%	%	%	%				
+matukar	mariu	0086	#	#	#	#				
+matukar	mariu	0086	garma-n	head-3SG	np:obl	np		obl	5032	
+matukar	mariu	0086	main-angan	TOP-FOC	rn	rn				
+matukar	mariu	0086	balun	shoot	np:s	np		s	5040	
+matukar	mariu	0086	sange	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0086	%	%	%	%				
+matukar	mariu	0087	#	#	#	#				
+matukar	mariu	0087	mani	here	other:l	other		l		
+matukar	mariu	0087	balun	shoot	np:s	np		s	5040	
+matukar	mariu	0087	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0087	%	%	%	%				
+matukar	mariu	0088	#	#	#	#				
+matukar	mariu	0088	niu	coconut	np:a	np		a		
+matukar	mariu	0088	main-angan	TOP-FOC	rn	rn				
+matukar	mariu	0088	balun	shoot	np:p	np		p	5040	
+matukar	mariu	0088	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0088	mani	here	other:l	other		l		
+matukar	mariu	0088	%	%	%	%				
+matukar	mariu	0089	#	#	#	#				
+matukar	mariu	0089	ZERO	ZERO	0:s	0		s	5040	
+matukar	mariu	0089	dah	ascend	v:pred	v		pred		
+matukar	mariu	0089	y-a-we	3SG.S-go-R:I:PFV	rv	rv				
+matukar	mariu	0089	%	%	%	%				
+matukar	mariu	0090	#	#	#	#				
+matukar	mariu	0090	do	and	other	other				
+matukar	mariu	0090	i	3SG.S	pro.h:s_ds	pro	h	s_ds	5008	
+matukar	mariu	0090	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0090	%	%	%	%				
+matukar	mariu	0090	#	#	#ds	#ds				
+matukar	mariu	0090	alopage	later	other	other				
+matukar	mariu	0090	milo	food	np:dt_p	np		dt_p	5041	new
+matukar	mariu	0090	main	TOP	rn	rn				
+matukar	mariu	0090	agino-n	fruit-3SG	np:p	np		p	5041	
+matukar	mariu	0090	ZERO	ZERO	0:a	0		a	5040	
+matukar	mariu	0090	nage-ndop	put-IRR:D	v:pred	v		pred		
+matukar	mariu	0090	%	%	%	%				
+matukar	mariu	0090	#	#	#ds	#ds				
+matukar	mariu	0090	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0090	ZERO	ZERO	0:p	0		p	5041	
+matukar	mariu	0090	te-mba	see-IRR:I	v:pred	v		pred		
+matukar	mariu	0090	%	%	%	%				
+matukar	mariu	0091	#	#	#ds	#ds				
+matukar	mariu	0091	do	and	other	other				
+matukar	mariu	0091	milo-ta	something-one	np:other	np		other		
+matukar	mariu	0091	ZERO	ZERO	0.1:s	0	1	s	5008	
+matukar	mariu	0091	nga-	1SG.S-	-pro_1_s	-pro_1_s			5008	
+matukar	mariu	0091	mat-e	die-SEQ:D	v:pred	v		pred		
+matukar	mariu	0091	main	TOP	other	other				
+matukar	mariu	0091	%	%	%	%				
+matukar	mariu	0091	#	#	#	#				
+matukar	mariu	0091	awa-u-te	mouth-1SG-LOC	np:obl	np		obl	5036	
+matukar	mariu	0091	mani	here	other:l	other		l		
+matukar	mariu	0091	ZERO	ZERO	0:s	0		s	5042	new
+matukar	mariu	0091	saipid-aba	ascend-I:IRR	v:pred	v		pred		
+matukar	mariu	0091	%	%	%	%				
+matukar	mariu	0092	#	#	#	#				
+matukar	mariu	0092	do	and	other	other				
+matukar	mariu	0092	mariu	betel.nut	np:p	np		p	5043	new
+matukar	mariu	0092	main	TOP	rn	rn				
+matukar	mariu	0092	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0092	ngale	take	v:pred	v		pred		
+matukar	mariu	0092	%	%	%	%				
+matukar	mariu	0093	#	#	#ds	#ds				
+matukar	mariu	0093	mariu	betel.nut	np:a	np		a	5043	
+matukar	mariu	0093	main-angan	TOP-FOC	rn	rn				
+matukar	mariu	0093	alopage	later	other	other				
+matukar	mariu	0093	balun	shoot	np:p	np		p	5044	new
+matukar	mariu	0093	sa-mba	ascend-IRR:I	v:pred	v		pred		
+matukar	mariu	0093	awa-u-te	mouth-1SG-LOC	np:l	np		l	5036	
+matukar	mariu	0093	%	%	%	%				
+matukar	mariu	0094	#	#	#	#				
+matukar	mariu	0094	balun	shoot	np:s	np		s	5044	
+matukar	mariu	0094	sange	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0094	%	%	%	%				
+matukar	mariu	0095	#	#	#ds	#ds				
+matukar	mariu	0095	main	PROX	ln	ln				
+matukar	mariu	0095	balun	leaves	np:s	np		s	5044	
+matukar	mariu	0095	sa-nge	ascend-SEQ:D	v:pred	v		pred		
+matukar	mariu	0095	%	%	%	%				
+matukar	mariu	0095	#	#	#ds	#ds				
+matukar	mariu	0095	main	PROX	dem_pro:p	dem_pro		p	5044	
+matukar	mariu	0095	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0095	matangan	straighten	v:pred	v		pred		
+matukar	mariu	0095	-i	-3SG.P	-pro_h_p	-pro_h_p			5006	
+matukar	mariu	0095	%	%	%	%				
+matukar	mariu	0095	#	#	#	#				
+matukar	mariu	0095	i	3SG.S	pro.h:s_ds	pro	h	s_ds	5008	
+matukar	mariu	0095	bal-e	say-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0095	%	%	%	%				
+matukar	mariu	0096	#	#	#	#				
+matukar	mariu	0096	i	3SG.A	pro.h:a	pro	h	a	5006	
+matukar	mariu	0096	ZERO	ZERO	0:p	0		p	5044	
+matukar	mariu	0096	matangan	straighten	v:pred	v		pred		
+matukar	mariu	0096	-i	-3SG.P	-pro_p	-pro_p			5044	
+matukar	mariu	0096	-nge	-R:I:PFV	-rv	-rv				
+matukar	mariu	0096	%	%	%	%				
+matukar	mariu	0097	#	#	#	#				
+matukar	mariu	0097	y-	3SG.S-	-pro_s	-pro_s				
+matukar	mariu	0097	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0097	%	%	%	%				
+matukar	mariu	0098	#	#	#	#				
+matukar	mariu	0098	do	and	other	other				
+matukar	mariu	0098	ful	mustard.stick	np:s	np		s	5045	new
+matukar	mariu	0098	main-angan	TOP-FOC	rn	rn				
+matukar	mariu	0098	kudude-n-te	ear-3SG-LOC	np:l	np		l	5046	new
+matukar	mariu	0098	manig	like.this	other	other				
+matukar	mariu	0098	mais-e	rise-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0098	%	%	%	%				
+matukar	mariu	0099	#	#	#	#				
+matukar	mariu	0099	i	3SG.S	pro:s	pro		s	5045	
+matukar	mariu	0099	dah-e	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0099	%	%	%	%				
+matukar	mariu	0100	#	#	#	#				
+matukar	mariu	0100	ZERO	ZERO	0.h:a	0	h	a	5006	
+matukar	mariu	0100	ZERO	ZERO	0:p	0		p	5045	
+matukar	mariu	0100	matangan	straighten	v:pred	v		pred		
+matukar	mariu	0100	-i	-3SG.P	-pro_p	-pro_p				
+matukar	mariu	0100	%	%	%	%				
+matukar	mariu	0101	#	#	#	#				
+matukar	mariu	0101	do-p	and-IRR:D	other	other				
+matukar	mariu	0101	kas	smoke	np:predex	np		predex	5047	new
+matukar	mariu	0101	main	TOP	rn	rn				
+matukar	mariu	0101	%	%	%	%				
+matukar	mariu	0102	#	#	#	#				
+matukar	mariu	0102	kas	smoke	np:dt	np		dt	5047	
+matukar	mariu	0102	main	TOP	rn	rn				
+matukar	mariu	0102	nidu-n-te	nose-3SG-LOC	np:l	np		l	5048	new
+matukar	mariu	0102	balun	leaves	np:s	np		s	5049	bridging
+matukar	mariu	0102	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0102	%	%	%	%				
+matukar	mariu	0103	#	#	#	#				
+matukar	mariu	0103	kas	smoke	np:dt	np		dt	5047	
+matukar	mariu	0103	main-angan	TOP-FOC	rn	rn				
+matukar	mariu	0103	balun	leaves	np:s	np		s	5049	
+matukar	mariu	0103	sange	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0104	nidu-n-te	nose-3SG-LOC	np:l	np		l	5048	
+matukar	mariu	0104	%	%	%	%				
+matukar	mariu	0105	#	#	#	#				
+matukar	mariu	0105	do-p	and-IRR:D	other	other				
+matukar	mariu	0105	i	3SG.S	pro.h:s_ds	pro	h	s_ds	5008	
+matukar	mariu	0105	tulinge	say-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0105	%	%	%	%				
+matukar	mariu	0105	#	#	#ds	#ds				
+matukar	mariu	0105	milo	something	np:p	np		p	5050	new
+matukar	mariu	0105	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0105	nong-ap	hear-IRR:D	v:pred	v		pred		
+matukar	mariu	0105	%	%	%	%				
+matukar	mariu	0105	#	#	#ds	#ds				
+matukar	mariu	0105	ta	must	other	other				
+matukar	mariu	0105	ZERO	ZERO	0.1:a	0	1	a	5008	
+matukar	mariu	0105	ZERO	ZERO	0:p	0		p	5050	
+matukar	mariu	0105	nga-	1SG.A-	-pro_1_a	-pro_1_a			5008	
+matukar	mariu	0105	no-mba	know-IRR:I	v:pred	v		pred		
+matukar	mariu	0105	%	%	%	%				
+matukar	mariu	0106	#	#	#ds	#ds				
+matukar	mariu	0106	milo	something	other	other				
+matukar	mariu	0106	mug	first	other	other				
+matukar	mariu	0106	balun	leaves	np:s	np		s	5040	
+matukar	mariu	0106	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0106	main	TOP	other	other				
+matukar	mariu	0106	%	%	%	%				
+matukar	mariu	0106	#	#	#ds	#ds				
+matukar	mariu	0106	main	PROX	dem_pro:s	dem_pro		s	5040	
+matukar	mariu	0106	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	5008	
+matukar	mariu	0106	garma-u	head-1SG	np:pred	np		pred	5032	
+matukar	mariu	0106	%	%	%	%				
+matukar	mariu	0107	#	#	#ds	#ds				
+matukar	mariu	0107	main	PROX	dem_pro:s	dem_pro		s	5040	
+matukar	mariu	0107	garma-u	head-1SG	np:pred	np		pred		
+matukar	mariu	0107	maine	here	other:l	other		l		
+matukar	mariu	0107	%	%	%	%				
+matukar	mariu	0108	#	#	#	#				
+matukar	mariu	0108	balun	leaves	np:s	np		s	5040	
+matukar	mariu	0108	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0108	%	%	%	%				
+matukar	mariu	0109	#	#	#ds	#ds				
+matukar	mariu	0109	ok	OK	other	other				
+matukar	mariu	0109	milo	something	other	other				
+matukar	mariu	0109	ZERO	ZERO	0.1:s	0	1	s	5008	
+matukar	mariu	0109	nga-	1SG.S-	-pro_1_s	-pro_1_s			5008	
+matukar	mariu	0109	mat-e	die-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0109	main-angan	TOP-FOC	other	other				
+matukar	mariu	0109	main	PROX	ln	ln				
+matukar	mariu	0109	mariu	betel.nut	np:obl	np		obl	5043	
+matukar	mariu	0109	%	%	%	%				
+matukar	mariu	0110	#	#	#ds	#ds				
+matukar	mariu	0110	alop	later	other	other				
+matukar	mariu	0110	urat	work	np:obl	np		obl	5051	new
+matukar	mariu	0110	lo	in	adp	adp				
+matukar	mariu	0110	ZERO	ZERO	0.2:s	0	2	s	5006	
+matukar	mariu	0110	tor-ap	walk-IRR:D	v:pred	v		pred		
+matukar	mariu	0110	%	%	%	%				
+matukar	mariu	0110	#	#	#	#				
+matukar	mariu	0110	bura-m	throat-2SG	np:s	np		s	5052	bridging
+matukar	mariu	0110	gagau-dop	dry-IRR:D	v:pred	v		pred		
+matukar	mariu	0110	%	%	%	%				
+matukar	mariu	0110	#	#	#ds	#ds				
+matukar	mariu	0110	niu	coconut	np:dt_p	np		dt_p	5041	
+matukar	mariu	0110	main	TOP	rn	rn				
+matukar	mariu	0110	aginon	fruit-3SG	np:p	np		p	5041	
+matukar	mariu	0110	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0110	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	mariu	0110	%	%	%	%				
+matukar	mariu	0110	#	#	#ds	#ds				
+matukar	mariu	0110	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0110	ZERO	ZERO	0:p	0		p	5041	
+matukar	mariu	0110	sisi	husk	v:pred	v		pred		
+matukar	mariu	0110	%	%	%	%				
+matukar	mariu	0111	#	#	#ds	#ds				
+matukar	mariu	0111	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0111	ZERO	ZERO	0:p	0		p	5041	
+matukar	mariu	0111	sisi-p	husk-IRR:D	v:pred	v		pred		
+matukar	mariu	0111	%	%	%	%				
+matukar	mariu	0111	#	#	#ds	#ds				
+matukar	mariu	0111	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0111	ZERO	ZERO	0:p	0		p	5041	
+matukar	mariu	0111	matangan	straighten	v:pred	v		pred		
+matukar	mariu	0111	-i	-3SG.P	-pro_p	-pro_p			5041	
+matukar	mariu	0111	-ndop	-IRR:D	-rv	-rv				
+matukar	mariu	0111	main	TOP	other	other				
+matukar	mariu	0111	%	%	%	%				
+matukar	mariu	0111	#	#	#ds	#ds				
+matukar	mariu	0111	main	PROX	dem_pro:s	dem_pro		s	5041	
+matukar	mariu	0111	mata-u	eye-1SG	np:pred	np		pred	5053	new
+matukar	mariu	0111	%	%	%	%				
+matukar	mariu	0112	#	#	#ds	#ds				
+matukar	mariu	0112	mata-u	eye-1SG	np:s	np		s	5053	
+matukar	mariu	0112	maine	here	other:pred	other		pred		
+matukar	mariu	0112	%	%	%	%				
+matukar	mariu	0113	#	#	#ds	#ds				
+matukar	mariu	0113	main	PROX	dem_pro:s	dem_pro		s	5048	
+matukar	mariu	0113	nid-u	nose-1SG	np:pred	np		pred		
+matukar	mariu	0113	%	%	%	%				
+matukar	mariu	0114	#	#	#ds	#ds				
+matukar	mariu	0114	nidu	nose-1SG	np:s	np		s	5048	
+matukar	mariu	0114	maine	here	other:pred	other		pred		
+matukar	mariu	0114	%	%	%	%				
+matukar	mariu	0115	#	#	#ds	#ds				
+matukar	mariu	0115	main	PROX	dem_pro:s	dem_pro		s	5036	
+matukar	mariu	0115	awa-u	mouth-1SG	np:pred	np		pred		
+matukar	mariu	0115	%	%	%	%				
+matukar	mariu	0116	#	#	#ds	#ds				
+matukar	mariu	0116	main	PROX	dem_pro:s	dem_pro		s	5032	
+matukar	mariu	0116	ngau	1SG.S	ln_pro.1:dt	ln_pro	1	dt	5008	
+matukar	mariu	0116	garmau	head-1SG	np:pred	np		pred		
+matukar	mariu	0116	%	%	%	%				
+matukar	mariu	0117	#	#	#nc	#nc				
+matukar	mariu	0117	maine	here	nc	nc				
+matukar	mariu	0117	%	%	%	%				
+matukar	mariu	0118	#	#	#ds	#ds				
+matukar	mariu	0118	gamomani	now	other	other				
+matukar	mariu	0118	niu	coconut	np:s	np		s	5041	
+matukar	mariu	0118	saipid	ascend	v:pred	v		pred		
+matukar	mariu	0118	%	%	%	%				
+matukar	mariu	0119	#	#	#ds	#ds				
+matukar	mariu	0119	do-p	and-IRR:D	other	other				
+matukar	mariu	0119	ha-n	POSS-3SG	nc	nc				
+matukar	mariu	0119	ilo-n-lo	inside-3SG-LOC	nc	nc				
+matukar	mariu	0119	bura-m	throat-2SG	np:s	np		s	5052	
+matukar	mariu	0119	gagau-tap	dry-COND	v:pred	v		pred		
+matukar	mariu	0119	%	%	%	%				
+matukar	mariu	0119	#	#	#ds	#ds				
+matukar	mariu	0119	niu	coconut	np:p	np		p	5041	
+matukar	mariu	0119	main	TOP	rn	rn				
+matukar	mariu	0119	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0119	tare-p	cut-IRR:D	v:pred	v		pred		
+matukar	mariu	0119	%	%	%	%				
+matukar	mariu	0119	#	#	#ds	#ds				
+matukar	mariu	0119	tor	coconut.water	np:s	np		s	5054	bridging
+matukar	mariu	0119	ilo-n-lo	inside-3SG-LOC	np:l	np		l	5055	bridging
+matukar	mariu	0119	y-	3SG.S-	-pro_s	-pro_s			5054	
+matukar	mariu	0119	en-ago	exist-R:I:IMPV	v:pred	v		pred		
+matukar	mariu	0119	%	%	%	%				
+matukar	mariu	0120	#	#	#ds	#ds				
+matukar	mariu	0120	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0120	ZERO	ZERO	0:p	0		p	5041	
+matukar	mariu	0120	w-	2SG.A-	-pro_2_a	-pro_2_a			5006	
+matukar	mariu	0120	abi-sa-p	hold-DIR_upwards-IRR:D	v:pred	v		pred		
+matukar	mariu	0120	%	%	%	%				
+matukar	mariu	0120	#	#	#ds	#ds				
+matukar	mariu	0120	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0120	ZERO	ZERO	0:p	0		p	5054	
+matukar	mariu	0120	lumi-ndop	drink-IRR:D	v:pred	v		pred		
+matukar	mariu	0120	%	%	%	%				
+matukar	mariu	0120	#	#	#ds	#ds				
+matukar	mariu	0120	balbal	fat	np:predex	np		predex	5056	bridging
+matukar	mariu	0120	kasik	instensifier	other	other				
+matukar	mariu	0120	%	%	%	%				
+matukar	mariu	0121	#	#	#ds	#ds				
+matukar	mariu	0121	balbal	fat	np:predex	np		predex	5056	
+matukar	mariu	0121	kasik	intensifier	other	other				
+matukar	mariu	0121	main	TOP	other	other				
+matukar	mariu	0121	%	%	%	%				
+matukar	mariu	0122	#	#	#ds	#ds				
+matukar	mariu	0122	dop	and-IRR:D	other	other				
+matukar	mariu	0122	alop	later	other	other				
+matukar	mariu	0122	milo	food	np:p	np		p	5057	new
+matukar	mariu	0122	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0122	w-	2SG.A-	-pro_2_a	-pro_2_a			5006	
+matukar	mariu	0122	ani-ndop	eat-IRR:D	v:pred	v		pred		
+matukar	mariu	0122	%	%	%	%				
+matukar	mariu	0122	#	#	#ds	#ds				
+matukar	mariu	0122	hanat	what	other:p	other		p		
+matukar	mariu	0122	awa-m-lo	mouth-2SG-LOC_in	np:l	np		l	5058	new
+matukar	mariu	0122	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0122	matangan	straighten	v:pred	v		pred		
+matukar	mariu	0122	-i	-3SG.P	-pro_p	-pro_p				
+matukar	mariu	0122	-mba	-I:IRR	-rv	-rv				
+matukar	mariu	0122	%	%	%	%				
+matukar	mariu	0123	#	#	#ds	#ds				
+matukar	mariu	0123	main	PROX	dem_pro:s	dem_pro		s	5043	
+matukar	mariu	0123	mariu	betel.nit	np:pred	np		pred		
+matukar	mariu	0123	main	TOP	rn	rn				
+matukar	mariu	0123	%	%	%	%				
+matukar	mariu	0124	#	#	#ds	#ds				
+matukar	mariu	0124	mariu	betel.nut	np:p	np		p	5043	
+matukar	mariu	0124	main	TOP	rn	rn				
+matukar	mariu	0124	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0124	ngale-ndop	take-IRR:D	v:pred	v		pred		
+matukar	mariu	0124	%	%	%	%				
+matukar	mariu	0124	#	#	#ds	#ds				
+matukar	mariu	0124	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0124	ZERO	ZERO	0:p	0		p	5043	
+matukar	mariu	0124	mam	chew	v:pred	v		pred		
+matukar	mariu	0124	%	%	%	%				
+matukar	mariu	0125	#	#	#ds	#ds				
+matukar	mariu	0125	do	and	other	other				
+matukar	mariu	0125	ful	mustard.stick	np:p	np		p	5045	
+matukar	mariu	0125	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0125	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	mariu	0125	%	%	%	%				
+matukar	mariu	0125	#	#	#ds	#ds				
+matukar	mariu	0125	nga-ha-u	1SG.POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	5008	
+matukar	mariu	0125	tutu	bones	np:p	np		p	5059	new
+matukar	mariu	0125	main-angan	TOP-FOC	rn	rn				
+matukar	mariu	0125	yau	fire	np:a	np		a	5031	
+matukar	mariu	0125	nani-nge	light-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0125	ebla	COMP	other	other				
+matukar	mariu	0125	kau-ong	lime.powder-COMP	np:other	np		other	5060	new
+matukar	mariu	0125	%	%	%	%				
+matukar	mariu	0126	#	#	#ds	#ds				
+matukar	mariu	0126	dop	and-IRR:D	other	other				
+matukar	mariu	0126	ful	mustard.stick	np:p	np		p	5045	
+matukar	mariu	0126	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0126	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	mariu	0126	%	%	%	%				
+matukar	mariu	0126	#	#	#ds	#ds				
+matukar	mariu	0126	tutu	bones	np:g	np		g	5059	
+matukar	mariu	0126	main-te	TOP-LOC	rn	rn				
+matukar	mariu	0126	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0126	ZERO	ZERO	0:p	0		p	5045	
+matukar	mariu	0126	suwe-p	stab-IRR:D	v:pred	v		pred		
+matukar	mariu	0126	%	%	%	%				
+matukar	mariu	0126	#	#	#ds	#ds				
+matukar	mariu	0126	ZERO	ZERO	0.2:s	0	2	s	5006	
+matukar	mariu	0126	w-	2SG.S-	-pro_2_s	-pro_2_s			5006	
+matukar	mariu	0126	a-p	go-IRR:D	v:pred	v		pred		
+matukar	mariu	0126	%	%	%	%				
+matukar	mariu	0126	#	#	#ds	#ds				
+matukar	mariu	0126	maine	here	other	other				
+matukar	mariu	0126	kau	lime.powder	np:s	np		s	5060	
+matukar	mariu	0126	maine	here	other:pred_l	other		pred_l		
+matukar	mariu	0126	%	%	%	%				
+matukar	mariu	0127	#	#	#nc	#nc				
+matukar	mariu	0127	do-p	and-IRR:D	nc	nc				
+matukar	mariu	0127	main	PROX	nc	nc				
+matukar	mariu	0127	%	%	%	%				
+matukar	mariu	0128	#	#	#ds	#ds				
+matukar	mariu	0128	ful	mustard.stick	np:p	np		p	5045	
+matukar	mariu	0128	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0128	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	mariu	0128	%	%	%	%				
+matukar	mariu	0128	#	#	#ds	#ds				
+matukar	mariu	0128	mariu	betel.nut	np:p	np		p	5043	
+matukar	mariu	0128	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0128	mam-do	chew-R:D	v:pred	v		pred		
+matukar	mariu	0128	%	%	%	%				
+matukar	mariu	0128	#	#	#ds	#ds				
+matukar	mariu	0128	ful	mustard.stick	np:p	np		p	5045	
+matukar	mariu	0128	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0128	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	mariu	0128	%	%	%	%				
+matukar	mariu	0128	#	#	#ds	#ds				
+matukar	mariu	0128	kau-te	lime.powder-LOC	np:g	np		g	5060	
+matukar	mariu	0128	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0128	ZERO	ZERO	0:p	0		p	5045	
+matukar	mariu	0128	suwe	stab	v:pred	v		pred		
+matukar	mariu	0128	%	%	%	%				
+matukar	mariu	0129	#	#	#ds	#ds				
+matukar	mariu	0129	dop	and-IRR:D	other	other				
+matukar	mariu	0129	mariu	betel.nit	np:p	np		p	5043	
+matukar	mariu	0129	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0129	mam	chew	v:pred	v		pred		
+matukar	mariu	0129	%	%	%	%				
+matukar	mariu	0130	#	#	#ds	#ds				
+matukar	mariu	0130	do-p	do-IRR:D	other	other				
+matukar	mariu	0130	awa-m	mouth-2SG	np:s	np		s	5058	
+matukar	mariu	0130	daran	red	np:pred	np		pred		
+matukar	mariu	0130	kasik	intensifier	other	other				
+matukar	mariu	0130	%	%	%	%				
+matukar	mariu	0130	#	#	#ds	#ds				
+matukar	mariu	0130	balbal	fat	np:predex	np		predex	5061	bridging
+matukar	mariu	0130	kasik	intensifier	other	other				
+matukar	mariu	0130	%	%	%	%				
+matukar	mariu	0131	#	#	#	#				
+matukar	mariu	0131	do-p	and-IRR:D	other	other				
+matukar	mariu	0131	alop	later	other	other				
+matukar	mariu	0131	hanat	what	other:a	other		a		
+matukar	mariu	0131	nidu-m	nose-2SG	np:p	np		p	5062	bridging
+matukar	mariu	0131	matangan	straighten	v:pred	v		pred		
+matukar	mariu	0131	-i	-3SG.P	-pro_p	-pro_p			5062	
+matukar	mariu	0131	-mba	-I:IRR	-rv	-rv				
+matukar	mariu	0131	%	%	%	%				
+matukar	mariu	0132	#	#	#ds	#ds				
+matukar	mariu	0132	maine	here	dem_pro:predex	dem_pro		predex	5047	
+matukar	mariu	0132	%	%	%	%				
+matukar	mariu	0133	#	#	#ds	#ds				
+matukar	mariu	0133	kas	tobacco	np:predex	np		predex	5047	
+matukar	mariu	0133	main	TOP	rn	rn				
+matukar	mariu	0133	%	%	%	%				
+matukar	mariu	0134	#	#	#ds	#ds				
+matukar	mariu	0134	kas	smoke	np:p	np		p	5047	
+matukar	mariu	0134	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0134	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	mariu	0134	milo-k	something-NOM.UNPOSS	np:obl	np		obl		
+matukar	mariu	0134	hadok	half	ln	ln				
+matukar	mariu	0134	dai	k.o.tree	ln	ln				
+matukar	mariu	0134	raun	leaf	np:appos	np		appos	5064	new
+matukar	mariu	0134	%	%	%	%				
+matukar	mariu	0134	#	#	#ds	#ds				
+matukar	mariu	0134	wagamami	befoe	other	other				
+matukar	mariu	0134	dai	k.o.tree	ln	ln				
+matukar	mariu	0134	raun	leaf	np:obl	np		obl	5064	
+matukar	mariu	0134	hona	with	adp	adp				
+matukar	mariu	0134	kas	tobacco	np:p	np		p	5047	
+matukar	mariu	0134	ZERO	ZERO	0.h:a	0	h	a	5065	new
+matukar	mariu	0134	di-	3PL.A-	-pro_h_a	-pro_h_a			5065	
+matukar	mariu	0134	rai-ng(gokai)	smoke-R:I:IMPV	v:pred	v		pred		
+matukar	mariu	0134	%	%	%	%				
+matukar	mariu	0134	#	#	#ds	#ds				
+matukar	mariu	0134	dai	k.o.tree	np:s	np		s	5063	bridging
+matukar	mariu	0134	maine	here	other:pred	other		pred		
+matukar	mariu	0134	%	%	%	%				
+matukar	mariu	0135	#	#	#ds	#ds				
+matukar	mariu	0135	maine	here	dem_pro:predex	dem_pro		predex	5064	
+matukar	mariu	0135	%	%	%	%				
+matukar	mariu	0136	#	#	#ds	#ds				
+matukar	mariu	0136	dai	k.o.tree	ln	ln				
+matukar	mariu	0136	raun	leaf	np:s	np		s	5064	
+matukar	mariu	0136	matiman	dry-APS-3SG	np:pred	np		pred		
+matukar	mariu	0136	%	%	%	%				
+matukar	mariu	0137	#	#	#nc	#nc				
+matukar	mariu	0137	main	this	nc	nc				
+matukar	mariu	0137	%	%	%	%				
+matukar	mariu	0138	#	#	#ds	#ds				
+matukar	mariu	0138	main	PROX	dem_pro:obl	dem_pro		obl	5064	
+matukar	mariu	0138	hona	with	adp	adp				
+matukar	mariu	0138	kas	tobacco	np:p	np		p	5047	
+matukar	mariu	0138	ZERO	ZERO	0.h:a	0	h	a	5065	
+matukar	mariu	0138	di-	3PL.A-	-pro_h_a	-pro_h_a			5065	
+matukar	mariu	0138	nage-nge	make-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	mariu	0138	%	%	%	%				
+matukar	mariu	0139	#	#	#ds	#ds				
+matukar	mariu	0139	kas	tobacco	np:s	np		s	5047	
+matukar	mariu	0139	milo-k-ap	something-NOM.UNPOSS-IRR:D	np:pred	np		pred		
+matukar	mariu	0139	main-angan	TOP-FOC	other	other				
+matukar	mariu	0139	%	%	%	%				
+matukar	mariu	0139	#	#	#ds	#ds				
+matukar	mariu	0139	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0139	ZERO	ZERO	0:p	0		p	5064	
+matukar	mariu	0139	rabuti-p	tear-IRR:D	v:pred	v		pred		
+matukar	mariu	0139	ti-dop	finish-IRR:D	aux	aux				
+matukar	mariu	0139	%	%	%	%				
+matukar	mariu	0139	#	#	#ds	#ds				
+matukar	mariu	0139	kas	cigarette	ln_np	ln_np			5066	bridging
+matukar	mariu	0139	ilo-n-lo	inside-3SG-LOC	np:l	np		l	5067	bridging
+matukar	mariu	0139	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0139	ZERO	ZERO	0:p	0		p	5064	
+matukar	mariu	0139	nage-p-ma	put-IRR:D-D:HAB	v:pred	v		pred		
+matukar	mariu	0139	%	%	%	%				
+matukar	mariu	0139	#	#	#ds	#ds				
+matukar	mariu	0139	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0139	ZERO	ZERO	0:p	0		p	5066	
+matukar	mariu	0139	bule-bule-ndop	twist-twist.REDUP-IRR:D	v:pred	v		pred		
+matukar	mariu	0139	%	%	%	%				
+matukar	mariu	0139	#	#	#ds	#ds				
+matukar	mariu	0139	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0139	ZERO	ZERO	0:p	0		p	5066	
+matukar	mariu	0139	rai-mba	pull-IRR:I	v:pred	v		pred		
+matukar	mariu	0139	%	%	%	%				
+matukar	mariu	0140	#	#	#ds	#ds				
+matukar	mariu	0140	yau	fire	np:p	np		p	5068	bridging
+matukar	mariu	0140	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0140	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	mariu	0140	%	%	%	%				
+matukar	mariu	0140	#	#	#ds	#ds				
+matukar	mariu	0140	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0140	ZERO	ZERO	0:p	0		p	5066	
+matukar	mariu	0140	rai	pull	v:pred	v		pred		
+matukar	mariu	0140	%	%	%	%				
+matukar	mariu	0141	#	#	#ds	#ds				
+matukar	mariu	0141	do-p	and-IRR:D	other	other				
+matukar	mariu	0141	nidu-m	nose-2SG	np:l	np		l	5062	
+matukar	mariu	0141	do-p	and-IRR:D	other	other				
+matukar	mariu	0141	yau	fire	ln	ln				
+matukar	mariu	0141	kas	smoke	np:s	np		s	5069	bridging
+matukar	mariu	0141	saipid-op	ascend-IRR:D	v:pred	v		pred		
+matukar	mariu	0141	%	%	%	%				
+matukar	mariu	0141	#	#	#ds	#ds				
+matukar	mariu	0141	balbal	fat	np:predex	np		predex	5070	new
+matukar	mariu	0141	kasik	intensifier	other	other				
+matukar	mariu	0141	%	%	%	%				
+matukar	mariu	0142	#	#	#nc	#nc				
+matukar	mariu	0142	main	PROX	nc	nc				
+matukar	mariu	0142	%	%	%	%				
+matukar	mariu	0143	#	#	#ds	#ds				
+matukar	mariu	0143	main	PROX	dem_pro:dt	dem_pro		dt	5043	
+matukar	mariu	0143	alop	later	other	other				
+matukar	mariu	0143	main-angan	PROX-FOC	dem_pro:dt	dem_pro		dt	5045	
+matukar	mariu	0143	niu	coconut	np:p	np		p	5041	
+matukar	mariu	0143	main	TOP	rn	rn				
+matukar	mariu	0143	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0143	matangan	straighten	v:pred	v		pred		
+matukar	mariu	0143	-i	-3SG.P	-pro_p	-pro_p			5041	
+matukar	mariu	0143	%	%	%	%				
+matukar	mariu	0144	#	#	#	#				
+matukar	mariu	0144	niu	coconut	np:s	np		s	5041	
+matukar	mariu	0144	main	TOP	rn	rn				
+matukar	mariu	0144	ha-n	POSS-3SG	ln	ln				
+matukar	mariu	0144	urat-ama-n	work-APS-3SG	np:pred	np		pred		
+matukar	mariu	0144	kasik	intensifier	rn	rn				
+matukar	mariu	0144	niu	coconut	np:dt_s	np		dt_s		
+matukar	mariu	0144	main	TOP	rn	rn				
+matukar	mariu	0144	%	%	%	%				
+matukar	mariu	0145	#	#	#ds	#ds				
+matukar	mariu	0145	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0145	ZERO	ZERO	0:p	0		p	5041	
+matukar	mariu	0145	neni-mba	scrape-IRR:D	v:pred	v		pred		
+matukar	mariu	0145	%	%	%	%				
+matukar	mariu	0145	#	#	#ds	#ds				
+matukar	mariu	0145	mati-ma-n	dry-APS-3SG	np:p	np		p	5071	bridging
+matukar	mariu	0145	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0145	neni-mba	scrape-IRR:O	v:pred	v		pred		
+matukar	mariu	0145	%	%	%	%				
+matukar	mariu	0146	#	#	#ds	#ds				
+matukar	mariu	0146	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0146	ZERO	ZERO	0:p	0		p	5071	
+matukar	mariu	0146	neni-p	scrape-IRR:D	v:pred	v		pred		
+matukar	mariu	0146	%	%	%	%				
+matukar	mariu	0146	#	#	#ds	#ds				
+matukar	mariu	0146	hona	with	adp	adp				
+matukar	mariu	0146	milo	something	np:obl	np		obl	5075	new
+matukar	mariu	0146	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0146	ZERO	ZERO	0:p	0		p	5071	
+matukar	mariu	0146	nage-p	put-IRR:D	v:pred	v		pred		
+matukar	mariu	0146	%	%	%	%				
+matukar	mariu	0146	#	#	#ds	#ds				
+matukar	mariu	0146	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0146	ZERO	ZERO	0:p	0		p	5071	
+matukar	mariu	0146	w-	2SG.A-	-pro_2_a	-pro_2_a			5006	
+matukar	mariu	0146	ani-p	eat-IRR:D	v:pred	v		pred		
+matukar	mariu	0146	%	%	%	%				
+matukar	mariu	0146	#	#	#ds	#ds				
+matukar	mariu	0146	luwa-m-puk	middle-2SG.COMPL	np:other	np		other		
+matukar	mariu	0146	balbal	fat	np:predex	np		predex	5056	
+matukar	mariu	0146	kasik	intensifier	other	other				
+matukar	mariu	0146	maine	here	other	other				
+matukar	mariu	0146	%	%	%	%				
+matukar	mariu	0147	#	#	#nc	#nc				
+matukar	mariu	0147	ha-n	POSS-3SG	nc	nc				
+matukar	mariu	0147	mati-ma-n	dry-APS-3SG	nc	nc				
+matukar	mariu	0147	%	%	%	%				
+matukar	mariu	0148	#	#	#ds	#ds				
+matukar	mariu	0148	kokoten	young.coconut	np:p	np		p	5072	bridging
+matukar	mariu	0148	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0148	sisi-ndop	husk-IRR:D	v:pred	v		pred		
+matukar	mariu	0148	%	%	%	%				
+matukar	mariu	0148	#	#	#ds	#ds				
+matukar	mariu	0148	ZERO	ZERO	0.2:a	0	2	a	5006	
+matukar	mariu	0148	ZERO	ZERO	0:p	0		p	5072	
+matukar	mariu	0148	lumi-mba	drink-IRR:I	v:pred	v		pred		
+matukar	mariu	0148	%	%	%	%				
+matukar	mariu	0149	#	#	#ds	#ds				
+matukar	mariu	0149	main	PROX	dem_pro:s	dem_pro		s	5032	
+matukar	mariu	0149	ngau	1SG.S	ln_pro.1:dt	ln_pro	1	dt	5008	
+matukar	mariu	0149	garma-u	head-1SG	np:pred	np		pred		
+matukar	mariu	0149	%	%	%	%				
+matukar	mariu	0149	#	#	#ds	#ds				
+matukar	mariu	0149	garma-u	head-1SG	np:s	np		s	5032	
+matukar	mariu	0149	maine	here	other:pred	other		pred		
+matukar	mariu	0149	%	%	%	%				
+matukar	mariu	0150	#	#	#	#				
+matukar	mariu	0150	gaumomoni	now	other	other				
+matukar	mariu	0150	main	PROX	dem_pro:p	dem_pro		p	5032	
+matukar	mariu	0150	ZERO	ZERO	0.2:a	0	2	a		
+matukar	mariu	0150	te-nggo	see-R:I:IMPV	v:pred	v		pred		
+matukar	mariu	0150	%	%	%	%				
+matukar	mariu	0151	#	#	#ds	#ds				
+matukar	mariu	0151	main	PROX	dem_pro:s	dem_pro		s	5053	
+matukar	mariu	0151	mata-n	eye-3SG	np:pred	np		pred		
+matukar	mariu	0151	%	%	%	%				
+matukar	mariu	0151	#	#	#	#				
+matukar	mariu	0151	main	PROX	dem_pro:s	dem_pro		s	5048	
+matukar	mariu	0151	nidu-n	nose-3SG	np:pred	np		pred		
+matukar	mariu	0151	maine	here	other	other				
+matukar	mariu	0151	%	%	%	%				
+matukar	mariu	0151	#	#	#	#				
+matukar	mariu	0151	do	and	other	other				
+matukar	mariu	0151	main	PROX	dem_pro:s	dem_pro		s	5036	
+matukar	mariu	0151	awa-n	mouth-3SG	np:pred	np		pred		
+matukar	mariu	0151	%	%	%	%				
+matukar	mariu	0152	#	#	#	#				
+matukar	mariu	0152	main	PROX	dem_pro:dt	dem_pro		dt	5001	
+matukar	mariu	0152	do	and	other	other				
+matukar	mariu	0152	tati	nothing	np:s	np		s		
+matukar	mariu	0152	maine	here	other:pred_l	other		pred_l		
+matukar	mariu	0152	%	%	%	%				
+matukar	mariu	0152	#	#	#	#				
+matukar	mariu	0152	ZERO	ZERO	0:s	0		s	5001	
+matukar	mariu	0152	ti-e	finish-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0152	%	%	%	%				
+matukar	mariu	0153	#	#	#	#				
+matukar	mariu	0153	main	PROX	ln	ln				
+matukar	mariu	0153	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	5002	
+matukar	mariu	0153	stori	story	np:s	np		s	5001	
+matukar	mariu	0153	ya-	3SG.S-	-pro_s	-pro_s			5001	
+matukar	mariu	0153	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0153	maine	here	other	other				
+matukar	mariu	0153	%	%	%	%				
+matukar	mariu	0154	#	#	#	#				
+matukar	mariu	0154	ngau	1SG.S	ln_pro.1:poss	ln_pro	1	poss	5002	
+matukar	mariu	0154	neraurau	story	np:s	np		s	5001	
+matukar	mariu	0154	ya-	3SG.S-	-pro_s	-pro_s			5001	
+matukar	mariu	0154	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	mariu	0154	%	%	%	%				
+matukar	mariu	0154	#	#	#	#				
+matukar	mariu	0154	ZERO	ZERO	0:s	0		s	5001	
+matukar	mariu	0154	ti-e	finish-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0154	maine	here	other	other				
+matukar	mariu	0154	%	%	%	%				
+matukar	mariu	0155	#	#	#	#				
+matukar	mariu	0155	main	PROX	dem_pro:s	dem_pro		s	5001	
+matukar	mariu	0155	niu	coconut	ln	ln				
+matukar	mariu	0155	ha-n	POSS.3SG	ln	ln				
+matukar	mariu	0155	neraurau	story	np:pred	np		pred		
+matukar	mariu	0156	niu	coconut	nc	nc				
+matukar	mariu	0156	do	and	nc	nc				
+matukar	mariu	0156	mariu	betel.nut	nc	nc				
+matukar	mariu	0156	%	%	%	%				
+matukar	mariu	0157	#	#	#	#				
+matukar	mariu	0157	main	PROX	dem_pro:s	dem_pro		s	5001	
+matukar	mariu	0157	gam	already	other	other				
+matukar	mariu	0157	tie	finish-R:I:PFV	v:pred	v		pred		
+matukar	mariu	0157	%	%	%	%				

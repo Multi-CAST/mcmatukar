@@ -1,0 +1,21 @@
+{
+    "id": "mcmatukar",
+    "title": "Multi-CAST Matukar Panau",
+    "description": "**Matukar Panau** is a highly endangered Oceanic language spoken around 45 km north of Madang, Papua New Guinea. Although most children are no longer learning Matukar Panau, current speakers (approximately 300) form a vibrant community of multilinguals in dense social networks. As an Oceanic language on the Papua New Guinea coast, Matukar Panau has many interesting Papuan features.\n\nThe Multi-CAST Matukar Panau corpus constitutes a small subset of recordings made by Danielle Barth during her fieldwork between 2010\u20132020 (Australian National University Asia-Pacific Innovation Program Grant, *Resolving Ambiguity: What face-to-face communication can contribute*, PI: Danielle Barth); language documentation is ongoing. Data has been transcribed and translated with help from local community members, especially Kadagoi Rawad Forepiso and Rudolf Raward. Recordings can be found in the [ELAR](http://hdl.handle.net/2196/00-0000-0000-0012-388F-3) and PARADISEC ([1](http://catalog.paradisec.org.au/collections/DGB1), [2](http://catalog.paradisec.org.au/collections/SocCog)) archives. More information and resources on the language can be found on the [project website](https://matukar.wordpress.com/).\n\nThe texts in Multi-CAST were glossed with GRAID and RefIND by Danielle Barth, Kira Davey, and Maria Matheas. In addition to monologue narratives, some stimulus-based conversational descriptions have also been annotated with these schemata to enable research about referent expression when describing familiar and unfamiliar objects, places, and people. Recordings of these events are archived in ELAR and PARADISEC and those archives will eventually also provide open access to ELAN files with the annotations.",
+    "license": "CC-BY-4.0",
+    "url": "https://multicast.aspra.uni-bamberg.de/#matukar",
+    "citation": "Barth, Danielle & Davey, Kira & Matheas, Maria. 2023. Multi-CAST Matukar Panau. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2311. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#matukar) (date accessed)",
+    "version": "2311",
+    "language": "Matukar Panau",
+    "glottocode": "matu1261",
+    "affiliation": "Austronesian, Malayo-Polynesian, Oceanic",
+    "varieties": "Matukar Panau",
+    "areas": "Matukar village, Madang Province, Papua New Guinea",
+    "contributors": [
+        "Danielle Barth",
+        "Kira Davey",
+        "Maria Matheas"
+    ],
+    "image_description": "A tree in Matukar village, Madau Province, Papua New Guinea. Photo by Danielle Barth, 2013.",
+    "docs": []
+}

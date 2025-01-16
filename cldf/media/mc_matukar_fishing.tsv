@@ -1,0 +1,749 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+matukar	fishing	0001	#	#	#	#				
+matukar	fishing	0001	nornen	yesterday	other	other				
+matukar	fishing	0001	sabi	sun	np:other	np		other		
+matukar	fishing	0001	dabok	big	rn	rn				
+matukar	fishing	0001	ZERO	ZERO	0.1:s	0	1	s	2001	new
+matukar	fishing	0001	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0001	si-la-nge	descend-away-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0001	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	2001	
+matukar	fishing	0001	iwauud	in-laws	np.h:obl	np	h	obl	2002	new
+matukar	fishing	0001	di-da	3PL.S-COM	adp	adp				
+matukar	fishing	0001	%	%	%	%				
+matukar	fishing	0002	#	#	#	#				
+matukar	fishing	0002	nub	water	ln	ln				
+matukar	fishing	0002	awa-n-te	mouth-3SG-LOC	np:l	np		l	2003	new
+matukar	fishing	0003	gum	hermit.crab	np:p	np		p	2004	new
+matukar	fishing	0003	ZERO	ZERO	0.1:a	0	1	a	2005	bridging
+matukar	fishing	0003	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			2005	
+matukar	fishing	0003	hate-nge	break-SEQ:D	v:pred	v		pred		
+matukar	fishing	0003	ti-do	finish-R:D	aux	aux				
+matukar	fishing	0003	%	%	%	%				
+matukar	fishing	0003	#	#	#	#				
+matukar	fishing	0003	onon	hook	np:p	np		p	2006	new
+matukar	fishing	0003	ZERO	ZERO	0.1:a	0	1	a	2005	
+matukar	fishing	0003	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			2005	
+matukar	fishing	0003	bal-e	throw-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0003	%	%	%	%				
+matukar	fishing	0004	#	#	#	#				
+matukar	fishing	0004	onon	hook	np:p	np		p	2006	
+matukar	fishing	0004	ZERO	ZERO	0.1:a	0	1	a	2005	
+matukar	fishing	0004	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			2005	
+matukar	fishing	0004	baldo	throw-R:D	v:pred	v		pred		
+matukar	fishing	0004	%	%	%	%				
+matukar	fishing	0004	#	#	#	#				
+matukar	fishing	0004	ngau	1SG.A	pro.1:a	pro	1	a	2001	
+matukar	fishing	0004	wasing	fish	np:p	np		p	2007	bridging
+matukar	fishing	0004	kasik	very	rn	rn				
+matukar	fishing	0004	main	TOP	rn	rn				
+matukar	fishing	0004	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0004	wane-nge	catch-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0004	%	%	%	%				
+matukar	fishing	0005	#	#	#	#				
+matukar	fishing	0005	wasing	fish	ln	ln				
+matukar	fishing	0005	haiyan	small	ln	ln				
+matukar	fishing	0005	waran	pieces	np:predex	np		predex	2007	
+matukar	fishing	0005	%	%	%	%				
+matukar	fishing	0006	#	#	#	#				
+matukar	fishing	0006	mumolau	kind_of_reef_fish	np:p	np		p	2009	bridging
+matukar	fishing	0006	tol	three	rn	rn				
+matukar	fishing	0006	sina	kind_of_reef_fish	rn_np	rn_np			2010	bridging
+matukar	fishing	0006	aru	two	rn	rn				
+matukar	fishing	0006	bub	kind_of_reef_fish	rn_np	rn_np			2011	bridging
+matukar	fishing	0006	tahaik	one	rn	rn				
+matukar	fishing	0007	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0007	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0007	ngale-das-e	take-ascend-SEQ:D	v:pred	v		pred		
+matukar	fishing	0007	main	TOP	other	other				
+matukar	fishing	0007	%	%	%	%				
+matukar	fishing	0007	#	#	#	#				
+matukar	fishing	0007	yau	fire	np:p	np		p	2012	new
+matukar	fishing	0007	ZERO	ZERO	0.1:a	0	1	a	2005	
+matukar	fishing	0007	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			2005	
+matukar	fishing	0007	tauni-nge	make-SEQ:D	v:pred	v		pred		
+matukar	fishing	0007	%	%	%	%				
+matukar	fishing	0007	#	#	#	#				
+matukar	fishing	0007	ZERO	ZERO	0.1:a	0	1	a	2005	
+matukar	fishing	0007	ZERO	ZERO	np:p	np		p	2007	
+matukar	fishing	0007	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			2005	
+matukar	fishing	0007	mamari-nge	smoke-SEQ:D	v:pred	v		pred		
+matukar	fishing	0007	%	%	%	%				
+matukar	fishing	0007	#	#	#	#				
+matukar	fishing	0007	fud-ama-n-da	banana-APS-3SG-COM	np:obl	np		obl	2013	new
+matukar	fishing	0007	ZERO	ZERO	0.1:a	0	1	a	2005	
+matukar	fishing	0007	ZERO	ZERO	np:p	np		p	2007	
+matukar	fishing	0007	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			2005	
+matukar	fishing	0007	ani-nge	eat-SEQ:D	v:pred	v		pred		
+matukar	fishing	0007	ti-do	finish-R:D	aux	aux				
+matukar	fishing	0007	%	%	%	%				
+matukar	fishing	0008	#	#	#	#				
+matukar	fishing	0008	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	2001	
+matukar	fishing	0008	iwau	in-law	np.h:p	np	h	p	2014	bridging
+matukar	fishing	0008	Yalmai	Yalmai_(Rebecca)	pn_np.h:appos	pn_np	h	appos	2014	
+matukar	fishing	0008	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0008	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0008	dud	send	v:pred	v		pred		
+matukar	fishing	0008	-i	-3SG.P	-pro_h_p	-pro_h_p			2014	
+matukar	fishing	0008	-nge	-SEQ:D	-rv	-rv				
+matukar	fishing	0008	%	%	%	%				
+matukar	fishing	0008	#	#	#	#				
+matukar	fishing	0008	ZERO	ZERO	0.h:s	0	h	s	2014	
+matukar	fishing	0008	y-	3SG.S-	-pro_h_s	-pro_h_s			2014	
+matukar	fishing	0008	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	fishing	0008	%	%	%	%				
+matukar	fishing	0008	#	#	#	#				
+matukar	fishing	0008	gum	hermit.crab	np:other	np		other	2015	new
+matukar	fishing	0008	wai	like	adp	adp				
+matukar	fishing	0008	ZERO	ZERO	0.h:s	0	h	s	2014	
+matukar	fishing	0008	y-	3SG.S-	-pro_h_s	-pro_h_s			2014	
+matukar	fishing	0008	ep-ado-nge	look-AGAIN-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0008	%	%	%	%				
+matukar	fishing	0009	#	#	#	#				
+matukar	fishing	0009	gum	hermit_crab	np:other	np		other	2015	
+matukar	fishing	0009	wai	like	adp	adp				
+matukar	fishing	0009	ZERO	ZERO	0.h:s	0	h	s	2014	
+matukar	fishing	0009	y-	3SG.S-	-pro_h_s	-pro_h_s			2014	
+matukar	fishing	0009	ep-e	look-SEQ:D	v:pred	v		pred		
+matukar	fishing	0009	%	%	%	%				
+matukar	fishing	0009	#	#	#	#				
+matukar	fishing	0009	ZERO	ZERO	0.h:a	0	h	a	2014	
+matukar	fishing	0009	ZERO	ZERO	0:p	0		p	2016	bridging
+matukar	fishing	0009	ngale-si-nge	take-downwards-SEQ:D	v:pred	v		pred		
+matukar	fishing	0009	%	%	%	%				
+matukar	fishing	0009	#	#	#	#				
+matukar	fishing	0009	ZERO	ZERO	0.1:a	0	1	a	2005	
+matukar	fishing	0009	ZERO	ZERO	0:p	0		p	2016	
+matukar	fishing	0009	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			2005	
+matukar	fishing	0009	hate-nge	break-SEQ:D	v:pred	v		pred		
+matukar	fishing	0009	ti-do	finish-R:D	aux	aux				
+matukar	fishing	0009	%	%	%	%				
+matukar	fishing	0009	#	#	#	#				
+matukar	fishing	0009	ZERO	ZERO	0.1:s	0	1	s	2005	
+matukar	fishing	0009	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			2005	
+matukar	fishing	0009	pid-e	descend-SEQ:D	v:pred	v		pred		
+matukar	fishing	0009	%	%	%	%				
+matukar	fishing	0009	#	#	#	#				
+matukar	fishing	0009	onon	hook	np:p	np		p	2006	
+matukar	fishing	0009	ZERO	ZERO	0.1:a	0	1	a	2005	
+matukar	fishing	0009	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			2005	
+matukar	fishing	0009	bal-do-nge	throw-AGAIN-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0009	%	%	%	%				
+matukar	fishing	0010	#	#	#	#				
+matukar	fishing	0010	raurau	afternoon	np:s	np		s		
+matukar	fishing	0010	si-nge-nga	descend-SEQ:D-FOC	v:pred	v		pred		
+matukar	fishing	0010	%	%	%	%				
+matukar	fishing	0010	#	#	#	#				
+matukar	fishing	0010	nub	water	np:s	np		s	2018	new
+matukar	fishing	0010	mainangan	TOP-FOC	rn	rn				
+matukar	fishing	0010	dadub-dub-ma-n	coldness-coldness.REDUP.APS-3s	np:pred	np		pred		
+matukar	fishing	0010	kawan	empty	rn	rn				
+matukar	fishing	0010	%	%	%	%				
+matukar	fishing	0011	#	#	#	#				
+matukar	fishing	0011	madid	coldness	np:a	np		a	2019	bridging
+matukar	fishing	0011	ZERO	ZERO	0.1:p	0	1	p	2001	
+matukar	fishing	0011	hun	hit	v:pred	v		pred		
+matukar	fishing	0011	-au	-1SG.P	-pro_1_p	-pro_1_p			2001	
+matukar	fishing	0011	-do	-R:D	-rv	-rv				
+matukar	fishing	0011	%	%	%	%				
+matukar	fishing	0011	#	#	#	#				
+matukar	fishing	0011	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0011	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0011	tariri-dop	shiver-IRR:D	v:pred	v		pred		
+matukar	fishing	0011	%	%	%	%				
+matukar	fishing	0011	#	#	#	#				
+matukar	fishing	0011	manag	like_that	other	other				
+matukar	fishing	0011	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0011	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0011	nongari-ndo	feel-R:D	v:pred	v		pred		
+matukar	fishing	0011	%	%	%	%				
+matukar	fishing	0011	#	#	#	#				
+matukar	fishing	0011	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0011	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0011	pid-e	descend-SEQ:D	v:pred	v		pred		
+matukar	fishing	0011	mainwaimi	therefore	other	other				
+matukar	fishing	0011	%	%	%	%				
+matukar	fishing	0011	#	#	#	#				
+matukar	fishing	0011	pat-te	stone-LOC	np:l	np		l	2020	new
+matukar	fishing	0011	ZERO	ZERO	0:s	0		s	2021	bridging
+matukar	fishing	0011	sau-sau-we	stuck-stuck.REDUP-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0011	%	%	%	%				
+matukar	fishing	0012	#	#	#	#				
+matukar	fishing	0012	pat-te	stone-LOC	np:l	np		l	2020	
+matukar	fishing	0012	ZERO	ZERO	0:s	0		s	2021	
+matukar	fishing	0012	sau-sau-we-nga	stuck-stuck.REDUP-SEQ:D-FOC	v:pred	v		pred		
+matukar	fishing	0012	%	%	%	%				
+matukar	fishing	0012	#	#	#	#				
+matukar	fishing	0012	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0012	ZERO	ZERO	0:p	0		p	2021	
+matukar	fishing	0012	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0012	yamate-ng-enga	care.for-SEQ:D-FOC	v:pred	v		pred		
+matukar	fishing	0012	%	%	%	%				
+matukar	fishing	0012	#	#	#	#				
+matukar	fishing	0012	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0012	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0012	tur-la-do	stand-away-R:D	v:pred	v		pred		
+matukar	fishing	0012	%	%	%	%				
+matukar	fishing	0012	#	#	#	#				
+matukar	fishing	0012	hibe-n	self-3SG	np:s	np		s	2021	
+matukar	fishing	0012	tapas-e	fall-SEQ:D	v:pred	v		pred		
+matukar	fishing	0012	ti-do	finish-R:D	aux	aux				
+matukar	fishing	0012	%	%	%	%				
+matukar	fishing	0013	#	#	#	#				
+matukar	fishing	0013	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0013	ZERO	ZERO	0:p	0		p	2021	
+matukar	fishing	0013	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0013	rai-das-e-nga	pull-ascend-SEQ:D-FOC	v:pred	v		pred		
+matukar	fishing	0013	%	%	%	%				
+matukar	fishing	0013	#	#	#	#				
+matukar	fishing	0013	do	and	other	other				
+matukar	fishing	0013	ngau	1SG.S	pro.1:s_ds	pro	1	s_ds	2001	
+matukar	fishing	0013	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0013	#	#	#ds	#ds				
+matukar	fishing	0013	ngau	1SG.S	pro.1:s	pro	1	s	2001	
+matukar	fishing	0013	uyan-ami	good-only	np:pred	np		pred		
+matukar	fishing	0013	%	%	%	%				
+matukar	fishing	0013	%	%	%	%				
+matukar	fishing	0014	#	#	#	#				
+matukar	fishing	0014	ngau	1SG.S	pro.1:s	pro	1	s	2001	
+matukar	fishing	0014	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0014	pid-ap	descend-IRR:D	v:pred	v		pred		
+matukar	fishing	0014	%	%	%	%				
+matukar	fishing	0014	#	#	#	#				
+matukar	fishing	0014	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0014	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0014	log-ata	swim-one	v:pred	v		pred		
+matukar	fishing	0014	%	%	%	%				
+matukar	fishing	0014	#	#	#	#				
+matukar	fishing	0014	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0014	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0014	tariri-haiyan-aba	shiver-INTSF-I:IRR	v:pred	v		pred		
+matukar	fishing	0014	%	%	%	%				
+matukar	fishing	0014	#	#	#	#				
+matukar	fishing	0014	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0014	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0014	bal-e	say-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0014	%	%	%	%				
+matukar	fishing	0015	#	#	#	#				
+matukar	fishing	0015	do	CONJ	other	other				
+matukar	fishing	0015	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0015	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0015	mai-ye	not.like-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0015	%	%	%	%				
+matukar	fishing	0016	#	#	#	#				
+matukar	fishing	0016	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0016	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0016	das-e-nga	ascend-SEQ:D-FOC	v:pred	v		pred		
+matukar	fishing	0016	%	%	%	%				
+matukar	fishing	0016	#	#	#	#				
+matukar	fishing	0016	mumalao	kind_of_reef_fish	np:p	np		p	2022	new
+matukar	fishing	0016	tahaik-amok	one-INTSF	rn	rn				
+matukar	fishing	0016	tahaik	one	rn	rn				
+matukar	fishing	0016	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0016	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0016	wane-nge	catch-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0016	%	%	%	%				
+matukar	fishing	0017	#	#	#	#				
+matukar	fishing	0017	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0017	das-e	descend-SEQ:D	v:pred	v		pred		
+matukar	fishing	0017	%	%	%	%				
+matukar	fishing	0017	#	#	#	#				
+matukar	fishing	0017	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	2001	
+matukar	fishing	0017	aipain	daughter	np.h:g	np	h	g	2023	new
+matukar	fishing	0017	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0017	ZERO	ZERO	0:p	0		p	2022	
+matukar	fishing	0017	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0017	pan	give	v:pred	v		pred		
+matukar	fishing	0017	-i	-3SG.R	-pro_h_g	-pro_h_g			2023	
+matukar	fishing	0017	-nge	-SEQ:D	-rv	-rv				
+matukar	fishing	0017	%	%	%	%				
+matukar	fishing	0017	#	#	#	#				
+matukar	fishing	0017	ZERO	ZERO	0.h:a	0	h	a	2023	
+matukar	fishing	0017	ZERO	ZERO	0:p	0		p	2022	
+matukar	fishing	0017	mamari-nge	smoke-SEQ:D	v:pred	v		pred		
+matukar	fishing	0017	%	%	%	%				
+matukar	fishing	0017	#	#	#	#				
+matukar	fishing	0017	ZERO	ZERO	0.h:a	0	h	a	2023	
+matukar	fishing	0017	ZERO	ZERO	0:p	0		p	2022	
+matukar	fishing	0017	ya-	3SG.A-	-pro_h_a	-pro_h_a			2023	
+matukar	fishing	0017	ni-ndo	eat-R:D	v:pred	v		pred		
+matukar	fishing	0017	%	%	%	%				
+matukar	fishing	0017	#	#	#	#				
+matukar	fishing	0017	ngau	1SG.S	pro.1:s	pro	1	s	2001	
+matukar	fishing	0017	ab-ate	house-LOC	np:g	np		g	2024	new
+matukar	fishing	0017	ng-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0017	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0017	%	%	%	%				
+matukar	fishing	0018	#	#	#	#				
+matukar	fishing	0018	ab-ate	house-LOC	np:g	np		g	2024	
+matukar	fishing	0018	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0018	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0018	hala-nge	ascend-SEQ:D	v:pred	v		pred		
+matukar	fishing	0018	%	%	%	%				
+matukar	fishing	0018	#	#	#	#				
+matukar	fishing	0018	mariu	betel_nut	np:other	np		other	2025	new
+matukar	fishing	0018	wai	like	adp	adp				
+matukar	fishing	0018	ZERO	ZERO	0.1:s	0	1	s		
+matukar	fishing	0018	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0018	aip-e	look-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0018	%	%	%	%				
+matukar	fishing	0019	#	#	#	#				
+matukar	fishing	0019	mariu	betel_nut	np:other	np		other	2025	
+matukar	fishing	0019	wai	like	adp	adp				
+matukar	fishing	0019	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0019	ng-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0019	aip-e	look-SEQ:D	v:pred	v		pred		
+matukar	fishing	0019	%	%	%	%				
+matukar	fishing	0019	#	#	#	#				
+matukar	fishing	0019	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0019	ZERO	ZERO	0:p	0		p	2026	bridging
+matukar	fishing	0019	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0019	nage-nge	put-SEQ:D	v:pred	v		pred		
+matukar	fishing	0019	%	%	%	%				
+matukar	fishing	0019	#	#	#	#				
+matukar	fishing	0019	ZERO	ZERO	0:s	0		s	2026	
+matukar	fishing	0019	y-	3SG.S-	-pro_s	-pro_s			2026	
+matukar	fishing	0019	en-do	lay-R:D	v:pred	v		pred		
+matukar	fishing	0019	%	%	%	%				
+matukar	fishing	0019	#	#	#	#				
+matukar	fishing	0019	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0019	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0019	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	fishing	0019	%	%	%	%				
+matukar	fishing	0019	#	#	#	#				
+matukar	fishing	0019	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0019	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0019	in-e	sleep-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0019	%	%	%	%				
+matukar	fishing	0020	#	#	#	#				
+matukar	fishing	0020	raurau-mi	afternoon-only	np:other	np		other		
+matukar	fishing	0020	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0020	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0020	ain-e	sleep-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0020	%	%	%	%				
+matukar	fishing	0021	#	#	#	#				
+matukar	fishing	0021	main	PROX	ln	ln				
+matukar	fishing	0021	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	2001	
+matukar	fishing	0021	iwau	in-law	np.h:s	np	h	s	2027	new
+matukar	fishing	0021	main-angan	TOP-FOC	rn	rn				
+matukar	fishing	0021	si-nge	descend-SEQ:D	v:pred	v		pred		
+matukar	fishing	0021	%	%	%	%				
+matukar	fishing	0021	#	#	#	#				
+matukar	fishing	0021	hibe-u	self-1SG	np.1:p	np	1	p	2001	
+matukar	fishing	0021	ZERO	ZERO	0.h:a	0	h	a	2027	
+matukar	fishing	0021	ya-	3SG.A-	-pro_h_a	-pro_h_a			2027	
+matukar	fishing	0021	bi-nge	hold-SEQ:D	v:pred	v		pred		
+matukar	fishing	0021	ab-ate	house-LOC	np:l	np		l	2024	
+matukar	fishing	0021	nige-u	self-1SG	np:other	np		other		
+matukar	fishing	0021	wai	like	adp	adp				
+matukar	fishing	0021	%	%	%	%				
+matukar	fishing	0022	#	#	#	#				
+matukar	fishing	0022	do	and	other	other				
+matukar	fishing	0022	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	2001	
+matukar	fishing	0022	aipain	daughter	np.h:s_ds	np	h	s_ds	2028	new
+matukar	fishing	0022	dabok	big	rn	rn				
+matukar	fishing	0022	main	TOP	rn	rn				
+matukar	fishing	0022	ZERO	ZERO	0.h:g	0	h	g	2027	
+matukar	fishing	0022	tuli	say	v:pred	v		pred		
+matukar	fishing	0022	pan	give	rv	rv				
+matukar	fishing	0022	-i	-3SG.R	-pro_h_g	-pro_h_g			2027	
+matukar	fishing	0022	-nge	-R:I:PFV	-rv	-rv				
+matukar	fishing	0022	%	%	%	%				
+matukar	fishing	0023	#	#	#ds	#ds				
+matukar	fishing	0023	nen	mom	np.h:s	np	h	s	2001	
+matukar	fishing	0023	y-	3SG.S-	-pro_h_s	-pro_h_s			2001	
+matukar	fishing	0023	en-ago	sleep-R:I:IMPV	v:pred	v		pred		
+matukar	fishing	0023	%	%	%	%				
+matukar	fishing	0024	#	#	#	#				
+matukar	fishing	0024	do	and	other	other				
+matukar	fishing	0024	ZERO	ZERO	0.h:s	0	h	s	2027	
+matukar	fishing	0024	hala-ya-we	ascend-away_fro_speaker-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0024	%	%	%	%				
+matukar	fishing	0025	#	#	#	#				
+matukar	fishing	0025	tidom	night	ln	ln				
+matukar	fishing	0025	mami-amok	break-INTSF	np:other	np		other		
+matukar	fishing	0026	tuka-n-kan-ama-n-da	dark-3s-dark-APS-3s-COM	np:other	np		other		
+matukar	fishing	0026	i	3SG.S	pro.h:s	pro	h	s	2027	
+matukar	fishing	0026	si-nge	descend-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0026	nige-u	self-1SG	np:other	np		other		
+matukar	fishing	0026	wai	like	adp	adp				
+matukar	fishing	0026	%	%	%	%				
+matukar	fishing	0027	#	#	#ds	#ds				
+matukar	fishing	0027	ong	2SG.S	pro.2:s	pro	2	s	2001	
+matukar	fishing	0027	malal	village	np:g	np		g	2029	new
+matukar	fishing	0027	dabok-ate	big-to	rn	rn				
+matukar	fishing	0027	w-	2SG.S-	-pro_2_s	-pro_2_s			2001	
+matukar	fishing	0027	a-abai	go-IRR:I:DESID	v:pred	v		pred		
+matukar	fishing	0027	%	%	%	%				
+matukar	fishing	0027	#	#	#	#				
+matukar	fishing	0027	do	and	other	other				
+matukar	fishing	0027	ngau	1SG.S	pro.1:s_ds	pro	1	s_ds	2001	
+matukar	fishing	0027	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0027	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0027	#	#	#ds.neg	#ds.neg				
+matukar	fishing	0027	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0027	ti-	NEG-	-lv	-lv				
+matukar	fishing	0027	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0027	a-p	go-IRR:D	v:pred	v		pred		
+matukar	fishing	0027	%	%	%	%				
+matukar	fishing	0028	#	#	#ds	#ds				
+matukar	fishing	0028	ngau	1SG.S	pro.1:s	pro	1	s	2001	
+matukar	fishing	0028	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0028	a-p	go-IRR:D	v:pred	v		pred		
+matukar	fishing	0028	%	%	%	%				
+matukar	fishing	0028	#	#	#ds	#ds				
+matukar	fishing	0028	ngahau	my	ln_pro.1:poss	ln_pro	1	poss	2001	
+matukar	fishing	0028	mariu	betel_nut	np:p	np		p	2026	
+matukar	fishing	0028	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0028	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0028	wai-mbai	sell-IRR:I	v:pred	v		pred		
+matukar	fishing	0028	%	%	%	%				
+matukar	fishing	0028	%	%	%	%				
+matukar	fishing	0029	#	#	#	#				
+matukar	fishing	0029	manag	like_that	other	other				
+matukar	fishing	0029	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0029	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0029	tuli-ndo	say-R:D	v:pred	v		pred		
+matukar	fishing	0029	%	%	%	%				
+matukar	fishing	0029	#	#	#	#				
+matukar	fishing	0029	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0029	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0029	tur-do	stand-R:D	v:pred	v		pred		
+matukar	fishing	0029	%	%	%	%				
+matukar	fishing	0029	#	#	#	#				
+matukar	fishing	0029	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	2001	
+matukar	fishing	0029	iwau	mother-in-law	ln	ln				
+matukar	fishing	0029	tura-n	another-3s	np.h:s	np	h	s	2014	
+matukar	fishing	0029	main-angan	TOP-FOC	rn	rn				
+matukar	fishing	0029	Yalmai	Yalmai_(Rebecca)	pn_np:pred	pn_np		pred		
+matukar	fishing	0029	ai	COP	cop	cop				
+matukar	fishing	0029	%	%	%	%				
+matukar	fishing	0030	#	#	#	#				
+matukar	fishing	0030	i	3SG.S	pro.h:s	pro	h	s	2014	
+matukar	fishing	0030	si-nge	descend-SEQ:D	v:pred	v		pred		
+matukar	fishing	0030	manig	like_this	other	other				
+matukar	fishing	0030	%	%	%	%				
+matukar	fishing	0030	#	#	#	#				
+matukar	fishing	0030	ZERO	ZERO	0.h:s_ds	0	h	s_ds	2014	
+matukar	fishing	0030	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0030	%	%	%	%				
+matukar	fishing	0031	#	#	#ds	#ds				
+matukar	fishing	0031	id	1PL.INCL.S	pro.1:s	pro	1	s	2030	bridging
+matukar	fishing	0031	Masikan-te	Masikan-LOC	pn_np:g	pn_np		g	2031	new
+matukar	fishing	0031	ta-	1PL.INCL.S-	-pro_1_s	-pro_1_s			2030	
+matukar	fishing	0031	ta-hala-p	ascend-IRR:D	v:pred	v		pred		
+matukar	fishing	0031	%	%	%	%				
+matukar	fishing	0032	#	#	#ds	#ds				
+matukar	fishing	0032	tibud	white_man	ln	ln				
+matukar	fishing	0032	kabakab	white	ln	ln				
+matukar	fishing	0032	pain	woman	np.h:s	np	h	s	2032	new
+matukar	fishing	0032	main-angan	TOP-FOC	rn	rn				
+matukar	fishing	0032	Danielle	Danielle	pn_np:pred	pn_np		pred		
+matukar	fishing	0032	ai	COP	cop	cop				
+matukar	fishing	0032	%	%	%	%				
+matukar	fishing	0032	#	#	#ds	#ds				
+matukar	fishing	0032	ZERO	ZERO	0.1:s	0	1	s	2030	
+matukar	fishing	0032	ta-	1PL.INCL.S-	-pro_1_s	-pro_1_s			2030	
+matukar	fishing	0032	a-p	go-IRR:D	v:pred	v		pred		
+matukar	fishing	0032	%	%	%	%				
+matukar	fishing	0032	#	#	#ds	#ds				
+matukar	fishing	0032	neuraurau	story	np:p	np		p	2033	new
+matukar	fishing	0032	ZERO	ZERO	0.1:a	0	1	a	2030	
+matukar	fishing	0032	ZERO	ZERO	0.h:g	0	h	g	2032	
+matukar	fishing	0032	ta-	1PL.INCL.A-	-pro_1_a	-pro_1_a			2030	
+matukar	fishing	0032	pasi-ndop	tell-IRR:D	v:pred	v		pred		
+matukar	fishing	0032	%	%	%	%				
+matukar	fishing	0033	#	#	#ds	#ds				
+matukar	fishing	0033	i	3SG.S	pro.h:a	pro	h	a	2032	
+matukar	fishing	0033	ZERO	ZERO	0:p	0		p	2033	
+matukar	fishing	0033	nong-abawai	hear-IRR:I:DESID	v:pred	v		pred		
+matukar	fishing	0033	%	%	%	%				
+matukar	fishing	0034	#	#	#ds	#ds				
+matukar	fishing	0034	hanat	what	other:p	other		p		
+matukar	fishing	0034	hanat	what	other	other				
+matukar	fishing	0034	ZERO	ZERO	0.1:a	0	1	a	2030	
+matukar	fishing	0034	ta-	1PL.INCL.A-	-pro_1_a	-pro_1_a			2030	
+matukar	fishing	0034	nage-nge	work-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0034	main-angan	TOP-FOC	other	other				
+matukar	fishing	0034	%	%	%	%				
+matukar	fishing	0035	#	#	#	#				
+matukar	fishing	0035	do	and	other	other				
+matukar	fishing	0035	ZERO	ZERO	0.1:s_ds	0	1	s_ds	2001	
+matukar	fishing	0035	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0035	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0035	%	%	%	%				
+matukar	fishing	0035	#	#	#ds	#ds				
+matukar	fishing	0035	ZERO	ZERO	0.2:s	0	2	s	2014	
+matukar	fishing	0035	mai-dop	wait-IRR:D	v:pred	v		pred		
+matukar	fishing	0035	%	%	%	%				
+matukar	fishing	0036	#	#	#ds	#ds				
+matukar	fishing	0036	ngau	1SG.S	pro.1:s	pro	1	s	2001	
+matukar	fishing	0036	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0036	nga-a-p	go-IRR:D	v:pred	v		pred		
+matukar	fishing	0036	%	%	%	%				
+matukar	fishing	0036	#	#	#ds	#ds				
+matukar	fishing	0036	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	2001	
+matukar	fishing	0036	mariu	betel_nut	np:p	np		p	2026	
+matukar	fishing	0036	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0036	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0036	wai-p	sell-IRR:D	v:pred	v		pred		
+matukar	fishing	0036	ti-do-page	finish-R:D-PROTASIS	aux	aux				
+matukar	fishing	0036	%	%	%	%				
+matukar	fishing	0036	#	#	#ds	#ds				
+matukar	fishing	0036	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0036	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0036	so-mba	come-IRR:I	v:pred	v		pred		
+matukar	fishing	0036	%	%	%	%				
+matukar	fishing	0037	#	#	#	#				
+matukar	fishing	0037	do	CONJ	other	other				
+matukar	fishing	0037	mariu	betel_nut	np:p	np		p	2026	
+matukar	fishing	0037	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0037	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0037	sun	carry	v:pred	v		pred		
+matukar	fishing	0037	-i	-3SG.P	-pro_p	-pro_p			2026	
+matukar	fishing	0037	-ge	-SEQ:D	-rv	-rv				
+matukar	fishing	0037	%	%	%	%				
+matukar	fishing	0037	#	#	#	#				
+matukar	fishing	0037	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0037	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0037	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	fishing	0037	%	%	%	%				
+matukar	fishing	0037	#	#	#	#				
+matukar	fishing	0037	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0037	ZERO	ZERO	0:p	0		p	2026	
+matukar	fishing	0037	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0037	wai-nge	sell-SEQ:D	v:pred	v		pred		
+matukar	fishing	0037	ti-do	finish-R:D	aux	aux				
+matukar	fishing	0037	%	%	%	%				
+matukar	fishing	0038	#	#	#	#				
+matukar	fishing	0038	bris-te	bridge-LOC	np:l	np		l	2042	new
+matukar	fishing	0038	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0038	ZERO	ZERO	0:p	0		p	2026	
+matukar	fishing	0038	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0038	wai-nge	sell-SEQ:D	v:pred	v		pred		
+matukar	fishing	0038	ti-do	finish-R:D	aux	aux				
+matukar	fishing	0038	%	%	%	%				
+matukar	fishing	0038	#	#	#	#				
+matukar	fishing	0038	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0038	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0038	so-nge	come-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0038	%	%	%	%				
+matukar	fishing	0039	#	#	#	#				
+matukar	fishing	0039	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0039	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0039	so-nge	come-R:I:PFV	v:pred	v		pred		
+matukar	fishing	0039	gaumomoni	now	other	other				
+matukar	fishing	0039	%	%	%	%				
+matukar	fishing	0039	#	#	#	#				
+matukar	fishing	0039	ong	2SG.S	pro.2:s	pro	2	s	2032	
+matukar	fishing	0039	ngau	1SG.S	rn_pro.1	rn_pro	1		2001	
+matukar	fishing	0039	do	and	rn	rn				
+matukar	fishing	0039	nga-ha-u	1SG-POSS-1SG	rn_pro.1:poss	rn_pro	1	poss	2001	
+matukar	fishing	0039	iwau	in-law	rn_np.h	rn_np	h		2014	
+matukar	fishing	0039	mainangan	TOP-FOC	rn	rn				
+matukar	fishing	0039	ta-	1PL.INCL.S-	-pro_1_s	-pro_1_s			2034	bridging
+matukar	fishing	0039	mado-nggo	sit-R:I:IMPV	v:pred	v		pred		
+matukar	fishing	0039	main-angan	TOP-FOC	other	other				
+matukar	fishing	0039	%	%	%	%				
+matukar	fishing	0040	#	#	#	#				
+matukar	fishing	0040	ha-d	POSS-1PL.INCL	ln_pro.1:poss	ln_pro	1	poss	2030	
+matukar	fishing	0040	neuraurau	story	np:p	np		p	2033	
+matukar	fishing	0040	ZERO	ZERO	0.1:a	0	1	a	2030	
+matukar	fishing	0040	ZERO	ZERO	0.2:g	0	2	g	2032	
+matukar	fishing	0040	ta-	1PL.INCL.A-	-pro_1_a	-pro_1_a			2030	
+matukar	fishing	0040	pasi-ndo	tell-R:D	v:pred	v		pred		
+matukar	fishing	0040	%	%	%	%				
+matukar	fishing	0040	#	#	#	#				
+matukar	fishing	0040	ngau	1SG.S	pro.1:s	pro	1	s	2001	
+matukar	fishing	0040	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0040	mado-nggo	sit-R:I:IMPV	v:pred	v		pred		
+matukar	fishing	0040	maine	here	other:l	other		l	2031	
+matukar	fishing	0040	%	%	%	%				
+matukar	fishing	0041	#	#	#	#				
+matukar	fishing	0041	main	PROX	dem_pro:s	dem_pro		s	2033	
+matukar	fishing	0041	nornen	yesterday	np:pred	np		pred		
+matukar	fishing	0041	ha-n	POSS-3s	rn	rn				
+matukar	fishing	0041	do	and	rn	rn				
+matukar	fishing	0041	gaumomoni	today	rn	rn				
+matukar	fishing	0041	han	POSS.3s	rn	rn				
+matukar	fishing	0041	%	%	%	%				
+matukar	fishing	0042	#	#	#	#				
+matukar	fishing	0042	boiip	tomorrow	other	other				
+matukar	fishing	0042	main-angan	TOP-FOC	other	other				
+matukar	fishing	0042	ngau	1SG.S	pro.1:s	pro	1	s	2001	
+matukar	fishing	0042	malal	village	np:l	np		l	2029	
+matukar	fishing	0042	dabok-ate	big-to	rn	rn				
+matukar	fishing	0042	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0042	a-ba	go-I:IRR	v:pred	v		pred		
+matukar	fishing	0042	tai	DUB	other	other				
+matukar	fishing	0042	%	%	%	%				
+matukar	fishing	0043	#	#	#	#				
+matukar	fishing	0043	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0043	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0043	a-p	go-IRR:D	v:pred	v		pred		
+matukar	fishing	0043	hadok	half	other	other				
+matukar	fishing	0043	%	%	%	%				
+matukar	fishing	0043	#	#	#	#				
+matukar	fishing	0043	China	China	pn_np:p	pn_np		p	2035	new
+matukar	fishing	0043	main	TOP	other	other				
+matukar	fishing	0043	hadok	half	other	other				
+matukar	fishing	0043	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0043	ngai-	1SG.S-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0043	ta	see	v:pred	v		pred		
+matukar	fishing	0043	-din	-3PL.P	-pro_p	-pro_p			2035	
+matukar	fishing	0043	-ap	-IRR:D	-rv	-rv				
+matukar	fishing	0043	%	%	%	%				
+matukar	fishing	0044	#	#	#	#				
+matukar	fishing	0044	bom	bread	np:p	np		p	2036	new
+matukar	fishing	0044	ta	one	rn	rn				
+matukar	fishing	0044	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0044	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0044	dad-aba	buy-I:IRR	v:pred	v		pred		
+matukar	fishing	0044	%	%	%	%				
+matukar	fishing	0045	#	#	#	#				
+matukar	fishing	0045	main	PROX	ln	ln				
+matukar	fishing	0045	didin	things	np:other	np		other		
+matukar	fishing	0045	do	and	other	other				
+matukar	fishing	0045	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0045	palum-ap	come-IRR:D	v:pred	v		pred		
+matukar	fishing	0045	%	%	%	%				
+matukar	fishing	0045	#	#	#	#				
+matukar	fishing	0045	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0045	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0045	buli-p	turn-IRR:D	v:pred	v		pred		
+matukar	fishing	0045	%	%	%	%				
+matukar	fishing	0046	#	#	#	#				
+matukar	fishing	0046	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0046	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0046	a-p	go-IRR:D	v:pred	v		pred		
+matukar	fishing	0046	%	%	%	%				
+matukar	fishing	0046	#	#	#	#				
+matukar	fishing	0046	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0046	ZERO	ZERO	0:p	0		p	2037	new
+matukar	fishing	0046	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0046	wai-mba	sell-IRR:I	v:pred	v		pred		
+matukar	fishing	0046	bris-te	bridge-LOC	np:l	np		l	2042	
+matukar	fishing	0046	%	%	%	%				
+matukar	fishing	0047	#	#	#	#				
+matukar	fishing	0047	manag-enga	like_that-FOC	other	other				
+matukar	fishing	0047	ilo	thought	ln	ln				
+matukar	fishing	0047	gire-k	think-NOM	np:s	np		s	2038	new
+matukar	fishing	0047	main	TOP	rn	rn				
+matukar	fishing	0047	manag	like_that	other	other				
+matukar	fishing	0047	y-	3SG.S-	-pro_s	-pro_s			2038	
+matukar	fishing	0047	en-ago	lay-R:I:IMPV	v:pred	v		pred		
+matukar	fishing	0047	%	%	%	%				
+matukar	fishing	0048	#	#	#	#				
+matukar	fishing	0048	#	#	#ac.neg	#ac.neg				
+matukar	fishing	0048	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0048	ti-	NEG-	-lv	-lv				
+matukar	fishing	0048	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0048	a-tap	go-COND	v:pred	v		pred		
+matukar	fishing	0048	%	%	%	%				
+matukar	fishing	0048	ngau	1SG.A	pro.1:a	pro	1	a	2001	
+matukar	fishing	0048	onon	hook	np:p	np		p	2006	
+matukar	fishing	0048	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0048	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	fishing	0048	%	%	%	%				
+matukar	fishing	0048	#	#	#	#				
+matukar	fishing	0048	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0048	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0048	si-la-p	descend-away-IRR:D	v:pred	v		pred		
+matukar	fishing	0048	%	%	%	%				
+matukar	fishing	0048	#	#	#	#				
+matukar	fishing	0048	lul-te	beach-LOC	np:g	np		g	2039	bridging
+matukar	fishing	0048	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0048	tor-aba	go.around-I:IRR	v:pred	v		pred		
+matukar	fishing	0048	%	%	%	%				
+matukar	fishing	0049	#	#	#	#				
+matukar	fishing	0049	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0049	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0049	a-p	go-IRR:D	v:pred	v		pred		
+matukar	fishing	0049	gum	hermit.crab	np:other	np		other	2004	
+matukar	fishing	0049	wai	due.to	adp	adp				
+matukar	fishing	0049	%	%	%	%				
+matukar	fishing	0049	#	#	#	#				
+matukar	fishing	0049	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0049	ZERO	ZERO	0:p	0		p	2004	
+matukar	fishing	0049	hate-p	break-IRR:D	v:pred	v		pred		
+matukar	fishing	0049	%	%	%	%				
+matukar	fishing	0049	#	#	#	#				
+matukar	fishing	0049	onon	hook	np:p	np		p	2006	
+matukar	fishing	0049	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0049	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0049	bal-dop	throw-IRR:D	v:pred	v		pred		
+matukar	fishing	0049	%	%	%	%				
+matukar	fishing	0049	#	#	#	#				
+matukar	fishing	0049	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0049	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0049	tor-ago	go.around-I:IRR:IMPV	v:pred	v		pred		
+matukar	fishing	0049	%	%	%	%				
+matukar	fishing	0050	#	#	#	#				
+matukar	fishing	0050	wasing	fish	ln	ln				
+matukar	fishing	0050	haiyan	small	ln	ln				
+matukar	fishing	0050	waran	pieces	np:s	np		s	2040	bridging
+matukar	fishing	0050	main	TOP	rn	rn				
+matukar	fishing	0050	balbal	fat	np:pred	np		pred		
+matukar	fishing	0050	kasik	very	rn	rn				
+matukar	fishing	0050	%	%	%	%				
+matukar	fishing	0051	#	#	#	#				
+matukar	fishing	0051	nornen	yesterday	other	other				
+matukar	fishing	0051	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0051	ZERO	ZERO	0:p	0		p	2040	
+matukar	fishing	0051	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0051	mamari	smoke	v:pred	v		pred		
+matukar	fishing	0051	%	%	%	%				
+matukar	fishing	0051	#	#	#	#				
+matukar	fishing	0051	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0051	ZERO	ZERO	0:p	0		p	2040	
+matukar	fishing	0051	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0051	ni-nge	eat-SEQ:D	v:pred	v		pred		
+matukar	fishing	0051	%	%	%	%				
+matukar	fishing	0051	#	#	#	#				
+matukar	fishing	0051	balbal	fat	np:s	np		s	2041	new
+matukar	fishing	0051	ZERO	ZERO	0.h:p	0	h	p	2001	
+matukar	fishing	0051	hun	hit	v:pred	v		pred		
+matukar	fishing	0051	-au	-1SG.P	-pro_1_p	-pro_1_p			2001	
+matukar	fishing	0051	-do	-R:D	-rv	-rv				
+matukar	fishing	0051	%	%	%	%				
+matukar	fishing	0051	#	#	#	#				
+matukar	fishing	0051	mainwai	therefore	other	other				
+matukar	fishing	0051	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0051	ilo	thought	lv	lv				
+matukar	fishing	0051	gire-ndo	think-R:D	v:pred	v		pred		
+matukar	fishing	0051	%	%	%	%				
+matukar	fishing	0051	#	#	#	#				
+matukar	fishing	0051	mainwai	therefore	other	other				
+matukar	fishing	0051	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0051	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0051	tor-ago	go.around-R:I:IMPV	v:pred	v		pred		
+matukar	fishing	0051	%	%	%	%				
+matukar	fishing	0051	#	#	#	#				
+matukar	fishing	0051	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0051	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0051	a-p	go-IRR:D	v:pred	v		pred		
+matukar	fishing	0051	%	%	%	%				
+matukar	fishing	0051	#	#	#	#				
+matukar	fishing	0051	ahaun	newly	other	other				
+matukar	fishing	0051	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0051	nga-	1SG.S-	-pro_1_s	-pro_1_s				
+matukar	fishing	0051	a-p	go-IRR:D	v:pred	v		pred		
+matukar	fishing	0051	%	%	%	%				
+matukar	fishing	0051	#	#	#	#				
+matukar	fishing	0051	onon	hook	np:p	np		p	2006	
+matukar	fishing	0051	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0051	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0051	bal-aba	throw-I:IRR	v:pred	v		pred		
+matukar	fishing	0051	%	%	%	%				
+matukar	fishing	0052	#	#	#	#				
+matukar	fishing	0052	maniya	here	other:l	other		l		
+matukar	fishing	0052	ti-dop	finish-IRR:D	other	other				
+matukar	fishing	0052	ZERO	ZERO	0.1:s	0	1	s	2001	
+matukar	fishing	0052	nga-	1SG.S-	-pro_1_s	-pro_1_s			2001	
+matukar	fishing	0052	a-p	go-IRR:D	v:pred	v		pred		
+matukar	fishing	0052	%	%	%	%				
+matukar	fishing	0052	#	#	#	#				
+matukar	fishing	0052	onon	hook	np:p	np		p	2006	
+matukar	fishing	0052	ZERO	ZERO	0.1:a	0	1	a	2001	
+matukar	fishing	0052	nga-	1SG.A-	-pro_1_a	-pro_1_a			2001	
+matukar	fishing	0052	bal-do-mba	throw-AGAIN-IRR:I	v:pred	v		pred		
+matukar	fishing	0052	%	%	%	%				

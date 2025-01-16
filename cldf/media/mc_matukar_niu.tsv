@@ -1,0 +1,1024 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+matukar	niu	0001	#	#	#	#				
+matukar	niu	0001	ngau	1SG.A	pro.1:a	pro	1	a	6001	new
+matukar	niu	0001	gaumoni	today	other	other				
+matukar	niu	0002	neuraurau	story	np:p	np		p	6002	new
+matukar	niu	0002	ta	a	rn	rn				
+matukar	niu	0002	nga-	1SG.A-	-pro_1_a	-pro_1_a			6001	
+matukar	niu	0002	pasi-mbawai	tell-IRR:I	v:pred	v		pred		
+matukar	niu	0002	%	%	%	%				
+matukar	niu	0003	#	#	#	#				
+matukar	niu	0003	neuraurau	story	np:s	np		s	6002	
+matukar	niu	0003	main	TOP	rn	rn				
+matukar	niu	0004	niu	coconut	np:pred	np		pred	6003	new
+matukar	niu	0004	%	%	%	%				
+matukar	niu	0005	#	#	#	#				
+matukar	niu	0005	wagam	before	other	other				
+matukar	niu	0005	maniy-a	here-LOC	other:l	other		l	6004	unused
+matukar	niu	0005	niu	coconut	np:predex	np		predex		
+matukar	niu	0005	ti	NEG	rn	rn				
+matukar	niu	0005	%	%	%	%				
+matukar	niu	0006	#	#	#neg	#neg				
+matukar	niu	0006	niu	coconut	np:predex	np		predex		
+matukar	niu	0006	ti-mokamok	NEG-INTSF	other	other				
+matukar	niu	0006	%	%	%	%				
+matukar	niu	0007	#	#	#	#				
+matukar	niu	0007	do	CONJ	other	other				
+matukar	niu	0007	nal	day	np:other	np		other		
+matukar	niu	0007	ta	one	rn	rn				
+matukar	niu	0008	malal	village	np:l	np		l	6004	
+matukar	niu	0008	ta-te	one-LOC	rn	rn				
+matukar	niu	0009	aim	boy	np.h:s	np	h	s	6005	new
+matukar	niu	0009	aru	two	rn	rn				
+matukar	niu	0010	tain	younger.brother	np.h:appos	np	h	appos	6006	bridging
+matukar	niu	0010	natun	small	rn	rn				
+matukar	niu	0010	do	CONJ	other	other				
+matukar	niu	0010	tawan	elder.brother	np.h:appos	np	h	appos	6007	bridging
+matukar	niu	0010	dabok	big	rn	rn				
+matukar	niu	0011	di-	3PL.S-	-pro_h_s	-pro_h_s			6005	
+matukar	niu	0011	mado-ndo	sit-R:D	v:pred	v		pred		
+matukar	niu	0011	%	%	%	%				
+matukar	niu	0011	#	#	#	#				
+matukar	niu	0011	ZERO	ZERO	0.h:s	0	h	s	6005	
+matukar	niu	0011	di-	3PL.S-	-pro_h_s	-pro_h_s			6005	
+matukar	niu	0011	gamuk-e	talk-R:I:PFV	v:pred	v		pred		
+matukar	niu	0011	%	%	%	%				
+matukar	niu	0012	#	#	#ds	#ds				
+matukar	niu	0012	ZERO	ZERO	0.1:s	0	1	s	6005	
+matukar	niu	0012	ta-	1PL.INCL.S-	-pro_1_s	-pro_1_s			6005	
+matukar	niu	0012	sila-p	go.down-IRR:D	v:pred	v		pred		
+matukar	niu	0012	wasing	fish	np:other	np		other		
+matukar	niu	0012	wai	like	adp	adp				
+matukar	niu	0012	ta	DUB	other	other				
+matukar	niu	0012	%	%	%	%				
+matukar	niu	0013	#	#	#	#				
+matukar	niu	0013	do	and	other	other				
+matukar	niu	0013	arurumi	both	np.h:s	np	h	s	6005	
+matukar	niu	0013	awo	yes	other	other				
+matukar	niu	0013	di-	3PL.S-	-pro_h_s	-pro_h_s			6005	
+matukar	niu	0013	bal-do	say-R:D	v:pred	v		pred		
+matukar	niu	0013	%	%	%	%				
+matukar	niu	0014	#	#	#	#				
+matukar	niu	0014	fe	paddle	np:p	np		p	6009	bridging
+matukar	niu	0014	ZERO	ZERO	0.h:a	0	h	a	6005	
+matukar	niu	0014	di-	3PL.A-	-pro_h_a	-pro_h_a			6005	
+matukar	niu	0014	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	niu	0014	%	%	%	%				
+matukar	niu	0015	#	#	#	#				
+matukar	niu	0015	nub-ate	water-LOC	np:g	np		g	6010	bridging
+matukar	niu	0015	ZERO	ZERO	0.h:s	0	h	s	6005	
+matukar	niu	0015	di-	3PL.S-	-pro_h_s	-pro_h_s			6005	
+matukar	niu	0015	si-la-nge	descend-away-SEQ:D	v:pred	v		pred		
+matukar	niu	0015	%	%	%	%				
+matukar	niu	0016	#	#	#	#				
+matukar	niu	0016	wag	canoe	np:p	np		p	6011	bridging
+matukar	niu	0016	ZERO	ZERO	0.h:a	0	h	a	6005	
+matukar	niu	0016	di-	3PL.A-	-pro_h_a	-pro_h_a			6005	
+matukar	niu	0016	rai-pid-e	pull-down-SEQ:D	v:pred	v		pred		
+matukar	niu	0016	%	%	%	%				
+matukar	niu	0017	#	#	#	#				
+matukar	niu	0017	ZERO	ZERO	0.h:s	0	h	s	6005	
+matukar	niu	0017	diy-	3PL.S-	-pro_h_s	-pro_h_s			6005	
+matukar	niu	0017	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	niu	0017	%	%	%	%				
+matukar	niu	0018	#	#	#	#				
+matukar	niu	0018	tawan	elder.brother	np.h:a	np	h	a	6007	
+matukar	niu	0018	dabok	big	rn	rn				
+matukar	niu	0018	main	TOP	rn	rn				
+matukar	niu	0018	wag	canoe	np:p	np		p	6011	
+matukar	niu	0018	feni-nge	paddle-R:I:PFV	v:pred	v		pred		
+matukar	niu	0018	%	%	%	%				
+matukar	niu	0019	#	#	#	#				
+matukar	niu	0019	tain	younger.brother	np.h:a	np	h	a	6006	
+matukar	niu	0019	natun	small	rn	rn				
+matukar	niu	0019	main	TOP	rn	rn				
+matukar	niu	0019	dawa	spear	np:p	np		p	6012	bridging
+matukar	niu	0019	ya-	3SG.A-	-pro_h_a	-pro_h_a			6006	
+matukar	niu	0019	bi-nge	hold-R:I:PFV	v:pred	v		pred		
+matukar	niu	0019	%	%	%	%				
+matukar	niu	0020	#	#	#	#				
+matukar	niu	0020	wag	canoe	ln_np	ln_np			6011	
+matukar	niu	0020	nidunte	nose-3SG-LOC	np:l	np		l	6013	bridging
+matukar	niu	0020	ZERO	ZERO	0.h:s	0	h	s	6006	
+matukar	niu	0020	tur-do	stand:RD	v:pred	v		pred		
+matukar	niu	0020	%	%	%	%				
+matukar	niu	0021	#	#	#	#				
+matukar	niu	0021	ZERO	ZERO	0.h:s	0	h	s	6005	
+matukar	niu	0021	di-	3SG.S-	-pro_h_s	-pro_h_s			6005	
+matukar	niu	0021	tor-do	go.around-R:D	v:pred	v		pred		
+matukar	niu	0021	%	%	%	%				
+matukar	niu	0021	#	#	#	#				
+matukar	niu	0021	wasing	fish	np:other	np		other	6008	new
+matukar	niu	0021	wai	like	adp	adp				
+matukar	niu	0021	ZERO	ZERO	0.h:s	0	h	s	6005	
+matukar	niu	0021	di-	3PL.S-	-pro_h_s	-pro_h_s			6005	
+matukar	niu	0021	yep-ado	look-R:D	v:pred	v		pred		
+matukar	niu	0021	%	%	%	%				
+matukar	niu	0022	#	#	#	#				
+matukar	niu	0022	wasing	fish	np:p	np		p	6014	bridging
+matukar	niu	0022	ZERO	ZERO	0.h:a	0	h	a	6006	
+matukar	niu	0022	suwe-ndope	stab-COND	v:pred	v		pred		
+matukar	niu	0022	%	%	%	%				
+matukar	niu	0023	#	#	#	#				
+matukar	niu	0023	tain	younger.brother	np.h:g	np	h	g	6006	
+matukar	niu	0023	natun	small	rn	rn				
+matukar	niu	0023	main	TOP	rn	rn				
+matukar	niu	0023	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0023	ZERO	ZERO	0:p	0		p	6014	
+matukar	niu	0023	pan	give	v:pred	v		pred		
+matukar	niu	0023	-i	-3SG.R	-pro_h_g	-pro_h_g			6006	
+matukar	niu	0023	-ndope	-COND	-rv	-rv				
+matukar	niu	0023	%	%	%	%				
+matukar	niu	0024	#	#	#neg	#neg				
+matukar	niu	0024	tain	younger.brother	np.h:a	np	h	a	6006	
+matukar	niu	0024	natun	small	rn	rn				
+matukar	niu	0024	main	TOP	rn	rn				
+matukar	niu	0024	wasing	fish	np:p	np		p	6014	
+matukar	niu	0024	wag	canoe	ln	ln				
+matukar	niu	0024	ilo-n-lo	inside-3SG-LOC	np:g	np		g	6015	bridging
+matukar	niu	0024	ti-nage-nggo	NEG-put-R:I:IMPV	v:pred	v		pred		
+matukar	niu	0024	%	%	%	%				
+matukar	niu	0025	#	#	#	#				
+matukar	niu	0025	wasing	fish	np:p	np		p	6014	
+matukar	niu	0025	ZERO	ZERO	0.h:a	0	h	a	6006	
+matukar	niu	0025	ngale-ma	take-D:HAB	v:pred	v		pred		
+matukar	niu	0025	%	%	%	%				
+matukar	niu	0025	#	#	#	#				
+matukar	niu	0025	ZERO	ZERO	0.h:a	0	h	a	6006	
+matukar	niu	0025	ZERO	ZERO	0:p	0		p	6014	
+matukar	niu	0025	bal-ya-go	throw-away-R:I:IMPV	v:pred	v		pred		
+matukar	niu	0025	%	%	%	%				
+matukar	niu	0026	#	#	#	#				
+matukar	niu	0026	nub-ate	water-LOC	np:g	np		g	6010	
+matukar	niu	0026	wai	like	adp	adp				
+matukar	niu	0026	ZERO	ZERO	0.h:a	0	h	a	6006	
+matukar	niu	0026	ZERO	ZERO	0:p	0		p	6014	
+matukar	niu	0026	bal-pid-do-nggo	throw-down-AGAIN-R:I:IMPV	v:pred	v		pred		
+matukar	niu	0027	manag-ami	like.that-only	other	other				
+matukar	niu	0027	%	%	%	%				
+matukar	niu	0028	#	#	#	#				
+matukar	niu	0028	tahaik	one	np:p	np		p	6016	bridging
+matukar	niu	0028	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0028	suwe-p	stab-IRR:D	v:pred	v		pred		
+matukar	niu	0028	%	%	%	%				
+matukar	niu	0029	#	#	#	#				
+matukar	niu	0029	tain	younger.brother	np.h:g	np	h	g	6006	
+matukar	niu	0029	natun	small	rn	rn				
+matukar	niu	0029	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0029	ZERO	ZERO	0:p	0		p	6016	
+matukar	niu	0029	pan	give	v:pred	v		pred		
+matukar	niu	0029	-i	-3SG.R	-pro_h_g	-pro_h_g			6006	
+matukar	niu	0029	-p	-IRR:D	-rv	-rv				
+matukar	niu	0029	%	%	%	%				
+matukar	niu	0030	#	#	#	#				
+matukar	niu	0030	tain	younger.brother	np.h:a	np	h	a	6006	
+matukar	niu	0030	natun	small	rn	rn				
+matukar	niu	0030	main	TOP	rn	rn				
+matukar	niu	0030	wasing	fish	np:p	np		p	6016	
+matukar	niu	0030	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	niu	0030	%	%	%	%				
+matukar	niu	0031	#	#	#	#				
+matukar	niu	0031	nub-alo	water-LOC	np:g	np		g	6010	
+matukar	niu	0031	ZERO	ZERO	0.h:a	0	h	a	6006	
+matukar	niu	0031	ZERO	ZERO	0:p	0		p	6016	
+matukar	niu	0031	bal-pid-do	throw-downwards-R:D	v:pred	v		pred		
+matukar	niu	0031	%	%	%	%				
+matukar	niu	0032	#	#	#	#				
+matukar	niu	0032	do	and	other	other				
+matukar	niu	0032	tawan	elder.brother	np.h:s_ds	np	h	s_ds	6007	
+matukar	niu	0032	main	TOP	rn	rn				
+matukar	niu	0032	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	niu	0032	%	%	%	%				
+matukar	niu	0033	#	#	#ds	#ds				
+matukar	niu	0033	wasing	fish	np:s	np		s	6008	
+matukar	niu	0033	uyan-ami	good-only	np:pred	np		pred		
+matukar	niu	0033	%	%	%	%				
+matukar	niu	0033	#	#	#ds	#ds				
+matukar	niu	0033	wag	canoe	ln	ln				
+matukar	niu	0033	awa-n	mouth-3SG	np.h:s	np	h	s	6017	bridging
+matukar	niu	0033	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	niu	0033	%	%	%	%				
+matukar	niu	0034	#	#	#	#				
+matukar	niu	0034	ZERO	ZERO	0.h:s	0	h	s	6005	
+matukar	niu	0034	di-	3PL.S-	-pro_h_s	-pro_h_s			6005	
+matukar	niu	0034	bal-do	say-R:D	v:pred	v		pred		
+matukar	niu	0034	%	%	%	%				
+matukar	niu	0035	#	#	#	#				
+matukar	niu	0035	ZERO	ZERO	0.h:s	0	h	s	6005	
+matukar	niu	0035	diy-	3SG.S-	-pro_h_s	-pro_h_s			6005	
+matukar	niu	0035	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	niu	0035	%	%	%	%				
+matukar	niu	0035	#	#	#	#				
+matukar	niu	0035	lul-te	beach-LOC	np:g	np		g	6018	new
+matukar	niu	0035	ZERO	ZERO	0.h:s	0	h	s	6005	
+matukar	niu	0035	di-	3PL.S-	-pro_h_s	-pro_h_s			6005	
+matukar	niu	0035	pid-e	descend-R:I:PFV	v:pred	v		pred		
+matukar	niu	0035	%	%	%	%				
+matukar	niu	0036	#	#	#	#				
+matukar	niu	0036	wag	canoe	np:p	np		p	6011	
+matukar	niu	0036	ZERO	ZERO	0.h:a	0	h	a	6005	
+matukar	niu	0036	di-	3PL.A-	-pro_h_a	-pro_h_a			6005	
+matukar	niu	0036	rai-das-e	pull-upward-SEQ:D	v:pred	v		pred		
+matukar	niu	0036	%	%	%	%				
+matukar	niu	0037	#	#	#	#				
+matukar	niu	0037	tawan	elder.brother	np.h:s	np	h	s	6007	
+matukar	niu	0037	dabok	big	rn	rn				
+matukar	niu	0037	main	TOP	rn	rn				
+matukar	niu	0037	yep	look	v:pred	v		pred		
+matukar	niu	0037	mul-la	return-away	rv	rv				
+matukar	niu	0037	%	%	%	%				
+matukar	niu	0037	#	#	#neg	#neg				
+matukar	niu	0037	wasing	fish	np:predex	np		predex		
+matukar	niu	0037	main	TOP	rn	rn				
+matukar	niu	0037	ti	NEG	rn	rn				
+matukar	niu	0037	%	%	%	%				
+matukar	niu	0038	#	#	#	#				
+matukar	niu	0038	wag	canoe	np:s	np		s	6011	
+matukar	niu	0038	sama-n	empty-3SG	np:pred	np		pred		
+matukar	niu	0038	%	%	%	%				
+matukar	niu	0039	#	#	#	#				
+matukar	niu	0039	do-p	CONJ-IRR:D	other	other				
+matukar	niu	0039	bru-n	anger-3SG	np:s	np		s	6019	new
+matukar	niu	0039	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	niu	0039	%	%	%	%				
+matukar	niu	0040	#	#	#	#				
+matukar	niu	0040	tain	younger.brother	np.h:p	np	h	p	6006	
+matukar	niu	0040	natu-n	small-3SG	rn	rn				
+matukar	niu	0040	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0040	pai-nge	cross-R:I:PFV	v:pred	v		pred		
+matukar	niu	0040	%	%	%	%				
+matukar	niu	0041	#	#	#ds	#ds				
+matukar	niu	0041	eh	eh	other	other				
+matukar	niu	0041	wasing	fish	np:p	np		p	6014	
+matukar	niu	0041	ZERO	ZERO	0.1:a	0	1	a	6007	
+matukar	niu	0041	nga-	1SG.A-	-pro_1_a	-pro_1_a			6007	
+matukar	niu	0041	suwe-ma	stab-D:HAB	v:pred	v		pred		
+matukar	niu	0041	%	%	%	%				
+matukar	niu	0041	#	#	#ds	#ds				
+matukar	niu	0041	ZERO	ZERO	0.1:a	0	1	a	6007	
+matukar	niu	0041	ZERO	ZERO	0:p	0		p	6014	
+matukar	niu	0041	ZERO	ZERO	0.2:g	0	2	g	6006	
+matukar	niu	0041	nga-	1SG.A-	-pro_1_a	-pro_1_a			6007	
+matukar	niu	0041	pan	give	v:pred	v		pred		
+matukar	niu	0041	-o	-2SG.R	-pro_2_g	-pro_2_g			6006	
+matukar	niu	0041	-ma	-D:HAB	-rv	-rv				
+matukar	niu	0041	%	%	%	%				
+matukar	niu	0041	#	#	#ds	#ds				
+matukar	niu	0041	tega	where	other:l	other		l		
+matukar	niu	0041	ZERO	ZERO	0.2:a	0	2	a	6006	
+matukar	niu	0041	ZERO	ZERO	0:p	0		p	6014	
+matukar	niu	0041	diri-nggo	put.in-R:I:IMPV	v:pred	v		pred		
+matukar	niu	0041	%	%	%	%				
+matukar	niu	0042	#	#	#ds	#ds				
+matukar	niu	0042	ti	NEG	other	other				
+matukar	niu	0043	wag-alo	canoe-LOC	np:g	np		g	6011	
+matukar	niu	0043	ZERO	ZERO	0.1:a	0	1	a	6006	
+matukar	niu	0043	ZERO	ZERO	0:p	0		p	6014	
+matukar	niu	0043	nga-	1SG.A-	-pro_1_a	-pro_1_a			6006	
+matukar	niu	0043	peni-nggokai	fill-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	niu	0043	%	%	%	%				
+matukar	niu	0044	#	#	#ds	#ds				
+matukar	niu	0044	wag-alo	canoe-LOC	np:g	np		g	6011	
+matukar	niu	0044	ZERO	ZERO	0.1:a	0	1	a	6006	
+matukar	niu	0044	ZERO	ZERO	0:p	0		p	6014	
+matukar	niu	0044	nga-	1SG.A-	-pro_1_a	-pro_1_a			6006	
+matukar	niu	0044	peni-nggo	fill-R:I:IMPV	v:pred	v		pred		
+matukar	niu	0044	%	%	%	%				
+matukar	niu	0045	#	#	#	#				
+matukar	niu	0045	do	CONJ	other	other				
+matukar	niu	0045	mana	there	other:l	other		l		
+matukar	niu	0045	nug	REFL	refl.h:p	refl	h	p	6005	
+matukar	niu	0045	ZERO	ZERO	0.h:a	0	h	a	6005	
+matukar	niu	0045	di-	3PL.A-	-pro_h_a	-pro_h_a			6005	
+matukar	niu	0045	pai-ndo	cross-R:D	v:pred	v		pred		
+matukar	niu	0045	%	%	%	%				
+matukar	niu	0046	#	#	#	#				
+matukar	niu	0046	tawan	elder.brother	np.h:s	np	h	s	6007	
+matukar	niu	0046	dabok	big	rn	rn				
+matukar	niu	0046	main	TOP	rn	rn				
+matukar	niu	0046	mais-e	rise-SEQ:D	v:pred	v		pred		
+matukar	niu	0046	%	%	%	%				
+matukar	niu	0047	#	#	#	#				
+matukar	niu	0047	tain	younger.brother	np.h:p	np	h	p	6006	
+matukar	niu	0047	natun	small	rn	rn				
+matukar	niu	0047	mana	there	other:l	other		l		
+matukar	niu	0048	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0048	hun	hit	v:pred	v		pred		
+matukar	niu	0048	-i	-3SG.P	-pro_h_p	-pro_h_p			6006	
+matukar	niu	0048	mat-e	die-R:I:PFV	rv	rv				
+matukar	niu	0048	%	%	%	%				
+matukar	niu	0049	#	#	#	#				
+matukar	niu	0049	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0049	ZERO	ZERO	0.h:p	0	h	p	6006	
+matukar	niu	0049	hun	hit	v:pred	v		pred		
+matukar	niu	0049	-i	-3SG.P	-pro_h_p	-pro_h_p			6006	
+matukar	niu	0049	mat-e	die-SEQ:D	rv	rv				
+matukar	niu	0049	%	%	%	%				
+matukar	niu	0050	#	#	#	#				
+matukar	niu	0050	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0050	ZERO	ZERO	0.h:p	0	h	p	6006	
+matukar	niu	0050	ngale-ya-we	take-away-SEQ:D	v:pred	v		pred		
+matukar	niu	0050	%	%	%	%				
+matukar	niu	0050	#	#	#	#				
+matukar	niu	0050	bura-n	throat-3SG	np:p	np		p	6020	bridging
+matukar	niu	0050	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0050	tariuti-nge	cut-SEQ:D	v:pred	v		pred		
+matukar	niu	0050	%	%	%	%				
+matukar	niu	0051	#	#	#	#				
+matukar	niu	0051	garma-n	head-3SG	np:p	np		p	6021	bridging
+matukar	niu	0051	main	TOP	rn	rn				
+matukar	niu	0051	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0051	ngale-ya-we	take-away-SEQ:D	v:pred	v		pred		
+matukar	niu	0051	%	%	%	%				
+matukar	niu	0051	#	#	#	#				
+matukar	niu	0051	dage-n-a	back-3SG-LOC	np:g	np		g	6022	bridging
+matukar	niu	0051	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0051	ZERO	ZERO	0:p	0		p	6021	
+matukar	niu	0051	pai-nge	plant-R:I:PFV	v:pred	v		pred		
+matukar	niu	0051	%	%	%	%				
+matukar	niu	0052	#	#	#	#				
+matukar	niu	0052	do	CONJ	other	other				
+matukar	niu	0052	malal-te	village-LOC	np:g	np		g	6004	
+matukar	niu	0052	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0052	y-	3SG.S-	-pro_h_s	-pro_h_s			6007	
+matukar	niu	0052	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	niu	0052	%	%	%	%				
+matukar	niu	0053	#	#	#neg	#neg				
+matukar	niu	0053	malal-te-nen	village-LOC-3SG	np:l	np		l	6004	
+matukar	niu	0053	tamatpainim	people	np.h:s	np	h	s	6023	new
+matukar	niu	0053	main	TOP	rn	rn				
+matukar	niu	0053	ti-	NEG-	-lv	-lv				
+matukar	niu	0053	di-	3PL.S-	-pro_h_s	-pro_h_s			6023	
+matukar	niu	0053	nong-ama-n	know-APS-3SG	v:pred	v		pred		
+matukar	niu	0053	%	%	%	%				
+matukar	niu	0054	#	#	#	#				
+matukar	niu	0054	ZERO	ZERO	0.h:s	0	h	s	6023	
+matukar	niu	0054	di-	3PL.S-	0.h:s	0	h	s	6023	
+matukar	niu	0054	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	niu	0054	%	%	%	%				
+matukar	niu	0055	#	#	#	#				
+matukar	niu	0055	tidom	night	np:s	np		s		
+matukar	niu	0055	si-nge	descend-SEQ:D	v:pred	v		pred		
+matukar	niu	0055	%	%	%	%				
+matukar	niu	0055	#	#	#	#				
+matukar	niu	0055	ZERO	ZERO	0.h:s	0	h	s	6023	
+matukar	niu	0055	diy-	3PL.S-	-pro_h_s	-pro_h_s			6023	
+matukar	niu	0055	en-e	sleep:R:I:PFV	v:pred	v		pred		
+matukar	niu	0055	%	%	%	%				
+matukar	niu	0056	#	#	#	#				
+matukar	niu	0056	do	CONJ	other	other				
+matukar	niu	0057	tidom	night	np:other	np		other		
+matukar	niu	0058	tawan	elder.brother	np.h:s	np	h	s	6007	
+matukar	niu	0058	dabok	big	rn	rn				
+matukar	niu	0058	main	TOP	rn	rn				
+matukar	niu	0058	y-	3SG.S-	-pro_h_s	-pro_h_s			6007	
+matukar	niu	0058	enamim-e	dream-R:I:PFV	v:pred	v		pred		
+matukar	niu	0058	%	%	%	%				
+matukar	niu	0059	#	#	#	#				
+matukar	niu	0059	tain	younger.brother	np.h:dt_s	np	h	dt_s	6006	
+matukar	niu	0059	natun	small	rn	rn				
+matukar	niu	0059	main	TOP	rn	rn				
+matukar	niu	0059	anatun	picture-3SG	np.h:s	np	h	s	6025	bridging
+matukar	niu	0059	main	TOP	rn	rn				
+matukar	niu	0059	y-	3SG.S-	-pro_h_s	-pro_h_s			6025	
+matukar	niu	0059	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	niu	0059	%	%	%	%				
+matukar	niu	0059	#	#	#	#				
+matukar	niu	0059	ZERO	ZERO	0.h:s_ds	0	h	s_ds	6025	
+matukar	niu	0059	ZERO	ZERO	0.h:g	0	h	g	6007	
+matukar	niu	0059	tuli	say	v:pred	v		pred		
+matukar	niu	0059	pan	give	rv	rv				
+matukar	niu	0059	-i	-3SG.R	-pro_h_g	-pro_h_g			6007	
+matukar	niu	0059	-nge	-nge	-rv	-rv				
+matukar	niu	0059	%	%	%	%				
+matukar	niu	0060	#	#	#ds	#ds				
+matukar	niu	0060	ong	2SG.S	pro.2:s	pro	2	s	6007	
+matukar	niu	0060	boiip	tomorrow	np:other	np		other		
+matukar	niu	0061	tidom mami	morning	np:other	np		other		
+matukar	niu	0061	w-	2SG.S-	-pro_2_s	-pro_2_s			6007	
+matukar	niu	0061	a-p	go-IRR:D	v:pred	v		pred		
+matukar	niu	0061	%	%	%	%				
+matukar	niu	0062	#	#	#ds	#ds				
+matukar	niu	0062	garma-u	head-1SG	np:p	np		p	6021	
+matukar	niu	0062	ZERO	ZERO	0.2:a	0	2	a	6007	
+matukar	niu	0062	pai-nge	plant-SEQ:D	v:pred	v		pred		
+matukar	niu	0062	main	TOP	other	other				
+matukar	niu	0062	%	%	%	%				
+matukar	niu	0063	#	#	#ds	#ds				
+matukar	niu	0063	manaiyamok	there-INTSF	other:l	other		l	6026	bridging
+matukar	niu	0063	ZERO	ZERO	0.2:s	0	2	s	6007	
+matukar	niu	0063	laupidap	go.down-IRR:D	v:pred	v		pred		
+matukar	niu	0063	garang	jungle	ln	ln				
+matukar	niu	0063	garanglo	jungle-LOC	np:g	np		g	6043	new
+matukar	niu	0063	mana	there	other	other			6026	
+matukar	niu	0063	%	%	%	%				
+matukar	niu	0064	#	#	#ds	#ds				
+matukar	niu	0064	ai	tree	ln	ln				
+matukar	niu	0064	ta	a	ln	ln				
+matukar	niu	0064	balun	shoot	np:s	np		s	6027	new
+matukar	niu	0064	sa-ndop	ascend-IRR:D	v:pred	v		pred		
+matukar	niu	0064	%	%	%	%				
+matukar	niu	0064	#	#	#	#				
+matukar	niu	0064	ZERO	ZERO	0.2:s	0	2	s	6007	
+matukar	niu	0064	ZERO	ZERO	0:p	0		p	6027	
+matukar	niu	0064	temba	see-IRR:I	v:pred	v		pred		
+matukar	niu	0064	%	%	%	%				
+matukar	niu	0065	#	#	#ds	#ds				
+matukar	niu	0065	do-p	CONJ-IRR:D	other	other				
+matukar	niu	0065	ai	tree	np:dt	np		dt	6028	new
+matukar	niu	0065	mainangan	TOP	ln	ln				
+matukar	niu	0066	aben	place	np:p	np		p	6029	bridging
+matukar	niu	0066	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0066	pasi	take.out	v:pred	v		pred		
+matukar	niu	0066	%	%	%	%				
+matukar	niu	0067	#	#	#	#				
+matukar	niu	0067	do	CONJ	other	other				
+matukar	niu	0067	tawan	elder.brother	np.h:dt_s	np	h	dt_s	6007	
+matukar	niu	0067	dabok	big	rn	rn				
+matukar	niu	0067	i	3SG.S	pro.h:s	pro	h	s	6007	
+matukar	niu	0067	rut-e	be.surprised-SEQ:D	v:pred	v		pred		
+matukar	niu	0067	%	%	%	%				
+matukar	niu	0067	#	#	#	#				
+matukar	niu	0067	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0067	mais-e	rise-R:I:PFV	v:pred	v		pred		
+matukar	niu	0067	%	%	%	%				
+matukar	niu	0068	#	#	#	#				
+matukar	niu	0068	do	CONJ	other	other				
+matukar	niu	0068	tidom mami	morning	np:other	np		other		
+matukar	niu	0069	lul-te	beach-LOC	np:g	np		g	6018	
+matukar	niu	0069	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0069	si-la-nge	descend-away-SEQ:D	v:pred	v		pred		
+matukar	niu	0069	%	%	%	%				
+matukar	niu	0070	#	#	#	#				
+matukar	niu	0070	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0070	y-	3SG.S-	-pro_h_s	-pro_h_s			6007	
+matukar	niu	0070	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	niu	0070	#	#	#rc:g	#rc		g		
+matukar	niu	0070	main-angan	REL-FOC	other:l	other		l		
+matukar	niu	0070	tain	younger.brother	ln_np.h	ln_np	h		6006	
+matukar	niu	0070	garma-n	head-3SG	np:p	np		p	6021	
+matukar	niu	0070	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0070	pai-nge	bury-SEQ:D	v:pred	v		pred		
+matukar	niu	0070	manaiya-mok	there-INTSF	other:l	other		l		
+matukar	niu	0070	%	%	%	%				
+matukar	niu	0070	%	%	%	%				
+matukar	niu	0071	#	#	#	#				
+matukar	niu	0071	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0071	y-	3SG.S-	-pro_h_s	-pro_h_s			6007	
+matukar	niu	0071	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	niu	0071	%	%	%	%				
+matukar	niu	0071	#	#	#	#				
+matukar	niu	0071	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0071	ZERO	ZERO	0:p	0		p	6021	
+matukar	niu	0071	te-ndo	see-R:D	v:pred	v		pred		
+matukar	niu	0071	%	%	%	%				
+matukar	niu	0072	#	#	#	#				
+matukar	niu	0072	ai	tree	ln	ln				
+matukar	niu	0072	main	TOP	ln	ln				
+matukar	niu	0072	balun	shoot	np:s	np		s	6044	bridging
+matukar	niu	0072	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	niu	0072	%	%	%	%				
+matukar	niu	0073	#	#	#	#				
+matukar	niu	0073	balun	shoot	np:s	np		s	6044	
+matukar	niu	0073	sa-nge	ascend-SEQ:D	v:pred	v		pred		
+matukar	niu	0073	ebala	COMP	other	other				
+matukar	niu	0073	%	%	%	%				
+matukar	niu	0074	#	#	#neg	#neg				
+matukar	niu	0074	ai	tree	ln	ln				
+matukar	niu	0074	balun-ong	shoot-COMP	np:predex	np		predex		
+matukar	niu	0074	ti	NEG	rn	rn				
+matukar	niu	0074	%	%	%	%				
+matukar	niu	0075	#	#	#	#				
+matukar	niu	0075	kaibo	but	other	other				
+matukar	niu	0075	aben-ami	place-only	np:p	np		p	6045	bridging
+matukar	niu	0075	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0075	pasi-nge	take.off-R:I:PFV	v:pred	v		pred		
+matukar	niu	0075	%	%	%	%				
+matukar	niu	0076	#	#	#	#				
+matukar	niu	0076	aben-ami	place-only	np:p	np		p	6045	
+matukar	niu	0076	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0076	pasi-nge	take.off-R:I:PFV	v:pred	v		pred		
+matukar	niu	0076	%	%	%	%				
+matukar	niu	0077	#	#	#	#				
+matukar	niu	0077	ah	DISFLUENCY	other	other				
+matukar	niu	0078	nal	time	np:other	np		other		
+matukar	niu	0078	tura-n-lo	another-3SG-LOC	rn	rn				
+matukar	niu	0078	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0078	si-la-do-nge	descend-away-AGAIN-R:I:PFV	v:pred	v		pred		
+matukar	niu	0078	%	%	%	%				
+matukar	niu	0079	#	#	#	#				
+matukar	niu	0079	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0079	si-la-do-nge	descend-away-AGAIN-SEQ:D	v:pred	v		pred		
+matukar	niu	0079	yawe	aux	rv	rv				
+matukar	niu	0079	yawe	aux	rv	rv				
+matukar	niu	0079	%	%	%	%				
+matukar	niu	0079	#	#	#	#				
+matukar	niu	0079	ai	tree	np:predex	np		predex	6044	
+matukar	niu	0079	main	TOP	rn	rn				
+matukar	niu	0079	gam	already	other	other				
+matukar	niu	0079	%	%	%	%				
+matukar	niu	0080	#	#	#	#				
+matukar	niu	0080	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0080	y-	3SG.S-	-pro_h_s	-pro_h_s			6007	
+matukar	niu	0080	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	niu	0080	%	%	%	%				
+matukar	niu	0080	#	#	#	#				
+matukar	niu	0080	gam	already	other	other				
+matukar	niu	0081	balun	shoot	np:s	np		s	6044	
+matukar	niu	0081	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	niu	0082	manige	like.this	other	other				
+matukar	niu	0082	gam	already	other	other				
+matukar	niu	0082	%	%	%	%				
+matukar	niu	0083	#	#	#	#				
+matukar	niu	0083	do	CONJ	other	other				
+matukar	niu	0083	aben-ami	place-only	np:p	np		p	6046	bridging
+matukar	niu	0083	ZERO	ZERO	np.h:s	np	h	s	6007	
+matukar	niu	0083	pasi-nge	take.out-R:I:PFV	v:pred	v		pred		
+matukar	niu	0083	%	%	%	%				
+matukar	niu	0083	#	#	#neg	#neg				
+matukar	niu	0083	han	POSS	ln	ln				
+matukar	niu	0083	ilo	thought	ln	ln				
+matukar	niu	0083	girek	think-NOM	np:s	np		s	6030	new
+matukar	niu	0083	uyan	good	np:pred	np		pred		
+matukar	niu	0083	ti	NEG	rn	rn				
+matukar	niu	0083	%	%	%	%				
+matukar	niu	0083	#	#	#	#				
+matukar	niu	0083	aben-ami	place-only	np:p	np		p	6046	
+matukar	niu	0083	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0083	pasi-ngan-do	take.off-CONT-R:D	v:pred	v		pred		
+matukar	niu	0083	%	%	%	%				
+matukar	niu	0084	#	#	#	#				
+matukar	niu	0084	ai	tree	ln	ln				
+matukar	niu	0084	balun	shoot	np:s	np		s	6044	
+matukar	niu	0084	main	TOP	rn	rn				
+matukar	niu	0084	das-e	ascend-SEQ:D	v:pred	v		pred		
+matukar	niu	0084	%	%	%	%				
+matukar	niu	0084	#	#	#	#				
+matukar	niu	0084	ZERO	ZERO	0:s	0		s	6044	
+matukar	niu	0084	das-e	ascend-SEQ:D	v:pred	v		pred		
+matukar	niu	0084	%	%	%	%				
+matukar	niu	0084	#	#	#	#				
+matukar	niu	0084	yaur	leaf	np:s	np		s	6031	bridging
+matukar	niu	0084	dabok	big	np:pred	np		pred		
+matukar	niu	0084	yasman	INTSF	other	other				
+matukar	niu	0084	do	CONJ	other	other				
+matukar	niu	0084	%	%	%	%				
+matukar	niu	0085	#	#	#nc	#nc				
+matukar	niu	0085	i	3SG.S	nc	nc				
+matukar	niu	0085	neg-e	give-SEQ:D	nc	nc				
+matukar	niu	0085	%	%	%	%				
+matukar	niu	0086	#	#	#	#				
+matukar	niu	0086	i	3SG.S	pro:a	pro		a	6044	
+matukar	niu	0086	neg-e	give-SEQ:D	v:pred	v		pred		
+matukar	niu	0087	magu-n-te	top-3SG-LOC	np:l	np		l	6032	bridging
+matukar	niu	0087	manaiya	there	other:l	other		l		
+matukar	niu	0088	agino-n	fruit-3SG	np:p	np		p	6033	bridging
+matukar	niu	0088	kasik	INTSF	rn	rn				
+matukar	niu	0088	main	TOP	rn	rn				
+matukar	niu	0088	%	%	%	%				
+matukar	niu	0089	#	#	#	#				
+matukar	niu	0089	eblang	COMP	ln	ln				
+matukar	niu	0089	agino-n	fruit-3SG	np:s	np		s	6033	
+matukar	niu	0089	manig	like.this	other	other				
+matukar	niu	0089	main	PROX	dem_pro:pred	dem_pro		pred		
+matukar	niu	0089	kasik	INTSF	other	other				
+matukar	niu	0089	main	TOP	other	other				
+matukar	niu	0089	%	%	%	%				
+matukar	niu	0090	#	#	#	#				
+matukar	niu	0090	ainta	some	np:s	np		s	6034	bridging
+matukar	niu	0090	di-	3PL.S-	-pro_s	-pro_s			6034	
+matukar	niu	0090	maior	fall	v:pred	v		pred		
+matukar	niu	0090	di-pid-din-e	3PL.S-descend-3PL.P-R:I:PFV	rv	rv				
+matukar	niu	0090	%	%	%	%				
+matukar	niu	0090	#	#	#	#				
+matukar	niu	0090	ainta	some	np:s	np		s	6035	bridging
+matukar	niu	0090	di-	3PL.S-	-pro_s	-pro_s			6035	
+matukar	niu	0090	yuk-ngan-e	hang-CONT-SEQ:D	v:pred	v		pred		
+matukar	niu	0090	%	%	%	%				
+matukar	niu	0090	#	#	#	#				
+matukar	niu	0090	ZERO	ZERO	np:s	np		s	6035	
+matukar	niu	0090	diy-	3PL.S-	-pro_s	-pro_s			6035	
+matukar	niu	0090	en-e	stay-R:I:PFV	v:pred	v		pred		
+matukar	niu	0090	%	%	%	%				
+matukar	niu	0091	#	#	#	#				
+matukar	niu	0091	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0091	ZERO	ZERO	0:p	0		p	6034	
+matukar	niu	0091	ngale-ndo	take-R:D	v:pred	v		pred		
+matukar	niu	0091	%	%	%	%				
+matukar	niu	0091	#	#	#	#				
+matukar	niu	0091	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0091	mul-ya-do-nge	return-away-AGAIN-R:I:PFV	v:pred	v		pred		
+matukar	niu	0091	%	%	%	%				
+matukar	niu	0092	#	#	#	#				
+matukar	niu	0092	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0092	mul-ya-we	return-away-SEQ:D	v:pred	v		pred		
+matukar	niu	0092	%	%	%	%				
+matukar	niu	0092	#	#	#	#				
+matukar	niu	0092	i	3SG.S	pro.h:s	pro	h	s	6007	
+matukar	niu	0092	y-	3SG.S-	-pro_h_s	-pro_h_s			6007	
+matukar	niu	0092	en-e	sleep-R:I:PFV	v:pred	v		pred		
+matukar	niu	0092	%	%	%	%				
+matukar	niu	0093	#	#	#	#				
+matukar	niu	0093	do	CONJ	other	other				
+matukar	niu	0093	haun	again	other	other				
+matukar	niu	0093	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0093	y-	3SG.S-	-pro_h_s	-pro_h_s			6007	
+matukar	niu	0093	enamim-ado-nge	dream-AGAIN-SEQ:D	v:pred	v		pred		
+matukar	niu	0093	%	%	%	%				
+matukar	niu	0093	#	#	#	#				
+matukar	niu	0093	ZERO	ZERO	0.h:s_ds	0	h	s_ds	6006	
+matukar	niu	0093	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	niu	0093	%	%	%	%				
+matukar	niu	0094	#	#	#ds	#ds				
+matukar	niu	0094	boiip	tomorrow	np:other	np		other		
+matukar	niu	0094	ZERO	ZERO	0.2:s	0	2	s	6007	
+matukar	niu	0094	mais-ap	rise-IRR:D	v:pred	v		pred		
+matukar	niu	0094	%	%	%	%				
+matukar	niu	0095	#	#	#ds	#ds				
+matukar	niu	0095	ha-m	POSS-2SG	ln_pro.2:poss	ln_pro	2	poss	6007	
+matukar	niu	0096	milok	something-NOM	ln	ln				
+matukar	niu	0097	badam	parcel	np:p	np		p	6036	new
+matukar	niu	0097	ZERO	ZERO	0.2:a	0	2	a	6007	
+matukar	niu	0097	ngale	take	v:pred	v		pred		
+matukar	niu	0097	%	%	%	%				
+matukar	niu	0098	#	#	#	#				
+matukar	niu	0098	ha-m	POSS-2SG	ln_pro.2:poss	ln_pro	2	poss		
+matukar	niu	0099	pat	stone	np:p	np		p	6037	bridging
+matukar	niu	0099	ZERO	ZERO	0.2:a	0	2	a	6007	
+matukar	niu	0099	ngale	take	v:pred	v		pred		
+matukar	niu	0099	%	%	%	%				
+matukar	niu	0100	#	#	#ds	#ds				
+matukar	niu	0100	ZERO	ZERO	0.2:s	0	2	s	6007	
+matukar	niu	0100	si-la-p	descend-away-IRR:D	v:pred	v		pred		
+matukar	niu	0100	%	%	%	%				
+matukar	niu	0100	#	#	#ds	#ds				
+matukar	niu	0100	ZERO	ZERO	0.2:s	0	2	s	6007	
+matukar	niu	0100	w-	2SG.S-	-pro_2_s	-pro_2_s			6007	
+matukar	niu	0100	a-p	go-IRR:D	v:pred	v		pred		
+matukar	niu	0100	%	%	%	%				
+matukar	niu	0101	#	#	#ds	#ds				
+matukar	niu	0101	ai	tree	np:p	np		p	6044	
+matukar	niu	0101	dabok	big	rn	rn				
+matukar	niu	0101	main	TOP	rn	rn				
+matukar	niu	0101	ZERO	ZERO	0.2:a	0	2	a	6007	
+matukar	niu	0101	te-ndo-page	see-R:D-PROTASIS	v:pred	v		pred		
+matukar	niu	0101	%	%	%	%				
+matukar	niu	0102	#	#	#ds	#ds				
+matukar	niu	0102	dabinte	root-LOC	np:l	np		l	6038	bridging
+matukar	niu	0102	milo	something	np:p	np		p	6039	new
+matukar	niu	0102	milo	something	rn	rn				
+matukar	niu	0102	ZERO	ZERO	0.2:a	0	2	a	6007	
+matukar	niu	0102	ta	see	v:pred	v		pred		
+matukar	niu	0102	-din	-3PL.P	-pro_p	-pro_p			6039	
+matukar	niu	0102	-ago	-ago	-rv	-rv				
+matukar	niu	0102	%	%	%	%				
+matukar	niu	0102	#	#	#ds	#ds				
+matukar	niu	0102	main	PROX	dem_pro:p	dem_pro		p	6039	
+matukar	niu	0102	ZERO	ZERO	0.2:a	0	2	a	6007	
+matukar	niu	0102	te-mba	see-IRR:I	v:pred	v		pred		
+matukar	niu	0102	%	%	%	%				
+matukar	niu	0103	#	#	#ds	#ds				
+matukar	niu	0103	ZERO	ZERO	0.2:a	0	2	a	6007	
+matukar	niu	0103	ZERO	ZERO	0:p	0		p	6039	
+matukar	niu	0103	te-ndo	see-R:D	v:pred	v		pred		
+matukar	niu	0103	%	%	%	%				
+matukar	niu	0103	#	#	#ds	#ds				
+matukar	niu	0103	ZERO	ZERO	0.2:a	0	2	a	6007	
+matukar	niu	0103	ZERO	ZERO	0:p	0		p	6039	
+matukar	niu	0103	ta-din-ago	see-3PL.P-R:I:IMPV	v:pred	v		pred		
+matukar	niu	0103	main	TOP	other	other				
+matukar	niu	0103	%	%	%	%				
+matukar	niu	0104	#	#	#ds	#ds				
+matukar	niu	0104	ZERO	ZERO	0:s	0		s	6039	
+matukar	niu	0104	y-	3SG.S-	-pro_s	-pro_s			6039	
+matukar	niu	0104	en-ago	exist-R:I:IMPV	v:pred	v		pred		
+matukar	niu	0104	%	%	%	%				
+matukar	niu	0104	#	#	#ds	#ds				
+matukar	niu	0104	ZERO	ZERO	0.2:a	0	2	a	6007	
+matukar	niu	0104	ZERO	ZERO	0:p	0		p	6039	
+matukar	niu	0104	ta	see	v:pred	v		pred		
+matukar	niu	0104	-din	-3PL.P	-pro_h_p	-pro_h_p			6039	
+matukar	niu	0104	-aba	-I:IRR	-rv	-rv				
+matukar	niu	0104	%	%	%	%				
+matukar	niu	0105	#	#	#	#				
+matukar	niu	0105	dop	CONJ	other	other				
+matukar	niu	0105	tidom	night	ln	ln				
+matukar	niu	0105	mamimok	break-INTSF	np:other	np		other		
+matukar	niu	0105	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0105	mais-e	rise-SEQ:D	v:pred	v		pred		
+matukar	niu	0105	%	%	%	%				
+matukar	niu	0105	#	#	#	#				
+matukar	niu	0105	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0105	si-la-nge	descend-away-R:I:PFV	v:pred	v		pred		
+matukar	niu	0105	%	%	%	%				
+matukar	niu	0106	#	#	#	#				
+matukar	niu	0106	manig	like.this	other	other				
+matukar	niu	0107	ai	tree	np:s	np		s	6044	
+matukar	niu	0107	niu	coconut	np:pred	np		pred	6040	bridging
+matukar	niu	0107	matu-ma-n	dry-APS-3SG	rn	rn				
+matukar	niu	0107	kasik	INTSF	rn	rn				
+matukar	niu	0107	main	TOP	rn	rn				
+matukar	niu	0107	%	%	%	%				
+matukar	niu	0108	#	#	#	#				
+matukar	niu	0108	do	CONJ	other	other				
+matukar	niu	0108	tahaik	one	np:p	np		p	6041	bridging
+matukar	niu	0108	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0108	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	niu	0108	%	%	%	%				
+matukar	niu	0108	#	#	#	#				
+matukar	niu	0108	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0108	ZERO	ZERO	0:p	0		p	6041	
+matukar	niu	0108	tariuti-nge	cut-R:I:PFV	v:pred	v		pred		
+matukar	niu	0108	%	%	%	%				
+matukar	niu	0109	#	#	#	#				
+matukar	niu	0109	tor	coconut.water	np:p	np		p	6042	bridging
+matukar	niu	0109	main	TOP	rn	rn				
+matukar	niu	0109	ZERO	ZERO	0.h:a	0	h	a	6006	
+matukar	niu	0109	lumi-nge	drink-R:I:PFV	v:pred	v		pred		
+matukar	niu	0109	%	%	%	%				
+matukar	niu	0109	#	#	#	#				
+matukar	niu	0109	yaraun	?	np:s	np		s	6043	
+matukar	niu	0109	kasik	INTSF	rn	rn				
+matukar	niu	0109	balbal	fat	np:pred	np		pred		
+matukar	niu	0109	kasik	INTSF	rn	rn				
+matukar	niu	0109	%	%	%	%				
+matukar	niu	0110	#	#	#	#				
+matukar	niu	0110	pat	stone	np:p	np		p	6037	
+matukar	niu	0110	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0110	y-	3SG.S-	-pro_h_a	-pro_h_a			6007	
+matukar	niu	0110	bi-nge	hold-SEQ:D	v:pred	v		pred		
+matukar	niu	0110	main	TOP	other	other				
+matukar	niu	0110	%	%	%	%				
+matukar	niu	0111	#	#	#	#				
+matukar	niu	0111	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0111	ZERO	ZERO	0:p	0		p	6041	
+matukar	niu	0111	balate-nge	break-SEQ:D	v:pred	v		pred		
+matukar	niu	0111	agino-n	fruit-3SG	np:dt_p	np		dt_p	6041	
+matukar	niu	0111	mainan	TOP	rn	rn				
+matukar	niu	0111	%	%	%	%				
+matukar	niu	0112	#	#	#	#				
+matukar	niu	0112	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0112	ZERO	ZERO	0:p	0		p	6041	
+matukar	niu	0112	ya-	3SG.A-	-pro_h_a	-pro_h_a			6007	
+matukar	niu	0112	tariuti-nge	cut-SEQ:D	v:pred	v		pred		
+matukar	niu	0112	%	%	%	%				
+matukar	niu	0112	#	#	#	#				
+matukar	niu	0112	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0112	ZERO	ZERO	0:p	0		p	6041	
+matukar	niu	0112	ya-	3SG.A-	-pro_h_a	-pro_h_a			6007	
+matukar	niu	0112	ni-nge	eat-SEQ:D	v:pred	v		pred		
+matukar	niu	0112	%	%	%	%				
+matukar	niu	0112	#	#	#	#				
+matukar	niu	0112	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0112	ZERO	ZERO	0:p	0		p	6041	
+matukar	niu	0112	tongalinge	swallow-R:I:PFV	v:pred	v		pred		
+matukar	niu	0112	%	%	%	%				
+matukar	niu	0113	#	#	#	#				
+matukar	niu	0113	garotinan	beautiful-3SG	np:pred	np		pred		
+matukar	niu	0113	%	%	%	%				
+matukar	niu	0114	#	#	#	#				
+matukar	niu	0114	do	CONJ	other	other				
+matukar	niu	0114	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0114	ZERO	ZERO	0:p	0		p	6040	
+matukar	niu	0114	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	niu	0114	%	%	%	%				
+matukar	niu	0114	#	#	#	#				
+matukar	niu	0114	malal-te	village-LOC	np:g	np		g	6004	
+matukar	niu	0114	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0114	y-	3SG.S-	-pro_h_s	-pro_h_s			6007	
+matukar	niu	0114	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	niu	0114	%	%	%	%				
+matukar	niu	0115	#	#	#	#				
+matukar	niu	0115	malal-te	village-LOC	np:g	np		g	6004	
+matukar	niu	0115	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0115	y-	3SG.S-	-pro_h_s	-pro_h_s			6007	
+matukar	niu	0115	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	niu	0115	%	%	%	%				
+matukar	niu	0115	#	#	#	#				
+matukar	niu	0115	painim	women	np.h:a	np	h	a	6047	bridging
+matukar	niu	0115	aipainim	children	rn_np.h	rn_np	h		6048	bridging
+matukar	niu	0116	main	PROX	dem_pro:p	dem_pro		p		
+matukar	niu	0116	di-	3PL.A-	-pro_h_a	-pro_h_a			6049	bridging
+matukar	niu	0116	te-nge	see-SEQ:D	v:pred	v		pred		
+matukar	niu	0116	%	%	%	%				
+matukar	niu	0116	#	#	#	#				
+matukar	niu	0116	di-	3PL.S-	-pro_h_s	-pro_h_s			6049	
+matukar	niu	0116	rut-e	be.surprised-SEQ:D	v:pred	v		pred		
+matukar	niu	0116	%	%	%	%				
+matukar	niu	0117	#	#	#	#				
+matukar	niu	0117	aginon	fruit	np:p	np		p	6040	
+matukar	niu	0117	ZERO	ZERO	0.h:a	0	h	a	6049	
+matukar	niu	0117	di-	3PL.A-	-pro_h_a	-pro_h_a			6049	
+matukar	niu	0117	te-nge	see-SEQ:D	v:pred	v		pred		
+matukar	niu	0117	%	%	%	%				
+matukar	niu	0117	#	#	#	#				
+matukar	niu	0117	ZERO	ZERO	0.h:s	0	h	s	6049	
+matukar	niu	0117	di-	3PL.S-	-pro_h_s	-pro_h_s			6049	
+matukar	niu	0117	rut-e	be.surprised-SEQ:D	v:pred	v		pred		
+matukar	niu	0117	%	%	%	%				
+matukar	niu	0117	#	#	#	#				
+matukar	niu	0117	ZERO	ZERO	0.h:s	0	h	s	6049	
+matukar	niu	0117	ZERO	ZERO	0.h:p	0	h	p	6007	
+matukar	niu	0117	di-	3PL.S-	-pro_h_s	-pro_h_s			6049	
+matukar	niu	0117	sumaiya	ask	v:pred	v		pred		
+matukar	niu	0117	-i	-3SG.P	-pro_h_p	-pro_h_p			6007	
+matukar	niu	0117	-ye	-R:I:PFV	-rv	-rv				
+matukar	niu	0117	%	%	%	%				
+matukar	niu	0117	#	#	#ds	#ds				
+matukar	niu	0117	main	PROX	dem_pro:s	dem_pro		s	6041	
+matukar	niu	0117	hanat	what	other:pred	other		pred		
+matukar	niu	0117	%	%	%	%				
+matukar	niu	0118	#	#	#	#				
+matukar	niu	0118	do	CONJ	other	other				
+matukar	niu	0118	ZERO	ZERO	0.h:s	0	h	s	6007	
+matukar	niu	0118	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	niu	0118	ari	OK	other	other				
+matukar	niu	0118	%	%	%	%				
+matukar	niu	0119	#	#	#	#				
+matukar	niu	0119	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0119	ZERO	ZERO	0:p	0		p	6052	bridging
+matukar	niu	0119	ZERO	ZERO	0.h:g	0	h	g	6049	
+matukar	niu	0119	pan	give	v:pred	v		pred		
+matukar	niu	0119	-din	-3PL.R	-pro_h_g	-pro_h_g			6049	
+matukar	niu	0119	-e	-R:I:PFV	-rv	-rv				
+matukar	niu	0119	%	%	%	%				
+matukar	niu	0119	#	#	#	#				
+matukar	niu	0119	tahaik	one	other	other				
+matukar	niu	0119	tahaik	one	other	other				
+matukar	niu	0119	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0119	ZERO	ZERO	0:p	0		p	6052	
+matukar	niu	0119	ZERO	ZERO	0.h:g	0	h	g	6049	
+matukar	niu	0119	pan	give	v:pred	v		pred		
+matukar	niu	0119	-din	-3PL.P	-pro_h_p	-pro_h_p			6049	
+matukar	niu	0119	-e	-R:I:PFV	-rv	-rv				
+matukar	niu	0119	%	%	%	%				
+matukar	niu	0120	#	#	#	#				
+matukar	niu	0120	ari	OK	other	other				
+matukar	niu	0120	i	3SG.S	pro.h:s_ds	pro	h	s_ds	6007	
+matukar	niu	0120	ba	say	v:pred	v		pred		
+matukar	niu	0120	%	%	%	%				
+matukar	niu	0121	#	#	#ds	#ds				
+matukar	niu	0121	ari	OK	other	other				
+matukar	niu	0121	ang	2SG.A	pro.2:a	pro	2	a	6049	
+matukar	niu	0122	ZERO	ZERO	0:p	0		p	6052	
+matukar	niu	0122	a-	2PL.A-	-pro_2_a	-pro_2_a			6049	
+matukar	niu	0122	tarate-p	break.open-IRR:D	v:pred	v		pred		
+matukar	niu	0122	%	%	%	%				
+matukar	niu	0123	#	#	#ds	#ds				
+matukar	niu	0123	torman	coconut.water	np:p	np		p	6050	bridging
+matukar	niu	0123	ZERO	ZERO	0.2:a	0	2	a	6049	
+matukar	niu	0123	a-	2PL.A-	-pro_2_a	-pro_2_a			6049	
+matukar	niu	0123	lumi	drink	v:pred	v		pred		
+matukar	niu	0123	%	%	%	%				
+matukar	niu	0124	#	#	#ds	#ds				
+matukar	niu	0124	ZERO	ZERO	0.2:a	0	2	a	6049	
+matukar	niu	0124	ZERO	ZERO	0:p	0		p	6052	
+matukar	niu	0124	a-	2PL.A-	-pro_2_a	-pro_2_a			6049	
+matukar	niu	0124	dogani-p	dig.out-IRR:D	v:pred	v		pred		
+matukar	niu	0124	%	%	%	%				
+matukar	niu	0125	#	#	#ds	#ds				
+matukar	niu	0125	mudan	meat	np:p	np		p	6051	bridging
+matukar	niu	0125	main	TOP	rn	rn				
+matukar	niu	0125	ZERO	ZERO	0.2:a	0	2	a	6049	
+matukar	niu	0125	ani	eat	v:pred	v		pred		
+matukar	niu	0125	%	%	%	%				
+matukar	niu	0126	#	#	#	#				
+matukar	niu	0126	do	CONJ	other	other				
+matukar	niu	0126	ZERO	ZERO	0.h:a	0	h	a	6049	
+matukar	niu	0126	ZERO	ZERO	0:p	0		p	6052	
+matukar	niu	0126	di-	3PL.A-	-pro_h_a	-pro_h_a			6049	
+matukar	niu	0126	ni-la	eat-away	v:pred	v		pred		
+matukar	niu	0126	%	%	%	%				
+matukar	niu	0126	#	#	#	#				
+matukar	niu	0126	ZERO	ZERO	0.h:a	0	h	a	6049	
+matukar	niu	0126	ZERO	ZERO	0:p	0		p	6052	
+matukar	niu	0126	di-	3PL.A-	-pro_h_a	-pro_h_a			6049	
+matukar	niu	0126	ni-la	eat-away	v:pred	v		pred		
+matukar	niu	0126	%	%	%	%				
+matukar	niu	0127	#	#	#ds	#ds				
+matukar	niu	0127	uyanamok	good-INTSF	np:pred	np		pred		
+matukar	niu	0127	o	VOC	other	other				
+matukar	niu	0127	%	%	%	%				
+matukar	niu	0127	#	#	#	#				
+matukar	niu	0127	ZERO	ZERO	0.h:s	0	h	s	6049	
+matukar	niu	0127	di-	3PL.S-	-pro_h_s	-pro_h_s			6049	
+matukar	niu	0127	bal-e	say-R:I:PFV	v:pred	v		pred		
+matukar	niu	0127	%	%	%	%				
+matukar	niu	0128	#	#	#	#				
+matukar	niu	0128	do	CONJ	other	other				
+matukar	niu	0129	ah	ah	other	other				
+matukar	niu	0129	haun	again	other	other				
+matukar	niu	0129	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0129	ZERO	ZERO	0:p	0		p	6053	bridging
+matukar	niu	0129	ZERO	ZERO	0.h:g	0	h	g	6049	
+matukar	niu	0129	pan	give	v:pred	v		pred		
+matukar	niu	0129	-din	-3PL.R	-pro_h_g	-pro_h_g			6049	
+matukar	niu	0129	-do-nge	-AGAIN-R:I:PFV	-rv	-rv				
+matukar	niu	0129	%	%	%	%				
+matukar	niu	0130	#	#	#	#				
+matukar	niu	0130	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0130	ZERO	ZERO	0:p	0		p	6053	
+matukar	niu	0130	ZERO	ZERO	0.h:g	0	h	g	6049	
+matukar	niu	0130	pan	give	v:pred	v		pred		
+matukar	niu	0130	-din	-3PL.R	-pro_h_g	-pro_h_g			6049	
+matukar	niu	0130	-do-nge	-AGAIN-R:I:PFV	-rv	-rv				
+matukar	niu	0130	%	%	%	%				
+matukar	niu	0131	#	#	#ds	#ds				
+matukar	niu	0131	ZERO	ZERO	0.2:a	0	2	a	6049	
+matukar	niu	0131	ZERO	ZERO	0:p	0		p	6053	
+matukar	niu	0131	a-	2PL.A-	-pro_2_a	-pro_2_a			6049	
+matukar	niu	0131	pai	plant	v:pred	v		pred		
+matukar	niu	0131	%	%	%	%				
+matukar	niu	0131	#	#	#ds	#ds				
+matukar	niu	0131	ZERO	ZERO	0.h:a	0	h	a	6049	
+matukar	niu	0131	ZERO	ZERO	0:p	0		p	6053	
+matukar	niu	0131	a-	2PL.A-	-pro_2_a	-pro_2_a			6049	
+matukar	niu	0131	pai	plant	v:pred	v		pred		
+matukar	niu	0131	unintelligible	unintelligible	nc	nc				
+matukar	niu	0131	%	%	%	%				
+matukar	niu	0132	#	#	#ds	#ds				
+matukar	niu	0132	manig	like.this	other	other				
+matukar	niu	0132	mainangan	PROX-FOC	other	other				
+matukar	niu	0132	niu	coconut	np:p	np		p	6053	
+matukar	niu	0132	manig	like.this	other	other				
+matukar	niu	0132	main	TOP	other	other				
+matukar	niu	0132	ZERO	ZERO	0.2:a	0	2	a	6049	
+matukar	niu	0132	a-	2PL.A-	-pro_2_a	-pro_2_a			6049	
+matukar	niu	0132	pai	plant	v:pred	v		pred		
+matukar	niu	0133	manig	like.this	other	other				
+matukar	niu	0133	mainangan	PROX-FOC	other	other				
+matukar	niu	0133	%	%	%	%				
+matukar	niu	0134	#	#	#	#				
+matukar	niu	0134	had	CL-1pl.incl	ln_pro.1:poss	ln_pro	1	poss	6055	bridging
+matukar	niu	0134	malal	village	np:s	np		s	6004	
+matukar	niu	0134	hudungan	all	rn	rn				
+matukar	niu	0135	niu	coconut	np:pred	np		pred		
+matukar	niu	0135	main	TOP	rn	rn				
+matukar	niu	0135	%	%	%	%				
+matukar	niu	0136	#	#	#ds.neg	#ds.neg				
+matukar	niu	0136	ib	NEG.IMP	lv	lv				
+matukar	niu	0136	ZERO	ZERO	0.2:a	0	2	a	6049	
+matukar	niu	0136	ZERO	ZERO	0:p	0		p	6053	
+matukar	niu	0136	a-	2PL.A-	-pro_2_a	-pro_2_a			6049	
+matukar	niu	0136	bal	throw	v:pred	v		pred		
+matukar	niu	0136	a-bal	2PL.A-throw	rv	rv				
+matukar	niu	0136	%	%	%	%				
+matukar	niu	0137	#	#	#	#				
+matukar	niu	0137	do	CONJ	other	other				
+matukar	niu	0137	i	3SG.A	pro.h:a	pro	h	a	6007	
+matukar	niu	0137	ZERO	ZERO	0:p	0		p	6053	
+matukar	niu	0137	ZERO	ZERO	0.h:g	0	h	g	6049	
+matukar	niu	0137	pan	give	v:pred	v		pred		
+matukar	niu	0137	-din	-3PL.P	-pro_h_g	-pro_h_g			6049	
+matukar	niu	0137	-e	-SEQ:D	-rv	-rv				
+matukar	niu	0137	%	%	%	%				
+matukar	niu	0137	#	#	#	#				
+matukar	niu	0137	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0137	ZERO	ZERO	0:p	0		p	6053	
+matukar	niu	0137	ZERO	ZERO	0.h:g	0	h	g	6049	
+matukar	niu	0137	pan	give	v:pred	v		pred		
+matukar	niu	0137	-din	-3PL.P	-pro_h_g	-pro_h_g			6049	
+matukar	niu	0137	-e	-SEQ:D	-rv	-rv				
+matukar	niu	0137	%	%	%	%				
+matukar	niu	0137	#	#	#	#				
+matukar	niu	0137	ZERO	ZERO	0.h:a	0	h	a	6007	
+matukar	niu	0137	ZERO	ZERO	0:p	0		p	6053	
+matukar	niu	0137	ZERO	ZERO	0.h:g	0	h	g	6049	
+matukar	niu	0137	pan	give	v:pred	v		pred		
+matukar	niu	0137	-din	-3PL.P	-pro_h_g	-pro_h_g			6049	
+matukar	niu	0137	-e	-SEQ:D	-rv	-rv				
+matukar	niu	0137	%	%	%	%				
+matukar	niu	0138	#	#	#	#				
+matukar	niu	0138	gaumomoni	now	other	other				
+matukar	niu	0138	malal	village	np:l	np		l	6004	
+matukar	niu	0138	main	PROX	ln	ln				
+matukar	niu	0138	hudungan	every	ln	ln				
+matukar	niu	0138	niu	coconut	np:s	np		s	6054	bridging
+matukar	niu	0138	mainnen	TOP-3s	rn	rn				
+matukar	niu	0138	di-	3PL.S-	-pro_s	-pro_s			6054	
+matukar	niu	0138	tur-ago	stand-R:I:IMPV	v:pred	v		pred		
+matukar	niu	0138	%	%	%	%				
+matukar	niu	0139	#	#	#	#				
+matukar	niu	0139	so	so	other	other				
+matukar	niu	0139	ye	yes	other	other				
+matukar	niu	0140	tamat	man	ln	ln				
+matukar	niu	0140	garma-n	head-3SG	np:pred	np		pred		
+matukar	niu	0140	%	%	%	%				
+matukar	niu	0141	#	#	#	#				
+matukar	niu	0141	matan	eye-3SG	np:p	np		p		
+matukar	niu	0141	aru	two	rn	rn				
+matukar	niu	0142	awan	mouth-3SG	rn	rn				
+matukar	niu	0142	tahaik	one	rn	rn				
+matukar	niu	0143	ZERO	ZERO	0.2:a	0	2	a		
+matukar	niu	0143	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	niu	0143	%	%	%	%				
+matukar	niu	0144	#	#	#	#				
+matukar	niu	0144	main	PROX	other:s	other		s	6002	
+matukar	niu	0144	ngahau	our	ln	ln				
+matukar	niu	0144	stori	story	np:pred	np		pred		
+matukar	niu	0144	main	TOP	rn	rn				
+matukar	niu	0144	manig	like.this	other	other				
+matukar	niu	0144	%	%	%	%				
+matukar	niu	0145	#	#	#	#				
+matukar	niu	0145	manaiy-ami	like.that-only	other:pred	other		pred		
+matukar	niu	0145	%	%	%	%				

@@ -1,0 +1,39 @@
+{
+    "creators": [
+        {
+            "name": "Danielle Barth"
+        },
+        {
+            "name": "Kira Davey"
+        },
+        {
+            "name": "Maria Matheas"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Geoffrey Haig",
+            "type": "Editor"
+        },
+        {
+            "name": "Stefan Schnell",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "multicast"
+        }
+    ],
+    "title": "Multi-CAST Matukar Panau",
+    "access_right": "open",
+    "keywords": [
+        "cldf:TextCorpus",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Barth, Danielle &amp; Davey, Kira &amp; Matheas, Maria. 2023. Multi-CAST Matukar Panau. In Haig, Geoffrey &amp; Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 2311. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#matukar) (date accessed)</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

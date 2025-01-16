@@ -1,0 +1,487 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+matukar	kadagoi	0001	#	#	#	#				
+matukar	kadagoi	0001	ngau	1SG.S	ln_pro.1:poss	ln_pro	1	poss	3003	new
+matukar	kadagoi	0001	neraurau	story	np:dt	np		dt	3001	new
+matukar	kadagoi	0001	main-angan	TOP-FOC	rn	rn				
+matukar	kadagoi	0001	nga-ha-u	1SG-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	3003	
+matukar	kadagoi	0001	nen	mom	np.h:obl	np	h	obl	3002	new
+matukar	kadagoi	0001	lo	as	adp	adp				
+matukar	kadagoi	0001	ZERO	ZERO	0.1:s	0	1	s	3003	
+matukar	kadagoi	0001	nga-	1SG.S-	-pro_1_s	-pro_1_s			3003	
+matukar	kadagoi	0001	gamuka-ba	talk-I:IRR	v:pred	v		pred		
+matukar	kadagoi	0001	%	%	%	%				
+matukar	kadagoi	0002	#	#	#	#				
+matukar	kadagoi	0002	nga-ha-u	1SG-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	3003	
+matukar	kadagoi	0002	nen	mom	np.h:s	np	h	s	3002	
+matukar	kadagoi	0002	main-angan	TOP-FOC	rn	rn				
+matukar	kadagoi	0002	Matugar	Matugar	ln_pn_np	ln_pn_np				
+matukar	kadagoi	0002	pain	woman	np.h:pred	np	h	pred		
+matukar	kadagoi	0002	%	%	%	%				
+matukar	kadagoi	0003	#	#	#	#				
+matukar	kadagoi	0003	ZERO	ZERO	0.h:s	0	h	s	3002	
+matukar	kadagoi	0003	mado-nge	live-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0003	y-a-we	3SG.S-go-SEQ:D	aux	aux				
+matukar	kadagoi	0003	%	%	%	%				
+matukar	kadagoi	0003	#	#	#	#				
+matukar	kadagoi	0003	Kudag	Kudag_(village)	ln_pn_np	ln_pn_np				
+matukar	kadagoi	0003	tamat	man	np.h:a	np	h	a	3004	new
+matukar	kadagoi	0003	ZERO	ZERO	0.h:p	0	h	p	3002	
+matukar	kadagoi	0003	ngale-nge	marry-R:I:PFV	v:pred	v		pred		
+matukar	kadagoi	0003	%	%	%	%				
+matukar	kadagoi	0004	#	#	#	#				
+matukar	kadagoi	0004	ida	with	other	other				
+matukar	kadagoi	0004	ZERO	ZERO	0.h:s	0	h	s	3005	bridging
+matukar	kadagoi	0004	di-	3SG.S-	-pro_h_s	-pro_h_s			3005	
+matukar	kadagoi	0004	mado-nge	live-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0004	%	%	%	%				
+matukar	kadagoi	0004	#	#	#	#				
+matukar	kadagoi	0004	ZERO	ZERO	0.h:a	0	h	a	3005	
+matukar	kadagoi	0004	ZERO	ZERO	0.1:p	0	1	p	3006	bridging
+matukar	kadagoi	0004	di-	3PL.A-	-pro_h_a	-pro_h_a			3005	
+matukar	kadagoi	0004	nage	give.birth	v:pred	v		pred		
+matukar	kadagoi	0004	-yamam	-1PL.EXCL.P	-pro_h_p	-pro_h_p			3006	
+matukar	kadagoi	0004	-e	-SEQ:D	-rv	-rv				
+matukar	kadagoi	0004	%	%	%	%				
+matukar	kadagoi	0005	#	#	#	#				
+matukar	kadagoi	0005	ZERO	ZERO	0.h:a	0	h	a	3005	
+matukar	kadagoi	0005	ZERO	ZERO	0.1:p	0	1	p	3006	
+matukar	kadagoi	0005	di-	3SG.A-	-pro_h_a	-pro_h_a			3005	
+matukar	kadagoi	0005	yamat	care_for	v:pred	v		pred		
+matukar	kadagoi	0005	-amam	-1PL.EXCL.P	-pro_1_p	-pro_1_p			3006	
+matukar	kadagoi	0005	-e	-SEQ:D	-rv	-rv				
+matukar	kadagoi	0005	y-au-we	3SG.S-go-SEQ:D	aux	aux				
+matukar	kadagoi	0005	%	%	%	%				
+matukar	kadagoi	0005	#	#	#	#				
+matukar	kadagoi	0005	ZERO	ZERO	0.1:s	0	1	s	3006	
+matukar	kadagoi	0005	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			3006	
+matukar	kadagoi	0005	uyan-yan-e	big-uyan.redup-R:I:PFV	v:pred	v		pred		
+matukar	kadagoi	0005	%	%	%	%				
+matukar	kadagoi	0006	#	#	#	#				
+matukar	kadagoi	0006	ngau	1SG.S	pro.1:s	pro	1	s	3003	
+matukar	kadagoi	0006	nga-	1SG.S-	-pro_1_s	-pro_1_s			3003	
+matukar	kadagoi	0006	au-we	go-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0006	%	%	%	%				
+matukar	kadagoi	0006	#	#	#	#				
+matukar	kadagoi	0006	ZERO	ZERO	0.1:s	0	1	s	3003	
+matukar	kadagoi	0006	pain	woman	lv	lv				
+matukar	kadagoi	0006	dabok-ado	big-R:D	v:pred	v		pred		
+matukar	kadagoi	0006	%	%	%	%				
+matukar	kadagoi	0006	#	#	#	#				
+matukar	kadagoi	0006	ngau	1SG.A	pro.1:a	pro	1	a	3004	
+matukar	kadagoi	0006	tamat	man	np.h:p	np	h	p	3007	new
+matukar	kadagoi	0006	nga-	1SG.A-	-pro_1_a	-pro_1_a			3004	
+matukar	kadagoi	0006	ngale-nge	marry-R:I:PFV	v:pred	v		pred		
+matukar	kadagoi	0006	%	%	%	%				
+matukar	kadagoi	0007	#	#	#	#				
+matukar	kadagoi	0007	nga-ha-u	1SG-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	3003	
+matukar	kadagoi	0007	tamat	man	np.h:s	np	h	s	3007	
+matukar	kadagoi	0007	main-angan	TOP-FOC	rn	rn				
+matukar	kadagoi	0007	Ali	Ali	pn_np:pred	pn_np		pred		
+matukar	kadagoi	0007	do	and	rn	rn				
+matukar	kadagoi	0007	Surumaran	Surumaran	rn_pn_np	rn_pn_np				
+matukar	kadagoi	0007	%	%	%	%				
+matukar	kadagoi	0008	#	#	#	#				
+matukar	kadagoi	0008	ZERO	ZERO	0.1:s	0	1	s	3008	bridging
+matukar	kadagoi	0008	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			3008	
+matukar	kadagoi	0008	mado-nge	live-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0008	%	%	%	%				
+matukar	kadagoi	0008	#	#	#	#				
+matukar	kadagoi	0008	nga-ha-u	1SG-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	3003	
+matukar	kadagoi	0008	tamat	man	np.h:a	np	h	a	3007	
+matukar	kadagoi	0008	ab	house	np:p	np		p	3009	new
+matukar	kadagoi	0008	ya-	3SG.A-	-pro_h_a	-pro_h_a			3007	
+matukar	kadagoi	0008	abi-nge	hold-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0008	%	%	%	%				
+matukar	kadagoi	0008	#	#	#	#				
+matukar	kadagoi	0008	abi	garden	np:p	np		p	3010	bridging
+matukar	kadagoi	0008	ZERO	ZERO	0.1:a	0	1	a	3008	
+matukar	kadagoi	0008	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3008	
+matukar	kadagoi	0008	abi-nge	hold-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0008	ti-e	finish-R:I:PFV	aux	aux				
+matukar	kadagoi	0008	%	%	%	%				
+matukar	kadagoi	0009	#	#	#	#				
+matukar	kadagoi	0009	ZERO	ZERO	0.1:s	0	1	s	3008	
+matukar	kadagoi	0009	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			3008	
+matukar	kadagoi	0009	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	kadagoi	0009	%	%	%	%				
+matukar	kadagoi	0009	#	#	#	#				
+matukar	kadagoi	0009	ngau	1SG.A	pro.1:a	pro	1	a	3003	
+matukar	kadagoi	0009	aim	children	np.h:p	np	h	p	3011	bridging
+matukar	kadagoi	0009	aipainim	children	rn	rn				
+matukar	kadagoi	0009	nga-	1SG.A-	-pro_1_a	-pro_1_a			3003	
+matukar	kadagoi	0009	nage	give.birth	v:pred	v		pred		
+matukar	kadagoi	0009	-din	-3PL.P	-pro_h_p	-pro_h_p			3011	
+matukar	kadagoi	0009	-e	-R:I:PFV	-rv	-rv				
+matukar	kadagoi	0009	%	%	%	%				
+matukar	kadagoi	0010	#	#	#	#				
+matukar	kadagoi	0010	ZERO	ZERO	0.1:a	0	1	a	3008	
+matukar	kadagoi	0010	ZERO	ZERO	0.h:p	0	h	p	3011	
+matukar	kadagoi	0010	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3008	
+matukar	kadagoi	0010	yamat	care.for	v:pred	v		pred		
+matukar	kadagoi	0010	-ai	-3PL.some.P	-pro_h_p	-pro_h_p			3011	
+matukar	kadagoi	0010	-e	-SEQ:D	-rv	-rv				
+matukar	kadagoi	0010	%	%	%	%				
+matukar	kadagoi	0010	#	#	#	#				
+matukar	kadagoi	0010	ZERO	ZERO	0.1:s	0	1	s		
+matukar	kadagoi	0010	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s				
+matukar	kadagoi	0010	mado-nge	live-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0010	ya-a	3SG.S-go	aux	aux				
+matukar	kadagoi	0010	%	%	%	%				
+matukar	kadagoi	0011	#	#	#	#				
+matukar	kadagoi	0011	malal	village	np:p	np		p	3012	bridging
+matukar	kadagoi	0011	main	TOP	rn	rn				
+matukar	kadagoi	0011	ZERO	ZERO	0.1:a	0	1	a	3013	bridging
+matukar	kadagoi	0011	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3013	
+matukar	kadagoi	0011	men	leave	v:pred	v		pred		
+matukar	kadagoi	0011	-i	-3SG.P	-pro_p	-pro_p			3012	
+matukar	kadagoi	0011	-nge	-SEQ:D	-rv	-rv				
+matukar	kadagoi	0011	%	%	%	%				
+matukar	kadagoi	0011	#	#	#	#				
+matukar	kadagoi	0011	hau-n	young-3SG	ln	ln				
+matukar	kadagoi	0011	malal	village	ln	ln				
+matukar	kadagoi	0011	tura-n-te	another-3SG-LOC	np:g	np		g	3014	bridging
+matukar	kadagoi	0011	ZERO	ZERO	0.1:s	0	1	s	3013	
+matukar	kadagoi	0011	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			3013	
+matukar	kadagoi	0011	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0011	%	%	%	%				
+matukar	kadagoi	0011	#	#	#	#				
+matukar	kadagoi	0011	ZERO	ZERO	0.1:s	0	1	s	3013	
+matukar	kadagoi	0011	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			3013	
+matukar	kadagoi	0011	mado-nge	live-R:IPFV	v:pred	v		pred		
+matukar	kadagoi	0011	%	%	%	%				
+matukar	kadagoi	0012	#	#	#	#				
+matukar	kadagoi	0012	aben	place	np:l	np		l	3014	
+matukar	kadagoi	0012	hau-n	young-3SG	rn	rn				
+matukar	kadagoi	0012	ZERO	ZERO	0.1:s	0	1	s	3013	
+matukar	kadagoi	0012	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			3013	
+matukar	kadagoi	0012	mado-nge	live-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0012	y-a-we	3SG.S-go-R:I:PFV	aux	aux				
+matukar	kadagoi	0012	%	%	%	%				
+matukar	kadagoi	0013	#	#	#	#				
+matukar	kadagoi	0013	ab	house	np:p	np		p	3015	bridging
+matukar	kadagoi	0013	ZERO	ZERO	0.h:a	0	h	a	3007	
+matukar	kadagoi	0013	ya-	3SG.A-	-pro_h_a	-pro_h_a			3007	
+matukar	kadagoi	0013	abi-nge	hold-R:I:PFV	v:pred	v		pred		
+matukar	kadagoi	0013	malal	village	np:l	np		l	3014	
+matukar	kadagoi	0013	hau-n	young-3SG	rn	rn				
+matukar	kadagoi	0013	main-te	TOP-LOC	rn	rn				
+matukar	kadagoi	0013	%	%	%	%				
+matukar	kadagoi	0014	#	#	#	#				
+matukar	kadagoi	0014	ab	house	np:p	np		p	3015	
+matukar	kadagoi	0014	ZERO	ZERO	0.h:a	0	h	a	3007	
+matukar	kadagoi	0014	ya-	3SG.A-	-pro_h_a	-pro_h_a			3007	
+matukar	kadagoi	0014	abi-nge	hold-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0014	%	%	%	%				
+matukar	kadagoi	0014	#	#	#	#				
+matukar	kadagoi	0014	ZERO	ZERO	0.1:s	0	1	s	3008	
+matukar	kadagoi	0014	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			3008	
+matukar	kadagoi	0014	mado	sit	v:pred	v		pred		
+matukar	kadagoi	0014	%	%	%	%				
+matukar	kadagoi	0014	#	#	#	#				
+matukar	kadagoi	0014	abi	garden	np:p	np		p	3016	bridging
+matukar	kadagoi	0014	ZERO	ZERO	0.1:a	0	1	a	3008	
+matukar	kadagoi	0014	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3008	
+matukar	kadagoi	0014	bi-nge	hold-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0014	%	%	%	%				
+matukar	kadagoi	0014	#	#	#	#				
+matukar	kadagoi	0014	ngahamam	our.EXCL	ln	ln				
+matukar	kadagoi	0014	aipainim	childre	np.h:p	np	h	p	3011	
+matukar	kadagoi	0014	ZERO	ZERO	0.1:a	0	1	a	3008	
+matukar	kadagoi	0014	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3008	
+matukar	kadagoi	0014	yamat	care.for	v:pred	v		pred		
+matukar	kadagoi	0014	-ai	-3PL.some.P	-pro_h_p	-pro_h_p			3011	
+matukar	kadagoi	0014	-do	-R:D	-rv	-rv				
+matukar	kadagoi	0014	%	%	%	%				
+matukar	kadagoi	0014	#	#	#	#				
+matukar	kadagoi	0014	ZERO	ZERO	0.1:a	0	1	a	3008	
+matukar	kadagoi	0014	ZERO	ZERO	0.h:p	0	h	p	3011	
+matukar	kadagoi	0014	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3008	
+matukar	kadagoi	0014	yamat	care.for	v:pred	v		pred		
+matukar	kadagoi	0014	-ai	-3PL.some.P	-pro_h_p	-pro_h_p			3011	
+matukar	kadagoi	0014	-do	-R:D	-rv	-rv				
+matukar	kadagoi	0014	ya-au	3SG.S-go	aux	aux				
+matukar	kadagoi	0014	%	%	%	%				
+matukar	kadagoi	0014	#	#	#	#				
+matukar	kadagoi	0014	ZERO	ZERO	0.h:s	0	h	s	3011	
+matukar	kadagoi	0014	uyan-uyan-e	big-big.REDUP-R:I:PFV	v:pred	v		pred		
+matukar	kadagoi	0014	%	%	%	%				
+matukar	kadagoi	0015	#	#	#	#				
+matukar	kadagoi	0015	ZERO	ZERO	0.h:s	0	h	s	3011	
+matukar	kadagoi	0015	di-	3PL.S-	-pro_h_s	-pro_h_s			3011	
+matukar	kadagoi	0015	ya-we	go-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0015	sule-lo	school-in	np:g	np		g	3017	new
+matukar	kadagoi	0015	%	%	%	%				
+matukar	kadagoi	0015	#	#	#	#				
+matukar	kadagoi	0015	ZERO	ZERO	0.h:s	0	h	s	3011	
+matukar	kadagoi	0015	ZERO	ZERO	0.h:p	0	h	p		
+matukar	kadagoi	0015	di-	3PL.S-	-pro_h_s	-pro_h_s			3011	
+matukar	kadagoi	0015	ya	go	v:pred	v		pred		
+matukar	kadagoi	0015	-din	-3PL.P	-pro_h_p	-pro_h_p				
+matukar	kadagoi	0015	-e	-R:I:PFV	-rv	-rv				
+matukar	kadagoi	0015	aipainim	children	np.h:dt	np	h	dt	3011	
+matukar	kadagoi	0015	%	%	%	%				
+matukar	kadagoi	0015	#	#	#	#				
+matukar	kadagoi	0015	nga-ha-u	1SG-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	3003	
+matukar	kadagoi	0015	aipainim	children	np.h:s	np	h	s	3011	
+matukar	kadagoi	0015	hudungan	every	rn	rn				
+matukar	kadagoi	0015	sule	school	np:g	np		g	3017	
+matukar	kadagoi	0015	di-	3PL.S-	-pro_h_s	-pro_h_s			3011	
+matukar	kadagoi	0015	ya-ba	go-I:IRR	v:pred	v		pred		
+matukar	kadagoi	0015	%	%	%	%				
+matukar	kadagoi	0016	#	#	#	#				
+matukar	kadagoi	0016	ZERO	ZERO	0.h:s	0	h	s	3011	
+matukar	kadagoi	0016	di-	3PL.S-	-pro_h_s	-pro_h_s			3011	
+matukar	kadagoi	0016	ya-we	go-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0016	%	%	%	%				
+matukar	kadagoi	0016	#	#	#	#				
+matukar	kadagoi	0016	ZERO	ZERO	0.h:s	0	h	s	3011	
+matukar	kadagoi	0016	di-	3PL.S-	-pro_h_s	-pro_h_s			3011	
+matukar	kadagoi	0016	sule-do	school-R:D	v:pred	v		pred		
+matukar	kadagoi	0016	%	%	%	%				
+matukar	kadagoi	0016	#	#	#	#				
+matukar	kadagoi	0016	ngam	1PL.S	pro.1:s	pro	1	s	3013	
+matukar	kadagoi	0016	ngam-	1PL.S-	-pro_1_s	-pro_1_s			3013	
+matukar	kadagoi	0016	mado-nge	stay-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0016	malal-te	village-LOC	np:l	np		l	3014	
+matukar	kadagoi	0016	%	%	%	%				
+matukar	kadagoi	0016	#	#	#	#				
+matukar	kadagoi	0016	abi	garden	np:p	np		p	3016	
+matukar	kadagoi	0016	ZERO	ZERO	0.1:a	0	1	a	3008	
+matukar	kadagoi	0016	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3008	
+matukar	kadagoi	0016	bi-ndo	hold-R:D	v:pred	v		pred		
+matukar	kadagoi	0016	%	%	%	%				
+matukar	kadagoi	0016	#	#	#	#				
+matukar	kadagoi	0016	bom	sago	np:p	np		p		
+matukar	kadagoi	0016	urat	work	rn_np	rn_np			3019	new
+matukar	kadagoi	0016	ZERO	ZERO	0.1:a	0	1	a	3008	
+matukar	kadagoi	0016	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3008	
+matukar	kadagoi	0016	nage-ndo	work-R:D	v:pred	v		pred		
+matukar	kadagoi	0016	%	%	%	%				
+matukar	kadagoi	0017	#	#	#	#				
+matukar	kadagoi	0017	bom	sago	np:p	np		p	3018	bridging
+matukar	kadagoi	0017	ZERO	ZERO	0.1:a	0	1	a	3008	
+matukar	kadagoi	0017	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3008	
+matukar	kadagoi	0017	ngale-palum	take-DIR_towards_ref	v:pred	v		pred		
+matukar	kadagoi	0017	ab-ate	house-LOC	np:g	np		g	3015	
+matukar	kadagoi	0017	%	%	%	%				
+matukar	kadagoi	0017	#	#	#	#				
+matukar	kadagoi	0017	ZERO	ZERO	0:s	0		s	3018	
+matukar	kadagoi	0017	ya-	3SG.S-	-pro_s	-pro_s			3018	
+matukar	kadagoi	0017	en-do-pe	lay-R:D-COND	v:pred	v		pred		
+matukar	kadagoi	0017	%	%	%	%				
+matukar	kadagoi	0017	#	#	#	#				
+matukar	kadagoi	0017	ZERO	ZERO	0.1:s	0	1	s	3008	
+matukar	kadagoi	0017	ngam-	1PL.S-	-pro_1_s	-pro_1_s			3008	
+matukar	kadagoi	0017	pid-ap	descend-IRR:D	v:pred	v		pred		
+matukar	kadagoi	0017	%	%	%	%				
+matukar	kadagoi	0017	#	#	#	#				
+matukar	kadagoi	0017	wasing-wai	fish-in.regard.to	np:obl	np		obl	3020	new
+matukar	kadagoi	0017	daru-k-wai	meat-NOM.UNPOSS-in.regard.to	np:obl	np		obl	3021	new
+matukar	kadagoi	0017	ZERO	ZERO	0.1:s	0	1	s	3008	
+matukar	kadagoi	0017	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			3008	
+matukar	kadagoi	0017	tor-ago	walk-R:I:IMPV	v:pred	v		pred		
+matukar	kadagoi	0017	%	%	%	%				
+matukar	kadagoi	0018	#	#	#	#				
+matukar	kadagoi	0018	wasing	fish	np:p	np		p	3033	bridging
+matukar	kadagoi	0018	daru-k	meat-NOM.UNPOSS	rn_np	rn_np			3034	bridging
+matukar	kadagoi	0018	ngam	1PL.EXCL.A	pro.1:a	pro	1	a	3008	
+matukar	kadagoi	0018	ab-ate	house-LOC	np:l	np		l	3015	
+matukar	kadagoi	0018	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3008	
+matukar	kadagoi	0018	nage-p	work-IRR:D	v:pred	v		pred		
+matukar	kadagoi	0018	y-en-dope	3SG.S-lay-COND	aux	aux				
+matukar	kadagoi	0018	%	%	%	%				
+matukar	kadagoi	0019	#	#	#	#				
+matukar	kadagoi	0019	ZERO	ZERO	0.1:s	0	1	s	3008	
+matukar	kadagoi	0019	ZERO	ZERO	0:p	0		p	3022	bridging
+matukar	kadagoi	0019	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			3008	
+matukar	kadagoi	0019	nei-ma	cook-D:HAB	v:pred	v		pred		
+matukar	kadagoi	0019	%	%	%	%				
+matukar	kadagoi	0019	#	#	#	#				
+matukar	kadagoi	0019	garib	woven.mat	np:p	np		p	3023	new
+matukar	kadagoi	0019	ZERO	ZERO	0.1:a	0	1	a	3008	
+matukar	kadagoi	0019	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3008	
+matukar	kadagoi	0019	bal	throw	v:pred	v		pred		
+matukar	kadagoi	0019	%	%	%	%				
+matukar	kadagoi	0019	#	#	#	#				
+matukar	kadagoi	0019	tamat	man	np.h:s	np	h	s	3024	bridging
+matukar	kadagoi	0019	di-	3PL.S-	-pro_h_s	-pro_h_s			3024	
+matukar	kadagoi	0019	sapid	develop	v:pred	v		pred		
+matukar	kadagoi	0019	%	%	%	%				
+matukar	kadagoi	0019	#	#	#	#				
+matukar	kadagoi	0019	ZERO	ZERO	0.1:a	0	1	a	3008	
+matukar	kadagoi	0019	ZERO	ZERO	0:p	0		p	3022	
+matukar	kadagoi	0019	ZERO	ZERO	0.h:g	0	h	g	3024	
+matukar	kadagoi	0019	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3008	
+matukar	kadagoi	0019	pan	give	v:pred	v		pred		
+matukar	kadagoi	0019	-din	-3PL.R	-pro_h_g	-pro_h_g			3024	
+matukar	kadagoi	0019	%	%	%	%				
+matukar	kadagoi	0019	#	#	#	#				
+matukar	kadagoi	0019	ZERO	ZERO	0.h:a	0	h	a	3024	
+matukar	kadagoi	0019	ZERO	ZERO	0:p	0		p	3022	
+matukar	kadagoi	0019	di-	3SG.A-	-pro_h_a	-pro_h_a			3024	
+matukar	kadagoi	0019	ani-ndop	eat-IRR:D	v:pred	v		pred		
+matukar	kadagoi	0019	%	%	%	%				
+matukar	kadagoi	0019	#	#	#	#				
+matukar	kadagoi	0019	ZERO	ZERO	0.h:s	0	h	s	3024	
+matukar	kadagoi	0019	di-	3PL.S-	-pro_h_s	-pro_h_s			3024	
+matukar	kadagoi	0019	a-din-go	go-3PL.P-R:I:IMPV	v:pred	v		pred		
+matukar	kadagoi	0019	%	%	%	%				
+matukar	kadagoi	0019	#	#	#	#				
+matukar	kadagoi	0019	nga-ha-u	1SG-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	3003	
+matukar	kadagoi	0019	aipainim	children	np.h:p	np	h	p	3011	
+matukar	kadagoi	0019	ZERO	ZERO	0.1:a	0	1	a	3008	
+matukar	kadagoi	0019	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3008	
+matukar	kadagoi	0019	yamat	care.for	v:pred	v		pred		
+matukar	kadagoi	0019	-ai	-3PL.some.P	-pro_h_p	-pro_h_p			3011	
+matukar	kadagoi	0019	-go	-R:I:IMPV	-rv	-rv				
+matukar	kadagoi	0019	%	%	%	%				
+matukar	kadagoi	0020	#	#	#neg	#neg				
+matukar	kadagoi	0020	nga-ha-u	1SG-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	3003	
+matukar	kadagoi	0020	tamat	man	np.h:s	np	h	s	3007	
+matukar	kadagoi	0020	main	TOP	rn	rn				
+matukar	kadagoi	0020	ti	NEG	other	other				
+matukar	kadagoi	0020	urat	work	np:p	np		p		
+matukar	kadagoi	0020	nage-nggokai	work-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	kadagoi	0020	%	%	%	%				
+matukar	kadagoi	0021	#	#	#	#				
+matukar	kadagoi	0021	malal-te	village-LOC	np:l	np		l	3014	
+matukar	kadagoi	0021	ZERO	ZERO	0.h:s	0	h	s	3007	
+matukar	kadagoi	0021	mado-nggo	live-R:I:IMPV	v:pred	v		pred		
+matukar	kadagoi	0021	%	%	%	%				
+matukar	kadagoi	0022	#	#	#	#				
+matukar	kadagoi	0022	mariu	betelnut	np:p	np		p	3026	new
+matukar	kadagoi	0022	kakau	cocoa	rn_np	rn_np			3027	new
+matukar	kadagoi	0022	ZERO	ZERO	0.h:a	0	h	a	3008	
+matukar	kadagoi	0022	pai	plant	v:pred	v		pred		
+matukar	kadagoi	0022	-din	-3PL.P	-pro_p	-pro_p			3028	bridging
+matukar	kadagoi	0022	-ago	-R:I:IMPV	-rv	-rv				
+matukar	kadagoi	0022	%	%	%	%				
+matukar	kadagoi	0022	#	#	#	#				
+matukar	kadagoi	0022	main	PROX	dem_pro:p	dem_pro		p	3028	
+matukar	kadagoi	0022	ZERO	ZERO	0.1:a	0	1	a	3003	
+matukar	kadagoi	0022	nga-	1SG.A-	-pro_1_a	-pro_1_a			3003	
+matukar	kadagoi	0022	ngale-ma	take-D:HAB	v:pred	v		pred		
+matukar	kadagoi	0022	%	%	%	%				
+matukar	kadagoi	0022	#	#	#	#				
+matukar	kadagoi	0022	ZERO	ZERO	0.1:a	0	1	a	3003	
+matukar	kadagoi	0022	ZERO	ZERO	0:p	0		p	3028	
+matukar	kadagoi	0022	nga-	1SG.A-	-pro_1_a	-pro_1_a			3003	
+matukar	kadagoi	0022	wai-ndope	sell-COND	v:pred	v		pred		
+matukar	kadagoi	0022	%	%	%	%				
+matukar	kadagoi	0022	#	#	#	#				
+matukar	kadagoi	0022	matan	money	np:p	np		p	3029	bridging
+matukar	kadagoi	0022	ZERO	ZERO	0.1:a	0	1	a	3003	
+matukar	kadagoi	0022	nga-	1SG.A-	-pro_1_a	-pro_1_a			3003	
+matukar	kadagoi	0022	ngale-nggo	take-R:I:IMPV	v:pred	v		pred		
+matukar	kadagoi	0022	%	%	%	%				
+matukar	kadagoi	0023	#	#	#	#				
+matukar	kadagoi	0023	matan	money	np:p	np		p	3029	
+matukar	kadagoi	0023	ZERO	ZERO	0.1:a	0	1	a	3003	
+matukar	kadagoi	0023	nga-	1SG.A-	-pro_1_a	-pro_1_a			3003	
+matukar	kadagoi	0023	ngale-ma	take-D:HAB	v:pred	v		pred		
+matukar	kadagoi	0023	%	%	%	%				
+matukar	kadagoi	0023	#	#	#	#				
+matukar	kadagoi	0023	nga-ha-u	1SG-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	3003	
+matukar	kadagoi	0023	aipainim	girls	ln_np.h	ln_np	h		3011	
+matukar	kadagoi	0023	ha-di	POSS.3PL	ln	ln				
+matukar	kadagoi	0023	sulung-adi	bark-3PL	np:p	np		p	3030	new
+matukar	kadagoi	0023	ZERO	ZERO	0.1:a	0	1	a	3003	
+matukar	kadagoi	0023	nga-	1SG.A-	-pro_1_a	-pro_1_a			3003	
+matukar	kadagoi	0023	dad-ago	buy-R:I:IMPV	v:pred	v		pred		
+matukar	kadagoi	0023	%	%	%	%				
+matukar	kadagoi	0023	#	#	#	#				
+matukar	kadagoi	0023	ZERO	ZERO	0.h:a	0	h	a	3011	
+matukar	kadagoi	0023	ZERO	ZERO	0:p	0		p	3030	
+matukar	kadagoi	0023	di-	3PL.A-	-pro_h_a	-pro_h_a			3011	
+matukar	kadagoi	0023	nage-ndo-pe	put-R:D-COND	v:pred	v		pred		
+matukar	kadagoi	0023	%	%	%	%				
+matukar	kadagoi	0023	#	#	#	#				
+matukar	kadagoi	0023	sule	school	np:g	np		g	3017	
+matukar	kadagoi	0023	ZERO	ZERO	0.h:s	0	h	s	3011	
+matukar	kadagoi	0023	di-	3PL.S-	-pro_h_s	-pro_h_s			3011	
+matukar	kadagoi	0023	ya-we	go-R:I:PFV	v:pred	v		pred		
+matukar	kadagoi	0023	%	%	%	%				
+matukar	kadagoi	0024	#	#	#	#				
+matukar	kadagoi	0024	do	and	other	other				
+matukar	kadagoi	0024	ZERO	ZERO	0.1:s	0	1	s	3013	
+matukar	kadagoi	0024	ngam-	1PL.S-	-pro_1_s	-pro_1_s			3013	
+matukar	kadagoi	0024	mado-nge	stay-SEQ:D	v:pred	v		pred		
+matukar	kadagoi	0024	y-a	3SG.S-go	aux	aux				
+matukar	kadagoi	0024	gamoni	now	other	other				
+matukar	kadagoi	0024	main-angan	TOP-FOC	rn	rn				
+matukar	kadagoi	0024	%	%	%	%				
+matukar	kadagoi	0024	#	#	#	#				
+matukar	kadagoi	0024	ngahamam	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	3013	
+matukar	kadagoi	0024	ab	house	np:s	np		s	3015	
+matukar	kadagoi	0024	gam	already	other	other				
+matukar	kadagoi	0024	haiyan-e	bad-R:I:PFV	v:pred	v		pred		
+matukar	kadagoi	0024	%	%	%	%				
+matukar	kadagoi	0024	#	#	#	#				
+matukar	kadagoi	0024	ZERO	ZERO	0:s	0		s	3015	
+matukar	kadagoi	0024	wagam-anen-ago	before-P.POSS-R:I:IMPV	v:pred	v		pred		
+matukar	kadagoi	0024	%	%	%	%				
+matukar	kadagoi	0024	#	#	#	#				
+matukar	kadagoi	0024	ngahamam	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	3013	
+matukar	kadagoi	0024	ab-ate	house-LOC	np:l	np		l	3015	
+matukar	kadagoi	0024	sul	electricity	np:predex	np		predex		
+matukar	kadagoi	0024	tati	nothing	rn	rn				
+matukar	kadagoi	0024	%	%	%	%				
+matukar	kadagoi	0025	#	#	#	#				
+matukar	kadagoi	0025	gamoni	now	other	other				
+matukar	kadagoi	0025	ZERO	ZERO	0.1:s	0	1	s	3013	
+matukar	kadagoi	0025	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			3013	
+matukar	kadagoi	0025	mado-nggo	live-R:I:IMPV	v:pred	v		pred		
+matukar	kadagoi	0025	main	TOP	other	other				
+matukar	kadagoi	0025	%	%	%	%				
+matukar	kadagoi	0026	#	#	#	#				
+matukar	kadagoi	0026	manage	like.that	other:pred	other		pred		
+matukar	kadagoi	0026	ngahamam	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	3013	
+matukar	kadagoi	0026	madok	live-NOM.UNPOSS	np:s	np		s	3031	bridging
+matukar	kadagoi	0026	gamoni	now	rn	rn				
+matukar	kadagoi	0026	main	TOP	rn	rn				
+matukar	kadagoi	0026	%	%	%	%				
+matukar	kadagoi	0026	#	#	#	#				
+matukar	kadagoi	0026	ZERO	ZERO	0.1:s	0	1	s	3013	
+matukar	kadagoi	0026	ilo	thought	lv	lv				
+matukar	kadagoi	0026	-mam	-1PL.EXCL.S	-pro_1_s	-pro_1_s			3013	
+matukar	kadagoi	0026	gire-nggo	think-R:I:IMPV	v:pred	v		pred		
+matukar	kadagoi	0026	#	#	#cc	#cc				
+matukar	kadagoi	0026	main	PROX	ln	ln				
+matukar	kadagoi	0026	ab	house	np:l	np		l	3015	
+matukar	kadagoi	0026	hona	on	adp	adp				
+matukar	kadagoi	0026	ZERO	ZERO	0.1:a	0	1	a	3013	
+matukar	kadagoi	0026	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			3013	
+matukar	kadagoi	0026	abi-ndop	hold-IRR:D	v:pred	v		pred		
+matukar	kadagoi	0026	sul	electricity	np:p	np		p	3032	bridging
+matukar	kadagoi	0026	%	%	%	%				
+matukar	kadagoi	0026	#	#	#cc	#cc				
+matukar	kadagoi	0026	ngahamam	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	3013	
+matukar	kadagoi	0026	ab-ate	house-LOC	np:l	np		l	3015	
+matukar	kadagoi	0026	ZERO	ZERO	0:s	0		s	3032	
+matukar	kadagoi	0026	palum-bawai	run-IRR:I:DESID	v:pred	v		pred		
+matukar	kadagoi	0026	%	%	%	%				
+matukar	kadagoi	0026	%	%	%	%				
+matukar	kadagoi	0027	#	#	#	#				
+matukar	kadagoi	0027	mainwai	therefore	other	other				
+matukar	kadagoi	0027	ZERO	ZERO	0.1:s	0	1	s	3013	
+matukar	kadagoi	0027	ilo	thought	lv	lv				
+matukar	kadagoi	0027	-mam	-1PL.EXCL.S	-pro_1_s	-pro_1_s			3013	
+matukar	kadagoi	0027	gire-ndo	think-R:D	v:pred	v		pred		
+matukar	kadagoi	0027	#	#	#cc	#cc				
+matukar	kadagoi	0027	ZERO	ZERO	0.1:s	0	1	s	3013	
+matukar	kadagoi	0027	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			3013	
+matukar	kadagoi	0027	mado-nggo	live-R:I:IMPV	v:pred	v		pred		
+matukar	kadagoi	0027	%	%	%	%				
+matukar	kadagoi	0027	%	%	%	%				
+matukar	kadagoi	0028	#	#	#	#				
+matukar	kadagoi	0028	main-ami	PROX-only	np:s	np		s	3001	
+matukar	kadagoi	0028	nga-ha-u	1SG-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	3003	
+matukar	kadagoi	0028	gamuk	talk	np:pred	np		pred		
+matukar	kadagoi	0028	takura-n	short-3SG	rn	rn				
+matukar	kadagoi	0028	main-ami	TOP-only	rn	rn				
+matukar	kadagoi	0028	%	%	%	%				
+matukar	kadagoi	0029	#	#	#	#				
+matukar	kadagoi	0029	nga-ha-u	1SG-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	3003	
+matukar	kadagoi	0029	neraurau	story	np:s	np		s	3001	
+matukar	kadagoi	0029	ti-al-e	finish-TERM-R:I:PFV	v:pred	v		pred		
+matukar	kadagoi	0029	%	%	%	%				

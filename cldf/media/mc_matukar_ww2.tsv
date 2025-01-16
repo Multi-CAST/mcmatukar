@@ -1,0 +1,1198 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+matukar	ww2	0001	#	#	#nc	#nc				
+matukar	ww2	0001	ari	nc	nc	nc				
+matukar	ww2	0001	uya	nc	nc	nc				
+matukar	ww2	0002	halo	hello	nc	nc				
+matukar	ww2	0002	%	%	%	%				
+matukar	ww2	0003	#	#	#	#				
+matukar	ww2	0003	aria	OK	other	other				
+matukar	ww2	0003	ngau	1SG	pro.1:s	pro	1	s	7001	new
+matukar	ww2	0003	stori-bawai	story-IRR:I:DESID	v:pred	v		pred		
+matukar	ww2	0003	%	%	%	%				
+matukar	ww2	0004	#	#	#	#				
+matukar	ww2	0004	war	war	np:s	np		s	7002	new
+matukar	ww2	0004	palum-do	come-ADD:D	v:pred	v		pred		
+matukar	ww2	0004	%	%	%	%				
+matukar	ww2	0004	#	#	#	#				
+matukar	ww2	0004	ZERO	ZERO	0.1:s	0	1	s	7003	bridging
+matukar	ww2	0004	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7003	
+matukar	ww2	0004	sol-e	run-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0004	main	TOP	other	other				
+matukar	ww2	0004	%	%	%	%				
+matukar	ww2	0005	#	#	#	#				
+matukar	ww2	0005	war	war	np:s	np		s	7002	
+matukar	ww2	0005	palum-do	come-ADD:D	v:pred	v		pred		
+matukar	ww2	0005	%	%	%	%				
+matukar	ww2	0005	#	#	#	#				
+matukar	ww2	0005	ZERO	ZERO	0.1:s	0	1	s	7003	
+matukar	ww2	0005	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7003	
+matukar	ww2	0005	sol-e	run-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0005	main	TOP	other	other				
+matukar	ww2	0005	ngau	1SG.S	ln_pro.1	ln_pro	1		7001	
+matukar	ww2	0005	aipain	girl	np.h:appos	np	h	appos		
+matukar	ww2	0005	haun	young	rn	rn				
+matukar	ww2	0005	%	%	%	%				
+matukar	ww2	0006	#	#	#neg	#neg				
+matukar	ww2	0006	susus	breasts	np:predex	np		predex		
+matukar	ww2	0006	main	TOP	rn	rn				
+matukar	ww2	0006	ti	NEG	other	other				
+matukar	ww2	0006	%	%	%	%				
+matukar	ww2	0007	#	#	#	#				
+matukar	ww2	0007	sukul-lo	school-LOC	np:l	np		l	7005	new
+matukar	ww2	0007	ZERO	ZERO	0.1:s	0	1	s	7003	
+matukar	ww2	0007	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7003	
+matukar	ww2	0007	mado-ndo	sit-ADD:D	v:pred	v		pred		
+matukar	ww2	0007	%	%	%	%				
+matukar	ww2	0007	#	#	#	#				
+matukar	ww2	0007	Yapan	Japan	np.h:s	np	h	s	7006	bridging
+matukar	ww2	0007	di-	3PL.S-	-pro_h_s	-pro_h_s			7006	
+matukar	ww2	0007	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0007	%	%	%	%				
+matukar	ww2	0008	#	#	#	#				
+matukar	ww2	0008	ngahamam	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	7003	
+matukar	ww2	0008	dalwan	road	np:p	np		p	7007	new
+matukar	ww2	0008	ZERO	ZERO	0.h:a	0	h	a	7006	
+matukar	ww2	0008	di-	3PL.A-	-pro_h_a	-pro_h_a			7006	
+matukar	ww2	0008	honti-nge	close-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0008	%	%	%	%				
+matukar	ww2	0009	#	#	#	#				
+matukar	ww2	0009	do	CONJ	other	other				
+matukar	ww2	0009	ngau	1SG.S	pro.1:s	pro	1	s	7001	
+matukar	ww2	0009	windo-lo	window-LOC	np:obl	np		obl	7008	new
+matukar	ww2	0009	nga-	1SG.S-	-pro_1_s	-pro_1_s			7001	
+matukar	ww2	0009	hahai-ye	jump-R:D	v:pred	v		pred		
+matukar	ww2	0009	main	TOP	other	other				
+matukar	ww2	0009	%	%	%	%				
+matukar	ww2	0009	#	#	#	#				
+matukar	ww2	0009	num-au	hand-1SG	np:s	np		s	7009	bridging
+matukar	ww2	0009	malus-e	break-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0009	main	TOP	other	other				
+matukar	ww2	0009	%	%	%	%				
+matukar	ww2	0010	#	#	#	#				
+matukar	ww2	0010	window-alo	window-LOC	np:obl	np		obl	7008	
+matukar	ww2	0010	ZERO	ZERO	0.1:s	0	1	s	7001	
+matukar	ww2	0010	nga-	1SG.S-	-pro_1_s	-pro_1_s			7001	
+matukar	ww2	0010	haihai-ye	jump:RD	v:pred	v		pred		
+matukar	ww2	0010	nga-pid-e	1SG.S-descend-R:I:PFV	rv	rv				
+matukar	ww2	0010	%	%	%	%				
+matukar	ww2	0011	#	#	#	#				
+matukar	ww2	0011	do	CONJ	other	other				
+matukar	ww2	0011	ZERO	ZERO	0.1:s	0	1	s	7003	
+matukar	ww2	0011	ngam-	1SG.EXCL.S-	-pro_1_s	-pro_1_s			7003	
+matukar	ww2	0011	sol	run	v:pred	v		pred		
+matukar	ww2	0011	%	%	%	%				
+matukar	ww2	0011	#	#	#	#				
+matukar	ww2	0011	garang-alo	jungle-LOC	np:g	np		g	7010	new
+matukar	ww2	0011	ZERO	ZERO	0.1:s	0	1	s	7003	
+matukar	ww2	0011	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7003	
+matukar	ww2	0011	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0011	%	%	%	%				
+matukar	ww2	0012	#	#	#	#				
+matukar	ww2	0012	ZERO	ZERO	0.1:s	0	1	s	7003	
+matukar	ww2	0012	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7003	
+matukar	ww2	0012	sol	run	v:pred	v		pred		
+matukar	ww2	0012	garang-alo	jungle-LOC	np:g	np		g	7010	
+matukar	ww2	0012	%	%	%	%				
+matukar	ww2	0012	#	#	#	#				
+matukar	ww2	0012	ZERO	ZERO	0.1:s	0	1	s	7003	
+matukar	ww2	0012	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7003	
+matukar	ww2	0012	a-we	go-R:D	v:pred	v		pred		
+matukar	ww2	0012	%	%	%	%				
+matukar	ww2	0012	#	#	#	#				
+matukar	ww2	0012	nen-ad	mom-PL	np.h:s	np	h	s	7011	bridging
+matukar	ww2	0012	gam	already	other	other				
+matukar	ww2	0012	di-	3PL.S-	-pro_h_s	-pro_h_s			7011	
+matukar	ww2	0012	sol	run	v:pred	v		pred		
+matukar	ww2	0012	diy-a-we	3PL.S-go-R:I:PFV	rv	rv				
+matukar	ww2	0012	%	%	%	%				
+matukar	ww2	0013	#	#	#	#				
+matukar	ww2	0013	garang-alo	jungle-LOC	np:g	np		g	7010	
+matukar	ww2	0013	ZERO	ZERO	0.h:s	0	h	s	7011	
+matukar	ww2	0013	diy-	3PL.S-	-pro_h_s	-pro_h_s			7011	
+matukar	ww2	0013	a-we	go-R:D	v:pred	v		pred		
+matukar	ww2	0013	%	%	%	%				
+matukar	ww2	0013	#	#	#	#				
+matukar	ww2	0013	ZERO	ZERO	0.h:s	0	h	s	7011	
+matukar	ww2	0013	di-	3PL.S-	-pro_h_s	-pro_h_s			7011	
+matukar	ww2	0013	mado-ndo	live-ADD:D	v:pred	v		pred		
+matukar	ww2	0013	%	%	%	%				
+matukar	ww2	0014	#	#	#	#				
+matukar	ww2	0014	ngam	1PL.EXCL.S	pro.1:s	pro	1	s	7003	
+matukar	ww2	0014	sukul-lo	school-LOC	np:l	np		l	7005	
+matukar	ww2	0014	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7003	
+matukar	ww2	0014	mado-ndo	live-ADD:D	v:pred	v		pred		
+matukar	ww2	0014	%	%	%	%				
+matukar	ww2	0014	#	#	#	#				
+matukar	ww2	0014	Yapan	Japan	np.h:s	np	h	s	7006	
+matukar	ww2	0014	ngahamam	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	7003	
+matukar	ww2	0014	sukul-alo	school-LOC	np:l	np		l	7005	
+matukar	ww2	0014	ZERO	ZERO	np:p	np		p	7007	
+matukar	ww2	0014	honti-nge	close-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0014	%	%	%	%				
+matukar	ww2	0015	#	#	#	#				
+matukar	ww2	0015	do	CONJ	other	other				
+matukar	ww2	0015	windo-alo	window-LOC	np:obl	np		obl	7008	
+matukar	ww2	0015	ZERO	ZERO	0.1:s	0	1	s	7001	
+matukar	ww2	0015	nga-	1SG.S-	-pro_1_s	-pro_1_s			7001	
+matukar	ww2	0015	haihai-ye	jump-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0015	%	%	%	%				
+matukar	ww2	0016	#	#	#	#				
+matukar	ww2	0016	ZERO	ZERO	0.1:s	0	1	s	7001	
+matukar	ww2	0016	nga-	1SG.S-	-pro_1_s	-pro_1_s			7001	
+matukar	ww2	0016	a-we-nga	go-R:D-FOC	v:pred	v		pred		
+matukar	ww2	0016	mainwai	therefore	other	other				
+matukar	ww2	0016	kutur-te	kind_of_tree-LOC	np:g	np		g	7012	new
+matukar	ww2	0016	mo	there	other:l	other		l		
+matukar	ww2	0016	%	%	%	%				
+matukar	ww2	0017	#	#	#	#				
+matukar	ww2	0017	lain	line	ln	ln				
+matukar	ww2	0017	ilo-n-alo-mi	inside-3.s-LOC-only	np:g	np		g	7013	bridging
+matukar	ww2	0017	ZERO	ZERO	0.1:s	0	1	s	7001	
+matukar	ww2	0017	nga-	1SG.S-	-pro_1_s	-pro_1_s			7001	
+matukar	ww2	0017	hala-nge	ascend-R:D	v:pred	v		pred		
+matukar	ww2	0017	ng-a-we	1SG.S-go-R:D	rv	rv				
+matukar	ww2	0017	%	%	%	%				
+matukar	ww2	0017	#	#	#	#				
+matukar	ww2	0017	nen-ad	mom-PL	np.h:p	np	h	p	7011	
+matukar	ww2	0017	abe-di	relational-3PL	rn	rn				
+matukar	ww2	0017	ZERO	ZERO	0.1:a	0	1	a	7001	
+matukar	ww2	0017	nga-	1SG.A-	-pro_1_a	-pro_1_a			7001	
+matukar	ww2	0017	bi-nge	hold-R:D	v:pred	v		pred		
+matukar	ww2	0017	%	%	%	%				
+matukar	ww2	0017	#	#	#	#				
+matukar	ww2	0017	ZERO	ZERO	0.1:s	0	1	s	7001	
+matukar	ww2	0017	nga-	1SG.S-	-pro_1_s	-pro_1_s			7001	
+matukar	ww2	0017	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0017	%	%	%	%				
+matukar	ww2	0018	#	#	#	#				
+matukar	ww2	0018	o	VOC	other	other				
+matukar	ww2	0018	nub-ate	water-LOC	np:g	np		g	7014	new
+matukar	ww2	0018	Tibina	Tibina_(river)	rn_pn_np	rn_pn_np				
+matukar	ww2	0018	ZERO	ZERO	0.1:s	0	1	s	7001	
+matukar	ww2	0018	nga-	1SG.S-	-pro_1_s	-pro_1_s			7001	
+matukar	ww2	0018	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0018	%	%	%	%				
+matukar	ww2	0019	#	#	#	#				
+matukar	ww2	0019	ZERO	ZERO	0.1:s	0	1	s	7001	
+matukar	ww2	0019	nga-	1SG.S-	-pro_1_s	-pro_1_s			7001	
+matukar	ww2	0019	a-we	go-R:D	v:pred	v		pred		
+matukar	ww2	0019	%	%	%	%				
+matukar	ww2	0019	#	#	#	#				
+matukar	ww2	0019	nen-ad	mom-PL	np.h:p	np	h	p	7011	
+matukar	ww2	0019	ZERO	ZERO	0.1:a	0	1	a	7001	
+matukar	ww2	0019	ngai-	1SG.A-	-pro_1_a	-pro_1_a			7001	
+matukar	ww2	0019	te	see	v:pred	v		pred		
+matukar	ww2	0019	-din	-3PL.P	-pro_h_p	-pro_h_p			7011	
+matukar	ww2	0019	-do	-ADD:D	-rv	-rv				
+matukar	ww2	0019	%	%	%	%				
+matukar	ww2	0019	#	#	#	#				
+matukar	ww2	0019	hage	then	other	other				
+matukar	ww2	0019	nen-ad	mom-PL	np.h:obl	np	h	obl	7011	
+matukar	ww2	0019	di-da	3PL.S-COM	adp	adp				
+matukar	ww2	0019	ZERO	ZERO	0.1:s	0	1	s	7015	bridging
+matukar	ww2	0019	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0019	sus-e	ascend-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0019	%	%	%	%				
+matukar	ww2	0020	#	#	#	#				
+matukar	ww2	0020	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0020	nga-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0020	sus-e	ascend-R:D	v:pred	v		pred		
+matukar	ww2	0020	%	%	%	%				
+matukar	ww2	0020	#	#	#	#				
+matukar	ww2	0020	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0020	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0020	mado-nge	sit-R:D	v:pred	v		pred		
+matukar	ww2	0020	%	%	%	%				
+matukar	ww2	0020	#	#	#	#				
+matukar	ww2	0020	do	CONJ	other	other				
+matukar	ww2	0020	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	7001	
+matukar	ww2	0020	sese	elder	np.h:predex	np	h	predex	7016	bridging
+matukar	ww2	0020	ai	COP	cop	cop				
+matukar	ww2	0020	%	%	%	%				
+matukar	ww2	0021	#	#	#	#				
+matukar	ww2	0021	se	grandparent	np.h:predex	np	h	predex	7016	
+matukar	ww2	0021	kon	KON	rn	rn				
+matukar	ww2	0021	ai	COP	cop	cop				
+matukar	ww2	0021	%	%	%	%				
+matukar	ww2	0022	#	#	#	#				
+matukar	ww2	0022	se	grandparent	pn_np.h:a	pn_np	h	a	7016	
+matukar	ww2	0022	Kon	Kon	rn	rn				
+matukar	ww2	0022	ab	house	np:p	np		p	7017	new
+matukar	ww2	0022	ya-	3SG.A-	-pro_h_a	-pro_h_a			7016	
+matukar	ww2	0022	bi-nge	hold-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0022	garang-alo	jungle-LOC	np:l	np		l	7010	
+matukar	ww2	0023	nub	water	ln	ln				
+matukar	ww2	0023	tite-te	edge-LOC	np:dt_l	np		dt_l	7018	bridging
+matukar	ww2	0023	%	%	%	%				
+matukar	ww2	0024	#	#	#	#				
+matukar	ww2	0024	ab	house	np:p	np		p	7017	
+matukar	ww2	0024	ZERO	ZERO	0.h:a	0	h	a	7016	
+matukar	ww2	0024	ya-	3SG.A-	-pro_h_a	-pro_h_a			7016	
+matukar	ww2	0024	bi	hold	v:pred	v		pred		
+matukar	ww2	0024	%	%	%	%				
+matukar	ww2	0024	#	#	#	#				
+matukar	ww2	0024	hage	then	other	other				
+matukar	ww2	0024	mana	there	other:l	other		l	7017	
+matukar	ww2	0024	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0024	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0024	mado-ndo	live-ADD:D	v:pred	v		pred		
+matukar	ww2	0024	%	%	%	%				
+matukar	ww2	0024	#	#	#	#				
+matukar	ww2	0024	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0024	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0024	ain-do	sleep-ADD:D	v:pred	v		pred		
+matukar	ww2	0024	%	%	%	%				
+matukar	ww2	0025	#	#	#	#				
+matukar	ww2	0025	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0025	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0025	ain-do	sleep-ADD:D	v:pred	v		pred		
+matukar	ww2	0025	%	%	%	%				
+matukar	ww2	0025	#	#	#	#				
+matukar	ww2	0025	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0025	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0025	tor-do	go.around-ADD:D	v:pred	v		pred		
+matukar	ww2	0025	%	%	%	%				
+matukar	ww2	0026	#	#	#	#				
+matukar	ww2	0026	Yapan	Japan	np.h:s	np	h	s	7006	
+matukar	ww2	0026	di-	3PL.S-	-pro_h_s	-pro_h_s			7006	
+matukar	ww2	0026	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0026	nub-ate	water-LOC	np:g	np		g	7014	
+matukar	ww2	0026	%	%	%	%				
+matukar	ww2	0027	#	#	#	#				
+matukar	ww2	0027	ngahamam	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	7015	
+matukar	ww2	0027	wag	canoe	np:p	np		p	7019	new
+matukar	ww2	0027	ZERO	ZERO	0.h:a	0	h	a	7006	
+matukar	ww2	0027	di-	3PL.A-	-pro_h_a	-pro_h_a			7006	
+matukar	ww2	0027	gus-e	chop-R:D	v:pred	v		pred		
+matukar	ww2	0027	hate-nge	break-R:I:PFV	rv	rv				
+matukar	ww2	0027	%	%	%	%				
+matukar	ww2	0028	#	#	#	#				
+matukar	ww2	0028	wag	canoe	np:p	np		p	7019	
+matukar	ww2	0028	ZERO	ZERO	0.h:a	0	h	a	7006	
+matukar	ww2	0028	di-	3PL.A-	-pro_h_a	-pro_h_a			7006	
+matukar	ww2	0028	tare	cut	v:pred	v		pred		
+matukar	ww2	0028	hate-nge	break-R:I:PFV	rv	rv				
+matukar	ww2	0028	%	%	%	%				
+matukar	ww2	0029	#	#	#	#				
+matukar	ww2	0029	do	CONJ	other	other				
+matukar	ww2	0029	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0029	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0029	si-la-nge	descend-DIR_away_from_speaker-R:D	v:pred	v		pred		
+matukar	ww2	0029	%	%	%	%				
+matukar	ww2	0029	#	#	#	#				
+matukar	ww2	0029	wag	canoe	np:p	np		p	7019	
+matukar	ww2	0029	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0029	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0029	te-ndo	see-ADD:D	v:pred	v		pred		
+matukar	ww2	0029	%	%	%	%				
+matukar	ww2	0030	#	#	#	#				
+matukar	ww2	0030	wag	canoe	np:p	np		p	7019	
+matukar	ww2	0030	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0030	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0030	ngale-p	carry-IRR:D	v:pred	v		pred		
+matukar	ww2	0030	%	%	%	%				
+matukar	ww2	0030	#	#	#	#				
+matukar	ww2	0030	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0030	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0030	sa-mbawai	ascend-IRR:I:DESID	v:pred	v		pred		
+matukar	ww2	0030	%	%	%	%				
+matukar	ww2	0031	#	#	#	#				
+matukar	ww2	0031	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0031	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0031	sa-p	ascend-IRR:D	v:pred	v		pred		
+matukar	ww2	0031	%	%	%	%				
+matukar	ww2	0031	#	#	#	#				
+matukar	ww2	0031	aigi-te	some-LOC	np:l	np		l	7020	bridging
+matukar	ww2	0031	wai	due.to	adp	adp				
+matukar	ww2	0031	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0031	ZERO	ZERO	0:p	0		p	7014	
+matukar	ww2	0031	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0031	hate-p	break-IRR:D	v:pred	v		pred		
+matukar	ww2	0031	%	%	%	%				
+matukar	ww2	0031	#	#	#	#				
+matukar	ww2	0031	neb	breadfruit	np:p	np		p	7021	new
+matukar	ww2	0031	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0031	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0031	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	ww2	0031	%	%	%	%				
+matukar	ww2	0031	#	#	#	#				
+matukar	ww2	0031	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0031	ZERO	ZERO	0:p	0		p	7021	
+matukar	ww2	0031	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0031	ani-ndo	eat-ADD:D	v:pred	v		pred		
+matukar	ww2	0031	%	%	%	%				
+matukar	ww2	0032	#	#	#	#				
+matukar	ww2	0032	ti	NEG	other	other				
+matukar	ww2	0032	wag	canoe	np:s	np		s	7019	
+matukar	ww2	0032	mahaut-e	break-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0032	gam	already	other	other				
+matukar	ww2	0032	%	%	%	%				
+matukar	ww2	0033	#	#	#	#				
+matukar	ww2	0033	Yapan	Japan	np.h:a	np	h	a	7006	
+matukar	ww2	0033	ZERO	ZERO	np:p	np		p	7019	
+matukar	ww2	0033	di-	3PL.A-	-pro_h_a	-pro_h_a			7006	
+matukar	ww2	0033	bal-a	throw-DIR_away	v:pred	v		pred		
+matukar	ww2	0033	hate	break	rv	rv				
+matukar	ww2	0033	%	%	%	%				
+matukar	ww2	0034	#	#	#	#				
+matukar	ww2	0034	Yapan	Japan	np.h:s	np	h	s	7006	
+matukar	ww2	0034	di-	3PL.S-	-pro_h_s	-pro_h_s			7006	
+matukar	ww2	0034	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0034	%	%	%	%				
+matukar	ww2	0035	#	#	#	#				
+matukar	ww2	0035	alo-anen	later-P.POSS	other	other				
+matukar	ww2	0035	di-	3PL.S-	-pro_h_s	-pro_h_s			7006	
+matukar	ww2	0035	palum-do-nge	come-AGAIN-R:D	v:pred	v		pred		
+matukar	ww2	0035	Yapan	Japan	np.h:s	np	h	s	7006	
+matukar	ww2	0035	alo-anen	later-P.POSS	other	other				
+matukar	ww2	0035	%	%	%	%				
+matukar	ww2	0036	#	#	#	#				
+matukar	ww2	0036	ZERO	ZERO	0.h:s	0	h	s	7006	
+matukar	ww2	0036	di-	3PL.S-	-pro_h_s	-pro_h_s			7006	
+matukar	ww2	0036	palum-e	come-R:D	v:pred	v		pred		
+matukar	ww2	0036	%	%	%	%				
+matukar	ww2	0036	#	#	#	#				
+matukar	ww2	0036	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0036	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0036	sus-e	ascend-R:D	v:pred	v		pred		
+matukar	ww2	0036	%	%	%	%				
+matukar	ww2	0036	#	#	#	#				
+matukar	ww2	0036	ab-ate	house-LOC	np:l	np		l	7017	
+matukar	ww2	0036	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0036	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0036	mado-ndo	stay-ADD:D	v:pred	v		pred		
+matukar	ww2	0036	%	%	%	%				
+matukar	ww2	0037	#	#	#	#				
+matukar	ww2	0037	Yapan	Japan	np.h:s	np	h	s	7006	
+matukar	ww2	0037	di-	3PL.S-	-pro_h_s	-pro_h_s			7006	
+matukar	ww2	0037	palum-nge	come-R:D	v:pred	v		pred		
+matukar	ww2	0037	%	%	%	%				
+matukar	ww2	0037	#	#	#	#				
+matukar	ww2	0037	ab	house	ln	ln				
+matukar	ww2	0037	bale-n-te	veranda-3SG-LOC	np:l	np		l	7022	bridging
+matukar	ww2	0037	ha-di	POSS.3PL	ln_pro.h:poss	ln_pro	h	poss	7006	
+matukar	ww2	0037	roksak	rucksack	np:p	np		p	7023	new
+matukar	ww2	0037	milo	something	rn	rn				
+matukar	ww2	0037	ZERO	ZERO	0.h:a	0	h	a	7006	
+matukar	ww2	0037	di-	3PL.A-	-pro_h_a	-pro_h_a			7006	
+matukar	ww2	0037	diri-si-nge	put.in-DIR_downwards-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0037	mon-e	DIST-DEFID	other	other				
+matukar	ww2	0037	%	%	%	%				
+matukar	ww2	0038	#	#	#	#				
+matukar	ww2	0038	ZERO	ZERO	0.h:a	0	h	a	7006	
+matukar	ww2	0038	ZERO	ZERO	0:p	0		p	7023	
+matukar	ww2	0038	di-	3PL.A-	-pro_h_a	-pro_h_a			7006	
+matukar	ww2	0038	diri-si-nge	put.in-DIR_downwards-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0038	%	%	%	%				
+matukar	ww2	0039	#	#	#	#				
+matukar	ww2	0039	do	and	other	other				
+matukar	ww2	0039	ngahamam	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	7015	
+matukar	ww2	0039	bor	pig	np:dt	np		dt	7024	new
+matukar	ww2	0040	bura-di	throat-3PL	np:p	np		p	7025	bridging
+matukar	ww2	0040	ZERO	ZERO	0.h:a	0	h	a	7006	
+matukar	ww2	0040	di-	3PL.A-	-pro_h_a	-pro_h_a			7006	
+matukar	ww2	0040	tariuti-nge	cut-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0040	%	%	%	%				
+matukar	ww2	0041	#	#	#	#				
+matukar	ww2	0041	ZERO	ZERO	0.h:a	0	h	a	7006	
+matukar	ww2	0041	ZERO	ZERO	0:p	0		p	7024	
+matukar	ww2	0041	di-	3PL.A-	-pro_h_a	-pro_h_a			7006	
+matukar	ww2	0041	ni	eat	v:pred	v		pred		
+matukar	ww2	0041	-din	-3PL.P	-pro:p	-pro		p	7024	
+matukar	ww2	0041	-e	-R:I:PFV	-rv	-rv				
+matukar	ww2	0041	%	%	%	%				
+matukar	ww2	0042	#	#	#	#				
+matukar	ww2	0042	ZERO	ZERO	0.h:a	0	h	a	7006	
+matukar	ww2	0042	ZERO	ZERO	0:p	0		p	7024	
+matukar	ww2	0042	di-	3PL.A-	-pro_h_a	-pro_h_a			7006	
+matukar	ww2	0042	ni-nge	eat-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0042	%	%	%	%				
+matukar	ww2	0043	#	#	#	#				
+matukar	ww2	0043	do	and	other	other				
+matukar	ww2	0043	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0043	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0043	pid-e	descend-R:D	v:pred	v		pred		
+matukar	ww2	0043	%	%	%	%				
+matukar	ww2	0043	#	#	#	#				
+matukar	ww2	0043	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0043	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0043	sol	run	v:pred	v		pred		
+matukar	ww2	0043	ngam-a-we	1PL.EXCL.S-go-R:I:PFV	rv	rv				
+matukar	ww2	0043	%	%	%	%				
+matukar	ww2	0044	#	#	#	#				
+matukar	ww2	0044	Yapan	Japan	np.h:a	np	h	a	7006	
+matukar	ww2	0044	gam	already	other	other				
+matukar	ww2	0044	malal	village	np:p	np		p	7026	bridging
+matukar	ww2	0044	di-	3PL.A-	-pro_h_a	-pro_h_a			7006	
+matukar	ww2	0044	ngale-ndo	take-ADD:D	v:pred	v		pred		
+matukar	ww2	0044	%	%	%	%				
+matukar	ww2	0044	#	#	#neg	#neg				
+matukar	ww2	0044	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0044	ti-	NEG-	-lv	-lv				
+matukar	ww2	0044	ngam-	1PL.EXCL.S-	-pro_h_s	-pro_h_s			7015	
+matukar	ww2	0044	sol-e	run-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0044	%	%	%	%				
+matukar	ww2	0045	#	#	#	#				
+matukar	ww2	0045	do	and	other	other				
+matukar	ww2	0045	garang-alo	jungle-LOC	np:g	np		g	7010	
+matukar	ww2	0045	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0045	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0045	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0045	%	%	%	%				
+matukar	ww2	0046	#	#	#	#				
+matukar	ww2	0046	garang-alo	jungle-LOC	np:g	np		g	7010	
+matukar	ww2	0046	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0046	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0046	a-we	go-R:D	v:pred	v		pred		
+matukar	ww2	0046	%	%	%	%				
+matukar	ww2	0046	#	#	#	#				
+matukar	ww2	0046	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	7003	
+matukar	ww2	0046	sese	elder	ln_np.h:poss	ln_np	h	poss	7016	
+matukar	ww2	0046	ab	house	np:l	np		l	7017	
+matukar	ww2	0046	y-abi-k-ama-n	hold-NOM-APS-3SG	rn	rn				
+matukar	ww2	0046	main-te	TOP-LOC	rn	rn				
+matukar	ww2	0046	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0046	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0046	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0046	%	%	%	%				
+matukar	ww2	0047	#	#	#	#				
+matukar	ww2	0047	do	and	other	other				
+matukar	ww2	0047	Yapan	Japan	np.h:s	np	h	s	7006	
+matukar	ww2	0047	malal-te	village-LOC	np:l	np		l	7026	
+matukar	ww2	0047	di-	3PL.S-	-pro_h_s	-pro_h_s			7006	
+matukar	ww2	0047	mado-nge	live-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0047	%	%	%	%				
+matukar	ww2	0048	#	#	#	#				
+matukar	ww2	0048	gam	already	other	other				
+matukar	ww2	0048	garang-lo	jungle-in	np:l	np		l	7010	
+matukar	ww2	0048	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0048	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0048	main-do	sleep-ADD:D	v:pred	v		pred		
+matukar	ww2	0048	%	%	%	%				
+matukar	ww2	0049	#	#	#	#				
+matukar	ww2	0049	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0049	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0049	tor	go.around	v:pred	v		pred		
+matukar	ww2	0049	%	%	%	%				
+matukar	ww2	0050	#	#	#neg	#neg				
+matukar	ww2	0050	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0050	ti-	NEG-	-lv	-lv				
+matukar	ww2	0050	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0050	si-nge	descend-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0050	%	%	%	%				
+matukar	ww2	0051	#	#	#	#				
+matukar	ww2	0051	o	VOC	other	other				
+matukar	ww2	0051	mana	there	other:l	other		l	7017	
+matukar	ww2	0051	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0051	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0051	mado-ndo	live-ADD:D	v:pred	v		pred		
+matukar	ww2	0051	%	%	%	%				
+matukar	ww2	0051	#	#	#	#				
+matukar	ww2	0051	war	war	np:s	np		s	7002	
+matukar	ww2	0051	ti-e	finish-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0051	%	%	%	%				
+matukar	ww2	0052	#	#	#	#				
+matukar	ww2	0052	war	war	np:s	np		s	7002	
+matukar	ww2	0052	ti-e	finish-R:D	v:pred	v		pred		
+matukar	ww2	0052	%	%	%	%				
+matukar	ww2	0052	#	#	#	#				
+matukar	ww2	0052	Yapan	Japan	np.h:s	np	h	s	7006	
+matukar	ww2	0052	diy-	3PL.S-	-pro_h_s	-pro_h_s			7006	
+matukar	ww2	0052	a-wal-do	go-TERM-ADD:D	v:pred	v		pred		
+matukar	ww2	0052	%	%	%	%				
+matukar	ww2	0053	#	#	#	#				
+matukar	ww2	0053	balus	airplane	np:s	np		s	7027	new
+matukar	ww2	0053	malal-te	village-LOC	np:g	np		g	7026	
+matukar	ww2	0053	pan-e	shoot-R:D	v:pred	v		pred		
+matukar	ww2	0053	%	%	%	%				
+matukar	ww2	0053	#	#	#	#				
+matukar	ww2	0053	ngam	1PL.EXCL.A	pro.1:a	pro	1	a	7015	
+matukar	ww2	0053	yau	fire	np:p	np		p	7028	new
+matukar	ww2	0053	kas	smoke	rn	rn				
+matukar	ww2	0053	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0053	nage-ndo	put-R:D	v:pred	v		pred		
+matukar	ww2	0053	%	%	%	%				
+matukar	ww2	0054	#	#	#	#				
+matukar	ww2	0054	yau	fire	np:p	np		p	7028	
+matukar	ww2	0054	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0054	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0054	tauni-ndo	make-R:D	v:pred	v		pred		
+matukar	ww2	0054	%	%	%	%				
+matukar	ww2	0054	#	#	#	#				
+matukar	ww2	0054	sapmarin	submarine	np:s	np		s	7029	new
+matukar	ww2	0055	mas-lo	ocean-in	np:l	np		l	7030	new
+matukar	ww2	0055	wai	due.to	adp	adp				
+matukar	ww2	0055	mado-ama	stay-D:HAB	v:pred	v		pred		
+matukar	ww2	0055	%	%	%	%				
+matukar	ww2	0055	#	#	#	#				
+matukar	ww2	0055	ZERO	ZERO	0:s	0		s	7029	
+matukar	ww2	0055	pan-ama	shoot-D:HAB	v:pred	v		pred		
+matukar	ww2	0055	%	%	%	%				
+matukar	ww2	0055	#	#	#	#				
+matukar	ww2	0055	ZERO	ZERO	0:s	0		s	7029	
+matukar	ww2	0055	si-nggo	descend-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0055	%	%	%	%				
+matukar	ww2	0056	#	#	#	#				
+matukar	ww2	0056	ZERO	ZERO	0:s	0		s	7029	
+matukar	ww2	0056	pan-si-ama	shoot-DIR_downwards-REM	v:pred	v		pred		
+matukar	ww2	0056	%	%	%	%				
+matukar	ww2	0056	#	#	#	#				
+matukar	ww2	0056	aria	OK	other	other				
+matukar	ww2	0056	ngahamam	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	7015	
+matukar	ww2	0056	milo	something	np:g	np		g	7031	bridging
+matukar	ww2	0056	milo	something	rn	rn				
+matukar	ww2	0056	ZERO	ZERO	0:s	0		s	7029	
+matukar	ww2	0056	pan-e	shoot-R:D	v:pred	v		pred		
+matukar	ww2	0056	%	%	%	%				
+matukar	ww2	0056	#	#	#	#				
+matukar	ww2	0056	ZERO	ZERO	0:a	0		a	7029	
+matukar	ww2	0056	ZERO	ZERO	0:p	0		p	7031	
+matukar	ww2	0056	pan	shoot	v:pred	v		pred		
+matukar	ww2	0056	susuni	break	rv	rv				
+matukar	ww2	0056	%	%	%	%				
+matukar	ww2	0056	#	#	#	#				
+matukar	ww2	0056	ZERO	ZERO	0:s	0		s	7029	
+matukar	ww2	0056	ya-	3SG.S-	-pro_s	-pro_s			7029	
+matukar	ww2	0056	a-wal-ago	go-TERM-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0056	%	%	%	%				
+matukar	ww2	0057	#	#	#	#				
+matukar	ww2	0057	main	PROX	ln	ln				
+matukar	ww2	0057	sapmarin	submarine	np:s	np		s	7029	
+matukar	ww2	0057	pan-agokai	shoot-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	ww2	0057	%	%	%	%				
+matukar	ww2	0058	#	#	#	#				
+matukar	ww2	0058	do	and	other	other				
+matukar	ww2	0058	mana	there	other:l	other		l	7017	
+matukar	ww2	0058	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0058	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0058	mado-nge	stay-SEQ:D	v:pred	v		pred		
+matukar	ww2	0058	%	%	%	%				
+matukar	ww2	0058	#	#	#	#				
+matukar	ww2	0058	Yapan	Japan	np.h:s	np	h	s	7006	
+matukar	ww2	0058	diy-	3PL.S-	-pro_h_s	-pro_h_s			7006	
+matukar	ww2	0058	a-wal-do	go-TERM-R:D	v:pred	v		pred		
+matukar	ww2	0058	hage	then	other	other				
+matukar	ww2	0058	%	%	%	%				
+matukar	ww2	0059	#	#	#	#				
+matukar	ww2	0059	gabman	government	np.h:s	np	h	s	7032	new
+matukar	ww2	0059	palum-e	palum-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0059	%	%	%	%				
+matukar	ww2	0060	#	#	#	#				
+matukar	ww2	0060	gabman	government	np.h:s	np	h	s	7032	
+matukar	ww2	0060	palum	come	v:pred	v		pred		
+matukar	ww2	0060	%	%	%	%				
+matukar	ww2	0060	#	#	#	#				
+matukar	ww2	0060	hage	then	other	other				
+matukar	ww2	0060	ZERO	ZERO	0.h:a	0	h	a	7032	
+matukar	ww2	0060	ZERO	ZERO	0.1:p	0	1	p	7015	
+matukar	ww2	0060	yag-e	call.out-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0060	%	%	%	%				
+matukar	ww2	0061	#	#	#ds	#ds				
+matukar	ww2	0061	nga-ha-u	1SG.POSS.1SG	ln_pro.1:poss	ln_pro	1	poss	7032	
+matukar	ww2	0061	tamatpain-im	people-PL	np.h:s	np	h	s	7015	
+matukar	ww2	0061	asus	ascend	v:pred	v		pred		
+matukar	ww2	0061	%	%	%	%				
+matukar	ww2	0061	#	#	#	#				
+matukar	ww2	0061	i	3SG.S	pro.h:s	pro	h	s	7032	
+matukar	ww2	0061	bal	say	v:pred	v		pred		
+matukar	ww2	0061	%	%	%	%				
+matukar	ww2	0062	#	#	#	#				
+matukar	ww2	0062	do	and	other	other				
+matukar	ww2	0062	kako	cargo	np:p	np		p	7033	new
+matukar	ww2	0062	ZERO	ZERO	0.h:a	0	h	a	7032	
+matukar	ww2	0062	ngale	take	v:pred	v		pred		
+matukar	ww2	0062	palum-e	come-SEQ:D	rv	rv				
+matukar	ww2	0062	staten	station	ln	ln				
+matukar	ww2	0062	mon	DIST.TOP	ln	ln				
+matukar	ww2	0062	duwe-lo	Duwe-LOC	pn_np:g	pn_np		g	7034	new
+matukar	ww2	0062	%	%	%	%				
+matukar	ww2	0063	#	#	#	#				
+matukar	ww2	0063	mo	there	other:l	other		l	7034	
+matukar	ww2	0063	sip	ship	np:l	np		l	7035	bridging
+matukar	ww2	0063	dabok-ate	big-LOC	rn	rn				
+matukar	ww2	0063	pontoon	pontoon	np:predex	np		predex	7036	bridging
+matukar	ww2	0063	%	%	%	%				
+matukar	ww2	0064	#	#	#	#				
+matukar	ww2	0064	ZERO	ZERO	0.h:a	0	h	a	7032	
+matukar	ww2	0064	ZERO	ZERO	0:p	0		p	7033	
+matukar	ww2	0064	ngale	take	v:pred	v		pred		
+matukar	ww2	0064	palum-e	come-R:I:PFV	rv	rv				
+matukar	ww2	0064	mo	there	other:l	other		l	7034	
+matukar	ww2	0064	%	%	%	%				
+matukar	ww2	0064	#	#	#	#				
+matukar	ww2	0064	ngam-ane-mam	1PL.EXCL.A-BEN-1PL.EXCL	pro.1:obl	pro	1	obl	7015	
+matukar	ww2	0064	kaikai	food	np:p	np		p	7037	new
+matukar	ww2	0064	ZERO	ZERO	0.h:a	0	h	a	7032	
+matukar	ww2	0064	ngale	take	v:pred	v		pred		
+matukar	ww2	0064	palum-e	come-R:I:PFV	rv	rv				
+matukar	ww2	0064	%	%	%	%				
+matukar	ww2	0065	#	#	#	#				
+matukar	ww2	0065	milo	food	np:p	np		p	7037	
+matukar	ww2	0065	ZERO	ZERO	0.h:a	0	h	a	7032	
+matukar	ww2	0065	ngale	take	v:pred	v		pred		
+matukar	ww2	0065	palum-e	come-SEQ:D	rv	rv				
+matukar	ww2	0065	%	%	%	%				
+matukar	ww2	0065	#	#	#	#				
+matukar	ww2	0065	mon	DIST	other:l	other		l	7034	
+matukar	ww2	0065	ZERO	ZERO	0.h:a	0	h	a	7032	
+matukar	ww2	0065	ZERO	ZERO	0:p	0		p	7037	
+matukar	ww2	0065	nage	put	v:pred	v		pred		
+matukar	ww2	0065	%	%	%	%				
+matukar	ww2	0066	#	#	#	#				
+matukar	ww2	0066	do	and	other	other				
+matukar	ww2	0066	hage	then	other	other				
+matukar	ww2	0066	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0066	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0066	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	ww2	0066	%	%	%	%				
+matukar	ww2	0066	#	#	#	#				
+matukar	ww2	0066	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0066	ZERO	ZERO	0:p	0		p	7037	
+matukar	ww2	0066	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0066	ngale	take	v:pred	v		pred		
+matukar	ww2	0066	%	%	%	%				
+matukar	ww2	0067	#	#	#	#				
+matukar	ww2	0067	muge	first	other	other				
+matukar	ww2	0067	abmarin-a	submarine-LOC	np:obl	np		obl	7029	
+matukar	ww2	0067	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0067	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0067	ngale-nge	take-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0067	kaikai	food_(TPI)	np:p	np		p	7037	
+matukar	ww2	0067	%	%	%	%				
+matukar	ww2	0068	#	#	#	#				
+matukar	ww2	0068	milo	food	np:p	np		p	7037	
+matukar	ww2	0068	mana	there	other:l	other		l		
+matukar	ww2	0068	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0068	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0068	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	ww2	0068	%	%	%	%				
+matukar	ww2	0068	#	#	#	#				
+matukar	ww2	0068	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0068	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0068	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0068	%	%	%	%				
+matukar	ww2	0069	#	#	#	#				
+matukar	ww2	0069	ti-do	finish-R:D	v:pred	v		pred		
+matukar	ww2	0069	ahaun	newly	other	other				
+matukar	ww2	0069	%	%	%	%				
+matukar	ww2	0070	#	#	#	#				
+matukar	ww2	0070	patoon	patoon	np:p	np		p	7036	
+matukar	ww2	0070	ZERO	ZERO	0.h:a	0	h	a	7032	
+matukar	ww2	0070	ngale	take	v:pred	v		pred		
+matukar	ww2	0070	so-nge	come-SEQ:D	rv	rv				
+matukar	ww2	0070	%	%	%	%				
+matukar	ww2	0070	#	#	#	#				
+matukar	ww2	0070	Duwe-lo	Duwe-LOC	pn_np:l	pn_np		l	7034	
+matukar	ww2	0070	ZERO	ZERO	0.h:a	0	h	a	7032	
+matukar	ww2	0070	ZERO	ZERO	np:p	np		p	7036	
+matukar	ww2	0070	nagenge	put-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0070	%	%	%	%				
+matukar	ww2	0071	#	#	#	#				
+matukar	ww2	0071	do-pe	and-COND	other	other				
+matukar	ww2	0071	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0071	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0071	a	go	v:pred	v		pred		
+matukar	ww2	0071	%	%	%	%				
+matukar	ww2	0071	#	#	#	#				
+matukar	ww2	0071	mana	there	other:l	other		l		
+matukar	ww2	0071	sigel	scale	np:p	np		p	7037	
+matukar	ww2	0071	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0071	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0071	ngale-nggokai	take-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	ww2	0071	%	%	%	%				
+matukar	ww2	0072	#	#	#	#				
+matukar	ww2	0072	milo	food	np:p	np		p	7037	
+matukar	ww2	0072	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0072	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0072	ngale	take	v:pred	v		pred		
+matukar	ww2	0072	%	%	%	%				
+matukar	ww2	0072	#	#	#	#				
+matukar	ww2	0072	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0072	ZERO	ZERO	0:p	0		p	7037	
+matukar	ww2	0072	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0072	ani-ndo	eat-R:D	v:pred	v		pred		
+matukar	ww2	0072	%	%	%	%				
+matukar	ww2	0072	#	#	#	#				
+matukar	ww2	0072	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0072	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0072	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	ww2	0072	%	%	%	%				
+matukar	ww2	0073	#	#	#	#				
+matukar	ww2	0073	do	and	other	other				
+matukar	ww2	0073	war	war	np:s	np		s	7002	
+matukar	ww2	0073	ti-e	finish-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0073	%	%	%	%				
+matukar	ww2	0074	#	#	#	#				
+matukar	ww2	0074	war	war	np:s	np		s	7002	
+matukar	ww2	0074	ti-e	finish-SEQ:D	v:pred	v		pred		
+matukar	ww2	0074	%	%	%	%				
+matukar	ww2	0074	#	#	#	#				
+matukar	ww2	0074	ZERO	ZERO	0.h:a	0	h	a	7006	
+matukar	ww2	0074	ZERO	ZERO	0:p	0		p	7002	
+matukar	ww2	0074	di-	3PL.A-	-pro_h_a	-pro_h_a			7006	
+matukar	ww2	0074	bi	hold	v:pred	v		pred		
+matukar	ww2	0074	-din	-3PL.P	-pro:p	-pro		p	7002	
+matukar	ww2	0074	-do	-R:D	-rv	-rv				
+matukar	ww2	0074	hage	then	other	other				
+matukar	ww2	0074	%	%	%	%				
+matukar	ww2	0075	#	#	#	#				
+matukar	ww2	0075	ngam	1PL.EXCL.S	pro.1:s	pro	1	s	7015	
+matukar	ww2	0075	gam	then	other	other				
+matukar	ww2	0075	uyan-yan-e	good-uyan.redup-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0075	%	%	%	%				
+matukar	ww2	0076	#	#	#	#				
+matukar	ww2	0076	Yapan	Japan	np:other	np		other		
+matukar	ww2	0076	ilonlo-mi	inside-only	rn	rn				
+matukar	ww2	0077	ZERO	ZERO	0.1:s	0	1	s	7038	bridging
+matukar	ww2	0077	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7038	
+matukar	ww2	0077	marit-e	marry-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0077	%	%	%	%				
+matukar	ww2	0078	#	#	#	#				
+matukar	ww2	0078	sus	breast	np:obl	np		obl	7004	bridging
+matukar	ww2	0078	garang-alo	jungle-LOC	np:l	np		l	7010	
+matukar	ww2	0078	ZERO	ZERO	0.1:s	0	1	s	7038	
+matukar	ww2	0078	ngam-	1PL.EXCL-R:D	-pro_1_s	-pro_1_s			7038	
+matukar	ww2	0078	tor-do	go.around-R:D	v:pred	v		pred		
+matukar	ww2	0078	%	%	%	%				
+matukar	ww2	0078	#	#	#	#				
+matukar	ww2	0078	sus	breast	np:s	np		s	7004	
+matukar	ww2	0078	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0078	%	%	%	%				
+matukar	ww2	0079	#	#	#	#				
+matukar	ww2	0079	oh	NC	nc	nc				
+matukar	ww2	0079	ah	NC	nc	nc				
+matukar	ww2	0080	do	and	other	other				
+matukar	ww2	0080	ZERO	ZERO	0.1:s	0	1	s	7038	
+matukar	ww2	0080	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7038	
+matukar	ww2	0080	sus-e	ascend-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0080	malal-te	village-LOC	np:g	np		g	7026	
+matukar	ww2	0080	%	%	%	%				
+matukar	ww2	0080	#	#	#	#				
+matukar	ww2	0080	do	and	other	other				
+matukar	ww2	0081	Yapan	Japan	ln_np.h	ln_np	h			
+matukar	ww2	0081	nige-di	think-3PL	np.h:obl	np	h	obl	7006	
+matukar	ww2	0081	wai	like	adp	adp				
+matukar	ww2	0081	ZERO	ZERO	0.h:s	0	h	s	7039	new
+matukar	ww2	0081	di-	3PL.S-	-pro_h_s	-pro_h_s			7039	
+matukar	ww2	0081	rer-do	fear-R:D	v:pred	v		pred		
+matukar	ww2	0081	%	%	%	%				
+matukar	ww2	0082	#	#	#	#				
+matukar	ww2	0082	ari	OK	other	other				
+matukar	ww2	0082	tamat	man	np.h:g	np	h	g	7040	bridging
+matukar	ww2	0082	ZERO	ZERO	0.h:a	0	h	a	7039	
+matukar	ww2	0082	ZERO	ZERO	0.h:p	0	h	p	7038	
+matukar	ww2	0082	di-	3PL.A-	-pro_h_a	-pro_h_a			7039	
+matukar	ww2	0082	pan	give	v:pred	v		pred		
+matukar	ww2	0082	-amam	-1PL.EXCL.P	-pro_h_p	-pro_h_p			7038	
+matukar	ww2	0082	-e	-R:I:PFV	-rv	-rv				
+matukar	ww2	0082	%	%	%	%				
+matukar	ww2	0083	#	#	#	#				
+matukar	ww2	0083	tamat	man	np.h:g	np	h	g	7040	
+matukar	ww2	0083	ZERO	ZERO	0.h:a	0	h	a	7039	
+matukar	ww2	0083	ZERO	ZERO	0.h:p	0	h	p	7038	
+matukar	ww2	0083	di-	3PL.A-	-pro_h_a	-pro_h_a			7039	
+matukar	ww2	0083	pan	give	v:pred	v		pred		
+matukar	ww2	0083	-amam	-1PL.EXCL.R	-pro_h_p	-pro_h_p			7038	
+matukar	ww2	0083	-e	-SEQ:D	-rv	-rv				
+matukar	ww2	0083	%	%	%	%				
+matukar	ww2	0083	#	#	#	#				
+matukar	ww2	0083	ha-mam	POSS-1PL.EXCL	ln_pro.1:poss	ln_pro	1	poss	7038	
+matukar	ww2	0083	lida	leader	np.h:s	np	h	s	7039	
+matukar	ww2	0083	lulwai	chief	np.h:appos	np	h	appos	7039	
+matukar	ww2	0083	lulwai	chief	rn	rn				
+matukar	ww2	0083	tultul	second_in_command	rn	rn				
+matukar	ww2	0083	tamat	man	np.h:g	np	h	g	7040	
+matukar	ww2	0083	ZERO	ZERO	0.h:p	0	h	p	7038	
+matukar	ww2	0083	di-	3PL.A-	-pro_h_a	-pro_h_a			7039	
+matukar	ww2	0083	pan	plant	v:pred	v		pred		
+matukar	ww2	0083	-amam	-1PL.EXCL.P	-pro_h_p	-pro_h_p			7038	
+matukar	ww2	0083	-e	-R:I:PFV	-rv	-rv				
+matukar	ww2	0083	%	%	%	%				
+matukar	ww2	0084	#	#	#ds	#ds				
+matukar	ww2	0084	bul-dop	do-IRR:D	v:pred	v		pred		
+matukar	ww2	0084	%	%	%	%				
+matukar	ww2	0084	#	#	#ds	#ds				
+matukar	ww2	0084	Yapan	Japan	np.h:a	np	h	a	7006	
+matukar	ww2	0084	ZERO	ZERO	0.2:p	0	2	p	7038	
+matukar	ww2	0084	di-	3PL.A-	-pro_h_a	-pro_h_a			7006	
+matukar	ww2	0084	non-ya-ng	get-DIR_away_from_speaker-SEQ:D	v:pred	v		pred		
+matukar	ww2	0084	%	%	%	%				
+matukar	ww2	0084	#	#	#ds	#ds				
+matukar	ww2	0084	ZERO	ZERO	0.h:s	0	h	s	7006	
+matukar	ww2	0084	diy-	3PL.S-	-pro_h_s	-pro_h_s			7006	
+matukar	ww2	0084	a-p-wai	go-IRR:D	v:pred	v		pred		
+matukar	ww2	0084	Yapan	Japan	pn_np:g	pn_np		g	7041	unused
+matukar	ww2	0084	%	%	%	%				
+matukar	ww2	0085	#	#	#	#				
+matukar	ww2	0085	ZERO	ZERO	0.h:s	0	h	s	7039	
+matukar	ww2	0085	di-	3PL.S-	-pro_h_s	-pro_h_s			7039	
+matukar	ww2	0085	bal-do	say-R:D	v:pred	v		pred		
+matukar	ww2	0085	%	%	%	%				
+matukar	ww2	0085	#	#	#	#				
+matukar	ww2	0085	tamat	man	np.h:g	np	h	g	7040	
+matukar	ww2	0085	ZERO	ZERO	0.h:a	0	h	a	7039	
+matukar	ww2	0085	ZERO	ZERO	0.h:p	0	h	p	7038	
+matukar	ww2	0085	di-	3PL.A-	-pro_h_a	-pro_h_a			7039	
+matukar	ww2	0085	pan	give	v:pred	v		pred		
+matukar	ww2	0085	-amam	-1PL.EXCL.R	-pro_h_g	-pro_h_g			7038	
+matukar	ww2	0085	-e	-SEQ:D	-rv	-rv				
+matukar	ww2	0085	%	%	%	%				
+matukar	ww2	0086	#	#	#	#				
+matukar	ww2	0086	do	and	other	other				
+matukar	ww2	0086	ZERO	ZERO	0.1:s	0	1	s	7038	
+matukar	ww2	0086	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7038	
+matukar	ww2	0086	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	ww2	0086	%	%	%	%				
+matukar	ww2	0087	#	#	#	#				
+matukar	ww2	0087	mon	DIST	ln	ln				
+matukar	ww2	0087	rai kosa	Rai_Coast	pn_np:l	pn_np		l	7042	new
+matukar	ww2	0087	tamat	man	np.h:s	np	h	s	7043	new
+matukar	ww2	0087	ta	one	rn	rn				
+matukar	ww2	0087	war-lo	war-LOC	np:l	np		l	7002	
+matukar	ww2	0087	tor-do	go.around-RD	v:pred	v		pred		
+matukar	ww2	0087	%	%	%	%				
+matukar	ww2	0087	#	#	#	#				
+matukar	ww2	0087	ilo	thought	np:p	np		p	7044	new
+matukar	ww2	0087	gire-k	think-NOM	rn	rn				
+matukar	ww2	0087	ZERO	ZERO	0.h:a	0	h	a	7043	
+matukar	ww2	0087	ngale-nge	take-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0087	%	%	%	%				
+matukar	ww2	0088	#	#	#	#				
+matukar	ww2	0088	Yali	Yali	pn_np.h:pred	pn_np	h	pred	7043	
+matukar	ww2	0088	ai	COP	cop	cop				
+matukar	ww2	0088	%	%	%	%				
+matukar	ww2	0089	#	#	#	#				
+matukar	ww2	0089	Yali	Yali	pn_np.h:s	pn_np	h	s	7043	
+matukar	ww2	0089	war	war	np:l	np		l	7002	
+matukar	ww2	0089	lo	in	rn	rn				
+matukar	ww2	0089	tor-do	go.around-R:D	v:pred	v		pred		
+matukar	ww2	0089	%	%	%	%				
+matukar	ww2	0089	#	#	#	#				
+matukar	ww2	0089	ilo	thought	np:s	np		s	7044	
+matukar	ww2	0089	gire-k	think-NOM	rn	rn				
+matukar	ww2	0089	ngale-nge	come-SEQ:D	v:pred	v		pred		
+matukar	ww2	0089	%	%	%	%				
+matukar	ww2	0090	#	#	#	#				
+matukar	ww2	0090	ari	OK	other	other				
+matukar	ww2	0090	ZERO	ZERO	0.h:a	0	h	a	7043	
+matukar	ww2	0090	ZERO	ZERO	0.h:p	0	h	p	7015	
+matukar	ww2	0090	ya-	3SG.A-	-pro_h_a	-pro_h_a			7043	
+matukar	ww2	0090	ga-do	call.out-R:D	v:pred	v		pred		
+matukar	ww2	0090	%	%	%	%				
+matukar	ww2	0090	#	#	#	#				
+matukar	ww2	0090	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0090	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0090	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0090	%	%	%	%				
+matukar	ww2	0091	#	#	#	#				
+matukar	ww2	0091	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0091	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0091	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	ww2	0091	%	%	%	%				
+matukar	ww2	0091	#	#	#	#				
+matukar	ww2	0091	rai kosa	Rai_Coast	pn_np:g	pn_np		g	7042	
+matukar	ww2	0091	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0091	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0091	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0091	%	%	%	%				
+matukar	ww2	0092	#	#	#	#				
+matukar	ww2	0092	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0092	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0092	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	ww2	0092	%	%	%	%				
+matukar	ww2	0092	#	#	#	#				
+matukar	ww2	0092	mana	there	other:l	other		l	7042	
+matukar	ww2	0092	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0092	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0092	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	ww2	0092	%	%	%	%				
+matukar	ww2	0093	#	#	#	#				
+matukar	ww2	0093	i	3SG.S	pro.h:s	pro	h	s	7043	
+matukar	ww2	0093	stori-ye	story-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0093	%	%	%	%				
+matukar	ww2	0094	#	#	#	#				
+matukar	ww2	0094	war	war	np:s	np		s	7002	
+matukar	ww2	0094	pid-ago	descend-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0094	mainwaimi	therefore	other	other				
+matukar	ww2	0094	%	%	%	%				
+matukar	ww2	0094	#	#	#ds	#ds				
+matukar	ww2	0094	war	war	np:s	np		s	7002	
+matukar	ww2	0094	ti-e	finish-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0094	%	%	%	%				
+matukar	ww2	0094	#	#	#	#				
+matukar	ww2	0094	i	3SG.A	pro.h:s_ds	pro	h	s_ds	7043	
+matukar	ww2	0094	ba	say	v:pred	v		pred		
+matukar	ww2	0094	%	%	%	%				
+matukar	ww2	0095	#	#	#ds	#ds				
+matukar	ww2	0095	ngau	1SG.A	pro.1:a	pro	1	a	7043	
+matukar	ww2	0095	war	war	np:p	np		p	7002	
+matukar	ww2	0095	ngai-	1SG.A-	-pro_1_a	-pro_1_a			7043	
+matukar	ww2	0095	te-nge	see-SEQ:D	v:pred	v		pred		
+matukar	ww2	0095	ti-do	finish-R:D	aux	aux				
+matukar	ww2	0095	%	%	%	%				
+matukar	ww2	0095	#	#	#ds	#ds				
+matukar	ww2	0095	ZERO	ZERO	0.1:s	0	1	s	7043	
+matukar	ww2	0095	nga-	1SG.S-	-pro_1_s	-pro_1_s			7043	
+matukar	ww2	0095	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0095	%	%	%	%				
+matukar	ww2	0096	#	#	#ds	#ds				
+matukar	ww2	0096	malal-te	villate-LOC	np:l	np		l	7045	new
+matukar	ww2	0096	ZERO	ZERO	0.2:s	0	2	s	7015	
+matukar	ww2	0096	a-	2PL.S-	-pro_2_s	-pro_2_s			7015	
+matukar	ww2	0096	mado	stay	v:pred	v		pred		
+matukar	ww2	0096	%	%	%	%				
+matukar	ww2	0096	#	#	#	#				
+matukar	ww2	0096	i	3SG.S	pro.h:s_ds	pro	h	s_ds	7043	
+matukar	ww2	0096	bal-do	say-R:D	v:pred	v		pred		
+matukar	ww2	0096	%	%	%	%				
+matukar	ww2	0096	#	#	#	#				
+matukar	ww2	0096	malal-te	village-LOC	np:l	np		l	7045	
+matukar	ww2	0096	ab	house	np:p	np		p	7046	new
+matukar	ww2	0096	ZERO	ZERO	0.h:a	0	h	a	7047	bridging
+matukar	ww2	0096	di-	3PL.A-	-pro_h_a	-pro_h_a			7047	
+matukar	ww2	0096	bi-nge	hold-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0096	%	%	%	%				
+matukar	ww2	0097	#	#	#	#				
+matukar	ww2	0097	do	and	other	other				
+matukar	ww2	0097	ngahamam	our.EXCL	other	other				
+matukar	ww2	0097	ebong	COMP	other	other				
+matukar	ww2	0097	em	it_[TokPisin]	other	other				
+matukar	ww2	0097	olsem	like_[TokPisin]	other	other				
+matukar	ww2	0097	ngahamam	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	7015	
+matukar	ww2	0097	dabok-ong	big-COMP	np:pred	np		pred		
+matukar	ww2	0097	%	%	%	%				
+matukar	ww2	0098	#	#	#	#				
+matukar	ww2	0098	ari	OK	other	other				
+matukar	ww2	0098	mana	there	other:l	other		l	7045	
+matukar	ww2	0098	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0098	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0098	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0098	%	%	%	%				
+matukar	ww2	0099	#	#	#	#				
+matukar	ww2	0099	malal-te	village-LOC	np:g	np		g	7045	
+matukar	ww2	0099	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0099	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0099	sus-e	ascend-SEQ:D	v:pred	v		pred		
+matukar	ww2	0099	%	%	%	%				
+matukar	ww2	0099	#	#	#	#				
+matukar	ww2	0099	ab	house	np:p	np		p	7046	
+matukar	ww2	0099	ZERO	ZERO	0.h:a	0	h	a	7047	
+matukar	ww2	0099	di-	3PL.A-	-pro_h_a	-pro_h_a			7047	
+matukar	ww2	0099	bi-nge	hold-SEQ:D	v:pred	v		pred		
+matukar	ww2	0099	%	%	%	%				
+matukar	ww2	0099	#	#	#	#				
+matukar	ww2	0099	main	PROX	ln	ln				
+matukar	ww2	0099	ab	house	np:p	np		p	7046	
+matukar	ww2	0099	ZERO	ZERO	0.h:a	0	h	a	7047	
+matukar	ww2	0099	di-	3PL.A-	-pro_h_a	-pro_h_a			7047	
+matukar	ww2	0099	bi-nge	hold-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0099	%	%	%	%				
+matukar	ww2	0100	#	#	#	#				
+matukar	ww2	0100	do	and	other	other				
+matukar	ww2	0100	malal	village	np:dt_g	np		dt_g	7045	
+matukar	ww2	0100	main-angan	TOP-FOC	rn	rn				
+matukar	ww2	0101	main	PROX	np:g	np		g	7045	
+matukar	ww2	0101	Yali	Yali	pn_np.h:s	pn_np	h	s	7043	
+matukar	ww2	0101	palum-e	come-SEQ:D	v:pred	v		pred		
+matukar	ww2	0101	%	%	%	%				
+matukar	ww2	0101	#	#	#	#				
+matukar	ww2	0101	i	3SG.S	pro.h:s	pro	h	s	7043	
+matukar	ww2	0101	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0101	%	%	%	%				
+matukar	ww2	0102	#	#	#	#				
+matukar	ww2	0102	plaua	flower	ln	ln				
+matukar	ww2	0102	lain	line	np:p	np		p	7048	new
+matukar	ww2	0102	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0102	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0102	nage-nge	put-SEQ:D	v:pred	v		pred		
+matukar	ww2	0102	malal-te	village-LOC	np:l	np		l	7045	
+matukar	ww2	0102	%	%	%	%				
+matukar	ww2	0103	#	#	#	#				
+matukar	ww2	0103	dal	road	np:l	np		l	7049	bridging
+matukar	ww2	0103	toilet	toilet	ln	ln				
+matukar	ww2	0103	ha-n	POSS-3SG	ln	ln				
+matukar	ww2	0103	dal	road	np:appos	np		appos	7049	
+matukar	ww2	0104	plaua	flower	np:predex	np		predex	7048	
+matukar	ww2	0104	tasol	only	rn	rn				
+matukar	ww2	0104	%	%	%	%				
+matukar	ww2	0104	#	#	#	#				
+matukar	ww2	0104	plaua-mi	flower-only	np:s	np		s	7048	
+matukar	ww2	0104	ya-	3SG.S-	-pro_s	-pro_s			7048	
+matukar	ww2	0104	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0104	%	%	%	%				
+matukar	ww2	0105	#	#	#	#				
+matukar	ww2	0105	do	and	other	other				
+matukar	ww2	0105	malal	village	ln	ln				
+matukar	ww2	0105	gigin	side	np:l	np		l	7050	bridging
+matukar	ww2	0106	plaua	flower	np:predex	np		predex	7051	bridging
+matukar	ww2	0106	rig	rig	rn	rn				
+matukar	ww2	0106	%	%	%	%				
+matukar	ww2	0107	#	#	#	#				
+matukar	ww2	0107	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0107	ZERO	ZERO	0:p	0		p	7051	
+matukar	ww2	0107	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0107	pai-nge	plant-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0107	%	%	%	%				
+matukar	ww2	0108	#	#	#	#				
+matukar	ww2	0108	malal	village	ln	ln				
+matukar	ww2	0108	gigin	side	np:l	np		l	7050	
+matukar	ww2	0108	ZERO	ZERO	0:s	0		s	7051	
+matukar	ww2	0108	la-ng	go-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0108	wai	like	adp	adp				
+matukar	ww2	0108	dub	south	np:other	np		other		
+matukar	ww2	0108	wai	like	adp	adp				
+matukar	ww2	0108	%	%	%	%				
+matukar	ww2	0109	#	#	#	#				
+matukar	ww2	0109	do	and	other	other				
+matukar	ww2	0109	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0109	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0109	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0109	%	%	%	%				
+matukar	ww2	0110	#	#	#	#				
+matukar	ww2	0110	ngahamam	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	7015	
+matukar	ww2	0110	matmat	cemetery	np:s	np		s	7052	new
+matukar	ww2	0110	mon	DIST	other:pred_l	other		pred_l	7050	
+matukar	ww2	0110	%	%	%	%				
+matukar	ww2	0111	#	#	#	#				
+matukar	ww2	0111	main	PROX	ln	ln				
+matukar	ww2	0111	Yali	Yali	pn_np.h:s_ds	pn_np	h	s_ds	7043	
+matukar	ww2	0111	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0111	%	%	%	%				
+matukar	ww2	0111	#	#	#ds	#ds				
+matukar	ww2	0111	matmat	cemetary	np:p	np		p	7052	
+matukar	ww2	0111	nal	day	np:other	np		other		
+matukar	ww2	0111	hudungan	every	rn	rn				
+matukar	ww2	0111	ZERO	ZERO	0.2:a	0	2	a	7015	
+matukar	ww2	0111	a-	2PL.A-	-pro_2_a	-pro_2_a			7015	
+matukar	ww2	0111	gali	clean	v:pred	v		pred		
+matukar	ww2	0111	%	%	%	%				
+matukar	ww2	0111	#	#	#	#				
+matukar	ww2	0111	i	3SG.S	pro.h:s	pro	h	s	7043	
+matukar	ww2	0111	bal-e	say-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0111	%	%	%	%				
+matukar	ww2	0112	#	#	#	#				
+matukar	ww2	0112	do	and	other	other				
+matukar	ww2	0112	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0112	ZERO	ZERO	np:p	np		p	7052	
+matukar	ww2	0112	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0112	gali-ndo	clean-R:D	v:pred	v		pred		
+matukar	ww2	0112	%	%	%	%				
+matukar	ww2	0113	#	#	#	#				
+matukar	ww2	0113	plaua	flower	ln	ln				
+matukar	ww2	0113	lain	line	np:p	np		p	7048	
+matukar	ww2	0113	ZERO	ZERO	0.1:a	0	1	a	7015	
+matukar	ww2	0113	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7015	
+matukar	ww2	0113	nage	put	v:pred	v		pred		
+matukar	ww2	0113	matmat-te	cemetary-LOC	np:l	np		l	7052	
+matukar	ww2	0113	%	%	%	%				
+matukar	ww2	0114	#	#	#	#				
+matukar	ww2	0114	do-pe	and-COND	other	other				
+matukar	ww2	0114	sarare	Saturday	np:other	np		other		
+matukar	ww2	0114	do-pe	and-COND	other	other				
+matukar	ww2	0114	ZERO	ZERO	0.1:s	0	1	s	7003	
+matukar	ww2	0114	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7003	
+matukar	ww2	0114	a-go	go-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0114	matmatte	cemetary-LOC	np:g	np		g	7052	
+matukar	ww2	0114	%	%	%	%				
+matukar	ww2	0115	#	#	#	#				
+matukar	ww2	0115	ngam	1PL.EXCL.S	pro.1:s	pro	1	s	7003	
+matukar	ww2	0115	aipainim	girls	np.h:appos	np	h	appos	7003	
+matukar	ww2	0115	matmat-te	cemetary-LOC	np:g	np		g	7052	
+matukar	ww2	0115	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7003	
+matukar	ww2	0115	a	go	v:pred	v		pred		
+matukar	ww2	0115	%	%	%	%				
+matukar	ww2	0115	#	#	#	#				
+matukar	ww2	0115	plaua	flower	np:p	np		p	7048	
+matukar	ww2	0115	ZERO	ZERO	0.1:a	0	1	a	7003	
+matukar	ww2	0115	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7003	
+matukar	ww2	0115	diri-nggo	put.in-R:I:IMPV	v:pred	v		pred		
+matukar	ww2	0115	tamat	man	ln	ln				
+matukar	ww2	0115	garma-di-te	head-3PL-LOC	np:l	np		l	7053	bridging
+matukar	ww2	0115	garma-di-te	head-3PL-LOC	np:dt_l	np		dt_l	7053	
+matukar	ww2	0115	%	%	%	%				
+matukar	ww2	0116	#	#	#	#				
+matukar	ww2	0116	main	PROX	dem_pro:s	dem_pro		s	7054	bridging
+matukar	ww2	0116	sarere	Saturday	np:pred	np		pred		
+matukar	ww2	0116	%	%	%	%				
+matukar	ww2	0116	#	#	#	#				
+matukar	ww2	0116	do-pe	and-COND	other	other				
+matukar	ww2	0116	do-pe	and-COND	other	other				
+matukar	ww2	0116	ubo	week	np:other	np		other		
+matukar	ww2	0116	do-pe	and-COND	other	other				
+matukar	ww2	0116	ZERO	ZERO	0.1:s	0	1	s	7003	
+matukar	ww2	0116	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7003	
+matukar	ww2	0116	a-ma	go-D:HAB	v:pred	v		pred		
+matukar	ww2	0116	%	%	%	%				
+matukar	ww2	0116	#	#	#	#				
+matukar	ww2	0116	ZERO	ZERO	0.1:s	0	1	s	7003	
+matukar	ww2	0116	lottu-go	attend.church-R:I:IMPV	v:pred	v		pred		
+matukar	ww2	0116	%	%	%	%				
+matukar	ww2	0117	#	#	#	#				
+matukar	ww2	0117	main	PROX	ln	ln				
+matukar	ww2	0117	malal-te-nen	village-LOC-3SG.POSS	np:l	np		l	7045	
+matukar	ww2	0117	lulwai	chief	np.h:a	np	h	a	7055	bridging
+matukar	ww2	0117	tultul	second.in.command	rn_np.h	rn_np	h		7056	bridging
+matukar	ww2	0117	dokta	doctor	rn_np.h	rn_np	h		7057	bridging
+matukar	ww2	0117	main	PROX	ln	ln				
+matukar	ww2	0117	urat	work	np:p	np		p	7058	bridging
+matukar	ww2	0117	main	TOP	rn	rn				
+matukar	ww2	0117	di-	3PL.A-	-pro_h_a	-pro_h_a			7059	bridging
+matukar	ww2	0117	yamate-nggokai	care.for-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	ww2	0117	%	%	%	%				
+matukar	ww2	0118	#	#	#neg	#neg				
+matukar	ww2	0118	ari	OK	other	other				
+matukar	ww2	0118	ti-nage-tap	NEG-work-COND	v:pred	v		pred		
+matukar	ww2	0118	%	%	%	%				
+matukar	ww2	0118	#	#	#	#				
+matukar	ww2	0118	panis	punishment	np:p	np		p	7060	new
+matukar	ww2	0118	ZERO	ZERO	0.h:a	0	h	a	7059	
+matukar	ww2	0118	ZERO	ZERO	0.1:g	0	1	g	7003	
+matukar	ww2	0118	di-	3PL.A-	-pro_h_a	-pro_h_a			7059	
+matukar	ww2	0118	pan	give	v:pred	v		pred		
+matukar	ww2	0118	-amam	-1PL.EXCL.R	-pro_1_g	-pro_1_g			7003	
+matukar	ww2	0118	-ago	-R:I:IMPV	-rv	-rv				
+matukar	ww2	0118	%	%	%	%				
+matukar	ww2	0119	#	#	#	#				
+matukar	ww2	0119	ZERO	ZERO	0.h:a	0	h	a	7059	
+matukar	ww2	0119	ZERO	ZERO	0.1:g	0	1	g	7003	
+matukar	ww2	0119	di-	3PL.A-	-pro_h_a	-pro_h_a			7059	
+matukar	ww2	0119	pan	give	v:pred	v		pred		
+matukar	ww2	0119	-amam	-1PL.EXCL.R	-pro_h_g	-pro_h_g			7003	
+matukar	ww2	0119	-ap	-IRR:D	-rv	-rv				
+matukar	ww2	0119	lul	beach	np:p	np		p	7061	new
+matukar	ww2	0119	%	%	%	%				
+matukar	ww2	0119	#	#	#	#				
+matukar	ww2	0119	ZERO	ZERO	0.1:a	0	1	a	7003	
+matukar	ww2	0119	ZERO	ZERO	0:p	0		p	7061	
+matukar	ww2	0119	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			7003	
+matukar	ww2	0119	sun	carry	v:pred	v		pred		
+matukar	ww2	0119	-i	-3SG.P	-pro:p	-pro		p	7061	
+matukar	ww2	0119	-mba	-IRR:I	-rv	-rv				
+matukar	ww2	0119	%	%	%	%				
+matukar	ww2	0120	#	#	#	#				
+matukar	ww2	0120	awo	yes	other	other				
+matukar	ww2	0120	malal-te	village-LOC	np:l	np		l	7045	
+matukar	ww2	0120	war	war	np:s	np		s	7002	
+matukar	ww2	0120	ti-do	finish-R:D	v:pred	v		pred		
+matukar	ww2	0120	main	TOP	other	other				
+matukar	ww2	0120	%	%	%	%				
+matukar	ww2	0121	#	#	#	#				
+matukar	ww2	0121	Yali	Yali	pn_np.h:s	pn_np	h	s	7043	
+matukar	ww2	0121	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0121	%	%	%	%				
+matukar	ww2	0122	#	#	#	#				
+matukar	ww2	0122	ari	OK	other	other				
+matukar	ww2	0122	main	PROX	np:s	np		s	7002	
+matukar	ww2	0122	ti-do	finish-R:D	v:pred	v		pred		
+matukar	ww2	0122	%	%	%	%				
+matukar	ww2	0122	#	#	#	#				
+matukar	ww2	0122	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0122	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0122	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0122	%	%	%	%				
+matukar	ww2	0123	#	#	#	#				
+matukar	ww2	0123	malal-te	village-LOC	np:g	np		g	7045	
+matukar	ww2	0123	ZERO	ZERO	0.1:s	0	1	s	7015	
+matukar	ww2	0123	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			7015	
+matukar	ww2	0123	sus-al-e	ascend-TERM-R:I:PFV	v:pred	v		pred		
+matukar	ww2	0123	%	%	%	%				

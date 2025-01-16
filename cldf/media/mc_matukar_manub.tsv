@@ -1,0 +1,795 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+matukar	manub	0001	#	#	#	#				
+matukar	manub	0001	aria	OK	other	other				
+matukar	manub	0001	gauni	now	other	other				
+matukar	manub	0002	nga-ha-mam	1PL.EXCL-POSS-1PL.EXCL	ln_pro.1:poss	ln_pro	1	poss	4003	new
+matukar	manub	0002	wagam	traditional.story	np:pred	np		pred	4001	new
+matukar	manub	0002	%	%	%	%				
+matukar	manub	0003	#	#	#	#				
+matukar	manub	0003	wagamu	before	other	other				
+matukar	manub	0004	ses-ad	grandparents-1PL.INCL	np.h:dt_s	np	h	dt_s	4002	new
+matukar	manub	0005	tibu	grandparents	np.h:s	np	h	s	4002	
+matukar	manub	0005	-mam	-1PL.EXCL	-rn_pro.1:poss	-rn_pro	1	poss	4003	
+matukar	manub	0006	di-	3PL.S-	-pro_h_s	-pro_h_s			4002	
+matukar	manub	0006	mado-nge	sit-SEQ:D	v:pred	v		pred		
+matukar	manub	0006	so-nge	come-SEQ:D	aux	aux				
+matukar	manub	0006	palum-e	come-R:I:PFV	aux	aux				
+matukar	manub	0006	gauni	now	other	other				
+matukar	manub	0006	%	%	%	%				
+matukar	manub	0007	#	#	#	#				
+matukar	manub	0007	id	1PL.INCL.S	pro.1:s	pro	1	s	4003	
+matukar	manub	0007	ta-	1PL.INCL.S-	-pro_1_s	-pro_1_s			4003	
+matukar	manub	0007	mado-nggo	sit-R:I:IMPV	v:pred	v		pred		
+matukar	manub	0007	%	%	%	%				
+matukar	manub	0008	#	#	#	#				
+matukar	manub	0008	wagamu	before	other	other				
+matukar	manub	0009	manub	Manub	pn_np.h:s	pn_np	h	s	4004	new
+matukar	manub	0009	kulbob	Kulbob	rn_pn_np.h	rn_pn_np	h		4005	new
+matukar	manub	0010	nal	time	np:other	np		other		
+matukar	manub	0010	di-	3PL.S-	-pro_h_s	-pro_h_s			4006	bridging
+matukar	manub	0010	mado-nge	live-R:I:PFV	v:pred	v		pred		
+matukar	manub	0010	main-te	TOP-LOC	other	other				
+matukar	manub	0010	%	%	%	%				
+matukar	manub	0011	#	#	#	#				
+matukar	manub	0011	tamat	man	np.h:predex	np	h	predex	4006	
+matukar	manub	0011	aru	two	rn	rn				
+matukar	manub	0011	%	%	%	%				
+matukar	manub	0012	#	#	#	#				
+matukar	manub	0012	mug	first	other	other				
+matukar	manub	0013	tain	younger.sibling-3SG	np.h:s	np	h	s	4005	
+matukar	manub	0013	natu-n	small-3SG	rn	rn				
+matukar	manub	0014	palum-e	come-SEQ:D	v:pred	v		pred		
+matukar	manub	0014	%	%	%	%				
+matukar	manub	0015	#	#	#	#				
+matukar	manub	0015	abek	place	np:l	np		l	4007	new
+matukar	manub	0015	ZERO	ZERO	0.h:s	0	h	s	4005	
+matukar	manub	0015	mado-mbuai	sit-IRR:I:DESID	v:pred	v		pred		
+matukar	manub	0015	%	%	%	%				
+matukar	manub	0016	#	#	#	#				
+matukar	manub	0016	abenaman	place	np:l	np		l	4007	
+matukar	manub	0016	wai	like	adp	adp				
+matukar	manub	0016	ZERO	ZERO	0.h:s	0	h	s		
+matukar	manub	0016	y-	3SG.S-	-pro_h_s	-pro_h_s			4005	
+matukar	manub	0016	ep-ado	look-R:D	v:pred	v		pred		
+matukar	manub	0016	%	%	%	%				
+matukar	manub	0016	#	#	#	#				
+matukar	manub	0016	ZERO	ZERO	0.h:s	0	h	s	4005	
+matukar	manub	0016	tor-e	go.around-SEQ:D	v:pred	v		pred		
+matukar	manub	0016	%	%	%	%				
+matukar	manub	0017	#	#	#	#				
+matukar	manub	0017	i	3SG.S	pro.h:s	pro	h	s	4005	
+matukar	manub	0017	so-nge	come-SEQ:D	v:pred	v		pred		
+matukar	manub	0017	songe	come-R:I:PFV	aux	aux				
+matukar	manub	0018	manig	like.this	other	other				
+matukar	manub	0018	kuturte	Kutur-LOC	pn_np:l	pn_np		l	4008	unused
+matukar	manub	0018	%	%	%	%				
+matukar	manub	0019	#	#	#	#				
+matukar	manub	0019	abang	place	np:p	np		p	4008	
+matukar	manub	0019	i	3SG.A	pro.h:a	pro	h	a	4005	
+matukar	manub	0019	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	manub	0019	%	%	%	%				
+matukar	manub	0020	#	#	#	#				
+matukar	manub	0020	do	CONJ	other	other				
+matukar	manub	0021	yau	fire	ln	ln				
+matukar	manub	0021	kas	smoke	np:p	np		p	4009	new
+matukar	manub	0021	ZERO	ZERO	0.h:a	0	h	a	4005	
+matukar	manub	0021	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	manub	0021	%	%	%	%				
+matukar	manub	0021	#	#	#	#				
+matukar	manub	0021	yau	fire	ln	ln				
+matukar	manub	0021	kas	smoke	np:s	np		s	4009	
+matukar	manub	0021	mais-e	rise-R:I:PFV	v:pred	v		pred		
+matukar	manub	0021	%	%	%	%				
+matukar	manub	0022	#	#	#	#				
+matukar	manub	0022	do	CONJ	other	other				
+matukar	manub	0023	i	3SG.S	pro.h:s	pro	h	s	4005	
+matukar	manub	0023	das-e	ascend-SEQ:D	v:pred	v		pred		
+matukar	manub	0023	%	%	%	%				
+matukar	manub	0023	#	#	#	#				
+matukar	manub	0023	wag	canoe	np:p	np		p	4010	new
+matukar	manub	0023	ZERO	ZERO	0.h:a	0	h	a	4005	
+matukar	manub	0023	rai-das-e	pull-DIR_ascend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0024	lul-te	beach-LOC	np:g	np		g	4011	bridging
+matukar	manub	0024	%	%	%	%				
+matukar	manub	0025	#	#	#	#				
+matukar	manub	0025	lul-te	beach-LOC	np:l	np		l	4011	
+matukar	manub	0025	ZERO	ZERO	0.h:a	0	h	a	4005	
+matukar	manub	0025	ZERO	ZERO	0:p	0		p	4010	
+matukar	manub	0025	men-i	leave	v:pred	v		pred		
+matukar	manub	0025	-i	-3SG.P	-pro_p	-pro_p			4010	
+matukar	manub	0025	-nge	-SEQ:D	-rv	-rv				
+matukar	manub	0025	%	%	%	%				
+matukar	manub	0026	#	#	#	#				
+matukar	manub	0026	i	3SG.S	pro.h:s	pro	h	s	4005	
+matukar	manub	0026	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0027	dador-i	Dador-LOC	pn_np:l	pn_np		l	4012	unused
+matukar	manub	0027	%	%	%	%				
+matukar	manub	0028	#	#	#	#				
+matukar	manub	0028	do	CONJ	other	other				
+matukar	manub	0028	pain	woman	np.h:dt_s	np	h	dt_s	4013	new
+matukar	manub	0028	ta	a	rn	rn				
+matukar	manub	0029	mana	there	other:l	other		l	4012	
+matukar	manub	0029	i	3SG.S	pro.h:s	pro	h	s	4013	
+matukar	manub	0029	mado-nge	live-R:I:PFV	v:pred	v		pred		
+matukar	manub	0029	%	%	%	%				
+matukar	manub	0030	#	#	#	#				
+matukar	manub	0030	pain	woman	np.h:s	np	h	s	4013	
+matukar	manub	0030	mainangan	TOP	rn	rn				
+matukar	manub	0031	mana-mi	there-only	other:l	other		l	4012	
+matukar	manub	0031	mado-nggokai	sit-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	manub	0032	yaur	leaf	np:dt_l	np		dt_l	4014	new
+matukar	manub	0032	ilo-n-lo	inside-3SG-LOC	rn	rn				
+matukar	manub	0032	%	%	%	%				
+matukar	manub	0033	#	#	#	#				
+matukar	manub	0033	ZERO	ZERO	0.h:a	0	h	a	4013	
+matukar	manub	0033	ZERO	ZERO	0.h:p	0	h	p	4005	
+matukar	manub	0033	te-nge	see-SEQ:D	v:pred	v		pred		
+matukar	manub	0033	%	%	%	%				
+matukar	manub	0033	#	#	#	#				
+matukar	manub	0033	ZERO	ZERO	0.h:s	0	h	s	4013	
+matukar	manub	0033	saipid-e	ascend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0033	%	%	%	%				
+matukar	manub	0034	#	#	#	#				
+matukar	manub	0034	ZERO	ZERO	0.h:s	0	h	s	4013	
+matukar	manub	0034	mado-nge	sit-SEQ:D	v:pred	v		pred		
+matukar	manub	0034	%	%	%	%				
+matukar	manub	0035	#	#	#	#				
+matukar	manub	0035	tamat	man	np.h:a	np	h	a	4005	
+matukar	manub	0035	main	PROX	ln	ln				
+matukar	manub	0035	yau	fire	ln	ln				
+matukar	manub	0035	kas	smoke	np:p	np		p	4009	
+matukar	manub	0035	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	manub	0035	%	%	%	%				
+matukar	manub	0036	#	#	#	#				
+matukar	manub	0036	i	3SG.S	pro.h:s	pro	h	s	4005	
+matukar	manub	0036	das-e	ascend-SEQ:D	v:pred	v		pred		
+matukar	manub	0036	%	%	%	%				
+matukar	manub	0037	#	#	#	#				
+matukar	manub	0037	ZERO	ZERO	pro.h:s	pro	h	s	4005	
+matukar	manub	0037	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0037	%	%	%	%				
+matukar	manub	0038	#	#	#	#				
+matukar	manub	0038	do	CONJ	other	other				
+matukar	manub	0038	pain	woman	np.h:s	np	h	s	4013	
+matukar	manub	0038	mainangan	TOP	rn	rn				
+matukar	manub	0039	han	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	4013	
+matukar	manub	0039	goigoi	women's_house	np:dt_l	np		dt_l	4015	new
+matukar	manub	0040	ab-ate	house-LOC	np:l	np		l	4015	
+matukar	manub	0040	mado-nge	live-R:I:PFV	v:pred	v		pred		
+matukar	manub	0040	%	%	%	%				
+matukar	manub	0041	#	#	#	#				
+matukar	manub	0041	ab	house	ln_np	ln_np			4015	
+matukar	manub	0041	nau-n-a	face-3SG-LOC	np:l	np		l		
+matukar	manub	0041	abang	area	np:p	np		p	4016	new
+matukar	manub	0041	ZERO	ZERO	0.h:a	0	h	a	4013	
+matukar	manub	0041	sorni-nge	sweep-R:I:PFV	v:pred	v		pred		
+matukar	manub	0041	%	%	%	%				
+matukar	manub	0042	#	#	#	#				
+matukar	manub	0042	ZERO	ZERO	0.h:a	0	h	a	4013	
+matukar	manub	0042	ZERO	ZERO	0:p	0		p	4016	
+matukar	manub	0042	sorni-nge	sweep-SEQ:D	v:pred	v		pred		
+matukar	manub	0042	%	%	%	%				
+matukar	manub	0042	#	#	#	#				
+matukar	manub	0042	ZERO	ZERO	0.h:s	0	h	s	4013	
+matukar	manub	0042	tor-do	go.around-R:D	v:pred	v		pred		
+matukar	manub	0042	%	%	%	%				
+matukar	manub	0043	#	#	#	#				
+matukar	manub	0043	i	3SG.S	pro.h:s	pro	h	s	4013	
+matukar	manub	0043	meis-e	rise-SEQ:D	v:pred	v		pred		
+matukar	manub	0043	%	%	%	%				
+matukar	manub	0043	#	#	#	#				
+matukar	manub	0043	manag	like.that	other	other				
+matukar	manub	0043	ZERO	ZERO	0.h:a	0	h	a	4013	
+matukar	manub	0043	tamat	man	np.h:p	np	h	p	4005	
+matukar	manub	0043	main	TOP	rn	rn				
+matukar	manub	0043	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	manub	0043	%	%	%	%				
+matukar	manub	0044	#	#	#	#				
+matukar	manub	0044	do	CONJ	other	other				
+matukar	manub	0044	ZERO	ZERO	0.h:a	0	h	a	4013	
+matukar	manub	0044	tamat	man	np.h:p	np	h	p	4005	
+matukar	manub	0044	mainan	TOP	rn	rn				
+matukar	manub	0044	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	manub	0044	%	%	%	%				
+matukar	manub	0045	#	#	#	#				
+matukar	manub	0045	do	CONJ	other	other				
+matukar	manub	0045	i	3SG.S	pro.h:s_ds	pro	h	s_ds	4013	
+matukar	manub	0045	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	manub	0045	%	%	%	%				
+matukar	manub	0046	#	#	#ds	#ds				
+matukar	manub	0046	ong	2SG.S	pro.2:s	pro	2	s	4005	
+matukar	manub	0046	manag	like.that	other	other				
+matukar	manub	0046	tur-dop	stand-IRR:D	v:pred	v		pred		
+matukar	manub	0046	%	%	%	%				
+matukar	manub	0047	#	#	#ds	#ds				
+matukar	manub	0047	ngau	1SG.A	pro.1:a	pro	1	a	4013	
+matukar	manub	0047	samer	sago.leaves	np:p	np		p	4017	new
+matukar	manub	0047	nga-	1SG.A-	-pro_1_a	-pro_1_a			4013	
+matukar	manub	0047	petau-wapage	put.on-PROTASIS	v:pred	v		pred		
+matukar	manub	0047	%	%	%	%				
+matukar	manub	0048	#	#	#ds	#ds				
+matukar	manub	0048	ong	2SG.S	pro.2:s	pro	2	s	4005	
+matukar	manub	0048	so-mba	come-IRR:I	v:pred	v		pred		
+matukar	manub	0048	%	%	%	%				
+matukar	manub	0049	#	#	#	#				
+matukar	manub	0049	do	CONJ	other	other				
+matukar	manub	0050	pain	woman	np.h:s	np	h	s	4013	
+matukar	manub	0050	laipid-e	go.down-R:I:PFV	v:pred	v		pred		
+matukar	manub	0050	ha-n	POSS-3SG	ln	ln				
+matukar	manub	0050	ab	house	np:g	np		g	4015	
+matukar	manub	0050	ilo-n-lo	inside-3SG-LOC	rn	rn				
+matukar	manub	0050	%	%	%	%				
+matukar	manub	0051	#	#	#	#				
+matukar	manub	0051	ZERO	ZERO	0.h:a	0	h	a	4013	
+matukar	manub	0051	samer	sago.leaves	np:p	np		p	4017	
+matukar	manub	0051	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	manub	0051	%	%	%	%				
+matukar	manub	0051	#	#	#	#				
+matukar	manub	0051	ZERO	ZERO	0.h:a	0	h	a	4013	
+matukar	manub	0051	ZERO	ZERO	0:p	0		p	4017	
+matukar	manub	0051	pitau-we	put.on-R:I:PFV	v:pred	v		pred		
+matukar	manub	0051	%	%	%	%				
+matukar	manub	0052	#	#	#	#				
+matukar	manub	0052	ti-do	finish-R:D	other	other				
+matukar	manub	0053	tamat	man	np.h:p	np	h	p	4005	
+matukar	manub	0053	main	TOP	rn	rn				
+matukar	manub	0053	ZERO	ZERO	0.h:a_ds	0	h	a_ds	4013	
+matukar	manub	0053	ya-	3SG.S-	-pro_h_a	-pro_h_a			4013	
+matukar	manub	0053	gi-nge	call-R:I:PFV	v:pred	v		pred		
+matukar	manub	0053	%	%	%	%				
+matukar	manub	0053	#	#	#ds	#ds				
+matukar	manub	0053	ari	OK	other	other				
+matukar	manub	0053	gauni	today	other	other				
+matukar	manub	0053	ong	2SG.S	pro.2:s	pro	2	s	4005	
+matukar	manub	0053	sa	ascend	v:pred	v		pred		
+matukar	manub	0053	%	%	%	%				
+matukar	manub	0054	#	#	#	#				
+matukar	manub	0054	do	CONJ	other	other				
+matukar	manub	0054	tamat	man	np.h:s	np	h	s	4005	
+matukar	manub	0054	main	TOP	rn	rn				
+matukar	manub	0054	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0054	%	%	%	%				
+matukar	manub	0055	#	#	#	#				
+matukar	manub	0055	do	CONJ	other	other				
+matukar	manub	0055	ida	with	adp	adp				
+matukar	manub	0055	ZERO	ZERO	0.h:s	0	h	s	4019	bridging
+matukar	manub	0055	di-	3PL.S-	-pro_h_s	-pro_h_s			4019	
+matukar	manub	0055	madonge	stay-R:I:PFV	v:pred	v		pred		
+matukar	manub	0055	mana	there	other:l	other		l	4015	
+matukar	manub	0055	%	%	%	%				
+matukar	manub	0056	#	#	#	#				
+matukar	manub	0056	i	3SG.S	pro.h:s	pro	h	s	4005	
+matukar	manub	0056	mado-ndo	mado-R:D	v:pred	v		pred		
+matukar	manub	0056	%	%	%	%				
+matukar	manub	0057	#	#	#	#				
+matukar	manub	0057	tamat	man	np.h:a_ds	np	h	a_ds	4005	
+matukar	manub	0057	main	PROX	ln	ln				
+matukar	manub	0057	pain-im	woman-PL	np.h:p	np	h	p	4013	
+matukar	manub	0057	pai-nge	cross-R:I:PFV	v:pred	v		pred		
+matukar	manub	0057	%	%	%	%				
+matukar	manub	0058	#	#	#ds	#ds				
+matukar	manub	0058	ngau	1SG.S	pro.1:s	pro	1	s	4005	
+matukar	manub	0059	aben	place	np:l	np		l	4007	
+matukar	manub	0059	nga-	1SG.S-	-pro_1_s	-pro_1_s			4005	
+matukar	manub	0059	mado-mbuai	live-IRR:I:DESID	v:pred	v		pred		
+matukar	manub	0059	%	%	%	%				
+matukar	manub	0060	#	#	#ds	#ds				
+matukar	manub	0060	aben	place	np:l	np		l	4007	
+matukar	manub	0060	wai	like	adp	adp				
+matukar	manub	0060	ZERO	ZERO	0.1:s	0	1	s	4005	
+matukar	manub	0060	ng-	1SG.S-	-pro_1_s	-pro_1_s			4005	
+matukar	manub	0060	aip-ado	look-R:D	v:pred	v		pred		
+matukar	manub	0060	%	%	%	%				
+matukar	manub	0060	#	#	#ds	#ds				
+matukar	manub	0060	ZERO	ZERO	0.1:s	0	1	s	4005	
+matukar	manub	0060	nga-	1SG.S-	-pro_1_s	-pro_1_s			4005	
+matukar	manub	0060	tor-e	go.around-R:I:PFV	v:pred	v		pred		
+matukar	manub	0060	%	%	%	%				
+matukar	manub	0061	#	#	#ds	#ds				
+matukar	manub	0061	do	CONJ	other	other				
+matukar	manub	0061	mana	there	other:l	other		l		
+matukar	manub	0061	ZERO	ZERO	0.1:s	0	1	s	4005	
+matukar	manub	0061	nga-	1SG.S-	-pro_1_s	-pro_1_s			4005	
+matukar	manub	0061	so-nge	come-SEQ:D	v:pred	v		pred		
+matukar	manub	0061	%	%	%	%				
+matukar	manub	0061	#	#	#ds	#ds				
+matukar	manub	0061	ha-m	POSS-2SG	ln_pro.2:poss	ln_pro	2	poss	4013	
+matukar	manub	0061	yau	fire	ln	ln				
+matukar	manub	0061	kas	smoke	np:p	np		p	4009	
+matukar	manub	0061	ZERO	ZERO	0.h:a	0	h	a	4005	
+matukar	manub	0061	ngai-	1SG.A-	-pro_1_a	-pro_1_a			4005	
+matukar	manub	0061	tenge	te-SEQ:D	v:pred	v		pred		
+matukar	manub	0061	%	%	%	%				
+matukar	manub	0061	#	#	#ds	#ds				
+matukar	manub	0061	ZERO	ZERO	0.1:s	0	1	s	4005	
+matukar	manub	0061	nga-	1SG.S-	-pro_1_s	-pro_1_s			4005	
+matukar	manub	0061	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0061	%	%	%	%				
+matukar	manub	0062	#	#	#	#				
+matukar	manub	0062	do	CONJ	other	other				
+matukar	manub	0063	i	3SG.S	pro.h:s_ds	pro	h	s_ds	4005	
+matukar	manub	0063	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	manub	0063	%	%	%	%				
+matukar	manub	0063	#	#	#ds	#ds				
+matukar	manub	0063	ngau	1SG.S	pro.1:s	pro	1	s	4005	
+matukar	manub	0063	maniya	here-FOC	other:l	other		l	4015	
+matukar	manub	0063	nga-	1SG.S-	-pro_1_s	-pro_1_s			4005	
+matukar	manub	0063	mado-nggokai	sit-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	manub	0063	%	%	%	%				
+matukar	manub	0064	#	#	#	#				
+matukar	manub	0064	ZERO	ZERO	0.h:s	0	h	s	4019	
+matukar	manub	0064	di-	3PL.S-	-pro_h_s	-pro_h_s			4019	
+matukar	manub	0064	mado-ndo	sit-R:D	v:pred	v		pred		
+matukar	manub	0064	%	%	%	%				
+matukar	manub	0064	#	#	#	#				
+matukar	manub	0064	ZERO	ZERO	0.h:s	0	h	s	4019	
+matukar	manub	0064	di-	3PL.S-	-pro_h_s	-pro_h_s			4019	
+matukar	manub	0064	gamuk-ado	talk-R:D	v:pred	v		pred		
+matukar	manub	0064	%	%	%	%				
+matukar	manub	0064	#	#	#	#				
+matukar	manub	0064	ZERO	ZERO	0.h:s	0	h	s	4019	
+matukar	manub	0064	di-	3PL.S-	-pro_h_s	-pro_h_s			4019	
+matukar	manub	0064	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	manub	0064	%	%	%	%				
+matukar	manub	0065	#	#	#	#				
+matukar	manub	0065	tamat	man	np.h:a_ds	np	h	a_ds	4005	
+matukar	manub	0065	main	TOP	rn	rn				
+matukar	manub	0065	ZERO	ZERO	np.h:p	np	h	p	4013	
+matukar	manub	0065	painge	cross-R:I:PFV	v:pred	v		pred		
+matukar	manub	0065	%	%	%	%				
+matukar	manub	0066	#	#	#ds	#ds				
+matukar	manub	0066	ong	2SG.S	pro.2:s	pro	2	s	4013	
+matukar	manub	0066	mani	here	other:l	other		l	4015	
+matukar	manub	0066	mado-ndop	sit-IRR:D	v:pred	v		pred		
+matukar	manub	0066	%	%	%	%				
+matukar	manub	0067	#	#	#ds	#ds				
+matukar	manub	0067	ngau	1SG.S	pro.1:s	pro	1	s	4005	
+matukar	manub	0067	nga-	1SG.S-	-pro_1_s	-pro_1_s			4005	
+matukar	manub	0067	si-la-p	descend-DIR_away-IRR:D	v:pred	v		pred		
+matukar	manub	0067	%	%	%	%				
+matukar	manub	0068	#	#	#ds	#ds				
+matukar	manub	0068	nga-ha-u	1SG-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	4005	
+matukar	manub	0068	wag	canoe	np:p	np		p	4010	
+matukar	manub	0068	ZERO	ZERO	0.1:a	0	1	a	4005	
+matukar	manub	0068	nga-	1SG.A-	-pro_1_a	-pro_1_a			4005	
+matukar	manub	0068	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	manub	0068	o	or	other	other				
+matukar	manub	0068	tini-n	opposite.side-3SG	np:l	np		l	4032	new
+matukar	manub	0068	mogwa	like.that-in.regard.to	other	other				
+matukar	manub	0068	%	%	%	%				
+matukar	manub	0069	#	#	#ds	#ds				
+matukar	manub	0069	ZERO	ZERO	0.1:s	0	1	s	4005	
+matukar	manub	0069	ng-	1SG.S-	-pro_1_s	-pro_1_s			4005	
+matukar	manub	0069	a-p	go-IRR:D	v:pred	v		pred		
+matukar	manub	0069	%	%	%	%				
+matukar	manub	0069	#	#	#ds	#ds				
+matukar	manub	0069	abang	place	np:p	np		p	4020	new
+matukar	manub	0069	ZERO	1SG.S	0.1:a	0	1	a	4005	
+matukar	manub	0069	ngai-	1SG.S-	-pro_1_a	-pro_1_a			4005	
+matukar	manub	0069	te-mba	see-IRR:I	v:pred	v		pred		
+matukar	manub	0069	%	%	%	%				
+matukar	manub	0070	#	#	#	#				
+matukar	manub	0070	nal	time	np:other	np		other		
+matukar	manub	0070	ida	with	adp	adp				
+matukar	manub	0070	ZERO	ZERO	0.h:s	0	h	s	4019	
+matukar	manub	0070	di-	3PL.S-	-pro_h_s	-pro_h_s			4019	
+matukar	manub	0070	mado-ndo	sit-R:D	v:pred	v		pred		
+matukar	manub	0070	%	%	%	%				
+matukar	manub	0071	#	#	#	#				
+matukar	manub	0071	nal	time	np:other	np		other		
+matukar	manub	0071	malain	long	rn	rn				
+matukar	manub	0071	kasik	INTSF	rn	rn				
+matukar	manub	0072	di-	3PL.S-	-pro_h_s	-pro_h_s			4019	
+matukar	manub	0072	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	manub	0072	%	%	%	%				
+matukar	manub	0072	#	#	#	#				
+matukar	manub	0072	tawa-n	elder.brother-3SG	np.h:dt	np	h	dt	4004	
+matukar	manub	0072	dabok	big	rn	rn				
+matukar	manub	0073	#	#	#ac	#ac				
+matukar	manub	0073	tai-n	younger.sibling-3SG	np.h:s	np	h	s	4005	
+matukar	manub	0073	natu-n	small	rn	rn				
+matukar	manub	0073	main	TOP	rn	rn				
+matukar	manub	0074	y-	3SG.S-	-pro_h_s	-pro_h_s			4005	
+matukar	manub	0074	ep-ado	look-R:D	v:pred	v		pred		
+matukar	manub	0074	%	%	%	%				
+matukar	manub	0074	ZERO	ZERO	0.h:s	0	h	s	4004	
+matukar	manub	0074	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	manub	0074	%	%	%	%				
+matukar	manub	0075	#	#	#	#				
+matukar	manub	0075	aben	place	np:p	np		p		
+matukar	manub	0075	ZERO	ZERO	0.h:a	0	h	a	4004	
+matukar	manub	0075	y-	3SG.S-	-pro_h_s	-pro_h_s			4004	
+matukar	manub	0075	abi-ndo	hold-R:D	v:pred	v		pred		
+matukar	manub	0075	%	%	%	%				
+matukar	manub	0076	#	#	#	#				
+matukar	manub	0076	ZERO	ZERO	0.h:s	0	h	s	4004	
+matukar	manub	0076	so-nge	come-SEQ:D	v:pred	v		pred		
+matukar	manub	0076	%	%	%	%				
+matukar	manub	0076	#	#	#	#				
+matukar	manub	0076	ZERO	ZERO	0.h:s	0	h	s	4004	
+matukar	manub	0076	so-nge	come-SEQ:D	v:pred	v		pred		
+matukar	manub	0076	%	%	%	%				
+matukar	manub	0076	#	#	#	#				
+matukar	manub	0076	ZERO	ZERO	0.h:s	0	h	s	4004	
+matukar	manub	0076	so-nge	come-SEQ:D	v:pred	v		pred		
+matukar	manub	0076	mana	there	other:g	other		g		
+matukar	manub	0076	%	%	%	%				
+matukar	manub	0077	#	#	#	#				
+matukar	manub	0077	kutur	Kutur	ln_pn_np	ln_pn_np			4008	
+matukar	manub	0077	ha-n	POSS-3SG	ln	ln				
+matukar	manub	0077	lul-te-mok	beach-LOC-INTSF	np:l	np		l	4011	
+matukar	manub	0078	mana	there	other:l	other		l		
+matukar	manub	0078	yau	fire	ln	ln				
+matukar	manub	0078	kas	smoke	np:p	np		p	4009	
+matukar	manub	0078	ZERO	ZERO	0.h:a	0	h	a	4004	
+matukar	manub	0078	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	manub	0078	%	%	%	%				
+matukar	manub	0079	#	#	#	#				
+matukar	manub	0079	do	CONJ	other	other				
+matukar	manub	0080	i	3SG.S	pro.h:s_ds	pro	h	s_ds	4004	
+matukar	manub	0080	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	manub	0080	%	%	%	%				
+matukar	manub	0081	#	#	#ds	#ds				
+matukar	manub	0081	eh	DISFLUENCY	other	other				
+matukar	manub	0081	ngau	1SG	ln_pro.1	ln_pro	1		4004	
+matukar	manub	0082	te-u	younger.sibling-1SG	np.h:s	np	h	s	4005	
+matukar	manub	0082	natu-n	small-3SG	rn	rn				
+matukar	manub	0082	mani	here	other:l	other		l		
+matukar	manub	0082	mado-nggo	exist-R:I:IMPV	v:pred	v		pred		
+matukar	manub	0082	%	%	%	%				
+matukar	manub	0083	#	#	#	#				
+matukar	manub	0083	tai	DUB	other	other				
+matukar	manub	0083	managenga	like.that-FOC	other	other				
+matukar	manub	0083	ha-n	POSS-3SG	ln	ln				
+matukar	manub	0083	yau	fire	ln	ln				
+matukar	manub	0083	kas-ama-n	smoke-APS-3SG	np:s	np		s	4009	
+matukar	manub	0084	meis-do	rise-R:D	v:pred	v		pred		
+matukar	manub	0084	%	%	%	%				
+matukar	manub	0084	#	#	#	#				
+matukar	manub	0084	ZERO	ZERO	0:s	0		s	4009	
+matukar	manub	0084	y-	3SG.S-	-pro_s	-pro_s			4009	
+matukar	manub	0084	en-ago	stay-R:I:IMPV	v:pred	v		pred		
+matukar	manub	0084	%	%	%	%				
+matukar	manub	0085	#	#	#	#				
+matukar	manub	0085	do	CONJ	other	other				
+matukar	manub	0085	i	3SG.S	pro.h:s	pro	h	s	4004	
+matukar	manub	0085	si-nge	descend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0085	%	%	%	%				
+matukar	manub	0086	#	#	#	#				
+matukar	manub	0086	i	3SG.S	pro.h:s	pro	h	s	4004	
+matukar	manub	0086	si-nge	descend-SEQ:D	v:pred	v		pred		
+matukar	manub	0086	%	%	%	%				
+matukar	manub	0086	#	#	#	#				
+matukar	manub	0086	mana	there	other:l	other		l		
+matukar	manub	0086	wag	canoe	np:p	np		p	4010	
+matukar	manub	0086	i	3SG.A	pro.h:a	pro	h	a	4004	
+matukar	manub	0086	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	manub	0087	wag	canoe	ln	ln				
+matukar	manub	0087	nau-n	face-3SG	np:appos	np		appos	4010	
+matukar	manub	0087	%	%	%	%				
+matukar	manub	0088	#	#	#	#				
+matukar	manub	0088	milo	something	np:p	np		p	4021	new
+matukar	manub	0088	milo	something	rn	rn				
+matukar	manub	0088	ZERO	ZERO	pro.h:a	pro	h	a	4004	
+matukar	manub	0088	te-nge	see-SEQ:D	v:pred	v		pred		
+matukar	manub	0088	%	%	%	%				
+matukar	manub	0088	#	#	#	#				
+matukar	manub	0088	na	CONJ	other	other				
+matukar	manub	0088	i	3SG.S	pro.h:s_ds	pro	h	s_ds	4004	
+matukar	manub	0088	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	manub	0088	%	%	%	%				
+matukar	manub	0088	#	#	#ds	#ds				
+matukar	manub	0088	o	VOC	other	other				
+matukar	manub	0089	main-a	PROX-FOC	ln	ln				
+matukar	manub	0089	te-u	younger.sibling-1SG	np.h:s	np	h	s	4005	
+matukar	manub	0089	natu-n	small-3SG	rn	rn				
+matukar	manub	0089	mado-nggo	exist-R:I:IMPV	v:pred	v		pred		
+matukar	manub	0089	tai	DUB	other	other				
+matukar	manub	0089	%	%	%	%				
+matukar	manub	0089	#	#	#	#				
+matukar	manub	0089	i	3SG.S	pro.h:s	pro	h	s	4004	
+matukar	manub	0089	bal-do	say-R:D	v:pred	v		pred		
+matukar	manub	0089	%	%	%	%				
+matukar	manub	0090	#	#	#	#				
+matukar	manub	0090	do	CONJ	other	other				
+matukar	manub	0090	i	3SG.S	pro.h:s	pro	h	s	4004	
+matukar	manub	0090	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0090	%	%	%	%				
+matukar	manub	0091	#	#	#	#				
+matukar	manub	0091	i	3SG.S	pro.h:s	pro	h	s	4004	
+matukar	manub	0091	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0091	%	%	%	%				
+matukar	manub	0092	#	#	#	#				
+matukar	manub	0092	ZERO	ZERO	0.h:a	0	h	a	4004	
+matukar	manub	0092	ha-n	POSS-3SG	ln	ln				
+matukar	manub	0092	wag	canoe	np:p	np		p	4022	new
+matukar	manub	0092	rai-das-e	pull-DIR_ascend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0092	lul-te	beach-LOC	np:l	np		l	4011	
+matukar	manub	0092	mana	there	other	other				
+matukar	manub	0092	%	%	%	%				
+matukar	manub	0093	#	#	#	#				
+matukar	manub	0093	do	CONJ	other	other				
+matukar	manub	0093	i	3SG.S	pro.h:s	pro	h	s	4004	
+matukar	manub	0093	sa-nge	ascend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0093	%	%	%	%				
+matukar	manub	0094	#	#	#	#				
+matukar	manub	0094	tei-n	younger.brother-3SG	np.h:s	np	h	s	4005	
+matukar	manub	0094	natu-n	small-3SG	rn	rn				
+matukar	manub	0094	mado-ndo	sit-R:D	v:pred	v		pred		
+matukar	manub	0094	pain	woman	np.h:obl	np	h	obl	4013	
+matukar	manub	0094	main	TOP	rn	rn				
+matukar	manub	0094	ida	with	adp	adp				
+matukar	manub	0094	%	%	%	%				
+matukar	manub	0095	#	#	#	#				
+matukar	manub	0095	ZERO	ZERO	0.h:s	0	h	s	4019	
+matukar	manub	0095	di-	3PL.S-	-pro_h_s	-pro_h_s			4019	
+matukar	manub	0095	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	manub	0095	%	%	%	%				
+matukar	manub	0095	#	#	#	#				
+matukar	manub	0095	ZERO	ZERO	0.h:a	0	h	a	4004	
+matukar	manub	0095	ZERO	ZERO	0.h:p	0	h	p	4019	
+matukar	manub	0095	manag	like.that	other	other				
+matukar	manub	0095	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	manub	0095	%	%	%	%				
+matukar	manub	0096	#	#	#	#				
+matukar	manub	0096	do	CONJ	other	other				
+matukar	manub	0096	i	3SG.A	pro.h:a_ds	pro	h	a_ds	4004	
+matukar	manub	0096	ZERO	ZERO	0.h:g	0	h	g	4005	
+matukar	manub	0096	tuli	say	v:pred	v		pred		
+matukar	manub	0096	pan	give	rv	rv				
+matukar	manub	0096	-i	-3SG.R	-pro_h_g	-pro_h_g			4005	
+matukar	manub	0096	-nge	-R:I:PFV	-rv	-rv				
+matukar	manub	0096	%	%	%	%				
+matukar	manub	0097	#	#	#ds	#ds				
+matukar	manub	0097	ong	2SG.S	pro.2:s	pro	2	s	4005	
+matukar	manub	0097	mani	here	other	other				
+matukar	manub	0097	mado	sit	v:pred	v		pred		
+matukar	manub	0097	%	%	%	%				
+matukar	manub	0098	#	#	#ds	#ds				
+matukar	manub	0098	ngau	1SG.S	pro.1:s	pro	1	s	4004	
+matukar	manub	0098	nga-	1SG.S-	-pro_1_s	-pro_1_s			4004	
+matukar	manub	0098	pid-ap	descend-IRR:D	v:pred	v		pred		
+matukar	manub	0098	%	%	%	%				
+matukar	manub	0099	#	#	#ds	#ds				
+matukar	manub	0099	manig	like.this	other	other				
+matukar	manub	0099	wai	like	adp	adp				
+matukar	manub	0099	ZERO	ZERO	0.1:s	0	1	s	4004	
+matukar	manub	0099	ng-	1SG.S-	-pro_1_s	-pro_1_s			4004	
+matukar	manub	0099	a-ba	go-I:IRR	v:pred	v		pred		
+matukar	manub	0099	%	%	%	%				
+matukar	manub	0100	#	#	#ds	#ds				
+matukar	manub	0100	ZERO	ZERO	pro.1:s	pro	1	s	4004	
+matukar	manub	0100	ng-	1SG.S-	-pro_1_s	-pro_1_s			4004	
+matukar	manub	0100	a-p	go-IRR:D	v:pred	v		pred		
+matukar	manub	0100	%	%	%	%				
+matukar	manub	0100	#	#	#ds	#ds				
+matukar	manub	0100	ZERO	ZERO	pro.1:a	pro	1	a		
+matukar	manub	0100	abang	place	np:p	np		p	4020	
+matukar	manub	0100	ngai-	1SG.A-	-pro_1_a	-pro_1_a			4004	
+matukar	manub	0100	te-mba	see-I:IRR	v:pred	v		pred		
+matukar	manub	0100	%	%	%	%				
+matukar	manub	0101	#	#	#	#				
+matukar	manub	0101	do	CONJ	other	other				
+matukar	manub	0101	i	3SG.S	pro.h:s	pro	h	s	4004	
+matukar	manub	0101	pid-e	descend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0101	%	%	%	%				
+matukar	manub	0102	#	#	#	#				
+matukar	manub	0102	i	3SG.S	pro.h:s	pro	h	s	4004	
+matukar	manub	0102	si-la-nge	descend-DIR_away-SEQ:D	v:pred	v		pred		
+matukar	manub	0102	%	%	%	%				
+matukar	manub	0102	#	#	#	#				
+matukar	manub	0102	wag	canoe	np:p	np		p	4022	
+matukar	manub	0102	ZERO	ZERO	0.h:a	0	h	a	4004	
+matukar	manub	0102	rai-nge	pull-R:I:PFV	v:pred	v		pred		
+matukar	manub	0102	%	%	%	%				
+matukar	manub	0103	#	#	#	#				
+matukar	manub	0103	ZERO	ZERO	0.h:s	0	h	s	4004	
+matukar	manub	0103	halaipid-e	go.out-SEQ:D	v:pred	v		pred		
+matukar	manub	0103	%	%	%	%				
+matukar	manub	0103	#	#	#	#				
+matukar	manub	0103	ZERO	ZERO	0.h:s	0	h	s	4004	
+matukar	manub	0103	y-	3SG.S-	-pro_h_s	-pro_h_s			4004	
+matukar	manub	0103	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	manub	0103	%	%	%	%				
+matukar	manub	0104	#	#	#	#				
+matukar	manub	0104	o	or	other	other				
+matukar	manub	0104	mog-wai	like.that-in.regard.to	other	other				
+matukar	manub	0104	burar-i	Burar-LOC	pn_np:dt_g	pn_np		dt_g	4023	unused
+matukar	manub	0104	wai	like	adp	adp				
+matukar	manub	0105	duwei	Duwei	pn_np:g	pn_np		g	4024	unused
+matukar	manub	0105	ilonlo	inside-3SG-LOC	rn	rn				
+matukar	manub	0105	wai	like	adp	adp				
+matukar	manub	0105	ZERO	ZERO	0.h:s	0	h	s	4004	
+matukar	manub	0105	y-	3SG.S-	-pro_h_s	-pro_h_s			4004	
+matukar	manub	0105	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	manub	0105	%	%	%	%				
+matukar	manub	0106	#	#	#	#				
+matukar	manub	0106	manag	like.that	other	other				
+matukar	manub	0107	ZERO	ZERO	0.h:a	0	h	a	4004	
+matukar	manub	0107	malal	village	np:p	np		p	4033	new
+matukar	manub	0107	te-ndo	see-R:D	v:pred	v		pred		
+matukar	manub	0107	%	%	%	%				
+matukar	manub	0108	#	#	#	#				
+matukar	manub	0108	ZERO	ZERO	0.h:a	0	h	a	4004	
+matukar	manub	0108	malal	malal	np:p	np		p	4033	
+matukar	manub	0108	kabin	consider	v:pred	v		pred		
+matukar	manub	0108	-i	-3SG.P	-pro_p	-pro_p			4033	
+matukar	manub	0108	-ndo	-R:D	-rv	-rv				
+matukar	manub	0108	%	%	%	%				
+matukar	manub	0109	#	#	#	#				
+matukar	manub	0109	ZERO	ZERO	0.h:s	0	h	s	4004	
+matukar	manub	0109	y-	3SG.S-	-pro_h_s	-pro_h_s			4004	
+matukar	manub	0109	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	manub	0109	%	%	%	%				
+matukar	manub	0109	#	#	#	#				
+matukar	manub	0109	mana	there	other:l	other		l	4033	
+matukar	manub	0109	ZERO	ZERO	0.h:s	0	h	s	4004	
+matukar	manub	0109	tor-do	go.around-R:D	v:pred	v		pred		
+matukar	manub	0109	%	%	%	%				
+matukar	manub	0110	#	#	#	#				
+matukar	manub	0110	i	3SG.S	pro.h:s	pro	h	s	4004	
+matukar	manub	0110	mul-e	return-R:I:PFV	v:pred	v		pred		
+matukar	manub	0110	%	%	%	%				
+matukar	manub	0111	#	#	#	#				
+matukar	manub	0111	i	3SG.S	pro.h:s	pro	h	s	4004	
+matukar	manub	0111	mul-e	return-SEQ:D	v:pred	v		pred		
+matukar	manub	0111	%	%	%	%				
+matukar	manub	0112	#	#	#	#				
+matukar	manub	0112	nub	water	ln	ln				
+matukar	manub	0112	awa-n	mouth-3SG	np:p	np		p	4025	bridging
+matukar	manub	0112	ZERO	ZERO	0.h:a	0	h	a	4004	
+matukar	manub	0112	te-nge	te-R:I:PFV	v:pred	v		pred		
+matukar	manub	0113	burar	Burar	pn_np:l	pn_np		l	4023	
+matukar	manub	0113	%	%	%	%				
+matukar	manub	0114	#	#	#	#				
+matukar	manub	0114	do	CONJ	other	other				
+matukar	manub	0114	i	3SG.S	pro.h:s_ds	pro	h	s_ds	4004	
+matukar	manub	0114	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	manub	0114	%	%	%	%				
+matukar	manub	0114	#	#	#ds	#ds				
+matukar	manub	0114	o	VOC	other	other				
+matukar	manub	0115	main	PROX	dem_pro:s	dem_pro		s	4023	
+matukar	manub	0115	abang	place	np:pred	np		pred		
+matukar	manub	0115	uyan-amok	good-INTSF	rn	rn				
+matukar	manub	0115	%	%	%	%				
+matukar	manub	0116	#	#	#	#				
+matukar	manub	0116	do	CONJ	other	other				
+matukar	manub	0116	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	4004	
+matukar	manub	0116	wag	canoe	np:p	np		p	4021	
+matukar	manub	0116	ZERO	ZERO	0.h:a	0	h	a	4004	
+matukar	manub	0116	rai-das-e	pull-DIR_ascend-R:I:PFV	v:pred	v		pred		
+matukar	manub	0116	%	%	%	%				
+matukar	manub	0117	#	#	#	#				
+matukar	manub	0117	lul	beach	np:p	np		p	4011	
+matukar	manub	0117	i	3SG.A	pro.h:a	pro	h	a	4004	
+matukar	manub	0117	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	manub	0117	%	%	%	%				
+matukar	manub	0118	#	#	#	#				
+matukar	manub	0118	garang	jungle	np:p	np		p	4026	new
+matukar	manub	0118	i	3SG.A	pro.h:a	pro	h	a	4004	
+matukar	manub	0118	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	manub	0118	%	%	%	%				
+matukar	manub	0119	#	#	#	#				
+matukar	manub	0119	nub	water	np:p	np		p	4027	new
+matukar	manub	0119	i	3SG.A	pro.h:a	pro	h	a	4004	
+matukar	manub	0119	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	manub	0119	%	%	%	%				
+matukar	manub	0120	#	#	#	#				
+matukar	manub	0120	gew	mud	np:p	np		p	4028	new
+matukar	manub	0120	milo	something	rn_np	rn_np			4029	new
+matukar	manub	0120	milo	something	rn	rn				
+matukar	manub	0120	abang	area	rn_np	rn_np			4033	
+matukar	manub	0120	ZERO	ZERO	0.h:a	0	h	a	4004	
+matukar	manub	0120	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	manub	0120	%	%	%	%				
+matukar	manub	0121	#	#	#	#				
+matukar	manub	0121	do	CONJ	other	other				
+matukar	manub	0121	i	3SG.S	pro.h:s_ds	pro	h	s_ds	4004	
+matukar	manub	0121	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	manub	0121	%	%	%	%				
+matukar	manub	0121	#	#	#	#				
+matukar	manub	0121	main	PROX	dem_pro:s	dem_pro		s	4033	
+matukar	manub	0121	uyan-amok	good-INTSF	np:pred	np		pred		
+matukar	manub	0121	%	%	%	%				
+matukar	manub	0122	#	#	#ds	#ds				
+matukar	manub	0122	ngau	1SG.S	pro.1:s	pro	1	s	4004	
+matukar	manub	0122	mani	here	other:l	other		l	4033	
+matukar	manub	0122	nga-	1SG.S-	-pro_1_s	-pro_1_s			4004	
+matukar	manub	0122	mado-mba	stay-I:IRR	v:pred	v		pred		
+matukar	manub	0122	%	%	%	%				
+matukar	manub	0123	#	#	#ds	#ds				
+matukar	manub	0123	do	CONJ	other	other				
+matukar	manub	0123	teiu	younger.sibling-1SG	np.h:s	np	h	s	4005	
+matukar	manub	0123	natu-n	small-3SG	rn	rn				
+matukar	manub	0123	mogwai	like.that-in.regard.to	other	other				
+matukar	manub	0123	mado-mba	stay-I:IRR	v:pred	v		pred		
+matukar	manub	0124	kuturte	Kutur-te	pn_np:l	pn_np		l	4008	
+matukar	manub	0124	wai	like	adp	adp				
+matukar	manub	0124	%	%	%	%				
+matukar	manub	0125	#	#	#	#				
+matukar	manub	0125	do	CONJ	other	other				
+matukar	manub	0126	mana	there	other:l	other		l	4033	
+matukar	manub	0126	ZERO	ZERO	0.h:s	0	h	s	4004	
+matukar	manub	0126	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	manub	0126	%	%	%	%				
+matukar	manub	0127	#	#	#	#				
+matukar	manub	0127	mana	there	other:l	other		l	4033	
+matukar	manub	0127	ZERO	ZERO	0.h:s	0	h	s	4004	
+matukar	manub	0127	mado-nge	stay-SEQ:D	v:pred	v		pred		
+matukar	manub	0127	%	%	%	%				
+matukar	manub	0128	#	#	#	#				
+matukar	manub	0128	tai-n	younger.sibling-3SG	np.h:s	np	h	s	4005	
+matukar	manub	0128	natu-n	small-3SG	rn	rn				
+matukar	manub	0128	mani	here	other:l	other		l	4008	
+matukar	manub	0128	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	manub	0128	%	%	%	%				
+matukar	manub	0129	#	#	#	#				
+matukar	manub	0129	do	CONJ	other	other				
+matukar	manub	0130	milo-k	something-NOM	other	other				
+matukar	manub	0131	dador	Dador	pn_np.h:p	pn_np	h	p	4013	
+matukar	manub	0131	ZERO	ZERO	0.h:a	0	h	a	4005	
+matukar	manub	0131	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	manub	0131	%	%	%	%				
+matukar	manub	0132	#	#	#	#				
+matukar	manub	0132	ida	with	other	other				
+matukar	manub	0132	ZERO	ZERO	0.h:s	0	h	s	4006	
+matukar	manub	0132	di-	3PL.S-	-pro_h_s	-pro_h_s			4006	
+matukar	manub	0132	mado-nge	live-SEQ:D	v:pred	v		pred		
+matukar	manub	0132	%	%	%	%				
+matukar	manub	0133	#	#	#	#				
+matukar	manub	0133	ilo-n-anen	inside-3PL	other	other				
+matukar	manub	0134	gauni	today	other	other				
+matukar	manub	0134	ZERO	ZERO	0.1:s	0	1	s	4034	new
+matukar	manub	0134	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			4034	
+matukar	manub	0134	mado-nggo	live-R:I:IMPV	v:pred	v		pred		
+matukar	manub	0134	%	%	%	%				
+matukar	manub	0135	#	#	#	#				
+matukar	manub	0135	ngam	1PL.EXCL.S	pro.1:s	pro	1	s	4034	
+matukar	manub	0135	femeli	family_(TPI)	np:pred	np		pred		
+matukar	manub	0135	%	%	%	%				
+matukar	manub	0136	#	#	#	#				
+matukar	manub	0136	do	CONJ	other	other				
+matukar	manub	0137	tawa-n	elder.brother-3SG	np.h:s	np	h	s	4004	
+matukar	manub	0137	dabok	big	rn	rn				
+matukar	manub	0138	y-	3SG.S-	-pro_h_s	-pro_h_s			4004	
+matukar	manub	0138	au-we	go-SEQ:D	v:pred	v		pred		
+matukar	manub	0138	mogwai	like.that-in.regard.to	other	other				
+matukar	manub	0138	%	%	%	%				
+matukar	manub	0139	#	#	#	#				
+matukar	manub	0139	ZERO	ZERO	0.h:s	0	h	s	4004	
+matukar	manub	0139	mado-nggo	stay-R:I:IMPV	v:pred	v		pred		
+matukar	manub	0139	%	%	%	%				
+matukar	manub	0139	#	#	#	#				
+matukar	manub	0139	main	PROX	ln	ln				
+matukar	manub	0139	gauni	today	other	other				
+matukar	manub	0139	femeli	family_(TPI)	np.h:s	np	h	s	4030	new
+matukar	manub	0139	bantibun	Bantibun	pn_np:l	pn_np		l	4031	unused
+matukar	manub	0139	wai	like	adp	adp				
+matukar	manub	0139	di-	3PL.S-	-pro_h_s	-pro_h_s			4030	
+matukar	manub	0139	mado-nggo	sit-R:I:IMPV	v:pred	v		pred		
+matukar	manub	0139	%	%	%	%				
+matukar	manub	0140	#	#	#	#				
+matukar	manub	0140	manage	like.that	other	other				
+matukar	manub	0140	mogwai	like.that-in.regard.to	other	other				
+matukar	manub	0140	femeli	family_(TPI)	np.h:s	np	h	s	4030	
+matukar	manub	0140	monangan	DIST-FOC	other	other				
+matukar	manub	0141	main	PROX	dem_pro.h:appos	dem_pro	h	appos	4030	
+matukar	manub	0141	uyauya	big-big.REDUP	np:pred	np		pred		
+matukar	manub	0141	%	%	%	%				
+matukar	manub	0141	#	#	#	#				
+matukar	manub	0141	do	CONJ	other	other				
+matukar	manub	0141	ngam	1PL.EXCL.S	pro.1:s	pro	1	s	4034	
+matukar	manub	0141	natu-n (check)	small-3SG	np:pred	np		pred		
+matukar	manub	0141	%	%	%	%				
+matukar	manub	0142	#	#	#	#				
+matukar	manub	0142	main	PROX	dem_pro:s	dem_pro		s	4001	
+matukar	manub	0142	nang-amok	language-INTSF	np:pred	np		pred		
+matukar	manub	0142	%	%	%	%				
+matukar	manub	0143	#	#	#	#				
+matukar	manub	0143	wagam	traditional.story	np:s	np		s	4001	
+matukar	manub	0143	main	TOP	rn	rn				
+matukar	manub	0143	managamok	like.that-INTSF	other:pred	other		pred		
+matukar	manub	0143	%	%	%	%				
+matukar	manub	0144	#	#	#	#				
+matukar	manub	0144	uyanamok	good-INTSF	other:pred	other		pred		
+matukar	manub	0144	%	%	%	%				

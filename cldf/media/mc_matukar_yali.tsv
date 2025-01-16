@@ -1,0 +1,2045 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
+matukar	yali	0001	#	#	#	#				
+matukar	yali	0001	ngau	1SG.S	ln_pro.1:dt	ln_pro	1	dt	8001	new
+matukar	yali	0001	nging	name	np:s	np		s	8002	new
+matukar	yali	0001	-au	-1SG	-rn_pro.1:poss	-rn_pro	1	poss	8001	
+matukar	yali	0001	kadagoi	Kadogai	pn_np:pred	pn_np		pred		
+matukar	yali	0001	ai	COP	cop	cop				
+matukar	yali	0001	%	%	%	%				
+matukar	yali	0002	#	#	#	#				
+matukar	yali	0002	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	8001	
+matukar	yali	0002	nen	mom	np.h:s	np	h	s	8003	new
+matukar	yali	0002	yoidig	Yolding_(village)	ln_pn_np	ln_pn_np				
+matukar	yali	0002	pain	woman	np.h:pred	np	h	pred		
+matukar	yali	0002	%	%	%	%				
+matukar	yali	0003	#	#	#	#				
+matukar	yali	0003	i	3SG.S	pro.h:s	pro	h	s	8003	
+matukar	yali	0003	si-nge	descend-R:I:PFV	v:pred	v		pred		
+matukar	yali	0003	malal	village	np:g	np		g	8004	new
+matukar	yali	0003	ning-an	name-3SG	rn	rn				
+matukar	yali	0003	Matugar-a	Matugar-LOC	rn_pn_np	rn_pn_np				
+matukar	yali	0003	%	%	%	%				
+matukar	yali	0004	#	#	#	#				
+matukar	yali	0004	tamat	man	np.h:p	np	h	p	8005	new
+matukar	yali	0004	ZERO	ZERO	0.h:a	0	h	a	8003	
+matukar	yali	0004	ngale-nge	marry-R:I:PFV	v:pred	v		pred		
+matukar	yali	0004	%	%	%	%				
+matukar	yali	0005	#	#	#	#				
+matukar	yali	0005	do	and	other	other				
+matukar	yali	0005	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	8001	
+matukar	yali	0005	nen	mom	np.h:a	np	h	a	8003	
+matukar	yali	0005	ZERO	ZERO	0.h:p	0	h	p	8001	
+matukar	yali	0005	nage	give.birth	v:pred	v		pred		
+matukar	yali	0005	-yau	-1SG.P	-pro_1_p	-pro_1_p			8001	
+matukar	yali	0005	-we	-R:D	-rv	-rv				
+matukar	yali	0005	%	%	%	%				
+matukar	yali	0005	#	#	#	#				
+matukar	yali	0005	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0005	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0005	dabok-e	big-R:I:PFV	v:pred	v		pred		
+matukar	yali	0005	%	%	%	%				
+matukar	yali	0006	#	#	#	#				
+matukar	yali	0006	do	and	other	other				
+matukar	yali	0006	sule-lo	school-LOC_in	np:g	np		g	8006	new
+matukar	yali	0006	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0006	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0006	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	yali	0006	%	%	%	%				
+matukar	yali	0006	#	#	#	#				
+matukar	yali	0006	sule-lo	school-LOC_in	np:g	np		g	8006	
+matukar	yali	0006	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0006	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0006	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	yali	0006	%	%	%	%				
+matukar	yali	0006	#	#	#	#				
+matukar	yali	0006	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0006	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0006	tor-do	walk-R:D	v:pred	v		pred		
+matukar	yali	0006	%	%	%	%				
+matukar	yali	0006	#	#	#	#				
+matukar	yali	0006	bunu	Bunu	nc	nc				
+matukar	yali	0006	tamat	man	nc	nc				
+matukar	yali	0007	sugar	sugar	ln	ln				
+matukar	yali	0007	tamat	man	np.h:a	np	h	a	8007	new
+matukar	yali	0008	ZERO	ZERO	0.1:p	0	1	p	8001	
+matukar	yali	0008	ngale	marry	v:pred	v		pred		
+matukar	yali	0008	-ya	-1.S.P	-pro_1_p	-pro_1_p			8001	
+matukar	yali	0008	-we	-SEQ:D	-rv	-rv				
+matukar	yali	0008	%	%	%	%				
+matukar	yali	0009	#	#	#	#				
+matukar	yali	0009	ida	with	other	other				
+matukar	yali	0009	ZERO	ZERO	0.1:s	0	1	s	8008	bridging
+matukar	yali	0009	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8008	
+matukar	yali	0009	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	yali	0009	%	%	%	%				
+matukar	yali	0009	#	#	#	#				
+matukar	yali	0009	aipainim	girls	np.h:p	np	h	p	8009	new
+matukar	yali	0009	tol	three	rn	rn				
+matukar	yali	0009	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0009	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0009	nage	give.birth	v:pred	v		pred		
+matukar	yali	0009	-din	-3PL.P	-pro_h_p	-pro_h_p			8009	
+matukar	yali	0009	-e	-R:I:PFV	-rv	-rv				
+matukar	yali	0009	%	%	%	%				
+matukar	yali	0010	#	#	#	#				
+matukar	yali	0010	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0010	ZERO	ZERO	0.h:p	0	h	p	8009	
+matukar	yali	0010	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0010	nage	give.birth	v:pred	v		pred		
+matukar	yali	0010	-din	-3PL.P	-pro_h_p	-pro_h_p			8009	
+matukar	yali	0010	-e	-R:I:PFV	-rv	-rv				
+matukar	yali	0010	%	%	%	%				
+matukar	yali	0010	#	#	#neg	#neg				
+matukar	yali	0010	tamat	man	np.h:s	np	h	s	8007	
+matukar	yali	0010	main	TOP	rn	rn				
+matukar	yali	0010	uyan	good	np:pred	np		pred		
+matukar	yali	0010	ti	NEG	rn	rn				
+matukar	yali	0010	%	%	%	%				
+matukar	yali	0011	#	#	#neg	#neg				
+matukar	yali	0011	tamat	man	np.h:a	np	h	a	8007	
+matukar	yali	0011	main	TOP	rn	rn				
+matukar	yali	0011	ab	house	np:p	np		p	8010	new
+matukar	yali	0011	ZERO	ZERO	0.1:g	0	1	g	8001	
+matukar	yali	0011	ti-	NEG-	-lv	-lv				
+matukar	yali	0011	ya-	3SG.A-	-pro_h_a	-pro_h_a			8007	
+matukar	yali	0011	bi	hold	v:pred	v		pred		
+matukar	yali	0011	pan	give	rv	rv				
+matukar	yali	0011	-au	-1SG.R	-rv_pro_1_g	-rv_pro_1_g			8001	
+matukar	yali	0011	-gokai	-R:I:IMPV:HAB	-rv	-rv				
+matukar	yali	0011	%	%	%	%				
+matukar	yali	0012	#	#	#neg	#neg				
+matukar	yali	0012	tamat	man	np.h:a	np	h	a	8007	
+matukar	yali	0012	main-an	TOP-EMPH	rn	rn				
+matukar	yali	0012	abi	garden	np:p	np		p	8011	new
+matukar	yali	0012	ZERO	ZERO	0.1:g	0	1	g	8001	
+matukar	yali	0012	ti-nage	NEG-work	v:pred	v		pred		
+matukar	yali	0012	pan	give	rv	rv				
+matukar	yali	0012	-au	-1SG.R	-pro_1_g	-pro_1_g			8001	
+matukar	yali	0012	-gokai	-R:I:IMPV:HAB	-rv	-rv				
+matukar	yali	0012	%	%	%	%				
+matukar	yali	0013	#	#	#	#				
+matukar	yali	0013	do	and	other	other				
+matukar	yali	0013	manag	like.that	other:p	other		p		
+matukar	yali	0013	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0013	ngai-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0013	te-ndo	see-R:D	v:pred	v		pred		
+matukar	yali	0013	%	%	%	%				
+matukar	yali	0013	#	#	#	#				
+matukar	yali	0013	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0013	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0013	mai-ye	not.like-R:I:PFV	v:pred	v		pred		
+matukar	yali	0013	%	%	%	%				
+matukar	yali	0014	#	#	#	#				
+matukar	yali	0014	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0014	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0014	mai-ye	not.like-ye	v:pred	v		pred		
+matukar	yali	0014	%	%	%	%				
+matukar	yali	0014	#	#	#	#				
+matukar	yali	0014	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0014	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0014	so	come	v:pred	v		pred		
+matukar	yali	0014	malal	village	np:g	np		g	8004	
+matukar	yali	0014	daboka	big-LOC	rn	rn				
+matukar	yali	0014	mani	here	ln	ln				
+matukar	yali	0014	matugar-a	Matugar-LOC	pn_np:appos	pn_np		appos	8004	
+matukar	yali	0014	%	%	%	%				
+matukar	yali	0015	#	#	#	#				
+matukar	yali	0015	mani	here	other:l	other		l	8004	
+matukar	yali	0015	tamat	man	np.h:p	np	h	p	8012	new
+matukar	yali	0015	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0015	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0015	ngale-nge	marry-R:I:PFV	v:pred	v		pred		
+matukar	yali	0015	%	%	%	%				
+matukar	yali	0016	#	#	#	#				
+matukar	yali	0016	tamat	man	np.h:dt	np	h	dt	8012	
+matukar	yali	0016	main-angan	TOP-EMPH	rn	rn				
+matukar	yali	0016	ning	name	np:s	np		s	8013	bridging
+matukar	yali	0016	-an	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	8012	
+matukar	yali	0016	Raward	Raward	pn_np:pred	pn_np		pred		
+matukar	yali	0016	Marun	Marun	rn_pn_np	rn_pn_np				
+matukar	yali	0016	%	%	%	%				
+matukar	yali	0017	#	#	#	#				
+matukar	yali	0017	Raward	Raward	pn_np.h:p	pn_np	h	p	8012	
+matukar	yali	0017	Marun	Marun	rn_pn_np	rn_pn_np				
+matukar	yali	0017	main	TOP	rn	rn				
+matukar	yali	0017	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0017	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0017	ngale-nge	marry-R:I:PFV	v:pred	v		pred		
+matukar	yali	0017	%	%	%	%				
+matukar	yali	0018	#	#	#	#				
+matukar	yali	0018	do	and	other	other				
+matukar	yali	0018	Raward	Raward	pn_np.h:s	pn_np	h	s	8012	
+matukar	yali	0018	Marum	Marum	rn_pn_np	rn_pn_np				
+matukar	yali	0018	main-angan	TOP-EMPH	rn	rn				
+matukar	yali	0018	tamat	man	np:pred	np		pred		
+matukar	yali	0018	dabok	big	rn	rn				
+matukar	yali	0018	%	%	%	%				
+matukar	yali	0018	#	#	#neg	#neg				
+matukar	yali	0018	nga-ha-u	1SG.S-POSS-1SG	nc	nc				
+matukar	yali	0018	nga-ha-u	1SG.S-POSS-1SG	nc	nc				
+matukar	yali	0019	ZERO	ZERO	0.h:s	0	h	s	8012	
+matukar	yali	0019	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	8001	
+matukar	yali	0019	lain	line_[TokPisin]	np:pred	np		pred		
+matukar	yali	0019	ti	NEG	rn	rn				
+matukar	yali	0019	%	%	%	%				
+matukar	yali	0020	#	#	#	#				
+matukar	yali	0020	i	3SG.S	pro.h:s	pro	h	s	8012	
+matukar	yali	0020	dabok	big	np:pred	np		pred		
+matukar	yali	0020	%	%	%	%				
+matukar	yali	0020	#	#	#	#				
+matukar	yali	0020	ngau	1SG.S	pro.1:s	pro	1	s	8001	
+matukar	yali	0020	natu	small	np:pred	np		pred		
+matukar	yali	0020	%	%	%	%				
+matukar	yali	0021	#	#	#	#				
+matukar	yali	0021	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0021	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0021	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0021	ngale	marry	v:pred	v		pred		
+matukar	yali	0021	%	%	%	%				
+matukar	yali	0021	#	#	#	#				
+matukar	yali	0021	ida	with	other	other				
+matukar	yali	0021	yar	year_[TokPisin]	other	other				
+matukar	yali	0021	tahaik	one	other	other				
+matukar	yali	0021	saman	empty	other	other				
+matukar	yali	0021	ZERO	ZERO	0.1:s	0	1	s	8014	bridging
+matukar	yali	0021	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0021	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	yali	0021	%	%	%	%				
+matukar	yali	0022	#	#	#	#				
+matukar	yali	0022	do	and	other	other				
+matukar	yali	0022	manig	like.this	other	other				
+matukar	yali	0022	ZERO	ZERO	0.h:s_ds	0	h	s_ds	8012	
+matukar	yali	0022	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	yali	0022	%	%	%	%				
+matukar	yali	0023	#	#	#ds.neg	#ds.neg				
+matukar	yali	0023	ong	2SG.A	pro.2:a	pro	2	a	8001	
+matukar	yali	0023	ZERO	ZERO	0.h:p	0	h	p	8015	new
+matukar	yali	0023	ZERO	ZERO	0.1:g	0	1	g	8012	
+matukar	yali	0023	ti	NEG	other	other				
+matukar	yali	0023	neg	give.birth	v:pred	v		pred		
+matukar	yali	0023	pan	give	rv	rv				
+matukar	yali	0023	-au	-1SG.R	-pro.1:g	-pro	1	g	8001	
+matukar	yali	0023	-go	-R:I:PFV	-rv	-rv				
+matukar	yali	0023	%	%	%	%				
+matukar	yali	0023	#	#	#ds	#ds				
+matukar	yali	0023	ZERO	ZERO	0.1:a	0	1	a	8012	
+matukar	yali	0023	ZERO	ZERO	0.2:p	0	2	p	8001	
+matukar	yali	0023	nga-	1SG.A-	-pro_1_a	-pro_1_a			8012	
+matukar	yali	0023	kud	cast.out	v:pred	v		pred		
+matukar	yali	0023	-o	-2SG.P	-pro_2_p	-pro_2_p			8001	
+matukar	yali	0023	-mba	-IRR:I	-rv	-rv				
+matukar	yali	0023	%	%	%	%				
+matukar	yali	0024	#	#	#	#				
+matukar	yali	0024	do	and	other	other				
+matukar	yali	0024	manig	like.this	other	other				
+matukar	yali	0024	ZERO	ZERO	0.1:s_ds	0	1	s_ds	8001	
+matukar	yali	0024	ZERO	ZERO	0.h:g	0	h	g	8012	
+matukar	yali	0024	nga-	1SG.A-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0024	tuli	say	v:pred	v		pred		
+matukar	yali	0024	pan	give	rv	rv				
+matukar	yali	0024	-i	-3SG.R	-pro_h_g	-pro_h_g			8012	
+matukar	yali	0024	-nge	-R:I:PFV	-rv	-rv				
+matukar	yali	0024	%	%	%	%				
+matukar	yali	0024	#	#	#ds	#ds				
+matukar	yali	0024	uyan	good	other	other				
+matukar	yali	0024	ZERO	ZERO	0.1:s	0	1	s	8012	
+matukar	yali	0024	so-ndop	come-IRR:D	v:pred	v		pred		
+matukar	yali	0024	ngau-da	1SG.S-COM	pro.1:obl	pro	1	obl	8001	
+matukar	yali	0024	%	%	%	%				
+matukar	yali	0024	#	#	#ds	#ds				
+matukar	yali	0024	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0024	t-	1PL.INCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0024	a	go	v:pred	v		pred		
+matukar	yali	0024	%	%	%	%				
+matukar	yali	0025	#	#	#ds	#ds				
+matukar	yali	0025	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0025	t-	1PL.INCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0025	a-p	go-IRR:D	v:pred	v		pred		
+matukar	yali	0025	o	VOC	other	other				
+matukar	yali	0025	malal	village	np:g	np		g	8079	new
+matukar	yali	0025	ta	one	rn	rn				
+matukar	yali	0025	%	%	%	%				
+matukar	yali	0025	#	#	#	#				
+matukar	yali	0025	ning	name	np:dt_p	np		dt_p	8095	bridging
+matukar	yali	0025	-an	-3SG	-rn_pro:poss	-rn_pro		poss	8079	
+matukar	yali	0025	ZERO	ZERO	0.h:a	0	h	a		
+matukar	yali	0025	Rai Kos	Rai_Coast	pn_np:p	pn_np		p	8079	
+matukar	yali	0025	di-	3PL.A-	-lv_pro.h:a	-lv_pro	h	a		
+matukar	yali	0025	bal-ago	say-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0025	main	TOP	other	other				
+matukar	yali	0025	%	%	%	%				
+matukar	yali	0026	#	#	#ds	#ds				
+matukar	yali	0026	tamat	man	np.h:dt	np	h	dt	8016	new
+matukar	yali	0026	main	TOP	rn	rn				
+matukar	yali	0026	ning	name	np:s	np		s	8078	bridging
+matukar	yali	0026	-an	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	8016	
+matukar	yali	0026	Yali	Yali	pn_np:pred	pn_np		pred		
+matukar	yali	0026	ai	COP	cop	cop				
+matukar	yali	0026	%	%	%	%				
+matukar	yali	0027	#	#	#ds	#ds				
+matukar	yali	0027	main	PROX	ln	ln				
+matukar	yali	0027	ha-n-te	POSS-3SG-LOC	np:g	np		g	8017	bridging
+matukar	yali	0027	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0027	t-	1PL.INCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0027	a-page	go-PROTASIS	v:pred	v		pred		
+matukar	yali	0027	%	%	%	%				
+matukar	yali	0027	#	#	#ds	#ds				
+matukar	yali	0027	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0027	milok-aba	something-I:IRR	v:pred	v		pred		
+matukar	yali	0027	%	%	%	%				
+matukar	yali	0028	#	#	#ds	#ds				
+matukar	yali	0028	mariu	betel.nut	np:p	np		p	8018	new
+matukar	yali	0028	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0028	ya-	3SG.A-	-pro_h_a	-pro_h_a			8016	
+matukar	yali	0028	bi-p	hold-IRR:D	v:pred	v		pred		
+matukar	yali	0028	%	%	%	%				
+matukar	yali	0028	#	#	#ds	#ds				
+matukar	yali	0028	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0028	ZERO	ZERO	0:p	0		p	8018	
+matukar	yali	0028	ZERO	ZERO	0.1:g	0	1	g	8014	
+matukar	yali	0028	pan	give	v:pred	v		pred		
+matukar	yali	0028	-ad	-1PL.INCL.R	-pro_1_g	-pro_1_g			8014	
+matukar	yali	0028	-apage	-PROTASIS	-rv	-rv				
+matukar	yali	0028	%	%	%	%				
+matukar	yali	0028	#	#	#ds	#ds				
+matukar	yali	0028	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0028	ZERO	ZERO	0.h:p	0	h	p	8015	
+matukar	yali	0028	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0028	neg-aba	give.birth-I:IRR	v:pred	v		pred		
+matukar	yali	0028	%	%	%	%				
+matukar	yali	0029	#	#	#	#				
+matukar	yali	0029	do	and	other	other				
+matukar	yali	0029	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0029	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0029	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0029	ngale-ndo	take-R:D	v:pred	v		pred		
+matukar	yali	0029	%	%	%	%				
+matukar	yali	0029	#	#	#	#				
+matukar	yali	0029	ida	with	other	other				
+matukar	yali	0029	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0029	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0029	a-go	go-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0029	%	%	%	%				
+matukar	yali	0030	#	#	#	#				
+matukar	yali	0030	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0030	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0030	a-la	go-DIR_away_from_speaker	v:pred	v		pred		
+matukar	yali	0030	Rai Kosa	Rai_Coast	pn_np:g	pn_np		g	8079	
+matukar	yali	0030	Yali	Yali	ln_pn_np.h	ln_pn_np	h		8016	
+matukar	yali	0030	ha-n	POSS-3SG	ln	ln				
+matukar	yali	0030	malal-te	malal-LOC	np:appos	np		appos	8079	
+matukar	yali	0030	%	%	%	%				
+matukar	yali	0031	#	#	#	#				
+matukar	yali	0031	do	and	other	other				
+matukar	yali	0031	did	mountain	np:l	np		l	8019	new
+matukar	yali	0031	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0031	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0031	das-e	ascend-SEQ:D	v:pred	v		pred		
+matukar	yali	0031	ngam-	1PL.EXCL.S--	-rv_pro_1_s	-rv_pro_1_s				
+matukar	yali	0031	a-la	go-DIR_away_from_speaker	rv	rv				
+matukar	yali	0031	%	%	%	%				
+matukar	yali	0031	#	#	#	#				
+matukar	yali	0031	ha-n	POSS-3SG	ln	ln				
+matukar	yali	0032	kabiyai	magic	np:p	np		p	8020	new
+matukar	yali	0032	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0032	nage-ndope	make-COND	v:pred	v		pred		
+matukar	yali	0032	%	%	%	%				
+matukar	yali	0033	#	#	#	#				
+matukar	yali	0033	mata-n	money-3SG	np:p	np		p	8021	new
+matukar	yali	0033	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0033	fun	hit	v:pred	v		pred		
+matukar	yali	0033	-i	-3SG.P	-pro_h_p	-pro_h_p			8021	
+matukar	yali	0033	rube-p	take.out-IRR:D	rv	rv				
+matukar	yali	0033	%	%	%	%				
+matukar	yali	0033	#	#	#	#				
+matukar	yali	0033	tamat	man	np.h:g	np	h	g	8022	new
+matukar	yali	0033	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0033	ZERO	ZERO	0:p	0		p	8021	
+matukar	yali	0033	pan	give	v:pred	v		pred		
+matukar	yali	0033	-din	-3PL.R	-pro_h_g	-pro_h_g			8022	
+matukar	yali	0033	-dope	-adope	-rv	-rv				
+matukar	yali	0033	niu yar-lo	New_Year_[TokPisin]-LOC_in	np:other	np		other		
+matukar	yali	0034	baras	year	ln	ln				
+matukar	yali	0034	wadan	end	np:dt_other	np		dt_other		
+matukar	yali	0034	lo	in	rn	rn				
+matukar	yali	0034	%	%	%	%				
+matukar	yali	0035	#	#	#	#				
+matukar	yali	0035	do	and	other	other				
+matukar	yali	0035	main	PROX	ln	ln				
+matukar	yali	0035	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8016	
+matukar	yali	0035	barag	custom.house	ln	ln				
+matukar	yali	0035	aba-lo	house-LOC_in	np:g	np		g	8023	new
+matukar	yali	0035	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0035	ngam-	1PL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0035	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	yali	0035	%	%	%	%				
+matukar	yali	0036	#	#	#	#				
+matukar	yali	0036	do	and	other	other				
+matukar	yali	0036	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0036	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	yali	0036	%	%	%	%				
+matukar	yali	0037	#	#	#ds	#ds				
+matukar	yali	0037	ZERO	ZERO	0.1:s	0	1	s	8024	bridging
+matukar	yali	0037	ta-	1PL.INCL.S-	-pro_1_s	-pro_1_s			8024	
+matukar	yali	0037	mul-do-mba	return-AGAIN-IRR:I	v:pred	v		pred		
+matukar	yali	0037	%	%	%	%				
+matukar	yali	0038	#	#	#ds	#ds				
+matukar	yali	0038	ZERO	ZERO	0.1:s	0	1	s	8024	
+matukar	yali	0038	ta-	1PL.INCL.S-	-pro_1_s	-pro_1_s			8024	
+matukar	yali	0038	mul-ap	return-IRR:D	v:pred	v		pred		
+matukar	yali	0038	%	%	%	%				
+matukar	yali	0038	#	#	#ds	#ds				
+matukar	yali	0038	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	8016	
+matukar	yali	0038	malal	village	np:g	np		g	8079	
+matukar	yali	0038	natu-n-te	small-3SG-LOC	rn	rn				
+matukar	yali	0038	ZERO	ZERO	0.1:s	0	1	s	8024	
+matukar	yali	0038	ta-	1PL.INCL.S-	-pro_1_s	-pro_1_s			8024	
+matukar	yali	0038	pid-aba	descend-I:IRR	v:pred	v		pred		
+matukar	yali	0038	%	%	%	%				
+matukar	yali	0039	#	#	#ds	#ds				
+matukar	yali	0039	main-angan	PROX-EMPH	dem_pro:s	dem_pro		s	8025	new
+matukar	yali	0039	main	TOP	rn	rn				
+matukar	yali	0039	aben	place	np:pred	np		pred		
+matukar	yali	0039	hibe-n	self-3SG	rn	rn				
+matukar	yali	0039	ta	other	rn	rn				
+matukar	yali	0039	%	%	%	%				
+matukar	yali	0040	#	#	#ds	#ds				
+matukar	yali	0040	ZERO	ZERO	0.1:s	0	1	s	8024	
+matukar	yali	0040	ta-	1PL.INCL.S-	-pro_1_s	-pro_1_s			8024	
+matukar	yali	0040	mul-ap	return-IRR:D	v:pred	v		pred		
+matukar	yali	0040	aben	place	np:g	np		g	8025	
+matukar	yali	0040	hibe-n	self-3SG	rn	rn				
+matukar	yali	0040	ta	other	rn	rn				
+matukar	yali	0040	lo	in	rn	rn				
+matukar	yali	0040	%	%	%	%				
+matukar	yali	0040	#	#	#ds	#ds				
+matukar	yali	0040	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	8016	
+matukar	yali	0040	ab	house	np:s	np		s	8025	
+matukar	yali	0040	malain	tall	np:pred	np		pred		
+matukar	yali	0040	kasik	INTSF	other	other				
+matukar	yali	0040	%	%	%	%				
+matukar	yali	0041	#	#	#ds	#ds				
+matukar	yali	0041	main-te	PROX-LOC	dem_pro:l	dem_pro		l	8025	
+matukar	yali	0041	ZERO	ZERO	0.1:s	0	1	s	8024	
+matukar	yali	0041	ta-	1PL.INCL.S-	-pro_1_s	-pro_1_s			8024	
+matukar	yali	0041	la	go	v:pred	v		pred		
+matukar	yali	0041	ta-	1PL.INCL.S-	-rv_pro_1_s	-rv_pro_1_s			8024	
+matukar	yali	0041	pid-apage	descend-PROTASIS	rv	rv				
+matukar	yali	0041	%	%	%	%				
+matukar	yali	0042	#	#	#ds	#ds				
+matukar	yali	0042	mariu	betel_nut	np:p	np		p	8018	
+matukar	yali	0042	ZERO	ZERO	0.1:a	0	1	a	8016	
+matukar	yali	0042	nga-	1SG.A-	-pro_1_a	-pro_1_a			8016	
+matukar	yali	0042	bi-p	hold-IRR:D	v:pred	v		pred		
+matukar	yali	0042	%	%	%	%				
+matukar	yali	0042	#	#	#ds	#ds				
+matukar	yali	0042	ZERO	ZERO	0.1:a	0	1	a	8016	
+matukar	yali	0042	ZERO	ZERO	0:p	0		p	8018	
+matukar	yali	0042	ZERO	ZERO	0.2:g	0	2	g	8001	
+matukar	yali	0042	nga-	1SG.A-	-pro_1_a	-pro_1_a			8016	
+matukar	yali	0042	pan	give	v:pred	v		pred		
+matukar	yali	0042	-o	-2SG.R	-pro_2_g	-pro_2_g			8001	
+matukar	yali	0042	-p	-IRR:D	-rv	-rv				
+matukar	yali	0042	%	%	%	%				
+matukar	yali	0043	#	#	#ds	#ds				
+matukar	yali	0043	aigi	some	np:dt_p	np		dt_p	8026	bridging
+matukar	yali	0043	ha-m	POSS-2SG	ln_pro.2:poss	ln_pro	2	poss	8001	
+matukar	yali	0043	tamat	man	np.h:dt_g	np	h	dt_g	8012	
+matukar	yali	0043	aigi	some	np:p	np		p	8027	bridging
+matukar	yali	0043	ong	2SG.R	pro.2:g	pro	2	g	8001	
+matukar	yali	0043	ZERO	ZERO	0.2:a	0	2	a	8014	
+matukar	yali	0043	a-	2PL.A-	-pro_2_a	-pro_2_a			8014	
+matukar	yali	0043	mam-ba	chew-I:IRR	v:pred	v		pred		
+matukar	yali	0043	%	%	%	%				
+matukar	yali	0044	#	#	#	#				
+matukar	yali	0044	do	and	other	other				
+matukar	yali	0044	ngam	1PL.EXCL.S	pro.1:s	pro	1	s	8014	
+matukar	yali	0044	Yali	Yali	pn_np.h:obl	pn_np	h	obl	8016	
+matukar	yali	0044	ida	with	adp	adp				
+matukar	yali	0044	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0044	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	yali	0044	%	%	%	%				
+matukar	yali	0045	#	#	#	#				
+matukar	yali	0045	did-te	mountain-LOC	np:l	np		l	8019	
+matukar	yali	0045	lamu	above	other	other				
+matukar	yali	0045	ZERO	ZERO	0.1:s	0	1	s	8024	
+matukar	yali	0045	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8024	
+matukar	yali	0045	mado-kai	stay-DISJ:D	v:pred	v		pred		
+matukar	yali	0045	%	%	%	%				
+matukar	yali	0045	#	#	#	#				
+matukar	yali	0045	ZERO	ZERO	0.1:s	0	1	s	8024	
+matukar	yali	0045	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8024	
+matukar	yali	0045	pid-e	descend-R:I:PFV	v:pred	v		pred		
+matukar	yali	0045	tan-te	ground-LOC	np:g	np		g	8028	bridging
+matukar	yali	0045	%	%	%	%				
+matukar	yali	0046	#	#	#	#				
+matukar	yali	0046	ZERO	ZERO	0.1:s	0	1	s	8024	
+matukar	yali	0046	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8024	
+matukar	yali	0046	pid-e	descend-SEQ:D	v:pred	v		pred		
+matukar	yali	0046	%	%	%	%				
+matukar	yali	0046	#	#	#	#				
+matukar	yali	0046	ZERO	ZERO	0.1:s	0	1	s	8024	
+matukar	yali	0046	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8024	
+matukar	yali	0046	la	go	v:pred	v		pred		
+matukar	yali	0046	ab	house	ln_np	ln_np			8023	
+matukar	yali	0046	ilo-n-lo	inside	np:g	np		g	8029	bridging
+matukar	yali	0046	%	%	%	%				
+matukar	yali	0047	#	#	#	#				
+matukar	yali	0047	rum	room_(TPI)	np:predex	np		predex	8030	bridging
+matukar	yali	0047	sixpela	six_(TPI)	rn	rn				
+matukar	yali	0047	%	%	%	%				
+matukar	yali	0048	#	#	#	#				
+matukar	yali	0048	ilo-n-lo	inside-3SG-LOC	np:g	np		g	8029	
+matukar	yali	0048	ZERO	ZERO	0.1:s	0	1	s	8024	
+matukar	yali	0048	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8024	
+matukar	yali	0048	la	go	v:pred	v		pred		
+matukar	yali	0048	ngam-	1PL.EXCL.S-	-rv_pro_1_s	-rv_pro_1_s			8024	
+matukar	yali	0048	pid-e	descend-R:I:PFV	rv	rv				
+matukar	yali	0048	%	%	%	%				
+matukar	yali	0049	#	#	#	#				
+matukar	yali	0049	do	and	other	other				
+matukar	yali	0049	mariu	betel.nut	np:p	np		p	8018	
+matukar	yali	0049	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0049	ya-	3SG.A-	-pro_h_a	-pro_h_a			8016	
+matukar	yali	0049	bi-nge	hold-SEQ:D	v:pred	v		pred		
+matukar	yali	0049	%	%	%	%				
+matukar	yali	0050	#	#	#	#				
+matukar	yali	0050	mariu	betel.nut	np:p	np		p	8018	
+matukar	yali	0050	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0050	ya-	3SG.A-	-pro_h_a	-pro_h_a			8016	
+matukar	yali	0050	bi-nge	hold-SEQ:D	v:pred	v		pred		
+matukar	yali	0050	%	%	%	%				
+matukar	yali	0050	#	#	#	#				
+matukar	yali	0050	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0050	ZERO	ZERO	0:p	0		p	8018	
+matukar	yali	0050	ZERO	ZERO	0.1:g	0	1	g	8001	
+matukar	yali	0050	pan	give	v:pred	v		pred		
+matukar	yali	0050	-au	-1SG.R	-pro_1_g	-pro_1_g			8001	
+matukar	yali	0050	-we	-R:I:PFV	-rv	-rv				
+matukar	yali	0050	%	%	%	%				
+matukar	yali	0051	#	#	#	#				
+matukar	yali	0051	#	#	#ds	#ds				
+matukar	yali	0051	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0051	ZERO	ZERO	0:p	0		p	8018	
+matukar	yali	0051	hule	break	v:pred	v		pred		
+matukar	yali	0051	%	%	%	%				
+matukar	yali	0051	ZERO	ZERO	0.h:s_ds	0	h	s_ds	8016	
+matukar	yali	0051	bal-do	say-R:D	v:pred	v		pred		
+matukar	yali	0051	%	%	%	%				
+matukar	yali	0051	#	#	#	#				
+matukar	yali	0051	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0051	ZERO	ZERO	0:p	0		p	8018	
+matukar	yali	0051	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0051	hule-nge	break-R:I:PFV	v:pred	v		pred		
+matukar	yali	0051	%	%	%	%				
+matukar	yali	0052	#	#	#	#				
+matukar	yali	0052	aigi	some	np:p	np		p	8026	
+matukar	yali	0052	raward	Raward	pn_np.h:g	pn_np	h	g	8012	
+matukar	yali	0052	marun	Marun	rn_pn_np	rn_pn_np				
+matukar	yali	0052	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0052	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0052	pan	give	v:pred	v		pred		
+matukar	yali	0052	-i	-3SG.R	-pro_h_g	-pro_h_g			8012	
+matukar	yali	0052	-nge	-R:I:PFV	-rv	-rv				
+matukar	yali	0052	%	%	%	%				
+matukar	yali	0053	#	#	#	#				
+matukar	yali	0053	do	and	other	other				
+matukar	yali	0053	aigi	some	np:p	np		p	8027	
+matukar	yali	0053	hibe-u	self-1SG	np.h:a	np	h	a	8001	
+matukar	yali	0053	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0053	mam-e	chew-R:I:PFV	v:pred	v		pred		
+matukar	yali	0053	%	%	%	%				
+matukar	yali	0054	#	#	#	#				
+matukar	yali	0054	do	and	other	other				
+matukar	yali	0054	aru-ru-mi	two-two-only	other	other				
+matukar	yali	0054	nal	time	other	other				
+matukar	yali	0054	tahaik	one	other	other				
+matukar	yali	0054	ZERO	ZERO	0.1:a	0	1	a	8014	
+matukar	yali	0054	ZERO	ZERO	0:p	0		p	8018	
+matukar	yali	0054	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			8014	
+matukar	yali	0054	mam-do	chew-R:D	v:pred	v		pred		
+matukar	yali	0054	%	%	%	%				
+matukar	yali	0054	#	#	#	#				
+matukar	yali	0054	Yali	Yali	pn_np.h:s_ds	pn_np	h	s_ds	8016	
+matukar	yali	0054	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	yali	0054	%	%	%	%				
+matukar	yali	0055	#	#	#ds	#ds				
+matukar	yali	0055	ong	2SG.S	pro.2:s	pro	2	s	8001	
+matukar	yali	0055	malal-te	village-LOC	np:g	np		g	8004	
+matukar	yali	0055	a-	2PL.S-	-pro_2_s	-pro_2_s			8014	
+matukar	yali	0055	mul-ap	return-IRR:D	v:pred	v		pred		
+matukar	yali	0055	%	%	%	%				
+matukar	yali	0056	#	#	#ds.neg	#ds.neg				
+matukar	yali	0056	pain	woman	np.h:voc	np	h	voc		
+matukar	yali	0056	ong	2SG.A	pro.2:a	pro	2	a	8001	
+matukar	yali	0056	tamat	man	np.h:p	np	h	p	8031	new
+matukar	yali	0056	ta	other	rn	rn				
+matukar	yali	0056	ib	NEG.IMP.1	lv	lv				
+matukar	yali	0056	te	see	v:pred	v		pred		
+matukar	yali	0056	mai	NEG.IMP.2	rv	rv				
+matukar	yali	0056	%	%	%	%				
+matukar	yali	0057	#	#	#ds.neg	#ds.neg				
+matukar	yali	0057	tamat	man	np.h:voc	np	h	voc		
+matukar	yali	0057	ong	2SG.A	pro.2:a	pro	2	a	8012	
+matukar	yali	0057	pain	woman	np.h:p	np	h	p	8032	new
+matukar	yali	0057	ta	other	rn	rn				
+matukar	yali	0057	ib	NEG.IMP.1	lv	lv				
+matukar	yali	0057	te	see	v:pred	v		pred		
+matukar	yali	0057	mai	NEG.IMP.2	rv	rv				
+matukar	yali	0057	%	%	%	%				
+matukar	yali	0058	#	#	#ds	#ds				
+matukar	yali	0058	ang	2SG.S	pro.2:a	pro	2	a	8014	
+matukar	yali	0058	hibe-mim-mi	self-2PL-only	np.h:other	np	h	other		
+matukar	yali	0058	ilo	thought	ln	ln				
+matukar	yali	0058	gire-k	think-NOM.UNPOSS	np:p	np		p	8033	new
+matukar	yali	0058	tahaik	one	rn	rn				
+matukar	yali	0058	a-	2PL.A-	-pro_2_a	-pro_2_a			8014	
+matukar	yali	0058	nage-ndop	make-IRR:D	v:pred	v		pred		
+matukar	yali	0058	%	%	%	%				
+matukar	yali	0058	#	#	#ds	#ds				
+matukar	yali	0058	pain	woman	np.h:voc	np	h	voc		
+matukar	yali	0058	ong	2SG.S	pro.2:s	pro	2	s	8001	
+matukar	yali	0058	awatu-mba	pregnant-IRR:I	v:pred	v		pred		
+matukar	yali	0058	%	%	%	%				
+matukar	yali	0059	#	#	#ds	#ds				
+matukar	yali	0059	ari	OK	other	other				
+matukar	yali	0059	tamat	man	np.h:s	np	h	s	8012	
+matukar	yali	0059	y-	3SG.S-	-pro_h_s	-pro_h_s			8012	
+matukar	yali	0059	a-p	go-IRR:D	v:pred	v		pred		
+matukar	yali	0059	pain	woman	np.h:obl	np	h	obl	8032	
+matukar	yali	0059	ta	other	rn	rn				
+matukar	yali	0059	ida	with	adp	adp				
+matukar	yali	0059	%	%	%	%				
+matukar	yali	0059	#	#	#ds	#ds				
+matukar	yali	0059	i	3SG.A	pro.h:a	pro	h	a	8012	
+matukar	yali	0059	ZERO	ZERO	0.h:p	0	h	p	8032	
+matukar	yali	0059	kadoi-ap	befriend-IRR:D	v:pred	v		pred		
+matukar	yali	0059	%	%	%	%				
+matukar	yali	0059	#	#	#ds	#ds				
+matukar	yali	0059	pain	woman	np.h:voc	np	h	voc		
+matukar	yali	0059	ong	2SG.S	pro.2:s	pro	2	s	8001	
+matukar	yali	0059	w-	2SG.S-	-pro_2_s	-pro_2_s			8001	
+matukar	yali	0059	a-p	go-IRR:D	v:pred	v		pred		
+matukar	yali	0059	%	%	%	%				
+matukar	yali	0059	#	#	#ds	#ds				
+matukar	yali	0059	tamat	man	np.h:g	np	h	g	8031	
+matukar	yali	0059	ta	other	rn	rn				
+matukar	yali	0059	kadoim	friendship	np:p	np		p	8034	bridging
+matukar	yali	0059	ZERO	ZERO	0.2:a	0	2	a	8001	
+matukar	yali	0059	pan	give	v:pred	v		pred		
+matukar	yali	0059	-i	-3SG.R	-pro_h_g	-pro_h_g			8031	
+matukar	yali	0059	-tape	-COND	-rv	-rv				
+matukar	yali	0059	%	%	%	%				
+matukar	yali	0059	#	#	#ds.neg	#ds.neg				
+matukar	yali	0059	aim	son	np.h:p	np	h	p	8015	
+matukar	yali	0059	ZERO	ZERO	0.2:a	0	2	a	8014	
+matukar	yali	0059	ti-	NEG-	-lv	-lv				
+matukar	yali	0059	a-	2PL.A-	-pro_2_a	-pro_2_a			8014	
+matukar	yali	0059	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	yali	0059	%	%	%	%				
+matukar	yali	0060	#	#	#	#				
+matukar	yali	0060	manag	like.that	other	other				
+matukar	yali	0060	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0060	bal-do	say-R:D	v:pred	v		pred		
+matukar	yali	0060	%	%	%	%				
+matukar	yali	0060	#	#	#	#				
+matukar	yali	0060	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0060	ZERO	ZERO	0.h:p	0	h	p	8001	
+matukar	yali	0060	sumen	ask	v:pred	v		pred		
+matukar	yali	0060	-au	-1SG.P	-pro_1_p	-pro_1_p			8001	
+matukar	yali	0060	-we	-R:I:PFV	-rv	-rv				
+matukar	yali	0061	aim	boy	np.h:other	np	h	other		
+matukar	yali	0061	o	or	rn	rn				
+matukar	yali	0061	aipain	girl	rn	rn				
+matukar	yali	0061	%	%	%	%				
+matukar	yali	0061	#	#	#	#				
+matukar	yali	0061	do	and	other	other				
+matukar	yali	0061	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0061	nga-	1SG.A-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0061	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	yali	0061	aim	son	other	other				
+matukar	yali	0061	%	%	%	%				
+matukar	yali	0062	#	#	#	#				
+matukar	yali	0062	do	and	other	other				
+matukar	yali	0062	uyan	good	other:pred	other		pred		
+matukar	yali	0062	%	%	%	%				
+matukar	yali	0063	#	#	#	#				
+matukar	yali	0063	do	and	other	other				
+matukar	yali	0063	malal-te	village-LOC	np:g	np		g	8004	
+matukar	yali	0063	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0063	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0063	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	yali	0063	%	%	%	%				
+matukar	yali	0064	#	#	#	#				
+matukar	yali	0064	malal-te	village-LOC	np:g	np		g	8004	
+matukar	yali	0064	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0064	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0064	palum-e	come-SEQ:D	v:pred	v		pred		
+matukar	yali	0064	%	%	%	%				
+matukar	yali	0064	#	#	#	#				
+matukar	yali	0064	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0064	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0064	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	yali	0064	kalam	moon	np:other	np		other		
+matukar	yali	0064	tahaik	one	rn	rn				
+matukar	yali	0064	%	%	%	%				
+matukar	yali	0065	#	#	#	#				
+matukar	yali	0065	kalam	moon	np:other	np		other		
+matukar	yali	0065	tahaik	one	rn	rn				
+matukar	yali	0065	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0065	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0065	mado-nge	stay-SEQ:D	v:pred	v		pred		
+matukar	yali	0065	ti-do	finish-R:D	aux	aux				
+matukar	yali	0065	%	%	%	%				
+matukar	yali	0065	#	#	#	#				
+matukar	yali	0065	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0065	awatu-e	pregnant-R:I:PFV	v:pred	v		pred		
+matukar	yali	0065	%	%	%	%				
+matukar	yali	0066	#	#	#	#				
+matukar	yali	0066	do	and	other	other				
+matukar	yali	0066	raward	Raward	pn_np.h:dt_s	pn_np	h	dt_s	8012	
+matukar	yali	0066	marun	Marun	rn_pn_np	rn_pn_np				
+matukar	yali	0066	em	he_[TokPisin]	pro.h:s	pro	h	s	8012	
+matukar	yali	0066	hamamas-amati-go	happy-too.much-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0066	%	%	%	%				
+matukar	yali	0067	#	#	#	#				
+matukar	yali	0067	ZERO	ZERO	0.h:s	0	h	s	8012	
+matukar	yali	0067	ilo	thought	lv	lv				
+matukar	yali	0067	-n	-3SG.S	-lv_pro_h_s	-lv_pro_h_s			8012	
+matukar	yali	0067	uyan-e	good-R:I:PFV	v:pred	v		pred		
+matukar	yali	0067	%	%	%	%				
+matukar	yali	0068	#	#	#ds	#ds				
+matukar	yali	0068	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	8012	
+matukar	yali	0068	aim	son	np.h:s	np	h	s	8035	bridging
+matukar	yali	0068	saipid-aba	ascend-I:IRR	v:pred	v		pred		
+matukar	yali	0068	%	%	%	%				
+matukar	yali	0068	#	#	#	#				
+matukar	yali	0068	i	3SG.S	pro.h:s	pro	h	s	8012	
+matukar	yali	0068	bal-do	say-R:D	v:pred	v		pred		
+matukar	yali	0068	%	%	%	%				
+matukar	yali	0068	#	#	#	#				
+matukar	yali	0068	ngau	1SG.S	pro.1:s	pro	1	s	8001	
+matukar	yali	0068	main	TOP	rn	rn				
+matukar	yali	0068	ebala	COMP	ln	ln				
+matukar	yali	0068	princess-ong	princess_[English]-COMP	np:other	np		other		
+matukar	yali	0068	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0068	mado-nge	live-R:I:PFV	v:pred	v		pred		
+matukar	yali	0068	%	%	%	%				
+matukar	yali	0069	#	#	#neg	#neg				
+matukar	yali	0069	urat	work	np:predex	np		predex		
+matukar	yali	0069	ti	NEG	rn	rn				
+matukar	yali	0069	%	%	%	%				
+matukar	yali	0070	#	#	#	#				
+matukar	yali	0070	hibe-n-ami	self-3SG-only	np.h:s	np	h	s	8012	
+matukar	yali	0070	y-	3SG.S-	-pro_h_s	-pro_h_s			8012	
+matukar	yali	0070	a-ba	go-I:IRR	v:pred	v		pred		
+matukar	yali	0070	%	%	%	%				
+matukar	yali	0071	#	#	#	#				
+matukar	yali	0071	milo	something	np:p	np		p	8037	new
+matukar	yali	0071	hudungan	every	rn	rn				
+matukar	yali	0071	tau-lo	town_[TokPisin]-LOC_in	np:l	np		l	8038	new
+matukar	yali	0071	ZERO	ZERO	0.h:a	0	h	a	8012	
+matukar	yali	0071	ngale	take	v:pred	v		pred		
+matukar	yali	0071	palum	come	rv	rv				
+matukar	yali	0071	%	%	%	%				
+matukar	yali	0071	#	#	#	#				
+matukar	yali	0071	nau-a	face-LOC	np:l	np		l	8039	bridging
+matukar	yali	0071	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0071	ZERO	ZERO	0:p	0		p	8037	
+matukar	yali	0071	diri-nggo	put.in-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0071	%	%	%	%				
+matukar	yali	0072	#	#	#	#				
+matukar	yali	0072	manag	like.that	other	other				
+matukar	yali	0072	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0072	bul-do	do-R:D	v:pred	v		pred		
+matukar	yali	0072	y-a-we	3SG.S-go-SEQ:D	aux	aux				
+matukar	yali	0072	%	%	%	%				
+matukar	yali	0072	#	#	#	#				
+matukar	yali	0072	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0072	ZERO	ZERO	0.h:p	0	h	p	8040	bridging
+matukar	yali	0072	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0072	neg-e	give.birth-R:I:PFV	v:pred	v		pred		
+matukar	yali	0072	%	%	%	%				
+matukar	yali	0073	#	#	#	#				
+matukar	yali	0073	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0073	ZERO	ZERO	0.h:p	0	h	p	8040	
+matukar	yali	0073	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0073	neg-e	give.birth-SEQ:D	v:pred	v		pred		
+matukar	yali	0073	%	%	%	%				
+matukar	yali	0073	#	#	#	#				
+matukar	yali	0073	aim	boy	np.h:p	np	h	p	8040	
+matukar	yali	0073	ZERO	ZERO	0.h:a	0	h	a	8012	
+matukar	yali	0073	te-nge	see-R:I:PFV	v:pred	v		pred		
+matukar	yali	0073	%	%	%	%				
+matukar	yali	0074	#	#	#	#				
+matukar	yali	0074	do	and	other	other				
+matukar	yali	0074	ha-mam	POSS-1PL.EXCL	nc	nc				
+matukar	yali	0074	do	and	other	other				
+matukar	yali	0074	ha-mam	POSS-1PL.EXCL	ln_pro.1:poss	ln_pro	1	poss	8041	bridging
+matukar	yali	0074	kabiyai	custom	np:predex	np		predex	8042	new
+matukar	yali	0074	main-angan	TOP-EMPH	rn	rn				
+matukar	yali	0074	%	%	%	%				
+matukar	yali	0075	#	#	#	#				
+matukar	yali	0075	pain	woman	np.h:a	np	h	a	8043	bridging
+matukar	yali	0075	haun	young	rn	rn				
+matukar	yali	0075	ZERO	ZERO	0.h:p	0	h	p		
+matukar	yali	0075	neg-na-ndop	give.birth-DUB-IRR:D	v:pred	v		pred		
+matukar	yali	0075	%	%	%	%				
+matukar	yali	0076	#	#	#	#				
+matukar	yali	0076	tamat	man	np.h:s	np	h	s	8044	bridging
+matukar	yali	0076	y-	3SG.S-	-pro_h_s	-pro_h_s			8044	
+matukar	yali	0076	a-p	go-IRR:D	v:pred	v		pred		
+matukar	yali	0076	%	%	%	%				
+matukar	yali	0076	#	#	#	#				
+matukar	yali	0076	ti	NEG	ln	ln				
+matukar	yali	0076	dar-an-da	blood-3SG-COM	np:obl	np		obl	8045	new
+matukar	yali	0077	aim	son	np.h:p	np	h	p	8046	bridging
+matukar	yali	0077	ZERO	ZERO	0.h:a	0	h	a	8044	
+matukar	yali	0077	sun	carry	v:pred	v		pred		
+matukar	yali	0077	-i	-3SG.P	-pro_h_p	-pro_h_p			8046	
+matukar	yali	0077	-p	-IRR:D	-rv	-rv				
+matukar	yali	0077	%	%	%	%				
+matukar	yali	0077	#	#	#	#				
+matukar	yali	0077	tambu	forbidden	other:pred	other		pred		
+matukar	yali	0077	%	%	%	%				
+matukar	yali	0078	#	#	#	#				
+matukar	yali	0078	gun	forbidden	other:pred	other		pred		
+matukar	yali	0078	%	%	%	%				
+matukar	yali	0079	#	#	#	#				
+matukar	yali	0079	kaibo	but	other	other				
+matukar	yali	0080	Raward	Raward	pn_np.h:s	pn_np	h	s	8012	
+matukar	yali	0080	Marun	Marun	rn_pn_np	rn_pn_np				
+matukar	yali	0081	la-i-pid-angan	go.down-CONT	v:pred	v		pred		
+matukar	yali	0081	%	%	%	%				
+matukar	yali	0081	#	#	#	#				
+matukar	yali	0081	aim	son	np.h:p	np	h	p	8040	
+matukar	yali	0081	daran-da	red-COM	np:obl	np		obl	8047	bridging
+matukar	yali	0081	ZERO	ZERO	0.h:a	0	h	a	8012	
+matukar	yali	0081	ngale-nge	take-R:I:PFV	v:pred	v		pred		
+matukar	yali	0081	%	%	%	%				
+matukar	yali	0082	#	#	#	#				
+matukar	yali	0082	manig	like.this	other	other				
+matukar	yali	0082	ZERO	ZERO	0.h:a	0	h	a	8012	
+matukar	yali	0082	ZERO	ZERO	0.h:p	0	h	p	8040	
+matukar	yali	0082	sun	carry	v:pred	v		pred		
+matukar	yali	0082	-i	-3SG.P	-pro_h_p	-pro_h_p			8040	
+matukar	yali	0082	-nge	-R:I:PFV	-rv	-rv				
+matukar	yali	0082	%	%	%	%				
+matukar	yali	0083	#	#	#	#				
+matukar	yali	0083	do	and	other	other				
+matukar	yali	0083	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8012	
+matukar	yali	0083	nen	mom	np.h:s	np	h	s	8048	new
+matukar	yali	0083	si-nge	descend-SEQ:D	v:pred	v		pred		
+matukar	yali	0083	%	%	%	%				
+matukar	yali	0083	#	#	#	#				
+matukar	yali	0083	manag	like.that	other:p	other		p		
+matukar	yali	0083	ZERO	ZERO	0.h:a	0	h	a	8048	
+matukar	yali	0083	te-ndo	see-R:D	v:pred	v		pred		
+matukar	yali	0083	%	%	%	%				
+matukar	yali	0083	#	#	#	#				
+matukar	yali	0083	ZERO	ZERO	0.h:a_ds	0	h	a_ds	8048	
+matukar	yali	0083	ZERO	ZERO	0.1:p	0	1	p	8001	
+matukar	yali	0083	pai	cross	v:pred	v		pred		
+matukar	yali	0083	-au	-1SG.P	-pro_1_p	-pro_1_p			8001	
+matukar	yali	0083	-we	-R:I:PFV	-rv	-rv				
+matukar	yali	0083	%	%	%	%				
+matukar	yali	0084	#	#	#ds.neg	#ds.neg				
+matukar	yali	0084	ong	2SG.A	pro.2:a	pro	2	a	8001	
+matukar	yali	0084	hanat	what	other	other				
+matukar	yali	0084	wai	like	other	other				
+matukar	yali	0084	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	8048	
+matukar	yali	0084	aim	son	np.h:p	np	h	p	8012	
+matukar	yali	0084	ti-kud	NEG-cast.out	v:pred	v		pred		
+matukar	yali	0084	-i	-3SG.P	-pro_h_p	-pro_h_p			8012	
+matukar	yali	0084	-nge	-SEQ:D	-rv	-rv				
+matukar	yali	0084	%	%	%	%				
+matukar	yali	0084	#	#	#ds	#ds				
+matukar	yali	0084	patun-a	outside-LOC	np:g	np		g	8049	bridging
+matukar	yali	0084	ZERO	ZERO	0.h:s	0	h	s	8012	
+matukar	yali	0084	ya-	3SG.S-	-pro_h_s	-pro_h_s			8012	
+matukar	yali	0084	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	yali	0084	%	%	%	%				
+matukar	yali	0085	#	#	#ds	#ds				
+matukar	yali	0085	ong	2SG.S	pro.2:s	pro	2	s	8001	
+matukar	yali	0085	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	8048	
+matukar	yali	0085	aim	son	np.h:p	np	h	p	8012	
+matukar	yali	0085	manag	like.that	other	other				
+matukar	yali	0085	met	ruin	v:pred	v		pred		
+matukar	yali	0085	-i	-3SG.P	-pro_h_p	-pro_h_p			8012	
+matukar	yali	0085	-ndop	-IRR:D	-rv	-rv				
+matukar	yali	0085	%	%	%	%				
+matukar	yali	0085	#	#	#ds	#ds				
+matukar	yali	0085	ZERO	ZERO	0.h:s	0	h	s	8012	
+matukar	yali	0085	haiyan-aba	bad-I:IRR	v:pred	v		pred		
+matukar	yali	0085	%	%	%	%				
+matukar	yali	0086	#	#	#	#				
+matukar	yali	0086	dar-an-da	blood-3SG-COM	np:dt_obl	np		dt_obl	8047	
+matukar	yali	0086	aim	son	np.h:p	np	h	p	8040	
+matukar	yali	0086	dar-an-da	blood-3SG-COM	np:obl	np		obl	8047	
+matukar	yali	0086	ZERO	ZERO	0.h:a	0	h	a	8012	
+matukar	yali	0086	ngale-nge	take-R:I:PFV	v:pred	v		pred		
+matukar	yali	0086	%	%	%	%				
+matukar	yali	0087	#	#	#	#				
+matukar	yali	0087	do	and	other	other				
+matukar	yali	0087	ZERO	ZERO	0.1:s_ds	0	1	s_ds	8001	
+matukar	yali	0087	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0087	tuli-nge	say-R:I:PFV	v:pred	v		pred		
+matukar	yali	0087	%	%	%	%				
+matukar	yali	0087	#	#	#ds.neg	#ds.neg				
+matukar	yali	0087	nen	mom	np.h:voc	np	h	voc		
+matukar	yali	0088	ngau	1SG.A	pro.1:s_ds	pro	1	s_ds	8001	
+matukar	yali	0088	ZERO	ZERO	0.h:g	0	h	g	8012	
+matukar	yali	0088	ti-	NEG-	-lv	-lv				
+matukar	yali	0088	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0088	tuli	say	v:pred	v		pred		
+matukar	yali	0088	pan	give	rv	rv				
+matukar	yali	0088	-i	-3SG.P	-rv_pro_h_g	-rv_pro_h_g			8012	
+matukar	yali	0088	-nge	-SEQ:D	-rv	-rv				
+matukar	yali	0088	%	%	%	%				
+matukar	yali	0088	#	#	#ds	#ds				
+matukar	yali	0088	hibe-n	self-3SG	nc	nc				
+matukar	yali	0088	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8012	
+matukar	yali	0088	ilo-n	thought-3SG	np:obl	np		obl	8050	new
+matukar	yali	0088	ho	with	adp	adp				
+matukar	yali	0088	ZERO	ZERO	0.h:s	0	h	s	8012	
+matukar	yali	0088	soipid-e	come.up-SEQ:D	v:pred	v		pred		
+matukar	yali	0088	%	%	%	%				
+matukar	yali	0088	#	#	#ds	#ds				
+matukar	yali	0088	ZERO	ZERO	0.h:a	0	h	a	8012	
+matukar	yali	0088	ZERO	ZERO	0.h:p	0	h	p	8040	
+matukar	yali	0088	ngale-nge	take-R:I:PFV	v:pred	v		pred		
+matukar	yali	0088	%	%	%	%				
+matukar	yali	0089	#	#	#	#				
+matukar	yali	0089	manag	like.that	other	other				
+matukar	yali	0089	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0089	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0089	bal-do	say-R:D	v:pred	v		pred		
+matukar	yali	0089	%	%	%	%				
+matukar	yali	0090	#	#	#	#				
+matukar	yali	0090	ZERO	ZERO	0.1:s	0	1	s	8051	bridging
+matukar	yali	0090	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8051	
+matukar	yali	0090	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	yali	0090	%	%	%	%				
+matukar	yali	0091	#	#	#	#				
+matukar	yali	0091	ZERO	ZERO	0.1:s	0	1	s	8051	
+matukar	yali	0091	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8051	
+matukar	yali	0091	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	yali	0091	nal	day	np:other	np		other		
+matukar	yali	0091	aru	two	rn	rn				
+matukar	yali	0091	tol	three	rn	rn				
+matukar	yali	0091	%	%	%	%				
+matukar	yali	0092	#	#	#neg	#neg				
+matukar	yali	0092	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8040	
+matukar	yali	0092	borokasu-n	umbilical.cord-3SG	np:s	np		s	8052	bridging
+matukar	yali	0092	main	TOP	rn	rn				
+matukar	yali	0092	aim	boy	ln_np.h	ln_np	h		8040	
+matukar	yali	0092	ha-n	POSS-3SG	ln	ln				
+matukar	yali	0092	borokasu-n	umbilical.cord-3SG	np:appos	np		appos	8052	
+matukar	yali	0093	ti	NEG	ln	ln				
+matukar	yali	0093	kororai	dry	v:pred	v		pred		
+matukar	yali	0093	%	%	%	%				
+matukar	yali	0094	#	#	#	#				
+matukar	yali	0094	manag	like.that	other	other				
+matukar	yali	0094	abab-ma-n-da	sore-APS-3SG-COM	np:obl	np		obl	8053	new
+matukar	yali	0094	ZERO	ZERO	0:s	0		s	8052	
+matukar	yali	0094	ya-	3SG.S-	-pro_s	-pro_s			8052	
+matukar	yali	0094	en-do	exist-R:D	v:pred	v		pred		
+matukar	yali	0094	%	%	%	%				
+matukar	yali	0095	#	#	#	#				
+matukar	yali	0095	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8012	
+matukar	yali	0095	tawa-n	elder.brother-3SG	ln_np.h:poss	ln_np	h	poss	8054	new
+matukar	yali	0095	dabok	big	ln	ln				
+matukar	yali	0095	ha-n	POSS-3SG	ln	ln				
+matukar	yali	0095	aim	son	np.h:predex	np	h	predex	8055	new
+matukar	yali	0095	%	%	%	%				
+matukar	yali	0096	#	#	#	#				
+matukar	yali	0096	tawa-n	elder.brother-3SG	np.h:dt	np	h	dt	8054	
+matukar	yali	0096	dabok	big	rn	rn				
+matukar	yali	0096	main	TOP	rn	rn				
+matukar	yali	0096	ninga	name	np:s	np		s	8056	bridging
+matukar	yali	0096	-n	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	8054	
+matukar	yali	0096	Wadau	Wadau	pn_np:pred	pn_np		pred		
+matukar	yali	0096	ai	COP	cop	cop				
+matukar	yali	0096	%	%	%	%				
+matukar	yali	0097	#	#	#	#				
+matukar	yali	0097	do	and	other	other				
+matukar	yali	0097	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8054	
+matukar	yali	0097	aim	son	np.h:dt	np	h	dt	8055	
+matukar	yali	0097	main	TOP	rn	rn				
+matukar	yali	0097	ninga	name	np:s	np		s	8057	bridging
+matukar	yali	0097	-n	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	8055	
+matukar	yali	0097	Abanam	Abanam	pn_np:pred	pn_np		pred		
+matukar	yali	0097	ai	COP	cop	cop				
+matukar	yali	0098	Abanam	Abanam	other	other				
+matukar	yali	0098	Wadau	Wadau	other	other				
+matukar	yali	0098	%	%	%	%				
+matukar	yali	0099	#	#	#	#				
+matukar	yali	0099	ZERO	ZERO	0.h:s	0	h	s	8058	bridging
+matukar	yali	0099	di-	3PL.S-	-pro_h_s	-pro_h_s			8058	
+matukar	yali	0099	si-ngan-e	descend-CONT-SEQ:D	v:pred	v		pred		
+matukar	yali	0099	%	%	%	%				
+matukar	yali	0099	#	#	#	#				
+matukar	yali	0099	Raward	Raward	pn_np.h:p	pn_np	h	p	8012	
+matukar	yali	0099	Marun	Marun	rn_pn_np	rn_pn_np				
+matukar	yali	0099	ZERO	ZERO	0.h:a	0	h	a	8058	
+matukar	yali	0099	di-	3PL.A-	-pro_h_a	-pro_h_a			8058	
+matukar	yali	0099	hun	hit	v:pred	v		pred		
+matukar	yali	0099	-i	-3SG.P	-pro_h_p	-pro_h_p			8012	
+matukar	yali	0099	-nge	-R:I:PFV	-rv	-rv				
+matukar	yali	0099	%	%	%	%				
+matukar	yali	0100	#	#	#	#				
+matukar	yali	0100	ZERO	ZERO	0.h:a	0	h	a	8058	
+matukar	yali	0100	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0100	di-	3PL.A-	-pro_h_a	-pro_h_a			8058	
+matukar	yali	0100	hun	hit	v:pred	v		pred		
+matukar	yali	0100	-i	-3SG.P	-pro_h_p	-pro_h_p			8012	
+matukar	yali	0100	-nge	-SEQ:D	-rv	-rv				
+matukar	yali	0100	%	%	%	%				
+matukar	yali	0100	#	#	#	#				
+matukar	yali	0100	ZERO	ZERO	0.h:a	0	h	a	8058	
+matukar	yali	0100	ZERO	ZERO	0.h:g	0	h	g	8012	
+matukar	yali	0100	di-	3PL.A-	-pro_h_a	-pro_h_a			8058	
+matukar	yali	0100	pai-ndo	cross-R:D	v:pred	v		pred		
+matukar	yali	0100	%	%	%	%				
+matukar	yali	0101	#	#	#	#				
+matukar	yali	0101	ZERO	ZERO	0.h:a	0	h	a	8058	
+matukar	yali	0101	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0101	di-	3PL.A-	-pro_h_a	-pro_h_a			8058	
+matukar	yali	0101	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	yali	0101	%	%	%	%				
+matukar	yali	0101	#	#	#neg	#neg				
+matukar	yali	0101	kar	car_[English]	np:g	np		g	8059	new
+matukar	yali	0101	ZERO	ZERO	0.h:a	0	h	a	8058	
+matukar	yali	0101	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0101	ti-	NEG-	-lv	-lv				
+matukar	yali	0101	di-	3PL.A-	-pro_h_a	-pro_h_a			8058	
+matukar	yali	0101	nage-nge	put-SEQ:D	v:pred	v		pred		
+matukar	yali	0101	%	%	%	%				
+matukar	yali	0101	#	#	#	#				
+matukar	yali	0101	ZERO	ZERO	0.h:a	0	h	a	8058	
+matukar	yali	0101	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0101	di-	3PL.A-	-pro_h_a	-pro_h_a			8058	
+matukar	yali	0101	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	yali	0101	diy-	3PL.S--	-rv_pro_h_a	-rv_pro_h_a			8058	
+matukar	yali	0101	au	go	rv	rv				
+matukar	yali	0101	%	%	%	%				
+matukar	yali	0102	#	#	#	#				
+matukar	yali	0102	ZERO	ZERO	0.h:s	0	h	s	8058	
+matukar	yali	0102	diy-	3PL.S-	-pro_h_s	-pro_h_s			8058	
+matukar	yali	0102	au-we	go-SEQ:D	v:pred	v		pred		
+matukar	yali	0102	%	%	%	%				
+matukar	yali	0102	#	#	#	#				
+matukar	yali	0102	cell-lo	cell_[TokPisin]-LOC	np:g	np		g	8060	new
+matukar	yali	0102	ZERO	ZERO	0.h:a	0	h	a	8058	
+matukar	yali	0102	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0102	di-	3PL.A-	-pro_h_a	-pro_h_a			8058	
+matukar	yali	0102	nage-nge	put-R:I:PFV	v:pred	v		pred		
+matukar	yali	0102	%	%	%	%				
+matukar	yali	0103	#	#	#	#				
+matukar	yali	0103	cell-lo	cell_[TokPisin]-LOC	np:g	np		g	8060	
+matukar	yali	0103	ZERO	ZERO	0.h:a	0	h	a	8058	
+matukar	yali	0103	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0103	di-	3PL.A-	-pro_h_a	-pro_h_a			8058	
+matukar	yali	0103	nage-nge	put-R:I:PFV	v:pred	v		pred		
+matukar	yali	0103	%	%	%	%				
+matukar	yali	0103	#	#	#	#				
+matukar	yali	0103	do	and	other	other				
+matukar	yali	0103	tidom	night	np:other	np		other		
+matukar	yali	0104	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8012	
+matukar	yali	0104	aim	son	np.h:dt	np	h	dt	8040	
+matukar	yali	0104	main	TOP	rn	rn				
+matukar	yali	0104	ngau	1SG.S	pro.1:a	pro	1	a	8001	
+matukar	yali	0104	apasin	hard.work	np:p	np		p	8061	new
+matukar	yali	0104	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0104	bi-ndo	hold-R:D	v:pred	v		pred		
+matukar	yali	0104	%	%	%	%				
+matukar	yali	0104	#	#	#	#				
+matukar	yali	0104	malalhate-nge	day.break-R:I:PFV	v:pred	v		pred		
+matukar	yali	0104	%	%	%	%				
+matukar	yali	0105	#	#	#	#				
+matukar	yali	0105	do	and	other	other				
+matukar	yali	0105	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0105	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0105	in-do	sleep-R:D	v:pred	v		pred		
+matukar	yali	0105	%	%	%	%				
+matukar	yali	0105	#	#	#	#				
+matukar	yali	0105	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0105	ngai-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0105	namim-e	dream-R:I:PFV	v:pred	v		pred		
+matukar	yali	0105	%	%	%	%				
+matukar	yali	0106	#	#	#	#				
+matukar	yali	0106	do	and	other	other				
+matukar	yali	0106	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0106	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0106	in-do	sleep-R:D	v:pred	v		pred		
+matukar	yali	0106	%	%	%	%				
+matukar	yali	0106	#	#	#	#				
+matukar	yali	0106	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0106	ngai-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0106	namim-e	dream-SEQ:D	v:pred	v		pred		
+matukar	yali	0106	#	#	#cc	#cc				
+matukar	yali	0106	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8040	
+matukar	yali	0106	mam	dad	np.h:s	np	h	s	8012	
+matukar	yali	0106	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	yali	0106	%	%	%	%				
+matukar	yali	0106	%	%	%	%				
+matukar	yali	0107	#	#	#	#				
+matukar	yali	0107	ZERO	ZERO	0.h:s	0	h	s	8012	
+matukar	yali	0107	palum-e	come-SEQ:D	v:pred	v		pred		
+matukar	yali	0107	%	%	%	%				
+matukar	yali	0107	#	#	#	#				
+matukar	yali	0107	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8012	
+matukar	yali	0107	aim	son	np.h:p	np	h	p	8040	
+matukar	yali	0107	ZERO	ZERO	0.h:a	0	h	a	8012	
+matukar	yali	0107	ngale-nge	take-I:PFV	v:pred	v		pred		
+matukar	yali	0107	%	%	%	%				
+matukar	yali	0108	#	#	#	#				
+matukar	yali	0108	do	and	other	other				
+matukar	yali	0108	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0108	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0108	mais-e	rise-SEQ:D	v:pred	v		pred		
+matukar	yali	0108	%	%	%	%				
+matukar	yali	0108	#	#	#	#				
+matukar	yali	0108	pain-im	woman-PL	np.h:a	np	h	a	8062	new
+matukar	yali	0108	ZERO	ZERO	0.1:p	0	1	p	8001	
+matukar	yali	0108	di-	3PL.A-	-pro_h_a	-pro_h_a			8062	
+matukar	yali	0108	yamat	care.for	v:pred	v		pred		
+matukar	yali	0108	-au	-1SG.P	-pro_1_p	-pro_1_p			8001	
+matukar	yali	0108	-go	-R:I:IMPV	-rv	-rv				
+matukar	yali	0108	main	TOP	other	other				
+matukar	yali	0108	%	%	%	%				
+matukar	yali	0109	#	#	#	#				
+matukar	yali	0109	ab-ate	house-LOC	np:l	np		l	8063	bridging
+matukar	yali	0109	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0109	ZERO	ZERO	0.h:p	0	h	p	8040	
+matukar	yali	0109	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0109	neg-e-nga	give.birth-SEQ:D-EMPH	v:pred	v		pred		
+matukar	yali	0109	%	%	%	%				
+matukar	yali	0110	#	#	#	#				
+matukar	yali	0110	main	PROX	dem_pro:p	dem_pro		p		
+matukar	yali	0110	ZERO	ZERO	0.1:a_ds	0	1	a_ds	8001	
+matukar	yali	0110	ZERO	ZERO	0.h:p	0	h	p	8062	
+matukar	yali	0110	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0110	tuli	say	v:pred	v		pred		
+matukar	yali	0110	pan	give	rv	rv				
+matukar	yali	0110	-din	-3PL.P	-rv_pro_h_p	-rv_pro_h_p			8062	
+matukar	yali	0110	-e	-R:I:PFV	-rv	-rv				
+matukar	yali	0110	%	%	%	%				
+matukar	yali	0111	#	#	#ds.neg	#ds.neg				
+matukar	yali	0111	Raward	Raward	pn_np.h:s	pn_np	h	s	8012	
+matukar	yali	0111	Marun	Marun	rn_pn_np	rn_pn_np				
+matukar	yali	0111	main	TOP	rn	rn				
+matukar	yali	0111	ti-karabus-ap	NEG-go.to.jail_[TokPisin]-IRR:D	v:pred	v		pred		
+matukar	yali	0111	%	%	%	%				
+matukar	yali	0111	#	#	#	#				
+matukar	yali	0111	ZERO	ZERO	0.1:s_ds	0	1	s_ds	8001	
+matukar	yali	0111	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0111	ba	say	v:pred	v		pred		
+matukar	yali	0111	%	%	%	%				
+matukar	yali	0112	#	#	#ds	#ds				
+matukar	yali	0112	main	PROX	other	other				
+matukar	yali	0112	ZERO	ZERO	0.h:a	0	h	a	8058	
+matukar	yali	0112	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0112	di-	3PL.A-	-pro_h_a	-pro_h_a			8058	
+matukar	yali	0112	ngale	take	v:pred	v		pred		
+matukar	yali	0112	di-	3PL.S-	-rv_pro_h_a	-rv_pro_h_a			8058	
+matukar	yali	0112	yau-we	go-SEQ:D	rv	rv				
+matukar	yali	0112	saman	empty	other	other				
+matukar	yali	0112	%	%	%	%				
+matukar	yali	0113	#	#	#ds.neg	#ds.neg				
+matukar	yali	0113	gamuk-ama-n	talk-APS-3SG	np:predex	np		predex		
+matukar	yali	0113	ti	NEG	rn	rn				
+matukar	yali	0113	%	%	%	%				
+matukar	yali	0113	#	#	#ds	#ds				
+matukar	yali	0113	ZERO	ZERO	0.h:a	0	h	a	8058	
+matukar	yali	0113	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0113	di-	3PL.A-	-pro_h_a	-pro_h_a			8058	
+matukar	yali	0113	ngale	take	v:pred	v		pred		
+matukar	yali	0113	diy-	3PL.S--	-rv_pro_h_a	-rv_pro_h_a			8058	
+matukar	yali	0113	a-we	go-SEQ:D	rv	rv				
+matukar	yali	0113	%	%	%	%				
+matukar	yali	0113	#	#	#ds	#ds				
+matukar	yali	0113	ZERO	ZERO	0.h:a	0	h	a	8058	
+matukar	yali	0113	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0113	di-	3PL.A-	-pro_h_a	-pro_h_a			8058	
+matukar	yali	0113	nage-nge	put-SEQ:D	v:pred	v		pred		
+matukar	yali	0114	ar-lo	jail-LOC_in	np:g	np		g	8060	
+matukar	yali	0114	%	%	%	%				
+matukar	yali	0114	#	#	#	#				
+matukar	yali	0114	ZERO	ZERO	0.h:s_ds	0	h	s_ds	8001	
+matukar	yali	0114	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0114	ba	say	v:pred	v		pred		
+matukar	yali	0114	%	%	%	%				
+matukar	yali	0115	#	#	#ds	#ds				
+matukar	yali	0115	kaibo	but	other	other				
+matukar	yali	0115	main-angan	PROX-EMPH	dem_pro.h:dt_s	dem_pro	h	dt_s	8012	
+matukar	yali	0115	i	3SG.S	pro.h:s	pro	h	s	8012	
+matukar	yali	0115	mul-do-mba	return.AGAIN-IRR:I	v:pred	v		pred		
+matukar	yali	0115	%	%	%	%				
+matukar	yali	0116	#	#	#	#				
+matukar	yali	0116	do	and	other	other				
+matukar	yali	0116	nal	time	np:other	np		other		
+matukar	yali	0117	i	3SG.S	pro.h:s	pro	h	s	8012	
+matukar	yali	0117	pid-ap	descend-IRR:D	v:pred	v		pred		
+matukar	yali	0117	ne-n	leg-3SG	np:g	np		g	8059	
+matukar	yali	0117	yawayawa-alo	four-LOC_in	rn	rn				
+matukar	yali	0117	roli-lo	car-LOC_in	np:appos	np		appos	8059	
+matukar	yali	0117	%	%	%	%				
+matukar	yali	0118	#	#	#	#				
+matukar	yali	0118	ZERO	ZERO	0.h:s	0	h	s	8012	
+matukar	yali	0118	laipid-abai	go.down-3SG.S-DIR'downwards'-IRR:I:DESID	v:pred	v		pred		
+matukar	yali	0118	%	%	%	%				
+matukar	yali	0118	#	#	#	#				
+matukar	yali	0118	ZERO	ZERO	0.h:s	0	h	s	8012	
+matukar	yali	0118	bul-do	try-R:D	v:pred	v		pred		
+matukar	yali	0118	%	%	%	%				
+matukar	yali	0118	#	#	#	#				
+matukar	yali	0118	ZERO	ZERO	0.1:a_ds	0	1	a_ds	8001	
+matukar	yali	0118	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0118	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0118	tuli	say	v:pred	v		pred		
+matukar	yali	0118	pan	give	rv	rv				
+matukar	yali	0118	-i	-3SG.P	-pro_h_p	-pro_h_p			8012	
+matukar	yali	0118	-nge	-R:I:PFV	-rv	-rv				
+matukar	yali	0118	%	%	%	%				
+matukar	yali	0119	#	#	#ds	#ds				
+matukar	yali	0119	nal	time	np:other	np		other		
+matukar	yali	0119	ZERO	ZERO	0.2:s	0	2	s	8012	
+matukar	yali	0119	w-	2SG.S-	-pro_2_s	-pro_2_s			8012	
+matukar	yali	0119	a-p	go-IRR:D	v:pred	v		pred		
+matukar	yali	0119	%	%	%	%				
+matukar	yali	0119	#	#	#ds	#ds				
+matukar	yali	0119	cell-lo	cell_[TokPisin]-LOC_in	np:g	np		g	8060	
+matukar	yali	0119	ZERO	ZERO	0.2:s	0	2	s	8012	
+matukar	yali	0119	w-	2SG.S-	-pro_2_s	-pro_2_s			8012	
+matukar	yali	0119	a-ba-dop	go-IRR:I-CONJ	v:pred	v		pred		
+matukar	yali	0119	%	%	%	%				
+matukar	yali	0120	#	#	#ds	#ds				
+matukar	yali	0120	milo	something	ln	ln				
+matukar	yali	0120	roli	car	ln_pro:poss	ln_pro		poss	8059	
+matukar	yali	0120	ha-n	POSS-3SG	ln	ln				
+matukar	yali	0120	nenamun	waste	ln	ln				
+matukar	yali	0120	tan	ground	np:predex	np		predex	8065	new
+matukar	yali	0120	pare-k-ama-n	stomp-NOM.UNPOSS-APS-3SG	rn	rn				
+matukar	yali	0120	main	TOP	rn	rn				
+matukar	yali	0120	%	%	%	%				
+matukar	yali	0121	#	#	#ds	#ds				
+matukar	yali	0121	hadok	half	np:p	np		p	8066	bridging
+matukar	yali	0121	ZERO	ZERO	0.2:a	0	2	a	8012	
+matukar	yali	0121	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	yali	0121	%	%	%	%				
+matukar	yali	0121	#	#	#ds	#ds				
+matukar	yali	0121	trausis-lo	trousers_[TokPisin]-LOC_in	np:g	np		g	8067	new
+matukar	yali	0121	ZERO	ZERO	0.h:a	0	h	a	8012	
+matukar	yali	0121	ZERO	ZERO	0:p	0		p	8066	
+matukar	yali	0121	peni	fill	v:pred	v		pred		
+matukar	yali	0121	%	%	%	%				
+matukar	yali	0121	#	#	#	#				
+matukar	yali	0121	ZERO	ZERO	0.1:s_ds	0	1	s_ds	8001	
+matukar	yali	0121	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0121	bal-e	say-R:I:PFV	v:pred	v		pred		
+matukar	yali	0121	%	%	%	%				
+matukar	yali	0122	#	#	#	#				
+matukar	yali	0122	manag	like.that	other	other				
+matukar	yali	0122	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0122	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0122	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0122	tuli	say	v:pred	v		pred		
+matukar	yali	0122	pan	give	rv	rv				
+matukar	yali	0122	-i	-3SG.P	-pro_h_p	-pro_h_p			8012	
+matukar	yali	0122	-nge	-R:I:PFV	-rv	-rv				
+matukar	yali	0122	%	%	%	%				
+matukar	yali	0123	#	#	#	#				
+matukar	yali	0123	do	and	other	other				
+matukar	yali	0123	manag	like.that	other	other				
+matukar	yali	0123	ZERO	ZERO	0.h:s	0	h	s	8012	
+matukar	yali	0123	bul-e	do-R:I:PFV	v:pred	v		pred		
+matukar	yali	0123	%	%	%	%				
+matukar	yali	0124	#	#	#	#				
+matukar	yali	0124	do-pe	and-COND	other	other				
+matukar	yali	0124	ZERO	ZERO	0.h:a	0	h	a	8012	
+matukar	yali	0124	ZERO	ZERO	0:p	0		p	8066	
+matukar	yali	0124	peni-ngenga	fill-EMPH	v:pred	v		pred		
+matukar	yali	0124	%	%	%	%				
+matukar	yali	0124	#	#	#	#				
+matukar	yali	0124	sabi-ya	sun-LOC	np:other	np		other		
+matukar	yali	0124	ZERO	ZERO	0.h:s	0	h	s	8012	
+matukar	yali	0124	mul-palum-e	return-DIR_towards_ref-R:I:PFV	v:pred	v		pred		
+matukar	yali	0124	%	%	%	%				
+matukar	yali	0125	#	#	#	#				
+matukar	yali	0125	ZERO	ZERO	0.h:s	0	h	s	8012	
+matukar	yali	0125	mul-palum-e	return-DIR_towards_ref-SEQ:D	v:pred	v		pred		
+matukar	yali	0125	%	%	%	%				
+matukar	yali	0125	#	#	#neg	#neg				
+matukar	yali	0125	aim	boy	np.h:s	np	h	s	8040	
+matukar	yali	0125	tidom	night	np:other	np		other		
+matukar	yali	0125	ti-	NEG-	-lv	-lv				
+matukar	yali	0125	y-	3SG.S-	-pro_h_s	-pro_h_s			8040	
+matukar	yali	0125	en-e	sleep-SEQ:D	v:pred	v		pred		
+matukar	yali	0125	%	%	%	%				
+matukar	yali	0125	#	#	#	#				
+matukar	yali	0125	ZERO	ZERO	0.h:s	0	h	s	8040	
+matukar	yali	0125	tam-do	cry-R:D	v:pred	v		pred		
+matukar	yali	0125	%	%	%	%				
+matukar	yali	0125	#	#	#	#				
+matukar	yali	0125	ZERO	ZERO	0.h:s	0	h	s	8040	
+matukar	yali	0125	tam-do	cry-R:D	v:pred	v		pred		
+matukar	yali	0125	%	%	%	%				
+matukar	yali	0125	#	#	#	#				
+matukar	yali	0125	ZERO	ZERO	0.h:s	0	h	s	8040	
+matukar	yali	0125	tam-do	cry-R:D	v:pred	v		pred		
+matukar	yali	0125	%	%	%	%				
+matukar	yali	0125	#	#	#	#				
+matukar	yali	0125	malalhate-nge	day.break-R:PFV	v:pred	v		pred		
+matukar	yali	0125	%	%	%	%				
+matukar	yali	0126	#	#	#	#				
+matukar	yali	0126	tini	skin	np:s	np		s	8068	new
+matukar	yali	0126	-n	-3SG	-rn_pro.h:poss	-rn_pro	h	poss	8040	
+matukar	yali	0126	wakadik-ago	pain-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0126	%	%	%	%				
+matukar	yali	0127	#	#	#	#				
+matukar	yali	0127	dona	CONJ	other	other				
+matukar	yali	0127	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8040	
+matukar	yali	0127	mam	dad	np.h:s	np	h	s	8012	
+matukar	yali	0127	palum-e	come-SEQ:D	v:pred	v		pred		
+matukar	yali	0127	%	%	%	%				
+matukar	yali	0127	#	#	#	#				
+matukar	yali	0127	manag	like.that	other:p	other		p		
+matukar	yali	0127	ZERO	ZERO	0.h:a	0	h	a	8012	
+matukar	yali	0127	te-ndo	see-R:D	v:pred	v		pred		
+matukar	yali	0127	%	%	%	%				
+matukar	yali	0128	#	#	#	#				
+matukar	yali	0128	tan	dirt	np:p	np		p	8066	
+matukar	yali	0128	main	TOP	rn	rn				
+matukar	yali	0128	ZERO	ZERO	0.h:a	0	h	a	8012	
+matukar	yali	0128	pasi-nge	take.out-nge	v:pred	v		pred		
+matukar	yali	0128	%	%	%	%				
+matukar	yali	0128	#	#	#	#				
+matukar	yali	0128	nuba-lo	water-LOC_in	np:g	np		g	8069	new
+matukar	yali	0128	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0128	ZERO	ZERO	0:p	0		p	8066	
+matukar	yali	0128	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0128	nage-nge	put-SEQ:D	v:pred	v		pred		
+matukar	yali	0128	%	%	%	%				
+matukar	yali	0128	#	#	#	#				
+matukar	yali	0128	aim	boy	0.h:p	0	h	p	8040	
+matukar	yali	0128	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0128	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0128	ngale-nge	take-SEQ:D	v:pred	v		pred		
+matukar	yali	0128	%	%	%	%				
+matukar	yali	0128	#	#	#	#				
+matukar	yali	0128	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0128	ZERO	ZERO	0.h:p	0	h	p	8040	
+matukar	yali	0128	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0128	sug	bathe	v:pred	v		pred		
+matukar	yali	0128	-i	-3SG.P	-pro_h_p	-pro_h_p			8040	
+matukar	yali	0128	-nge	-SEQ:D	-rv	-rv				
+matukar	yali	0128	%	%	%	%				
+matukar	yali	0129	#	#	#	#				
+matukar	yali	0129	do	and	other	other				
+matukar	yali	0129	aim	boy	np.h:s	np	h	s	8040	
+matukar	yali	0129	uyan-e	good-SEQ:D	v:pred	v		pred		
+matukar	yali	0129	%	%	%	%				
+matukar	yali	0129	#	#	#	#				
+matukar	yali	0129	ZERO	ZERO	0.h:s	0	h	s	8040	
+matukar	yali	0129	ilo	thought	lv	lv				
+matukar	yali	0129	-n	-3SG.S	-rn_pro.h:poss	-rn_pro	h	poss	8040	
+matukar	yali	0129	uyan-e	good-R:I:PFV	v:pred	v		pred		
+matukar	yali	0129	%	%	%	%				
+matukar	yali	0130	#	#	#neg	#neg				
+matukar	yali	0130	aim	boy	np.h:s	np	h	s	8040	
+matukar	yali	0130	natu-n-tun	small-3SG-small.REDUP	rn	rn				
+matukar	yali	0130	ta	one	rn	rn				
+matukar	yali	0130	dabok-ati	big-NEG	np:pred	np		pred		
+matukar	yali	0130	%	%	%	%				
+matukar	yali	0131	#	#	#neg	#neg				
+matukar	yali	0131	ha-n	POSS-n	ln_pro.h:poss	ln_pro	h	poss	8040	
+matukar	yali	0131	war	rope	np:s	np		s	8052	
+matukar	yali	0131	main-angan	TOP-EMPH	rn	rn				
+matukar	yali	0131	ti-ti-e	NEG-finish-SEQ:D	v:pred	v		pred		
+matukar	yali	0131	%	%	%	%				
+matukar	yali	0131	#	#	#	#				
+matukar	yali	0131	manag	like.that	other	other				
+matukar	yali	0131	ZERO	ZERO	0:s	0		s	8052	
+matukar	yali	0131	ya-	3SG.S-	-pro:s	-pro		s	8052	
+matukar	yali	0131	en-e	stay-R:I:PFV	v:pred	v		pred		
+matukar	yali	0132	nal	day	np:other	np		other		
+matukar	yali	0132	fopela	four_[TokPisin]	rn	rn				
+matukar	yali	0132	yawayawa	four	rn	rn				
+matukar	yali	0132	%	%	%	%				
+matukar	yali	0133	#	#	#	#				
+matukar	yali	0133	do	and	other	other				
+matukar	yali	0133	ida	with	other	other				
+matukar	yali	0133	ZERO	ZERO	0.1:s	0	1	s	8051	
+matukar	yali	0133	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8051	
+matukar	yali	0133	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	yali	0133	%	%	%	%				
+matukar	yali	0134	#	#	#	#				
+matukar	yali	0134	ZERO	ZERO	0.1:s	0	1	s	8051	
+matukar	yali	0134	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8051	
+matukar	yali	0134	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	yali	0134	%	%	%	%				
+matukar	yali	0134	#	#	#	#				
+matukar	yali	0134	Yali	Yali	pn_np.h:s	pn_np	h	s	8016	
+matukar	yali	0134	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	yali	0134	%	%	%	%				
+matukar	yali	0135	#	#	#	#				
+matukar	yali	0135	Yali	Yali	pn_np.h:s	pn_np	h	s	8016	
+matukar	yali	0135	palum-e	come-SEQ:D	v:pred	v		pred		
+matukar	yali	0135	%	%	%	%				
+matukar	yali	0135	#	#	#	#				
+matukar	yali	0135	manag	like.that	other:p	other		p		
+matukar	yali	0135	ZERO	ZERO	0.1:a	0	1	a	8051	
+matukar	yali	0135	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			8051	
+matukar	yali	0135	te-ndo	see-R:D	v:pred	v		pred		
+matukar	yali	0135	%	%	%	%				
+matukar	yali	0136	#	#	#	#				
+matukar	yali	0136	Yali	Yali	pn_np.h:s	pn_np	h	s	8016	
+matukar	yali	0136	main	TOP	rn	rn				
+matukar	yali	0136	gigemi	before.for.long.time	other	other				
+matukar	yali	0136	palum-e-nga	come-SEQ:D-EMPH	v:pred	v		pred		
+matukar	yali	0136	%	%	%	%				
+matukar	yali	0137	#	#	#	#				
+matukar	yali	0137	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0137	Raward	Raward	pn_np.h:a	pn_np	h	a	8012	
+matukar	yali	0137	Marun	Marun	rn_pn_np	rn_pn_np				
+matukar	yali	0137	ha-n	POSS-3SG	nc	nc				
+matukar	yali	0138	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8012	
+matukar	yali	0138	lu-n	cross.gender.sibling-3SG	np.h:p	np	h	p	8071	new
+matukar	yali	0138	ngale-ndo	take-R:D	v:pred	v		pred		
+matukar	yali	0138	%	%	%	%				
+matukar	yali	0138	#	#	#	#				
+matukar	yali	0138	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0138	y-	3SG.S-	-pro_h_s	-pro_h_s			8016	
+matukar	yali	0138	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	yali	0138	%	%	%	%				
+matukar	yali	0139	#	#	#	#				
+matukar	yali	0139	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0139	y-	3SG.S-	-pro_h_s	-pro_h_s			8016	
+matukar	yali	0139	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	yali	0139	%	%	%	%				
+matukar	yali	0139	#	#	#	#				
+matukar	yali	0139	Rai Kosa	Rai_Coast	pn_np:l	pn_np		l	8079	
+matukar	yali	0139	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0139	mado-nge	stay-R:I:PFV	v:pred	v		pred		
+matukar	yali	0139	%	%	%	%				
+matukar	yali	0140	#	#	#	#				
+matukar	yali	0140	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0140	mado-ndo-hage	stay-R:D-PROTASIS	v:pred	v		pred		
+matukar	yali	0140	%	%	%	%				
+matukar	yali	0140	#	#	#	#				
+matukar	yali	0140	alo	later	other	other				
+matukar	yali	0140	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0140	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0140	a-hage	go-PROTASIS	v:pred	v		pred		
+matukar	yali	0140	%	%	%	%				
+matukar	yali	0141	#	#	#	#				
+matukar	yali	0141	mariu	betel.nut	np:p	np		p	8018	
+matukar	yali	0141	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0141	ya-	3SG.A-	-pro_h_a	-pro_h_a			8016	
+matukar	yali	0141	yabinge	hold-SEQ:D	v:pred	v		pred		
+matukar	yali	0141	%	%	%	%				
+matukar	yali	0141	#	#	#	#				
+matukar	yali	0141	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0141	ZERO	ZERO	0:p	0		p	8018	
+matukar	yali	0141	ZERO	ZERO	0.1:g	0	1	g	8001	
+matukar	yali	0141	give-au-hage	give-1SG.P-PROTASIS	v:pred	v		pred		
+matukar	yali	0141	-au	-1SG.R	-pro_1_g	-pro_1_g			8001	
+matukar	yali	0141	%	%	%	%				
+matukar	yali	0141	#	#	#	#				
+matukar	yali	0141	ZERO	ZERO	0.1:s	0	1	s	8014	
+matukar	yali	0141	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8014	
+matukar	yali	0141	palum-e	come-R:I:PFV	v:pred	v		pred		
+matukar	yali	0141	%	%	%	%				
+matukar	yali	0142	#	#	#	#				
+matukar	yali	0142	do	and	other	other				
+matukar	yali	0142	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0142	ZERO	ZERO	0.h:p	0	h	p	8040	
+matukar	yali	0142	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0142	neg-e	give.birth-SEQ:D	v:pred	v		pred		
+matukar	yali	0142	%	%	%	%				
+matukar	yali	0142	#	#	#	#				
+matukar	yali	0142	aim	son	np.h:s	np	h	s	8040	
+matukar	yali	0142	saipid-e	ascend-SEQ:D	v:pred	v		pred		
+matukar	yali	0142	%	%	%	%				
+matukar	yali	0142	#	#	#	#				
+matukar	yali	0142	ZERO	ZERO	0.h:s	0	h	s	8040	
+matukar	yali	0142	ilo	thought	lv	lv				
+matukar	yali	0142	-n	-3SG.S	-rn_pro.h:poss	-rn_pro	h	poss	8040	
+matukar	yali	0142	uyan-e	good-SEQ:D	v:pred	v		pred		
+matukar	yali	0142	%	%	%	%				
+matukar	yali	0143	#	#	#	#				
+matukar	yali	0143	do	and	other	other				
+matukar	yali	0143	ZERO	ZERO	0.1:s	0	1	s	8051	
+matukar	yali	0143	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8051	
+matukar	yali	0143	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	yali	0143	%	%	%	%				
+matukar	yali	0143	#	#	#	#				
+matukar	yali	0143	ZERO	ZERO	0.1:s	0	1	s	8051	
+matukar	yali	0143	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8051	
+matukar	yali	0143	mado-do-ndo	stay-AGAIN-R:D	v:pred	v		pred		
+matukar	yali	0143	%	%	%	%				
+matukar	yali	0144	#	#	#	#				
+matukar	yali	0144	do	and	other	other				
+matukar	yali	0144	aipain	daughter	np.h:p	np	h	p	8072	new
+matukar	yali	0144	tahaik	one	rn	rn				
+matukar	yali	0144	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0144	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0144	nage-nge	give.birth-R:I:PFV	v:pred	v		pred		
+matukar	yali	0144	%	%	%	%				
+matukar	yali	0144	#	#	#	#				
+matukar	yali	0144	joyce	Joyce	pn_np.h:s	pn_np	h	s	8072	
+matukar	yali	0144	ai	COP	other:predex	other		predex		
+matukar	yali	0144	%	%	%	%				
+matukar	yali	0145	#	#	#	#				
+matukar	yali	0145	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0145	ZERO	ZERO	0.h:p	0	h	p	8072	
+matukar	yali	0145	nga-	1SG.A-	-pro.h:a	-pro	h	a	8001	
+matukar	yali	0145	nage-nge	give.birth-SEQ:D	v:pred	v		pred		
+matukar	yali	0145	main	TOP	other	other				
+matukar	yali	0145	%	%	%	%				
+matukar	yali	0145	#	#	#	#				
+matukar	yali	0145	joyce	Joyce	pn_np.h:p	pn_np	h	p	8072	
+matukar	yali	0145	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0145	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0145	neg-an-do	give.birth-EMPH-R:D	v:pred	v		pred		
+matukar	yali	0145	%	%	%	%				
+matukar	yali	0145	#	#	#	#				
+matukar	yali	0145	ZERO	ZERO	0.h:a	0	h	a	8073	new
+matukar	yali	0145	ZERO	ZERO	0.h:p	0	h	p	8012	
+matukar	yali	0145	di-	3PL.S-	-pro_h_s	-pro_h_s			8073	
+matukar	yali	0145	nage	make	v:pred	v		pred		
+matukar	yali	0145	haiyan-e	bad-R:I:PFV	rv	rv				
+matukar	yali	0145	%	%	%	%				
+matukar	yali	0146	#	#	#	#				
+matukar	yali	0146	do	and	other	other				
+matukar	yali	0146	i	3SG.S	pro.h:s	pro	h	s	8012	
+matukar	yali	0146	mat-e	die-R:I:PFV	v:pred	v		pred		
+matukar	yali	0146	%	%	%	%				
+matukar	yali	0147	#	#	#	#				
+matukar	yali	0147	i	3SG.S	pro.h:s	pro	h	s	8012	
+matukar	yali	0147	mat-e	die-R:I:PFV	v:pred	v		pred		
+matukar	yali	0147	%	%	%	%				
+matukar	yali	0147	#	#	#neg	#neg				
+matukar	yali	0147	ngau	1SG.S	ln_pro.1	ln_pro	1		8001	
+matukar	yali	0147	tamat	man	np.h:predex	np	h	predex		
+matukar	yali	0147	ti	NEG	rn	rn				
+matukar	yali	0147	%	%	%	%				
+matukar	yali	0148	#	#	#	#				
+matukar	yali	0148	saman	empty	np:other	np		other		
+matukar	yali	0148	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0148	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0148	mado-ndo	stay-R:D	v:pred	v		pred		
+matukar	yali	0148	%	%	%	%				
+matukar	yali	0148	#	#	#	#				
+matukar	yali	0148	hailands	highlands_[TokPisin]	ln	ln				
+matukar	yali	0148	tamat	man	np.h:p	np	h	p	8074	new
+matukar	yali	0148	ta	one	rn	rn				
+matukar	yali	0148	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0148	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0148	ngale-nge	marry.R:I:PFV	v:pred	v		pred		
+matukar	yali	0148	na	CONJ	other	other				
+matukar	yali	0148	%	%	%	%				
+matukar	yali	0149	#	#	#	#				
+matukar	yali	0149	jillian	Jillian	pn_np.h:p	pn_np	h	p	8075	new
+matukar	yali	0149	vivian-da	Vivian-COM	rn_pn_np.h	rn_pn_np	h		8076	new
+matukar	yali	0149	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0149	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0149	nage	give.birth	v:pred	v		pred		
+matukar	yali	0149	-din	-3PL.P	-pro_h_p	-pro_h_p			8077	bridging
+matukar	yali	0149	-do	-R:D	-rv	-rv				
+matukar	yali	0149	%	%	%	%				
+matukar	yali	0149	#	#	#nc	#nc				
+matukar	yali	0149	ti-e	finish-R:I:PFV	nc	nc				
+matukar	yali	0149	%	%	%	%				
+matukar	yali	0150	#	#	#nc	#nc				
+matukar	yali	0150	kes	case_[TokPisin]	nc	nc				
+matukar	yali	0150	klos	closed_[TokPisin]	nc	nc				
+matukar	yali	0150	%	%	%	%				
+matukar	yali	0151	#	#	#nc	#nc				
+matukar	yali	0151	manaiy-ami	like.that-only	nc	nc				
+matukar	yali	0151	%	%	%	%				
+matukar	yali	0151	#	#	#nc	#nc				
+matukar	yali	0151	tenk	thank_[TokPisin]	nc	nc				
+matukar	yali	0151	yu	you_[TokPisin]	nc	nc				
+matukar	yali	0151	%	%	%	%				
+matukar	yali	0152	#	#	#	#				
+matukar	yali	0152	Yali	Yali	pn_np.h:dt_s	pn_np	h	dt_s	8016	
+matukar	yali	0152	mama	mother	np.h:voc	np	h	voc		
+matukar	yali	0152	em	it_[TokPisin]	pro.h:s	pro	h	s	8016	
+matukar	yali	0152	wanpela	one	np:pred	np		pred		
+matukar	yali	0152	kain	kind_[TokPisin]	rn	rn				
+matukar	yali	0152	%	%	%	%				
+matukar	yali	0153	#	#	#	#				
+matukar	yali	0153	Yali	Yali	pn_np.h:dt	pn_np	h	dt	8016	
+matukar	yali	0153	main	TOP	rn	rn				
+matukar	yali	0153	te-k-ma-n	see-NOM-APS-3SG	np:s	np		s		
+matukar	yali	0153	main-angan	TOP-EMPH	rn	rn				
+matukar	yali	0154	#	#	#cc:pred	#cc		pred		
+matukar	yali	0154	i	3SG.S	pro.h:s	pro	h	s	8016	
+matukar	yali	0154	palum-dop	come-IRR:D	v:pred	v		pred		
+matukar	yali	0154	%	%	%	%				
+matukar	yali	0154	#	#	#cc	#cc				
+matukar	yali	0154	ong	2SG.A	pro.2:a	pro	2	a		
+matukar	yali	0154	ZERO	ZERO	0.h:p	0	h	p	8016	
+matukar	yali	0154	te-ngan-dop	see-CONT-IRR:D	v:pred	v		pred		
+matukar	yali	0154	%	%	%	%				
+matukar	yali	0154	#	#	#cc	#cc				
+matukar	yali	0154	ZERO	ZERO	0.2:s	0	2	s		
+matukar	yali	0154	u-	2SG.S-	-pro_2_s	-pro_2_s				
+matukar	yali	0154	rer-aba	fear-I:RR	v:pred	v		pred		
+matukar	yali	0154	%	%	%	%				
+matukar	yali	0154	%	%	%	%				
+matukar	yali	0155	#	#	#	#				
+matukar	yali	0155	Yali	Yali	np.h:p	np	h	p	8016	
+matukar	yali	0155	ngau	1SG.A	pro.1:a	pro	1	a	8001	
+matukar	yali	0155	ngai-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0155	ngai-te-k-ama-n	1SG.A-see-NOM-APS-3SG	v:pred	v		pred		
+matukar	yali	0155	-n	-3SG	-pro_h_p	-pro_h_p			8016	
+matukar	yali	0155	%	%	%	%				
+matukar	yali	0156	#	#	#	#				
+matukar	yali	0156	Yali	Yali	pn_np.h:dt	pn_np	h	dt	8016	
+matukar	yali	0156	main	TOP	rn	rn				
+matukar	yali	0156	ngau	1SG.A	pro.1:a	pro	1	a	8001	
+matukar	yali	0156	milo	food	np:p	np		p	8080	new
+matukar	yali	0156	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0156	nage-nge	make-SEQ:D	v:pred	v		pred		
+matukar	yali	0156	%	%	%	%				
+matukar	yali	0156	#	#	#	#				
+matukar	yali	0156	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0156	ZERO	ZERO	0:p	0		p	8080	
+matukar	yali	0156	ZERO	ZERO	0.h:g	0	h	g	8016	
+matukar	yali	0156	nga-	1SG.A-	-pro_1_a	-pro_1_a				
+matukar	yali	0156	pan	give	v:pred	v		pred		
+matukar	yali	0156	-i	-3SG.P	-pro_h_g	-pro_h_g			8016	
+matukar	yali	0156	-nge	-SEQ:D	-rv	-rv				
+matukar	yali	0156	%	%	%	%				
+matukar	yali	0156	#	#	#	#				
+matukar	yali	0156	ZERO	ZERO	0.h:a	0	h	a	8016	
+matukar	yali	0156	ZERO	ZERO	0:p	0		p	8080	
+matukar	yali	0156	ya-	3SG.A-	-pro_h_a	-pro_h_a			8016	
+matukar	yali	0156	ni-nge	eat-R:I:PFV	v:pred	v		pred		
+matukar	yali	0156	%	%	%	%				
+matukar	yali	0157	#	#	#neg	#neg				
+matukar	yali	0157	Yali	Yali	pn_np.h:s	pn_np	h	s	8016	
+matukar	yali	0157	main	TOP	rn	rn				
+matukar	yali	0157	gigemi	before.for.long.time	other	other				
+matukar	yali	0157	ti	NEG	lv	lv				
+matukar	yali	0157	mat-e	die-R:I:PFV	v:pred	v		pred		
+matukar	yali	0157	%	%	%	%				
+matukar	yali	0158	#	#	#	#				
+matukar	yali	0158	Yali	Yali	pn_np.h:s	pn_np	h	s	8016	
+matukar	yali	0158	main	PROX	ln	ln				
+matukar	yali	0158	wari-mok	day.before.yesterday-INTSF	np:other	np		other		
+matukar	yali	0158	main	TOP	rn	rn				
+matukar	yali	0158	mat-e	die-R:I:PFV	v:pred	v		pred		
+matukar	yali	0158	%	%	%	%				
+matukar	yali	0159	#	#	#	#				
+matukar	yali	0159	hudungan	every	np.h:a	np	h	a	8041	
+matukar	yali	0159	main	TOP	rn	rn				
+matukar	yali	0159	Yali	Yali	np.h:p	np	h	p	8016	
+matukar	yali	0159	di-	3PL.A-	-pro_h_a	-pro_h_a			8041	
+matukar	yali	0159	di-te-k-ama-n	3PL.S-see-NOM-APS-3SG	v:pred	v		pred		
+matukar	yali	0159	-n	-3SG	-pro_h_p	-pro_h_p			8016	
+matukar	yali	0159	%	%	%	%				
+matukar	yali	0160	#	#	#neg	#neg				
+matukar	yali	0160	Jillian-ada-mi	Jillian-COM-only	pn_np.h:predex	pn_np	h	predex	8081	bridging
+matukar	yali	0160	ti	NEG	rn	rn				
+matukar	yali	0160	%	%	%	%				
+matukar	yali	0161	#	#	#neg	#neg				
+matukar	yali	0161	main	PROX	dem_pro.h:a	dem_pro	h	a	8081	
+matukar	yali	0161	Yali	Yali	pn_np.h:p	pn_np	h	p	8016	
+matukar	yali	0161	ti-	NEG-	-lv	-lv				
+matukar	yali	0161	di-	3PL.A-	-pro_h_a	-pro_h_a			8081	
+matukar	yali	0161	te-ng	see-R:I:PFV	v:pred	v		pred		
+matukar	yali	0161	%	%	%	%				
+matukar	yali	0162	#	#	#	#				
+matukar	yali	0162	ari	OK	other	other				
+matukar	yali	0162	ngau	1SG.A	pro.1:a	pro	1	a	8001	
+matukar	yali	0162	Bernard	Bernard	rn_pn_np.h	rn_pn_np	h		8082	bridging
+matukar	yali	0162	hai	who	rn	rn				
+matukar	yali	0162	mikes	Mike	rn_pn_np.h	rn_pn_np	h		8083	bridging
+matukar	yali	0162	hai	who	rn	rn				
+matukar	yali	0162	hai	who	rn	rn				
+matukar	yali	0162	main	TOP	rn	rn				
+matukar	yali	0162	hudungan	every	rn	rn				
+matukar	yali	0162	Yali	Yali	np.h:p	np	h	p	8016	
+matukar	yali	0162	ngam-	1PL.EXCL.A-	-pro_1_a	-pro_1_a			8103	bridging
+matukar	yali	0162	te-k-ama	1PL.EXCL.A-see-NOM-APS-3SG	v:pred	v		pred		
+matukar	yali	0162	-n	-3SG	-pro_h_p	-pro_h_p			8016	
+matukar	yali	0162	%	%	%	%				
+matukar	yali	0163	#	#	#neg	#neg				
+matukar	yali	0163	Yali	Yali	pn_np.h:s	pn_np	h	s	8016	
+matukar	yali	0163	tamat	man	lv	lv				
+matukar	yali	0163	dino	old	lv	lv				
+matukar	yali	0163	ti	NEG	lv	lv				
+matukar	yali	0163	nage-ndo	become-R:D	v:pred	v		pred		
+matukar	yali	0163	%	%	%	%				
+matukar	yali	0163	#	#	#	#				
+matukar	yali	0163	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0163	mat-e	die-R:I:PFV	v:pred	v		pred		
+matukar	yali	0163	%	%	%	%				
+matukar	yali	0164	#	#	#	#				
+matukar	yali	0164	Yali	Yali	pn_np.h:s	pn_np	h	s	8016	
+matukar	yali	0164	tamat	man	np:pred	np		pred		
+matukar	yali	0164	dabok	big	rn	rn				
+matukar	yali	0164	%	%	%	%				
+matukar	yali	0165	#	#	#	#				
+matukar	yali	0165	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8016	
+matukar	yali	0165	te-k-ama-n	see-NOM-APS-3SG	np:s	np		s	8084	bridging
+matukar	yali	0165	tur-eng-ama-n	stand-NOM-APS-3SG	rn	rn				
+matukar	yali	0165	ebo	COMP	ln	ln				
+matukar	yali	0165	bernard	Bernard	pn_np:pred	pn_np		pred		
+matukar	yali	0165	hadok	half	rn	rn				
+matukar	yali	0165	%	%	%	%				
+matukar	yali	0166	#	#	#	#				
+matukar	yali	0166	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0166	uya-uya	uya.REDUP	np:pred	np		pred		
+matukar	yali	0166	kasik	intensifier	rn	rn				
+matukar	yali	0166	malau	tall	rn	rn				
+matukar	yali	0166	malau	tall	rn	rn				
+matukar	yali	0166	kasik	intensifier	rn	rn				
+matukar	yali	0166	%	%	%	%				
+matukar	yali	0167	#	#	#	#				
+matukar	yali	0167	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0167	gamuk-ngan-dop	talk.CONT-IRR:D	v:pred	v		pred		
+matukar	yali	0167	%	%	%	%				
+matukar	yali	0167	#	#	#	#				
+matukar	yali	0167	gaumomoni	now	other	other				
+matukar	yali	0167	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8016	
+matukar	yali	0167	awa-n	mouth-3SG	np:s	np		s	8085	bridging
+matukar	yali	0167	main-angan	TOP-EMPH	rn	rn				
+matukar	yali	0168	palum	come	v:pred	v		pred		
+matukar	yali	0168	palum	come	aux	aux				
+matukar	yali	0168	%	%	%	%				
+matukar	yali	0168	#	#	#	#				
+matukar	yali	0168	gauni	now	other	other				
+matukar	yali	0168	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8016	
+matukar	yali	0168	awa-n-lo	mouth-3SG-LOC_in	np:l	np		l	8085	
+matukar	yali	0168	milo	something	np:s	np		s		
+matukar	yali	0168	hudungan	every	rn	rn				
+matukar	yali	0168	saipid-ago	ascend-R:I:I<PV	v:pred	v		pred		
+matukar	yali	0168	%	%	%	%				
+matukar	yali	0169	#	#	#ds	#ds				
+matukar	yali	0169	bura	throat	np:p	np		p	8098	bridging
+matukar	yali	0169	-di	-3PL	-rn_pro.h:poss	-rn_pro	h	poss	8097	new
+matukar	yali	0169	ZERO	ZERO	0.h:a	0	h	a	8096	new
+matukar	yali	0169	di-	3PL.A-	-pro_h_a	-pro_h_a			8096	
+matukar	yali	0169	tariut-inggo	cut-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0169	%	%	%	%				
+matukar	yali	0170	#	#	#ds	#ds				
+matukar	yali	0170	pain-im	woman-PL	np:g	np		g	8099	bridging
+matukar	yali	0170	ho	on	adp	adp				
+matukar	yali	0170	ZERO	ZERO	0.h:s	0	h	s	8096	
+matukar	yali	0170	diy-a	3PL.S-go	lv	lv				
+matukar	yali	0170	di-	3PL.S-	-pro_h_s	-pro_h_s			8096	
+matukar	yali	0170	dah-ago	jump.on-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0170	%	%	%	%				
+matukar	yali	0171	#	#	#ds	#ds				
+matukar	yali	0171	hanat	what	other:p	other		p		
+matukar	yali	0171	ta	one	other	other				
+matukar	yali	0171	ZERO	ZERO	0.h:a	0	h	a	8096	
+matukar	yali	0171	di-	3PL.A-	-pro_h_a	-pro_h_a			8096	
+matukar	yali	0171	nage-nggo	make-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0171	%	%	%	%				
+matukar	yali	0172	#	#	#ds	#ds				
+matukar	yali	0172	milo-k	something-NOM.UNPOSS	np:obl	np		obl	8100	new
+matukar	yali	0172	ho	with	adp	adp				
+matukar	yali	0172	fui	blow	np:appos	np		appos	8100	
+matukar	yali	0172	ho	with	adp	adp				
+matukar	yali	0172	ZERO	ZERO	0.h:a	0	h	a	8096	
+matukar	yali	0172	di-	3PL.A-	-pro_h_a	-pro_h_a			8096	
+matukar	yali	0172	pane	shoot	v:pred	v		pred		
+matukar	yali	0172	-din	-3PL.P	-pro_h_p	-pro_h_p			8097	
+matukar	yali	0172	-ago	-R:I:IMPV	-rv	-rv				
+matukar	yali	0172	%	%	%	%				
+matukar	yali	0173	#	#	#	#				
+matukar	yali	0173	main	PROX	dem_pro:s	dem_pro		s		
+matukar	yali	0173	Yali	Yali	ln_pn_np.h	ln_pn_np	h		8016	
+matukar	yali	0173	awa-n	mouth-3s	np:pred	np		pred	8085	
+matukar	yali	0173	%	%	%	%				
+matukar	yali	0174	#	#	#	#				
+matukar	yali	0174	ngau	1SG.A	pro.1:s	pro	1	s	8001	
+matukar	yali	0174	nga-	1SG.A-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0174	bal-e	think-SEQ:D	v:pred	v		pred		
+matukar	yali	0174	#	#	#cc	#cc				
+matukar	yali	0174	nen	mom	np.h:s	np	h	s	8003	
+matukar	yali	0174	mam-ad	dad-PL	rn_np.h	rn_np	h		8005	
+matukar	yali	0174	di-	3PL.S-	-pro_h_s	-pro_h_s			8086	bridging
+matukar	yali	0174	gamuk-adope	talk-COND	v:pred	v		pred		
+matukar	yali	0174	%	%	%	%				
+matukar	yali	0174	#	#	#cc	#cc				
+matukar	yali	0174	ha-n	POSS-3SG	ln	ln				
+matukar	yali	0174	nal	time	np:s	np		s		
+matukar	yali	0174	main	TOP	rn	rn				
+matukar	yali	0174	tunde	Tuesday	np:pred	np		pred		
+matukar	yali	0174	%	%	%	%				
+matukar	yali	0174	%	%	%	%				
+matukar	yali	0175	#	#	#	#				
+matukar	yali	0175	main	PROX	ln	ln				
+matukar	yali	0175	nal	time	np:other	np		other		
+matukar	yali	0175	hudungan	every	rn	rn				
+matukar	yali	0175	ZERO	ZERO	0.h:s	0	h	s	8086	
+matukar	yali	0175	di-	3PL.A-	-pro_h_s	-pro_h_s			8086	
+matukar	yali	0175	bud-agokai	meet-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	yali	0175	%	%	%	%				
+matukar	yali	0176	#	#	#	#				
+matukar	yali	0176	ZERO	ZERO	0.h:s	0	h	s	8086	
+matukar	yali	0176	di-	3PL.A-	-pro_h_s	-pro_h_s			8086	
+matukar	yali	0176	bud-ope	meet-COND	v:pred	v		pred		
+matukar	yali	0176	%	%	%	%				
+matukar	yali	0176	#	#	#	#				
+matukar	yali	0176	ngau	1SG.S	pro.1:s	pro	1	s	8001	
+matukar	yali	0176	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0176	a-ma	go-D:HAB	v:pred	v		pred		
+matukar	yali	0176	%	%	%	%				
+matukar	yali	0176	#	#	#	#				
+matukar	yali	0176	nen	mom	ln_np.h	ln_np	h		8003	
+matukar	yali	0176	mam-ad	dad-PL	ln_np.h	ln_np	h		8005	
+matukar	yali	0176	garang-adi-ya	beside-3PL-EMPH	np:l	np		l		
+matukar	yali	0176	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0176	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0176	in-dope	sleep-COND	v:pred	v		pred		
+matukar	yali	0176	%	%	%	%				
+matukar	yali	0176	#	#	#	#				
+matukar	yali	0176	ZERO	ZERO	0.h:s	0	h	s	8086	
+matukar	yali	0176	di-	3PL.S-	-pro_h_s	-pro_h_s			8086	
+matukar	yali	0176	gamuk-adope	talk-COND	v:pred	v		pred		
+matukar	yali	0176	%	%	%	%				
+matukar	yali	0176	#	#	#	#				
+matukar	yali	0176	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0176	ZERO	ZERO	0.h:p	0	h	p	8086	
+matukar	yali	0176	nga-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0176	nong-gokai	hear-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	yali	0176	tidom	night	np:other	np		other		
+matukar	yali	0176	%	%	%	%				
+matukar	yali	0177	#	#	#neg	#neg				
+matukar	yali	0177	sabi-ya	sun-LOC	np:other	np		other		
+matukar	yali	0177	urat	work	np:predex	np		predex		
+matukar	yali	0177	ti	NEG	rn	rn				
+matukar	yali	0177	saman	empty	other	other				
+matukar	yali	0177	%	%	%	%				
+matukar	yali	0177	#	#	#	#				
+matukar	yali	0177	ZERO	ZERO	0.1:s	0	1	s	8087	bridging
+matukar	yali	0177	ngam-	1PL.EXCL.S-	-pro_1_s	-pro_1_s			8087	
+matukar	yali	0177	mado-nggo	stay-RLILIMPV	v:pred	v		pred		
+matukar	yali	0177	%	%	%	%				
+matukar	yali	0178	#	#	#ds	#ds				
+matukar	yali	0178	milo	something	np:p	np		p		
+matukar	yali	0178	tati	nothing	rn	rn				
+matukar	yali	0178	ZERO	ZERO	0.2:a	0	2	a	8104	bridging
+matukar	yali	0178	hun	hit	v:pred	v		pred		
+matukar	yali	0178	-i	-3SG.P	-pro_p	-pro_p				
+matukar	yali	0178	-p	-IRR:D	-rv	-rv				
+matukar	yali	0178	%	%	%	%				
+matukar	yali	0178	#	#	#ds	#ds				
+matukar	yali	0178	milo	something	np:p	np		p		
+matukar	yali	0178	ta	one	rn	rn				
+matukar	yali	0178	ZERO	ZERO	0.2:a	0	2	a	8104	
+matukar	yali	0178	hun	hit	v:pred	v		pred		
+matukar	yali	0178	-i	-3SG.P	-pro_p	-pro_p				
+matukar	yali	0178	-p	-IRR:D	-rv	-rv				
+matukar	yali	0178	%	%	%	%				
+matukar	yali	0178	#	#	#ds	#ds				
+matukar	yali	0178	o	or	other	other				
+matukar	yali	0178	ZERO	ZERO	0.2:a	0	2	a	8104	
+matukar	yali	0178	mat	snake	np:p	np		p	8105	new
+matukar	yali	0178	ta	one	rn	rn				
+matukar	yali	0178	hun	hit	v:pred	v		pred		
+matukar	yali	0178	-i	-3SG.P	-pro_p	-pro_p			8105	
+matukar	yali	0178	-p	-IRR:D	-rv	-rv				
+matukar	yali	0178	%	%	%	%				
+matukar	yali	0178	#	#	#ds	#ds				
+matukar	yali	0178	ZERO	ZERO	0.2:a	0	2	a	8104	
+matukar	yali	0178	mat	snake	np:p	np		p	8105	
+matukar	yali	0178	o	or	rn	rn				
+matukar	yali	0178	ai	tree	rn_np	rn_np			8106	new
+matukar	yali	0178	ta	one	rn	rn				
+matukar	yali	0178	tare-tape	cut-CON	v:pred	v		pred		
+matukar	yali	0178	%	%	%	%				
+matukar	yali	0178	#	#	#ds	#ds				
+matukar	yali	0178	ZERO	ZERO	0.2:a	0	2	a	8104	
+matukar	yali	0178	war	rope	np:p	np		p	8107	new
+matukar	yali	0178	ta	one	rn	rn				
+matukar	yali	0178	tariuti-tape	cut-CON	v:pred	v		pred		
+matukar	yali	0178	%	%	%	%				
+matukar	yali	0178	#	#	#ds	#ds				
+matukar	yali	0178	ZERO	ZERO	0.2:a	0	2	a	8104	
+matukar	yali	0178	bor	pig	np:p	np		p	8108	new
+matukar	yali	0178	ta	one	rn	rn				
+matukar	yali	0178	pane-tape	shoot-COND	v:pred	v		pred		
+matukar	yali	0178	%	%	%	%				
+matukar	yali	0178	#	#	#ds	#ds				
+matukar	yali	0178	main	PROX	dem_pro.h:s	dem_pro	h	s	8016	
+matukar	yali	0178	palum-ago	come-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0178	main-angan	TOP-EMPH	rv	rv				
+matukar	yali	0178	main	REL	rv	rv				
+matukar	yali	0178	%	%	%	%				
+matukar	yali	0178	#	#	#ds	#ds				
+matukar	yali	0178	ong	2SG.A	pro.2:a	pro	2	a	8104	
+matukar	yali	0178	mata-n	money-3SG	np:p	np		p	8109	new
+matukar	yali	0178	pasi-mba	take.out-IRR:I	v:pred	v		pred		
+matukar	yali	0178	%	%	%	%				
+matukar	yali	0179	#	#	#	#				
+matukar	yali	0179	ngahamam	our.EXCL	ln_pro.1:poss	ln_pro	1	poss	8101	bridging
+matukar	yali	0179	nen-ad	mom-PL	np.h:s	np	h	s	8088	new
+matukar	yali	0179	manag	like.that	other	other				
+matukar	yali	0179	di-	3PL.S-	-pro_h_s	-pro_h_s			8088	
+matukar	yali	0179	bul-do	do-R:D	v:pred	v		pred		
+matukar	yali	0179	%	%	%	%				
+matukar	yali	0179	#	#	#	#				
+matukar	yali	0179	di-da	3PL.S-COM	pro.h:obl	pro	h	obl	8088	
+matukar	yali	0179	ZERO	ZERO	0.1:s	0	1	s	8001	
+matukar	yali	0179	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0179	madon-do	stay-R:D	v:pred	v		pred		
+matukar	yali	0179	%	%	%	%				
+matukar	yali	0179	#	#	#	#				
+matukar	yali	0179	ZERO	ZERO	0.1:a	0	1	a	8001	
+matukar	yali	0179	ZERO	ZERO	0.h:p	0	h	p	8088	
+matukar	yali	0179	ngai-	1SG.A-	-pro_1_a	-pro_1_a			8001	
+matukar	yali	0179	ta	see	v:pred	v		pred		
+matukar	yali	0179	-din	-3PL.P	-pro_h_p	-pro_h_p			8088	
+matukar	yali	0179	-ama-n	-APS-3SG	-rv	-rv				
+matukar	yali	0179	%	%	%	%				
+matukar	yali	0180	#	#	#neg	#neg				
+matukar	yali	0180	do	and	other	other				
+matukar	yali	0180	ngau-lo	1SG.S-LOC_in	pro.1:obl	pro	1	obl	8001	
+matukar	yali	0180	main	TOP	other	other				
+matukar	yali	0180	ngau	1SG.S	pro.1:s	pro	1	s	8001	
+matukar	yali	0180	manag	like.that	other:predex	other		predex		
+matukar	yali	0180	ti	NEG	other	other				
+matukar	yali	0180	%	%	%	%				
+matukar	yali	0181	#	#	#	#				
+matukar	yali	0181	nga-ha-u	1SG.S-POSS-1SG	ln_pro.1:poss	ln_pro	1	poss	8001	
+matukar	yali	0181	nen-lo	mom-LOC_in	np.h:other	np	h	other	8003	
+matukar	yali	0181	main	TOP	rn	rn				
+matukar	yali	0181	manag	like.that	other	other				
+matukar	yali	0181	ZERO	ZERO	0:s	0		s		
+matukar	yali	0181	ya-	3SG.S--	-pro_s	-pro_s				
+matukar	yali	0181	a-we	go-R:I:PFV	v:pred	v		pred		
+matukar	yali	0181	Yali-lo	Yali-LOC_in	pn_np.h:g	pn_np	h	g	8016	
+matukar	yali	0181	%	%	%	%				
+matukar	yali	0182	#	#	#	#				
+matukar	yali	0182	do	and	other	other				
+matukar	yali	0182	Yali	Yali	pn_np.h:dt	pn_np	h	dt	8016	
+matukar	yali	0182	i	3SG.S	pro_h_s	pro_h_s			8016	
+matukar	yali	0182	si-nge	descend-SEQ:D	v:pred	v		pred		
+matukar	yali	0182	%	%	%	%				
+matukar	yali	0182	#	#	#	#				
+matukar	yali	0182	manag	like.that	other	other				
+matukar	yali	0182	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0182	ya-	3SG.S-	-pro_h_s	-pro_h_s			8016	
+matukar	yali	0182	a-go	go-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0182	main-angan	TOP-EMPH	other	other				
+matukar	yali	0182	%	%	%	%				
+matukar	yali	0183	#	#	#	#				
+matukar	yali	0183	nal	time	np:other	np		other		
+matukar	yali	0183	ZERO	ZERO	0.h:s	0	h	s	8016	
+matukar	yali	0183	mul-ap	return-IRR:D	v:pred	v		pred		
+matukar	yali	0183	ya	FOC_[TokPisin]	rv	rv				
+matukar	yali	0183	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8016	
+matukar	yali	0183	malal-te	village-LOC	np:g	np		g	8079	
+matukar	yali	0183	do-pe	CONJ-COND	other	other				
+matukar	yali	0183	%	%	%	%				
+matukar	yali	0184	#	#	#	#				
+matukar	yali	0184	bor	pig	np:dt_p	np		dt_p	8089	bridging
+matukar	yali	0184	mata-n	money	rn_np	rn_np			8090	bridging
+matukar	yali	0184	Kaiyan	Kaiyan	pn_np:dt	pn_np		dt	8102	new
+matukar	yali	0184	Bodbod	Botbot	rn_pn_np	rn_pn_np			8091	new
+matukar	yali	0184	la-ng	go-R:I:PFV	rn	rn				
+matukar	yali	0184	wai	like	rn	rn				
+matukar	yali	0184	mo	there	rn	rn				
+matukar	yali	0184	nod kosa	North_Coast	rn_pn_np	rn_pn_np				
+matukar	yali	0185	ZERO	ZERO	0.h:a	0	h	a	8086	
+matukar	yali	0185	ZERO	ZERO	0:p	0		p	8092	bridging
+matukar	yali	0185	di-	3PL.A-	-pro_h_a	-pro_h_a			8086	
+matukar	yali	0185	ngale-p	take-IRR:D	v:pred	v		pred		
+matukar	yali	0185	%	%	%	%				
+matukar	yali	0185	#	#	#	#				
+matukar	yali	0185	alo	later	other	other				
+matukar	yali	0185	ZERO	ZERO	0.h:a	0	h	a	8086	
+matukar	yali	0185	ZERO	ZERO	0.h:p	0	h	p	8016	
+matukar	yali	0185	di-	3PL.A-	-pro_h_a	-pro_h_a			8086	
+matukar	yali	0185	uri-ma	follow-D:HAB	v:pred	v		pred		
+matukar	yali	0185	%	%	%	%				
+matukar	yali	0185	#	#	#	#				
+matukar	yali	0185	ZERO	ZERO	0.h:s	0	h	s	8086	
+matukar	yali	0185	diy-	3PL.S-	-pro_h_s	-pro_h_s			8086	
+matukar	yali	0185	a-go	go-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0185	%	%	%	%				
+matukar	yali	0186	#	#	#	#				
+matukar	yali	0186	ZERO	ZERO	0.h:s	0	h	s	8086	
+matukar	yali	0186	diy-	3PL.S-	-pro_h_s	-pro_h_s			8086	
+matukar	yali	0186	a-ma	go-D:HAB	v:pred	v		pred		
+matukar	yali	0186	%	%	%	%				
+matukar	yali	0186	#	#	#	#				
+matukar	yali	0186	ZERO	ZERO	0.h:s	0	h	s	8086	
+matukar	yali	0186	di-	3PL.S-	-pro_h_s	-pro_h_s			8086	
+matukar	yali	0186	dahe	ascend	v:pred	v		pred		
+matukar	yali	0186	diy-	3PL.S--	-rv_pro_h_s	-rv_pro_h_s			8086	
+matukar	yali	0186	a-go	go-R:I:IMPV	rv	rv				
+matukar	yali	0186	did-te	light-LOC	np:g	np		g	8019	
+matukar	yali	0186	%	%	%	%				
+matukar	yali	0186	#	#	#	#				
+matukar	yali	0186	ha-n	POSS-3SG	ln_pro.h:poss	ln_pro	h	poss	8016	
+matukar	yali	0187	barag	custom.house	ln	ln				
+matukar	yali	0187	ab-alo	house-LOC_in	np:g	np		g	8023	
+matukar	yali	0187	ZERO	ZERO	0.h:s	0	h	s	8086	
+matukar	yali	0187	di-	3PL.S-	-pro_h_s	-pro_h_s			8086	
+matukar	yali	0187	la	go	v:pred	v		pred		
+matukar	yali	0187	di-	3PL.S--	-rv_pro_h_s	-rv_pro_h_s			8086	
+matukar	yali	0187	pid-ago	descend-R:I:IMPV	rv	rv				
+matukar	yali	0187	%	%	%	%				
+matukar	yali	0188	#	#	#	#				
+matukar	yali	0188	mata-n	money-3SG	np:p	np		p	8090	
+matukar	yali	0188	ZERO	ZERO	0.h:a	0	h	a	8086	
+matukar	yali	0188	di-	3PL.A-	-pro_h_a	-pro_h_a			8086	
+matukar	yali	0188	nage-laipid-ago	put-go.down-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0188	%	%	%	%				
+matukar	yali	0189	#	#	#	#				
+matukar	yali	0189	bor	pig	np:p	np		p	8089	
+matukar	yali	0189	ZERO	ZERO	0.h:a	0	h	a	8086	
+matukar	yali	0189	di-	3PL.A-	-pro_h_a	-pro_h_a			8086	
+matukar	yali	0189	huni-pid-ago	hit-DIR_downwards-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0189	%	%	%	%				
+matukar	yali	0190	#	#	#	#				
+matukar	yali	0190	main-angan	PROX.EMPH	dem_pro:s	dem_pro		s	8093	bridging
+matukar	yali	0190	nal	day	np:pred	np		pred		
+matukar	yali	0190	dabok	big	rn	rn				
+matukar	yali	0190	%	%	%	%				
+matukar	yali	0191	#	#	#	#				
+matukar	yali	0191	ning	name	np:dt_p	np		dt_p	8094	bridging
+matukar	yali	0191	-an	-3SG	-rn_pro:poss	-rn_pro		poss	8093	
+matukar	yali	0191	niu yar	New_Year_[TokPisin]	ln_np	ln_np				
+matukar	yali	0191	krismas	Christmas_[TokPisin]	np:p	np		p		
+matukar	yali	0191	ZERO	ZERO	0.h:a	0	h	a	8086	
+matukar	yali	0191	di-	3PL.A-	-pro_h_a	-pro_h_a			8086	
+matukar	yali	0191	bal-go	say-R:I:IMPV	v:pred	v		pred		
+matukar	yali	0191	main	TOP	other	other				
+matukar	yali	0191	%	%	%	%				
+matukar	yali	0192	#	#	#	#				
+matukar	yali	0192	main	PROX	ln	ln				
+matukar	yali	0192	ilo-n-lo	inside-3SG-LOC	np:other	np		other	8093	
+matukar	yali	0192	milo	something	np:p	np		p		
+matukar	yali	0192	main	TOP	rn	rn				
+matukar	yali	0192	hudungan	every	rn	rn				
+matukar	yali	0192	ZERO	ZERO	0.h:a	0	h	a	8086	
+matukar	yali	0192	di-	3PL.A-	-pro_h_a	-pro_h_a			8086	
+matukar	yali	0192	rube-nggokai	take.out-R:I:IMPV:HAB	v:pred	v		pred		
+matukar	yali	0192	%	%	%	%				
+matukar	yali	0193	#	#	#	#				
+matukar	yali	0193	ngau	1SG.S	pro.1:s	pro	1	s	8001	
+matukar	yali	0193	nal	time	np:other	np		other		
+matukar	yali	0193	tahaik-amok	one-INTSF	rn	rn				
+matukar	yali	0193	nga-	1SG.S-	-pro_1_s	-pro_1_s			8001	
+matukar	yali	0193	a-we	go-SEQ:D	v:pred	v		pred		
+matukar	yali	0193	na	CONJ	other	other				
+matukar	yali	0193	%	%	%	%				
+matukar	yali	0194	#	#	#	#				
+matukar	yali	0194	milo	something	np:p	np		p		
+matukar	yali	0194	milo	something	rn	rn				
+matukar	yali	0194	ZERO	ZERO	0.h:a	0	h	a	8086	
+matukar	yali	0194	di-	3PL.A-	-pro_h_a	-pro_h_a			8086	
+matukar	yali	0194	rube-ndo	take.out-R:D	v:pred	v		pred		
+matukar	yali	0194	na	CONJ	other	other				
+matukar	yali	0194	%	%	%	%				
